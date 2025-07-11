@@ -6,7 +6,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "sync:pages": "node scripts/sync_pages.js",
+    "png-to-svg": "bash scripts/png_to_svg.sh",
+    "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
