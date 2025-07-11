@@ -2,9 +2,14 @@
 import assets from "../assets.json";
 ---
 
-<nav
-  class="navbar bg-base-100 shadow mb-8 px-6 py-3 flex items-center no-print"
->
+<style>
+  @media print {
+    nav.navbar {
+      display: none !important;
+    }
+  }
+</style>
+<nav class="navbar bg-base-100 shadow mb-8 px-6 py-3 flex items-center">
   <div class="navbar-start flex items-center gap-4">
     <a href="/" class="flex items-center">
       <img

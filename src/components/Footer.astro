@@ -2,11 +2,23 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="footer bg-base-100 shadow mt-12 px-6 py-4 flex items-center justify-between no-print w-full">
+<style>
+  @media print {
+    footer.footer {
+      display: none !important;
+    }
+  }
+</style>
+
+<footer
+  class="footer bg-base-100 shadow mt-12 px-6 py-4 flex items-center justify-between no-print w-full"
+>
   <div class="footer-links flex items-center gap-6">
     <a href="/about" class="text-sm text-gray-700 hover:underline">O mnie</a>
     <a href="/contact" class="text-sm text-gray-700 hover:underline">Kontakt</a>
-    <a href="/privacy-policy" class="text-sm text-gray-700 hover:underline">Polityka prywatności</a>
+    <a href="/privacy-policy" class="text-sm text-gray-700 hover:underline"
+      >Polityka prywatności</a
+    >
   </div>
   <div class="footer-end text-sm text-gray-500">
     &copy; {year} Zamaluj.pl &mdash; Wszystkie prawa zastrzeżone.
