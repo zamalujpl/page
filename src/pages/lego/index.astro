@@ -1,11 +1,12 @@
 ---
-import assets from '../../assets.json';
+import assets from "../../assets.json";
 import Navbar from "../../components/Navbar.astro";
 const cat = assets["lego"];
 const title = cat.title_key
-  ? cat.title_key.replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase())
-  : "lego".replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+  ? cat.title_key.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())
+  : "lego".replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
 ---
+
 <html lang="en">
   <head>
     <title>{title}</title>
@@ -33,7 +34,9 @@ const title = cat.title_key
                   </figure>
                   <div class="card-body items-center text-center p-4">
                     <h3 class="card-title text-base font-medium">
-                      {item.key.replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase())}
+                      {item.key
+                        .replace(/_/g, " ")
+                        .replace(/\b\w/g, (l) => l.toUpperCase())}
                     </h3>
                     <div class="card-actions">
                       <a
