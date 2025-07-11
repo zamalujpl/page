@@ -1,10 +1,10 @@
 ---
 import assets from '../../assets.json';
 import Navbar from "../../components/Navbar.astro";
-const cat = assets["lion_guard"];
+const cat = assets["{{category}}"];
 const title = cat.title_key
   ? cat.title_key.replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase())
-  : "lion_guard".replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase());
+  : "{{category}}".replace(/_/g, " ").replace(/\b\w/g, l => l.toUpperCase());
 ---
 <html lang="en">
   <head>
@@ -23,7 +23,7 @@ const title = cat.title_key
               cat.items.map((item) => (
                 <div class="card w-60 bg-base-100 shadow-xl transition-transform hover:scale-105">
                   <figure class="px-4 pt-4">
-                    <a href={`/${cat.title_key ?? "lion_guard"}/${item.key}`}>
+                    <a href={`/${cat.title_key ?? "{{category}}"}/${item.key}`}>
                       <img
                         src={`/${item.file}`}
                         alt={item.key}
@@ -37,7 +37,7 @@ const title = cat.title_key
                     </h3>
                     <div class="card-actions">
                       <a
-                        href={`/${cat.title_key ?? "lion_guard"}/${item.key}`}
+                        href={`/${cat.title_key ?? "{{category}}"}/${item.key}`}
                         class="btn btn-outline btn-primary btn-sm mt-2"
                       >
                         Zobacz

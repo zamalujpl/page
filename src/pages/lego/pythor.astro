@@ -1,4 +1,5 @@
 ---
+import Navbar from "../../components/Navbar.astro";
 const image = {
   key: "pythor",
   file: "assets/lego/pythor.svg",
@@ -47,6 +48,7 @@ const year = new Date().getFullYear();
     </style>
   </head>
   <body class="bg-gray-50 min-h-screen flex flex-col">
+    <Navbar />
     <main class="flex-1 flex flex-col items-center justify-center">
       <div class="w-full max-w-2xl flex flex-col items-center mt-10">
         <img
@@ -76,6 +78,7 @@ const year = new Date().getFullYear();
           alt="Pokoloruj Mnie Logo"
           style="height: 24px;"
         />
+        <span style="font-weight: 600; font-size: 16px;">Pokoloruj Mnie</span>
         <span style="color: #888; font-size: 14px;">www.pokolorujmnie.pl</span>
       </div>
     </div>

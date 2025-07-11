@@ -46,34 +46,12 @@ function createCategoryIndexPage(category, title, items) {
   const categoryDir = path.join(PAGES_DIR, category);
   ensureDirSync(categoryDir);
   const indexPath = path.join(categoryDir, "index.astro");
-  const content = `---
-import assets from '../../assets.json';
-const cat = assets["${category}"];
----
-<html lang="en">
-  <head>
-    <title>${title}</title>
-  </head>
-  <body>
-    <h1>${title}</h1>
-    <div>
-      ${items
-        .map(
-          (item) => `
-        <div>
-          <a href="/${category}/${item.key}">
-            <img src="/${item.file}" alt="${item.key}" style="max-width:180px;max-height:180px;" />
-            <div>${item.key}</div>
-          </a>
-        </div>
-        `,
-        )
-        .join("\n")}
-    </div>
-  </body>
-</html>
-`;
-  fs.writeFileSync(indexPath, content, "utf-8");
+  const templatePath = path.resolve(__dirname, "categoryIndexTemplate.astro");
+  let template = fs.readFileSync(templatePath, "utf-8");
+  template = template
+    .replace(/{{category}}/g, category)
+    .replace(/{{title}}/g, title);
+  fs.writeFileSync(indexPath, template, "utf-8");
 }
 
 function createImagePage(category, imageKey, imageFile) {
