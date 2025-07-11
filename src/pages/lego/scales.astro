@@ -1,4 +1,5 @@
 ---
+import "../../styles.css";
 import Navbar from "../../components/Navbar.astro";
 import Footer from "../../components/Footer.astro";
 const image = {
@@ -15,39 +16,6 @@ const year = new Date().getFullYear();
 <html lang="en">
   <head>
     <title>{title}</title>
-    <script src="/js/protection.js" is:inline></script>
-    <style>
-      @media print {
-        body {
-          background: white !important;
-        }
-        .no-print {
-          display: none !important;
-        }
-        .print-footer {
-          display: block !important;
-          position: fixed;
-          bottom: 0;
-          left: 0;
-          width: 100vw;
-          text-align: center;
-          background: white;
-          padding: 12px 0 8px 0;
-          border-top: 1px solid #eee;
-        }
-        #main-image {
-          box-shadow: none !important;
-          border-radius: 0 !important;
-          max-width: 100vw !important;
-          max-height: 90vh !important;
-          margin: 0 auto !important;
-          display: block;
-        }
-      }
-      .print-footer {
-        display: none;
-      }
-    </style>
   </head>
   <body class="bg-gray-50 min-h-screen flex flex-col">
     <Navbar />
