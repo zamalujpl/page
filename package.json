@@ -7,10 +7,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "sync:pages": "node scripts/sync_pages.js",
     "png-to-svg": "bash scripts/png_to_svg.sh",
-    "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets",
-    "watch:sync": "nodemon --watch src/assets.json --watch scripts/imagePageTemplate.astro --watch scripts/sync_pages.js --exec \"npm run sync:pages\""
+    "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
@@ -18,7 +16,6 @@
   },
   "devDependencies": {
     "daisyui": "^5.0.46",
-    "nodemon": "^3.1.10",
     "tailwindcss": "^3.4.17"
   }
 }

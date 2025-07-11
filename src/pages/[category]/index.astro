@@ -1,11 +1,27 @@
 ---
-import "../styles.css";
+import "../../styles.css";
 import assets from "../../assets.json";
 import Navbar from "../../components/Navbar.astro";
-const cat = assets["lego"];
+import Footer from "../../components/Footer.astro";
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const [catKey, cat] of Object.entries(assets)) {
+    paths.push({
+      params: { category: catKey },
+      props: {
+        category: catKey,
+      },
+    });
+  }
+  return paths;
+}
+
+const { category } = Astro.props;
+const cat = assets[category];
 const title = cat.title_key
   ? cat.title_key.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())
-  : "lego".replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+  : category.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
 ---
 
 <html lang="en">
@@ -25,7 +41,7 @@ const title = cat.title_key
               cat.items.map((item) => (
                 <div class="card w-60 bg-base-100 shadow-xl transition-transform hover:scale-105">
                   <figure class="px-4 pt-4">
-                    <a href={`/${cat.title_key ?? "lego"}/${item.key}`}>
+                    <a href={`/${cat.title_key ?? category}/${item.key}`}>
                       <img
                         src={`/${item.file}`}
                         alt={item.key}
@@ -41,7 +57,7 @@ const title = cat.title_key
                     </h3>
                     <div class="card-actions">
                       <a
-                        href={`/${cat.title_key ?? "lego"}/${item.key}`}
+                        href={`/${cat.title_key ?? category}/${item.key}`}
                         class="btn btn-outline btn-primary btn-sm mt-2"
                       >
                         Zobacz
@@ -55,5 +71,6 @@ const title = cat.title_key
         </div>
       </div>
     </main>
+    <Footer />
   </body>
 </html>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 35" width="200" height="35">
+  <!-- Background shape -->
+  <rect width="200" height="35" rx="6" fill="#f8f9fa" />
+
+  <!-- Colorful pencil shapes -->
+  <polygon points="15,5 22,5 22,28 18.5,31 15,28" fill="#ff6b6b" stroke="#444" stroke-width="0.7" />
+  <polygon points="25,5 32,5 32,28 28.5,31 25,28" fill="#48dbfb" stroke="#444" stroke-width="0.7" />
+  <polygon points="35,5 42,5 42,28 38.5,31 35,28" fill="#1dd1a1" stroke="#444" stroke-width="0.7" />
+  <polygon points="45,5 52,5 52,28 48.5,31 45,28" fill="#feca57" stroke="#444" stroke-width="0.7" />
+
+  <!-- Text -->
+  <text x="60" y="22" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#333333">
+    Pokoloruj Mnie
+  </text>
+</svg>
