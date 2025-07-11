@@ -83,27 +83,25 @@ function createImagePage(category, imageKey, imageFile) {
   const title = imageKey
     .replace(/_/g, " ")
     .replace(/\b\w/g, (l) => l.toUpperCase());
-  const content = `---
-const image = {
-  key: "${imageKey}",
-  file: "${imageFile}",
-  category: "${category}"
-};
----
-<html lang="en">
-  <head>
-    <title>${title}</title>
-  </head>
-  <body>
-    <h1>${title}</h1>
-    <img src="/${imageFile}" alt="${imageKey}" style="max-width:400px;max-height:400px;" />
-    <div>
-      <a href="/${category}">Back to ${category}</a>
-    </div>
-  </body>
-</html>
-`;
-  fs.writeFileSync(imagePagePath, content, "utf-8");
+
+  // Read template file
+  const templatePath = path.resolve(__dirname, "imagePageTemplate.astro");
+  let template = fs.readFileSync(templatePath, "utf-8");
+
+  // Replace placeholders
+  template = template
+    .replace(/{{imageKey}}/g, imageKey)
+    .replace(/{{imagePath}}/g, imageFile)
+    .replace(/{{category}}/g, category)
+    .replace(/{{title}}/g, title);
+
+  let action = "created";
+  if (fs.existsSync(imagePagePath)) {
+    fs.unlinkSync(imagePagePath);
+    action = "modified";
+  }
+  fs.writeFileSync(imagePagePath, template, "utf-8");
+  console.log(`Image page ${action}: src/pages/${category}/${imageKey}.astro`);
 }
 
 function deleteCategoryDir(category) {
@@ -118,7 +116,7 @@ function deleteImagePage(category, imageKey) {
   const imagePagePath = path.join(PAGES_DIR, category, `${imageKey}.astro`);
   if (fs.existsSync(imagePagePath)) {
     fs.unlinkSync(imagePagePath);
-    console.log(`Deleted image page: src/pages/${category}/${imageKey}.astro`);
+    console.log(`Image page deleted: src/pages/${category}/${imageKey}.astro`);
   }
 }
 
@@ -127,8 +125,10 @@ function main() {
   const yamlCategories = Object.keys(assetsData);
   const existingCategories = getExistingCategories();
 
+  console.log("Sync script started.");
   // Create/update category folders and index pages
   yamlCategories.forEach((category) => {
+    console.log(`Processing category: ${category}`);
     const catData = assetsData[category];
     const title = catData.title_key || category;
     ensureDirSync(path.join(PAGES_DIR, category));
@@ -140,14 +140,9 @@ function main() {
 
     // Create missing image pages
     yamlImages.forEach((imageKey) => {
-      if (!existingImagePages.includes(imageKey)) {
-        const imageData = catData.items.find((item) => item.key === imageKey);
-        if (imageData) {
-          createImagePage(category, imageKey, imageData.file);
-          console.log(
-            `Created image page: src/pages/${category}/${imageKey}.astro`,
-          );
-        }
+      const imageData = catData.items.find((item) => item.key === imageKey);
+      if (imageData) {
+        createImagePage(category, imageKey, imageData.file);
       }
     });
 
@@ -161,6 +156,7 @@ function main() {
   existingCategories
     .filter((category) => !yamlCategories.includes(category))
     .forEach((category) => deleteCategoryDir(category));
+  console.log("Sync script finished.");
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

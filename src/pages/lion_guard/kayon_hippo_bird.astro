@@ -2,18 +2,82 @@
 const image = {
   key: "kayon_hippo_bird",
   file: "assets/lion_guard/kayon_hippo_bird.svg",
-  category: "lion_guard"
+  category: "lion_guard",
 };
+const title = image.key
+  .replace(/_/g, " ")
+  .replace(/\b\w/g, (l) => l.toUpperCase());
+const year = new Date().getFullYear();
 ---
+
 <html lang="en">
   <head>
-    <title>Kayon Hippo Bird</title>
+    <title>{title}</title>
+    <style>
+      @media print {
+        body {
+          background: white !important;
+        }
+        .no-print {
+          display: none !important;
+        }
+        .print-footer {
+          display: block !important;
+          position: fixed;
+          bottom: 0;
+          left: 0;
+          width: 100vw;
+          text-align: center;
+          background: white;
+          padding: 12px 0 8px 0;
+          border-top: 1px solid #eee;
+        }
+        #main-image {
+          box-shadow: none !important;
+          border-radius: 0 !important;
+          max-width: 100vw !important;
+          max-height: 90vh !important;
+          margin: 0 auto !important;
+          display: block;
+        }
+      }
+      .print-footer {
+        display: none;
+      }
+    </style>
   </head>
-  <body>
-    <h1>Kayon Hippo Bird</h1>
-    <img src="/assets/lion_guard/kayon_hippo_bird.svg" alt="kayon_hippo_bird" style="max-width:400px;max-height:400px;" />
-    <div>
-      <a href="/lion_guard">Back to lion_guard</a>
+  <body class="bg-gray-50 min-h-screen flex flex-col">
+    <main class="flex-1 flex flex-col items-center justify-center">
+      <div class="w-full max-w-2xl flex flex-col items-center mt-10">
+        <img
+          src={"/" + image.file}
+          alt={title}
+          id="main-image"
+          class="max-w-full max-h-[80vh] mb-6"
+        />
+        <button
+          onclick="window.print()"
+          class="no-print btn btn-outline btn-primary btn-sm mb-8"
+        >
+          Drukuj obrazek
+        </button>
+        <a
+          href="javascript:history.back()"
+          class="no-print text-blue-600 hover:underline">Back</a
+        >
+      </div>
+    </main>
+    <div class="print-footer">
+      <div
+        style="display: flex; align-items: center; justify-content: center; gap: 12px;"
+      >
+        <img
+          src="/images/logo-compact.svg"
+          alt="Pokoloruj Mnie Logo"
+          style="height: 24px;"
+        />
+        <span style="color: #888; font-size: 14px;">www.pokolorujmnie.pl</span>
+      </div>
     </div>
   </body>
 </html>
