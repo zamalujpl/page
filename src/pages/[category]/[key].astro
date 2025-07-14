@@ -2,6 +2,7 @@
 import "../../styles.css";
 import Navbar from "../../components/Navbar.astro";
 import Footer from "../../components/Footer.astro";
+import PrintFooter from "../../components/PrintFooter.astro";
 import assets from "../../assets.json";
 
 /** Generate static paths for all images in all categories */
@@ -59,19 +60,7 @@ const year = new Date().getFullYear();
         </a>
       </div>
     </main>
-    <div class="print-footer">
-      <div
-        style="display: flex; align-items: center; justify-content: center; gap: 12px;"
-      >
-        <img
-          src="/assets/logo-compact.svg"
-          alt="Pokoloruj Mnie Logo"
-          style="height: 24px;"
-        />
-        <span style="font-weight: 600; font-size: 16px;">Pokoloruj Mnie</span>
-        <span style="color: #888; font-size: 14px;">www.pokolorujmnie.pl</span>
-      </div>
-    </div>
+    <PrintFooter />
     <Footer />
   </body>
 </html>

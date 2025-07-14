@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "png-to-svg": "bash scripts/png_to_svg.sh",
-    "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets"
+    "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets",
+    "png-to-svg:color": "bash scripts/png_to_svg_color.sh"
   },
   "dependencies": {
     "@astrojs/tailwind": "^6.0.2",
