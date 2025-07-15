@@ -36,10 +36,12 @@ const year = new Date().getFullYear();
     <title>{title}</title>
     <script src="/js/protection.js" is:inline></script>
   </head>
-  <body class="bg-gray-50 min-h-screen flex flex-col">
+  <body class="bg-white min-h-screen flex flex-col">
     <Navbar />
-    <main class="flex-1 flex flex-col items-center justify-center">
-      <div class="w-full max-w-2xl flex flex-col items-center mt-10">
+    <main
+      class="flex-1 flex flex-col items-center justify-center pt-32 bg-white"
+    >
+      <div class="w-full max-w-2xl flex flex-col items-center bg-white">
         <img
           src={`/${image.file}`}
           alt={title}

@@ -1,6 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Nunito:wght@400;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Use Inter as default font, Nunito as alternative */
+html,
+body {
+  font-family: "Inter", "Nunito", ui-sans-serif, system-ui, sans-serif;
+}
 
 /* Global print styles */
 @media print {
