@@ -39,7 +39,7 @@
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-    gap: 4px !important;
+    gap: 16px !important;
     height: 100% !important;
   }
   .print-footer-logo {
@@ -70,7 +70,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 4px;
+  gap: 16px;
   height: 100%;
 }
 .print-footer-logo {
