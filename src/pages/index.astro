@@ -3,6 +3,7 @@ import "../styles.css";
 import Navbar from "../components/Navbar.astro";
 import Footer from "../components/Footer.astro";
 import assets from "../assets.json";
+import Head from "../components/Head.astro";
 
 // Helper to get a random item from an array
 function getRandomItem(arr) {
@@ -11,60 +12,47 @@ function getRandomItem(arr) {
 ---
 
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Wszystkie obrazki</title>
-    <script src="/js/protection.js" is:inline></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
-      defer></script>
-  </head>
-  <body class="bg-white min-h-screen flex flex-col">
+  <Head title="Wszystkie obrazki" />
+  <body class="bg-white min-h-screen flex flex-col" style="color: #5e5e5e;">
     <Navbar />
     <main class="flex-1 flex flex-col">
       <main class="flex-1 flex flex-col pt-32 bg-white">
         <div class="container mx-auto px-4 flex-1 flex flex-col bg-white">
-          {
-            Object.entries(assets).map(([catKey, cat]) => {
-              const randomItem = getRandomItem(cat.items);
-              const catTitle = cat.title_key ?? catKey;
-              return (
-                <div class="mb-12">
-                  <div class="flex justify-center">
-                    <div class="card w-60 bg-white !bg-white border border-gray-200 shadow-xl transition-transform hover:scale-105">
-                      <figure class="px-4 pt-4">
-                        <a href={`/${catKey}/`}>
-                          <img
-                            src={`/${randomItem.file}`}
-                            alt={randomItem.key}
-                            class="max-w-[180px] max-h-[180px] object-contain rounded"
-                          />
+          <div class="flex flex-wrap justify-center gap-6 bg-white w-full">
+            {
+              Object.entries(assets).map(([catKey, cat]) => {
+                const randomItem = getRandomItem(cat.items);
+                const catTitle = cat.title_key ?? catKey;
+                return (
+                  <div class="card w-60 bg-white !bg-white border border-gray-200 shadow-xl transition-transform hover:scale-105 mb-12">
+                    <figure class="px-4 pt-4">
+                      <img
+                        src={`/${randomItem.file}`}
+                        alt={randomItem.key}
+                        class="max-w-[180px] max-h-[180px] object-contain rounded"
+                      />
+                    </figure>
+                    <div class="card-body items-center text-center p-4">
+                      <div
+                        class="font-bold text-lg mb-2"
+                        style="color: #5e5e5e;"
+                      >
+                        {catTitle}
+                      </div>
+                      <div class="card-actions" style="color: #5e5e5e;">
+                        <a
+                          href={`/${catKey}/`}
+                          class="btn btn-outline btn-primary btn-sm mt-2"
+                        >
+                          Zobacz
                         </a>
-                      </figure>
-                      <div class="card-body items-center text-center p-4">
-                        <div class="card-actions">
-                          <a
-                            href={`/${catKey}/`}
-                            x-data="{ hover: false }"
-                            @mouseenter="hover = true"
-                            @mouseleave="hover = false"
-                            class="btn btn-outline btn-primary btn-sm mt-2"
-                          >
-                            <span x-show="!hover">{catTitle}</span>
-                            <span x-show="hover" x-cloak>
-                              Zobacz
-                            </span>
-                          </a>
-                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              );
-            })
-          }
+                );
+              })
+            }
+          </div>
         </div>
       </main>
       <Footer />

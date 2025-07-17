@@ -3,6 +3,7 @@ import "../../styles.css";
 import assets from "../../assets.json";
 import Navbar from "../../components/Navbar.astro";
 import Footer from "../../components/Footer.astro";
+import Head from "../../components/Head.astro";
 
 export async function getStaticPaths() {
   const paths = [];
@@ -25,15 +26,7 @@ const title = cat.title_key
 ---
 
 <html lang="en">
-  <head>
-    <title>{title}</title>
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="/assets/logo-32x32.png"
-    />
-  </head>
+  <Head title={title} />
   <body class="bg-white min-h-screen flex flex-col">
     <Navbar />
     <main class="flex-1 flex flex-col pt-0 bg-white">

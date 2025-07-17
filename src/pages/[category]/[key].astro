@@ -4,6 +4,7 @@ import Navbar from "../../components/Navbar.astro";
 import Footer from "../../components/Footer.astro";
 import PrintFooter from "../../components/PrintFooter.astro";
 import assets from "../../assets.json";
+import Head from "../../components/Head.astro";
 
 /** Generate static paths for all images in all categories */
 export async function getStaticPaths() {
@@ -32,10 +33,7 @@ const year = new Date().getFullYear();
 ---
 
 <html lang="en">
-  <head>
-    <title>{title}</title>
-    <script src="/js/protection.js" is:inline></script>
-  </head>
+  <Head title={title} />
   <body class="bg-white min-h-screen flex flex-col">
     <Navbar />
     <main
