@@ -33,6 +33,13 @@
     size: A4;
     margin: 0;
   }
+  body.print-area-only * {
+    display: none !important;
+  }
+  body.print-area-only #print-area,
+  body.print-area-only #print-area * {
+    display: revert !important;
+  }
   #print-area {
     width: 210mm !important;
     height: 297mm !important;
@@ -41,7 +48,6 @@
     background: white !important;
     box-sizing: border-box !important;
     position: relative !important;
-    display: block !important;
     page-break-inside: avoid !important;
   }
   #print-area img {

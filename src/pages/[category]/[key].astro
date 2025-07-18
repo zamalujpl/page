@@ -54,7 +54,10 @@ const year = new Date().getFullYear();
       <main
         class="flex flex-col items-center justify-center bg-base-200 flex-1"
       >
-        <div class="w-full max-w-2xl flex flex-col items-center bg-base-200">
+        <div
+          id="print-area"
+          class="w-full max-w-2xl flex flex-col items-center bg-base-200"
+        >
           <img
             src={`/${image.file}`}
             alt={title}
@@ -78,5 +81,31 @@ const year = new Date().getFullYear();
     </div>
     <Footer />
     <PrintFooter />
+    <script is:inline>
+      function printArea() {
+        const printContents = document.getElementById("print-area").innerHTML;
+        const printWindow = window.open("", "", "height=800,width=600");
+        printWindow.document.write("<html><head><title>Drukuj obrazek</title>");
+        // Copy stylesheets
+        document
+          .querySelectorAll('link[rel="stylesheet"], style')
+          .forEach((styleNode) => {
+            printWindow.document.write(styleNode.outerHTML);
+          });
+        printWindow.document.write("</head><body>");
+        printWindow.document.write(printContents);
+        printWindow.document.write("</body></html>");
+        printWindow.document.close();
+        printWindow.focus();
+        printWindow.print();
+      }
+    </script>
+    <script is:inline>
+      function printArea() {
+        document.body.classList.add("print-area-only");
+        window.print();
+        document.body.classList.remove("print-area-only");
+      }
+    </script>
   </body>
 </html>
