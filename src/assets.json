@@ -1,6 +1,6 @@
 {
   "lego": {
-    "title_key": "lego",
+    "title_key": "Lego",
     "header": "assets/lego/header.svg",
     "items": [
       {
@@ -14,7 +14,7 @@
     ]
   },
   "lion_guard": {
-    "title_key": "lion_guard",
+    "title_key": "Lion Guard",
     "header": "assets/lion_guard/header.svg",
     "items": [
       {

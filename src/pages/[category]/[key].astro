@@ -5,6 +5,7 @@ import Footer from "../../components/Footer.astro";
 import PrintFooter from "../../components/PrintFooter.astro";
 import assets from "../../assets.json";
 import Head from "../../components/Head.astro";
+import Sidebar from "../../components/Sidebar.astro";
 
 /** Generate static paths for all images in all categories */
 export async function getStaticPaths() {
@@ -34,32 +35,35 @@ const year = new Date().getFullYear();
 
 <html lang="en">
   <Head title={title} />
-  <body class="bg-white min-h-screen flex flex-col">
+  <body class="text-default bg-base-200 min-h-screen flex flex-col">
     <Navbar />
-    <main
-      class="flex-1 flex flex-col items-center justify-center pt-32 bg-white"
-    >
-      <div class="w-full max-w-2xl flex flex-col items-center bg-white">
-        <img
-          src={`/${image.file}`}
-          alt={title}
-          id="main-image"
-          class="max-w-full max-h-[80vh] mb-6"
-        />
-        <button
-          onclick="window.print()"
-          class="no-print btn btn-outline btn-primary btn-sm mb-8"
-        >
-          Drukuj obrazek
-        </button>
-        <a
-          href={`/${category}/`}
-          class="no-print text-blue-600 hover:underline"
-        >
-          Powrót do kategorii {catTitle}
-        </a>
-      </div>
-    </main>
+    <div class="flex flex-row min-h-screen w-full">
+      <Sidebar />
+      <main
+        class="flex-1 flex flex-col items-center justify-center pt-32 bg-base-200"
+      >
+        <div class="w-full max-w-2xl flex flex-col items-center bg-base-200">
+          <img
+            src={`/${image.file}`}
+            alt={title}
+            id="main-image"
+            class="max-w-full max-h-[80vh] mb-6"
+          />
+          <button
+            onclick="window.print()"
+            class="no-print btn btn-outline btn-primary btn-sm mb-8"
+          >
+            Drukuj obrazek
+          </button>
+          <a
+            href={`/${category}/`}
+            class="no-print text-blue-600 hover:underline"
+          >
+            Powrót do kategorii {catTitle}
+          </a>
+        </div>
+      </main>
+    </div>
     <PrintFooter />
     <Footer />
   </body>

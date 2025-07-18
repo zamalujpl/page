@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Nunito:wght@400;700&display=swap");
 
+/* Override DaisyUI bg-base-200 to white */
+.bg-base-200 {
+  background-color: #fff !important;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -11,13 +16,16 @@
 .text-logo {
   color: var(--color-logo-text) !important;
   text-shadow: 0 1px 4px rgba(57, 173, 234, 0.15);
+  font-family:
+    "Inter", "Nunito", ui-sans-serif, system-ui, sans-serif !important;
 }
 
-/* Use Inter as default font, Nunito as alternative */
-html,
-body {
+.text-default {
   font-family: "Inter", "Nunito", ui-sans-serif, system-ui, sans-serif;
+  color: #5e5e5e;
 }
+
+/* Use Inter as default font, Nunito as alternative, and unify text color */
 
 /* Global print styles */
 @media print {
