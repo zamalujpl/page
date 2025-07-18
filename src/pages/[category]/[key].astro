@@ -47,12 +47,12 @@ const year = new Date().getFullYear();
 
 <html lang="en">
   <Head title={title} />
-  <body class="text-default bg-base-200 min-h-screen flex flex-col">
+  <body class="text-default bg-base-200 flex flex-col min-h-screen">
     <Navbar />
-    <div class="flex flex-row min-h-screen w-full">
+    <div class="flex flex-row flex-1 w-full">
       <Sidebar />
       <main
-        class="flex-1 flex flex-col items-center justify-center pt-32 bg-base-200"
+        class="flex flex-col items-center justify-center bg-base-200 flex-1"
       >
         <div class="w-full max-w-2xl flex flex-col items-center bg-base-200">
           <img
@@ -62,7 +62,7 @@ const year = new Date().getFullYear();
             class="max-w-full max-h-[80vh] mb-6"
           />
           <button
-            onclick="window.print()"
+            onclick="printArea()"
             class="no-print btn btn-outline btn-primary btn-sm mb-8"
           >
             Drukuj obrazek
@@ -76,7 +76,7 @@ const year = new Date().getFullYear();
         </div>
       </main>
     </div>
-    <PrintFooter />
     <Footer />
+    <PrintFooter />
   </body>
 </html>
