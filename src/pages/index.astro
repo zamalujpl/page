@@ -16,7 +16,15 @@ function getRandomItem(arr) {
   <body class="bg-white min-h-screen flex flex-col" style="color: #5e5e5e;">
     <Navbar />
     <main class="flex-1 flex flex-col">
-      <main class="flex-1 flex flex-col pt-32 bg-white">
+      <main class="flex-1 flex flex-col pt-0 bg-white">
+        <div class="flex justify-center mb-0 w-full h-56 max-h-56">
+          <img
+            src="/assets/main-index-header.png"
+            alt="Zamaluj.pl header"
+            class="w-full h-full object-cover"
+            style="aspect-ratio: 5/1;"
+          />
+        </div>
         <div class="container mx-auto px-4 flex-1 flex flex-col bg-white">
           <div class="flex flex-wrap justify-center gap-6 bg-white w-full">
             {
@@ -24,7 +32,10 @@ function getRandomItem(arr) {
                 const randomItem = getRandomItem(cat.items);
                 const catTitle = cat.title_key ?? catKey;
                 return (
-                  <div class="card w-60 bg-white !bg-white border border-gray-200 shadow-xl transition-transform hover:scale-105 mb-12">
+                  <a
+                    href={`/${catKey}/`}
+                    class="card w-60 bg-white !bg-white border border-gray-200 shadow-xl transition-transform hover:scale-105 mb-12 block hover:no-underline"
+                  >
                     <figure class="px-4 pt-4">
                       <img
                         src={`/${randomItem.file}`}
@@ -33,22 +44,13 @@ function getRandomItem(arr) {
                       />
                     </figure>
                     <div class="card-body items-center text-center p-4">
-                      <div
-                        class="font-bold text-lg mb-2"
-                        style="color: #5e5e5e;"
-                      >
-                        {catTitle}
-                      </div>
                       <div class="card-actions" style="color: #5e5e5e;">
-                        <a
-                          href={`/${catKey}/`}
-                          class="btn btn-outline btn-primary btn-sm mt-2"
-                        >
-                          Zobacz
-                        </a>
+                        <span class="btn btn-outline btn-primary btn-sm mt-2">
+                          {catTitle}
+                        </span>
                       </div>
                     </div>
-                  </div>
+                  </a>
                 );
               })
             }
