@@ -2,13 +2,16 @@
 import assets from "../assets.json";
 ---
 
-<aside class="w-64 min-h-screen bg-base-200 p-4">
+<aside class="w-64 min-h-screen bg-base-200 p-4 mt-12 no-print">
   <ul class="menu menu-vertical rounded-box">
     {
-      Object.entries(assets).map(([catKey, cat]) => (
+      Object.entries(assets).map(([objectKey, cat]) => (
         <li>
-          <a href={`/${catKey}/`} class="font-semibold">
-            {cat.title_key ?? catKey}
+          <a
+            href={`/${objectKey}/`}
+            class="font-semibold transition-colors duration-200 hover:bg-primary hover:text-white rounded px-2 py-1"
+          >
+            {cat.title_key}
           </a>
         </li>
       ))

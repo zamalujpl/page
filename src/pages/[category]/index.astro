@@ -52,7 +52,7 @@ const title = cat.title_key
                 cat.items.map((item) => (
                   <div class="card w-60 bg-base-200 shadow-xl transition-transform hover:scale-105">
                     <figure class="px-4 pt-4">
-                      <a href={`/${cat.title_key ?? category}/${item.key}`}>
+                      <a href={`/${category}/${item.key}`}>
                         <img
                           src={`/${item.file}`}
                           alt={item.key}
@@ -63,7 +63,7 @@ const title = cat.title_key
                     <div class="card-body items-center text-center p-4">
                       <div class="card-actions">
                         <a
-                          href={`/${cat.title_key ?? category}/${item.key}`}
+                          href={`/${category}/${item.key}`}
                           class="btn btn-outline btn-primary btn-sm mt-2"
                         >
                           Zobacz

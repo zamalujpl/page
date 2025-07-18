@@ -7,6 +7,15 @@ import assets from "../../assets.json";
 import Head from "../../components/Head.astro";
 import Sidebar from "../../components/Sidebar.astro";
 
+function getCategoryObjectKey(categoryParam) {
+  // Find the object key matching the categoryParam (which may be a title_key)
+  for (const [objectKey, cat] of Object.entries(assets)) {
+    if (objectKey === categoryParam) return objectKey;
+    if (cat.title_key === categoryParam) return objectKey;
+  }
+  return categoryParam;
+}
+
 /** Generate static paths for all images in all categories */
 export async function getStaticPaths() {
   const paths = [];
@@ -26,7 +35,10 @@ export async function getStaticPaths() {
 }
 
 const { category, key } = Astro.props;
-const { image, catTitle } = Astro.props;
+const { image } = Astro.props;
+const objectKey = getCategoryObjectKey(category);
+const cat = assets[objectKey];
+const catTitle = cat.title_key;
 const title = image.key
   .replace(/_/g, " ")
   .replace(/\b\w/g, (l) => l.toUpperCase());
@@ -56,7 +68,7 @@ const year = new Date().getFullYear();
             Drukuj obrazek
           </button>
           <a
-            href={`/${category}/`}
+            href={`/${objectKey}/`}
             class="no-print text-blue-600 hover:underline"
           >
             Powrót do kategorii {catTitle}
