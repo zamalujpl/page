@@ -64,48 +64,22 @@ const year = new Date().getFullYear();
             id="main-image"
             class="max-w-full max-h-[80vh] mb-6"
           />
-          <button
-            onclick="printArea()"
-            class="no-print btn btn-outline btn-primary btn-sm mb-8"
-          >
-            Drukuj obrazek
-          </button>
-          <a
-            href={`/${objectKey}/`}
-            class="no-print text-blue-600 hover:underline"
-          >
-            Powrót do kategorii {catTitle}
-          </a>
+          <PrintFooter />
         </div>
+        <button
+          onclick="window.print()"
+          class="no-print btn btn-outline btn-primary btn-sm mb-8"
+        >
+          Drukuj obrazek
+        </button>
+        <a
+          href={`/${objectKey}/`}
+          class="no-print text-blue-600 hover:underline"
+        >
+          Powrót do kategorii {catTitle}
+        </a>
       </main>
     </div>
     <Footer />
-    <PrintFooter />
-    <script is:inline>
-      function printArea() {
-        const printContents = document.getElementById("print-area").innerHTML;
-        const printWindow = window.open("", "", "height=800,width=600");
-        printWindow.document.write("<html><head><title>Drukuj obrazek</title>");
-        // Copy stylesheets
-        document
-          .querySelectorAll('link[rel="stylesheet"], style')
-          .forEach((styleNode) => {
-            printWindow.document.write(styleNode.outerHTML);
-          });
-        printWindow.document.write("</head><body>");
-        printWindow.document.write(printContents);
-        printWindow.document.write("</body></html>");
-        printWindow.document.close();
-        printWindow.focus();
-        printWindow.print();
-      }
-    </script>
-    <script is:inline>
-      function printArea() {
-        document.body.classList.add("print-area-only");
-        window.print();
-        document.body.classList.remove("print-area-only");
-      }
-    </script>
   </body>
 </html>
