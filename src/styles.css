@@ -121,6 +121,13 @@
 .print-footer {
   display: none;
 }
+
+/* Hide sidebar on mobile landscape orientation */
+@media (orientation: landscape) and (max-width: 767px) {
+  .sidebar-responsive {
+    display: none !important;
+  }
+}
 .print-footer-content {
   display: flex;
   align-items: center;

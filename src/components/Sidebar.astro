@@ -2,7 +2,9 @@
 import assets from "../assets.json";
 ---
 
-<aside class="w-64 bg-base-200 p-4 mt-12 no-print hidden md:block">
+<aside
+  class="w-64 bg-base-200 p-4 mt-12 no-print hidden md:block sidebar-responsive"
+>
   <ul class="menu menu-vertical rounded-box">
     {
       Object.entries(assets).map(([objectKey, cat]) => (
