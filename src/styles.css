@@ -28,14 +28,14 @@
     size: A4;
     margin: 0;
   }
-  /* Hide all body children except the main flex container (support both row and col layouts) */
+  /* Hide all body children except the main flex container */
   body
     > *:not(.flex.flex-row.flex-1.w-full):not(.flex.flex-col.flex-1.w-full):not(
       .flex.flex-col.md\:flex-row.flex-1.w-full.min-h-0
     ) {
     display: none !important;
   }
-  /* Hide all flex children except main (support both row and col layouts) */
+  /* Hide all flex children except main */
   .flex.flex-row.flex-1.w-full > *:not(main),
   .flex.flex-col.flex-1.w-full > *:not(main),
   .flex.flex-col.md\:flex-row.flex-1.w-full.min-h-0 > *:not(main) {
@@ -80,7 +80,10 @@
     align-self: center !important;
     overflow: hidden !important;
   }
-  .no-print {
+  .no-print,
+  footer.footer,
+  nav.navbar,
+  .sidebar-responsive {
     display: none !important;
   }
   .print-footer {
