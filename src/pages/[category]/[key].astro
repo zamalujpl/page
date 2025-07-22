@@ -1,11 +1,8 @@
 ---
 import "../../styles.css";
-import Navbar from "../../components/Navbar.astro";
-import Footer from "../../components/Footer.astro";
 import PrintFooter from "../../components/PrintFooter.astro";
 import assets from "../../assets.json";
-import Head from "../../components/Head.astro";
-import Sidebar from "../../components/Sidebar.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 
 function getCategoryObjectKey(categoryParam) {
   // Find the object key matching the categoryParam (which may be a title_key)
@@ -45,43 +42,26 @@ const title = image.key
 const year = new Date().getFullYear();
 ---
 
-<html lang="en" data-theme="light">
-  <Head title={title} />
-  <body
-    class="font-sans text-base-content flex flex-col min-h-screen bg-base-100"
+<BaseLayout title={title} bodyClass="bg-base-100" showSidebar={true}>
+  <div
+    id="print-area"
+    class="w-full max-w-2xl flex flex-col items-center bg-base-100"
   >
-    <Navbar />
-    <div class="flex flex-row flex-1 w-full">
-      <Sidebar />
-      <main
-        class="flex flex-col items-center justify-center bg-base-100 flex-1"
-      >
-        <div
-          id="print-area"
-          class="w-full max-w-2xl flex flex-col items-center bg-base-100"
-        >
-          <img
-            src={`/${image.file}`}
-            alt={title}
-            id="main-image"
-            class="max-w-full max-h-[80vh] mb-6"
-          />
-          <PrintFooter />
-        </div>
-        <button
-          onclick="window.print()"
-          class="no-print btn btn-outline btn-primary btn-sm mb-8"
-        >
-          Drukuj obrazek
-        </button>
-        <a
-          href={`/${objectKey}/`}
-          class="no-print text-primary hover:underline"
-        >
-          Powrót do kategorii {catTitle}
-        </a>
-      </main>
-    </div>
-    <Footer />
-  </body>
-</html>
+    <img
+      src={`/${image.file}`}
+      alt={title}
+      id="main-image"
+      class="max-w-full max-h-[80vh] mb-6"
+    />
+    <PrintFooter />
+  </div>
+  <button
+    onclick="window.print()"
+    class="no-print btn btn-outline btn-primary btn-sm mb-8 w-auto self-center"
+  >
+    Drukuj obrazek
+  </button>
+  <a href={`/${objectKey}/`} class="no-print text-primary hover:underline">
+    Powrót do kategorii {catTitle}
+  </a>
+</BaseLayout>
