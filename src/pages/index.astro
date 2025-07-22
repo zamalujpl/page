@@ -23,13 +23,15 @@ const items = Object.entries(assets).map(([objectKey, cat]) => {
 });
 ---
 
-<html lang="en">
+<html lang="en" data-theme="light">
   <Head title="Wszystkie obrazki" />
-  <body class="font-sans text-[#5e5e5e] flex flex-col min-h-screen">
+  <body
+    class="font-sans text-base-content flex flex-col min-h-screen bg-base-200"
+  >
     <Navbar />
     <div class="flex flex-col md:flex-row flex-1 w-full min-h-0">
       <Sidebar />
-      <main class="flex-1 flex flex-col pt-0 bg-bsse-200 min-h-0">
+      <main class="flex-1 flex flex-col pt-0 bg-base-200 min-h-0">
         <IndexTemplate
           items={items}
           headerImgSrc="/assets/main-index-header.png"
