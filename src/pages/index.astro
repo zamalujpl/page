@@ -5,21 +5,32 @@ import Footer from "../components/Footer.astro";
 import assets from "../assets.json";
 import Head from "../components/Head.astro";
 import Sidebar from "../components/Sidebar.astro";
+import IndexTemplate from "../templates/IndexTemplate.astro";
 
-// Helper to get a random item from an array
 function getRandomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
+
+const items = Object.entries(assets).map(([objectKey, cat]) => {
+  const randomItem = getRandomItem(cat.items);
+  return {
+    href: `/${objectKey}/`,
+    imgSrc: `/${randomItem.file}`,
+    imgAlt: randomItem.key,
+    title: cat.title_key,
+    buttonText: cat.title_key,
+  };
+});
 ---
 
 <html lang="en">
   <Head title="Wszystkie obrazki" />
-  <body class="text-default bg-base-200 flex flex-col min-h-screen">
+  <body class="font-sans text-[#5e5e5e] flex flex-col min-h-screen">
     <Navbar />
-    <div class="flex flex-1 w-full flex-col md:flex-row">
+    <div class="flex flex-col md:flex-row flex-1 w-full min-h-0">
       <Sidebar />
-      <main class="flex-1 flex flex-col pt-0 bg-base-200 min-h-0">
-        <div class="flex justify-center mb-0 w-full h-56 max-h-56">
+      <main class="flex-1 flex flex-col pt-0 bg-bsse-200 min-h-0">
+        <div class="flex justify-center mb-8 w-full h-56 max-h-56">
           <img
             src="/assets/main-index-header.png"
             alt="Zamaluj.pl header"
@@ -27,39 +38,7 @@ function getRandomItem(arr) {
             style="aspect-ratio: 5/1;"
           />
         </div>
-        <div class="container mx-auto px-4 flex-1 flex flex-col bg-base-200">
-          <div
-            class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 bg-base-200 w-full"
-          >
-            {
-              Object.entries(assets).map(([objectKey, cat]) => {
-                const randomItem = getRandomItem(cat.items);
-                const catTitle = cat.title_key;
-                return (
-                  <a
-                    href={`/${objectKey}/`}
-                    class="card bg-white border border-gray-200 shadow-xl transition-transform hover:scale-105 block hover:no-underline"
-                  >
-                    <figure class="px-4 pt-4">
-                      <img
-                        src={`/${randomItem.file}`}
-                        alt={randomItem.key}
-                        class="max-w-[180px] max-h-[180px] object-contain rounded"
-                      />
-                    </figure>
-                    <div class="card-body items-center text-center p-4">
-                      <div class="card-actions">
-                        <span class="btn btn-outline btn-primary btn-sm mt-2">
-                          {catTitle}
-                        </span>
-                      </div>
-                    </div>
-                  </a>
-                );
-              })
-            }
-          </div>
-        </div>
+        <IndexTemplate items={items} />
       </main>
     </div>
     <Footer />
