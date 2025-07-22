@@ -1,15 +1,24 @@
 ---
-const { items } = Astro.props;
+const { items, headerImgSrc, headerImgAlt } = Astro.props;
+const fallbackImgSrc = "/assets/default-header.png";
+const imgSrc = headerImgSrc || fallbackImgSrc;
+const imgAlt = headerImgAlt || "Default header";
 ---
 
-<div
-  class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 bg-bsse-200 w-full"
->
+<div class="flex justify-center mb-8 w-full h-56 max-h-56">
+  <img
+    src={imgSrc}
+    alt={imgAlt}
+    class="w-full h-full object-cover aspect-[5/1] rounded-box"
+  />
+</div>
+
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full">
   {
     items.map((item) => (
       <a
         href={item.href}
-        class="card bg-bsse-200 border border-gray-200 shadow-xl transition-transform hover:scale-105 block hover:no-underline"
+        class="card bg-base-100 border border-base-200 shadow-xl transition-transform hover:scale-105 block hover:no-underline"
       >
         <figure class="px-4 pt-4">
           <img

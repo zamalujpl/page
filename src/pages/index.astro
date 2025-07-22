@@ -30,15 +30,11 @@ const items = Object.entries(assets).map(([objectKey, cat]) => {
     <div class="flex flex-col md:flex-row flex-1 w-full min-h-0">
       <Sidebar />
       <main class="flex-1 flex flex-col pt-0 bg-bsse-200 min-h-0">
-        <div class="flex justify-center mb-8 w-full h-56 max-h-56">
-          <img
-            src="/assets/main-index-header.png"
-            alt="Zamaluj.pl header"
-            class="w-full h-full object-cover"
-            style="aspect-ratio: 5/1;"
-          />
-        </div>
-        <IndexTemplate items={items} />
+        <IndexTemplate
+          items={items}
+          headerImgSrc="/assets/main-index-header.png"
+          headerImgAlt="Zamaluj.pl header"
+        />
       </main>
     </div>
     <Footer />
