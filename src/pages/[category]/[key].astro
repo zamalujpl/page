@@ -36,6 +36,7 @@ const { image } = Astro.props;
 const objectKey = getCategoryObjectKey(category);
 const cat = assets[objectKey];
 const catTitle = cat.title_key;
+const catDescription = cat.description ?? "";
 const title = image.key
   .replace(/_/g, " ")
   .replace(/\b\w/g, (l) => l.toUpperCase());
@@ -56,11 +57,12 @@ const year = new Date().getFullYear();
   >
     <img
       src={`/${image.file}`}
-      alt={title}
+      alt={image.description ?? title}
       id="main-image"
       class="max-w-full max-h-[80vh] mb-6"
       width={image.width ?? 800}
       height={image.height ?? 600}
+      title={image.description ?? title}
     />
     <PrintFooter />
   </div>
@@ -70,7 +72,12 @@ const year = new Date().getFullYear();
   >
     Drukuj obrazek
   </button>
-  <a href={`/${objectKey}/`} class="no-print text-primary hover:underline">
+  <a
+    href={`/${objectKey}/`}
+    class="no-print text-primary hover:underline"
+    title={catDescription}
+    aria-label={`Powrót do kategorii ${catTitle}: ${catDescription}`}
+  >
     Powrót do kategorii: {catTitle} ({objectKey})
   </a>
 </BaseLayout>

@@ -1,25 +1,30 @@
 {
   "lego": {
     "title_key": "Lego",
+    "description": "Kolorowanki z serii Lego – kreatywne obrazki do pokolorowania dla dzieci.",
     "header": "assets/lego/header.svg",
     "items": [
       {
         "key": "pythor",
-        "file": "assets/lego/pythor.svg"
+        "file": "assets/lego/pythor.svg",
+        "description": "Kolorowanka Lego: Pythor – postać z serii Ninjago."
       },
       {
         "key": "scales",
-        "file": "assets/lego/scales.svg"
+        "file": "assets/lego/scales.svg",
+        "description": "Kolorowanka Lego: Scales – wąż z serii Ninjago."
       }
     ]
   },
   "lion_guard": {
     "title_key": "Lion Guard",
+    "description": "Kolorowanki z serii Lion Guard – obrazki z bohaterami Lwiej Straży.",
     "header": "assets/lion_guard/header.svg",
     "items": [
       {
         "key": "kayon_hippo_bird",
-        "file": "assets/lion_guard/kayon_hippo_bird.svg"
+        "file": "assets/lion_guard/kayon_hippo_bird.svg",
+        "description": "Kolorowanka Lion Guard: Kion, hipopotam i ptak – przyjaciele z Lwiej Straży."
       }
     ]
   }

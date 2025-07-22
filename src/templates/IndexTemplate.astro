@@ -5,11 +5,15 @@ const imgSrc = headerImgSrc || fallbackImgSrc;
 const imgAlt = headerImgAlt || "Default header";
 ---
 
-<div class="flex justify-center mb-8 w-full h-56 max-h-56">
+<div
+  class="w-[1200px] h-[400px] flex items-center justify-center mx-auto mb-8 bg-base-100 rounded-box"
+>
   <img
     src={imgSrc}
     alt={imgAlt}
-    class="w-full h-full object-cover aspect-[5/1] rounded-box"
+    class="object-contain w-full h-full"
+    width="1200"
+    height="400"
   />
 </div>
 

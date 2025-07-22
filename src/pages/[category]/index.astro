@@ -27,13 +27,14 @@ const title = cat.title_key
 const items = cat.items.map((item) => ({
   href: `/${category}/${item.key}`,
   imgSrc: `/${item.file}`,
-  imgAlt: item.key,
+  imgAlt: item.description ?? item.key,
   title: item.key,
   buttonText: "Zobacz",
+  description: item.description ?? cat.description,
 }));
 ---
 
-<BaseLayout title={title} bodyClass="bg-base-200">
+<BaseLayout title={title} description={cat.description} bodyClass="bg-base-200">
   <main class="flex-1 flex flex-col pt-0 bg-base-200 min-h-0">
     <IndexTemplate
       items={items}
