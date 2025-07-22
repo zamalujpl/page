@@ -37,7 +37,7 @@ import assets from "../assets.json";
           >
         </a>
       </div>
-      <div class="navbar-end flex-1 flex justify-end">
+      <div class="navbar-end flex-1 flex justify-end items-center gap-2">
         <label for="drawer-toggle" class="btn btn-square btn-ghost md:hidden">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -53,6 +53,40 @@ import assets from "../assets.json";
               d="M4 6h16M4 12h16M4 18h16"></path>
           </svg>
         </label>
+        <!-- Theme switcher button group -->
+        <div class="dropdown dropdown-end">
+          <label tabIndex="0" class="btn btn-ghost btn-circle">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 3v1m0 16v1m8.485-8.485l-.707.707M4.222 4.222l-.707.707M21 12h1M3 12H2m16.485 4.485l-.707-.707M4.222 19.778l-.707-.707"
+              ></path>
+            </svg>
+          </label>
+          <ul
+            tabIndex="0"
+            class="dropdown-content menu p-2 shadow bg-base-100 rounded-box w-36"
+          >
+            <li>
+              <button data-set-theme="light" data-act-class="active"
+                >Jasny</button
+              >
+            </li>
+            <li>
+              <button data-set-theme="dark" data-act-class="active"
+                >Ciemny</button
+              >
+            </li>
+          </ul>
+        </div>
       </div>
     </nav>
   </div>
@@ -78,12 +112,12 @@ import assets from "../assets.json";
   </div>
 </div>
 <nav
-  class="navbar bg-bsse-200 shadow mb-0 px-0 py-4 items-center z-50 border-b border-gray-100 min-h-0 h-20 relative hidden md:flex"
+  class="navbar bg-base-100 shadow mb-0 px-0 py-4 items-center z-50 border-b border-gray-100 min-h-0 h-20 relative hidden md:flex"
 >
   <div class="navbar-start flex items-center gap-1 h-full">
     <a href="/" class="flex items-center gap-1 min-h-0 h-full relative">
       <div
-        class="bg-bsse-200 rounded-full shadow-xl flex items-center justify-center absolute left-0 z-10 ml-6"
+        class="bg-base-100 rounded-full shadow-xl flex items-center justify-center absolute left-0 z-10 ml-6"
         style="height:112px;width:112px;bottom:0;transform:translateY(50%);"
       >
         <img
@@ -97,4 +131,49 @@ import assets from "../assets.json";
       >
     </a>
   </div>
+  <div class="navbar-end flex-1 flex justify-end items-center gap-2">
+    <!-- Theme switcher using DaisyUI swap switch -->
+    <label class="swap swap-rotate">
+      <input type="checkbox" id="theme-toggle" class="hidden" />
+      <!-- Sun icon (light) -->
+      <svg
+        class="swap-on w-8 h-8 text-base-content"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+      >
+        <path
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M5 12a7 7 0 1 1 14 0a7 7 0 0 1-14 0zm7-9v2m0 14v2m9-9h-2M4 12H2m15.364-6.364l-1.414 1.414M6.05 17.95l-1.414 1.414M17.95 17.95l-1.414-1.414M6.05 6.05L4.636 7.464"
+        ></path>
+      </svg>
+      <!-- Moon icon (dark) -->
+      <svg
+        class="swap-off w-8 h-8 text-base-content"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 24 24"
+        fill="currentColor"
+      >
+        <path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 1 0 9.79 9.79z"></path>
+      </svg>
+    </label>
+  </div>
 </nav>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const themeToggle = document.getElementById("theme-toggle");
+    // Get theme from localStorage or default to light
+    const savedTheme = localStorage.getItem("theme") || "light";
+    document.documentElement.setAttribute("data-theme", savedTheme);
+    themeToggle.checked = savedTheme === "dark";
+
+    themeToggle.addEventListener("change", function () {
+      const newTheme = themeToggle.checked ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", newTheme);
+      localStorage.setItem("theme", newTheme);
+    });
+  });
+</script>
