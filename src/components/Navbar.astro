@@ -165,8 +165,12 @@ import assets from "../assets.json";
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const themeToggle = document.getElementById("theme-toggle");
-    // Get theme from localStorage or default to light
-    const savedTheme = localStorage.getItem("theme") || "light";
+    // Default to light if no theme is set
+    let savedTheme = localStorage.getItem("theme");
+    if (!savedTheme) {
+      savedTheme = "light";
+      localStorage.setItem("theme", "light");
+    }
     document.documentElement.setAttribute("data-theme", savedTheme);
     themeToggle.checked = savedTheme === "dark";
 
