@@ -6,6 +6,7 @@ import Footer from "../components/Footer.astro";
 
 const {
   title,
+  description = "",
   children,
   bodyClass = "",
   showSidebar = true,
@@ -14,11 +15,7 @@ const {
 ---
 
 <html lang="en" data-theme="light">
-  <head>
-    <Head title={title} />
-    <meta name="robots" content="noindex" />
-    {headContent}
-  </head>
+  <Head title={title} description={description} />
   <body
     class={`font-sans text-base-content flex flex-col min-h-screen ${bodyClass}`}
   >

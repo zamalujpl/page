@@ -39,10 +39,17 @@ const catTitle = cat.title_key;
 const title = image.key
   .replace(/_/g, " ")
   .replace(/\b\w/g, (l) => l.toUpperCase());
+const description =
+  image?.description ?? `Kolorowanka z kategorii ${catTitle}: ${title}`;
 const year = new Date().getFullYear();
 ---
 
-<BaseLayout title={title} bodyClass="bg-base-100" showSidebar={true}>
+<BaseLayout
+  title={title}
+  description={description}
+  bodyClass="bg-base-100"
+  showSidebar={true}
+>
   <div
     id="print-area"
     class="w-full max-w-2xl flex flex-col items-center bg-base-100"
@@ -62,6 +69,6 @@ const year = new Date().getFullYear();
     Drukuj obrazek
   </button>
   <a href={`/${objectKey}/`} class="no-print text-primary hover:underline">
-    Powrót do kategorii {catTitle}
+    Powrót do kategorii: {catTitle} ({objectKey})
   </a>
 </BaseLayout>
