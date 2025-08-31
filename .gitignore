@@ -23,3 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 public/assets/**/*.png
+public/**/pencil.png*
+public/**/outline.png*
+public/**/paint.png*
+public/**/pencil.svg*
+public/**/outline.svg*
+public/**/paint.svg*
