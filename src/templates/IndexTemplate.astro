@@ -1,12 +1,15 @@
 ---
+/** @typedef {{ href: string; imgSrc: string; imgAlt: string; buttonText: string; title?: string; description?: string }} CardItem */
 const { items, headerImgSrc, headerImgAlt } = Astro.props;
+/** @type {CardItem[]} */
+const cardItems = /** @type {any} */ (items);
 const fallbackImgSrc = "/assets/default-header.png";
 const imgSrc = headerImgSrc || fallbackImgSrc;
 const imgAlt = headerImgAlt || "Default header";
 ---
 
 <div
-  class="w-[1200px] h-[400px] flex items-center justify-center mx-auto mb-8 bg-base-100 rounded-box"
+  class="w-full h-40 sm:h-56 md:h-72 lg:h-[400px] flex items-center justify-center mx-auto mb-6 sm:mb-8 bg-base-100 rounded-box overflow-hidden px-2 sm:px-4"
 >
   <img
     src={imgSrc}
@@ -14,21 +17,30 @@ const imgAlt = headerImgAlt || "Default header";
     class="object-contain w-full h-full"
     width="1200"
     height="400"
+    loading="eager"
+    decoding="async"
   />
 </div>
 
-<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full">
+<div
+  class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 w-full px-2 sm:px-0"
+>
   {
-    items.map((item) => (
+    cardItems.map((/** @type {CardItem} */ item) => (
       <a
         href={item.href}
-        class="card bg-base-100 border border-base-200 shadow-xl transition-transform hover:scale-105 block hover:no-underline"
+        aria-label={item.buttonText}
+        class="card bg-base-100 border border-base-200 shadow-xl transition-transform hover:scale-105 focus-visible:scale-105 focus-visible:outline focus-visible:outline-primary block hover:no-underline"
       >
-        <figure class="px-4 pt-4">
+        <figure class="px-2 pt-2 sm:px-4 sm:pt-4 flex items-center justify-center">
           <img
             src={item.imgSrc}
             alt={item.imgAlt}
-            class="max-w-[180px] max-h-[180px] object-contain rounded"
+            class="w-full max-w-[140px] sm:max-w-[160px] md:max-w-[180px] aspect-square object-contain rounded"
+            width="180"
+            height="180"
+            loading="lazy"
+            decoding="async"
           />
         </figure>
         <div class="card-body items-center text-center p-4">
