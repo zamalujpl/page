@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const pageTitle = "Kontakt";
+const pageDescription =
+  "Strona kontaktowa Zamaluj.pl – adres e‑mail zostanie podany wkrótce.";
+---
+
+<BaseLayout title={pageTitle} description={pageDescription} showSidebar={false}>
+  <section class="w-full max-w-2xl mx-auto py-12 px-4">
+    <div class="card bg-base-100 shadow-xl border border-base-300">
+      <div class="card-body items-start space-y-4">
+        <h1 class="card-title text-3xl">Kontakt</h1>
+
+        <p class="leading-relaxed">
+          Adres e‑mail kontaktowy zostanie opublikowany wkrótce. Pracujemy nad
+          przygotowaniem sekcji kontaktowej.
+        </p>
+        <p class="opacity-70 text-sm">
+          Formularz nie jest dostępny – udostępnimy wyłącznie adres e‑mail po
+          jego publikacji.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
