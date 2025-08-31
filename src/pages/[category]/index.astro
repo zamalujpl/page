@@ -1,5 +1,4 @@
 ---
-import "../../styles.css";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import assets from "../../assets.json";
 
@@ -18,20 +17,41 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { category } = Astro.props;
-const cat = assets[category];
-const title = cat.title_key
-  ? cat.title_key.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase())
-  : category.replace(/_/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+/** @typedef {{ key: string; file: string; description?: string; width?: number; height?: number }} ImageItem */
+/** @typedef {{ title_key?: string; description?: string; header?: string; items: ImageItem[] }} Category */
 
-const items = cat.items.map((item) => ({
-  href: `/${category}/${item.key}`,
-  imgSrc: `/${item.file}`,
-  imgAlt: item.description ?? item.key,
-  title: item.key,
-  buttonText: "Zobacz",
-  description: item.description ?? cat.description,
-}));
+/** @param {string} s */
+function capitalize(s) {
+  return s
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, (/** @type {string} */ l) => l.toUpperCase());
+}
+
+/** @param {string} k @returns {Category} */
+function getCategorySafe(k) {
+  return /** @type {any} */ (assets)[k];
+}
+
+const { category } = Astro.props;
+const cat = getCategorySafe(/** @type {string} */ (category));
+const title = cat.title_key ? capitalize(cat.title_key) : capitalize(category);
+
+/** @type {ImageItem[]} */
+const imageItems = /** @type {any} */ (cat.items);
+
+/** @param {ImageItem} item */
+function toCard(item) {
+  return {
+    href: `/${category}/${item.key}`,
+    imgSrc: `/${item.file}`,
+    imgAlt: item.description ?? item.key,
+    title: item.key,
+    buttonText: "Zobacz",
+    description: item.description ?? cat.description,
+  };
+}
+
+const items = imageItems.map(toCard);
 ---
 
 <BaseLayout title={title} description={cat.description} bodyClass="bg-base-200">

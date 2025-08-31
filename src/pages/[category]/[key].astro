@@ -1,9 +1,9 @@
 ---
-import "../../styles.css";
 import PrintFooter from "../../components/PrintFooter.astro";
 import assets from "../../assets.json";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
+/** @param {string} categoryParam */
 function getCategoryObjectKey(categoryParam) {
   // Find the object key matching the categoryParam (which may be a title_key)
   for (const [objectKey, cat] of Object.entries(assets)) {
@@ -31,15 +31,20 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { category, key } = Astro.props;
-const { image } = Astro.props;
+/** @typedef {{ key: string; file: string; description?: string; width?: number; height?: number }} ImageItem */
+/** @typedef {{ title_key?: string; description?: string; header?: string; items: ImageItem[] }} Category */
+/** @type {Record<string, Category>} */
+const assetsMap = /** @type {any} */ (assets);
+/** @type {{ category: string; key: string; image: ImageItem }} */
+const { category, key, image } = Astro.props;
+
 const objectKey = getCategoryObjectKey(category);
-const cat = assets[objectKey];
+const cat = assetsMap[objectKey];
 const catTitle = cat.title_key;
 const catDescription = cat.description ?? "";
 const title = image.key
   .replace(/_/g, " ")
-  .replace(/\b\w/g, (l) => l.toUpperCase());
+  .replace(/\b\w/g, /** @param {string} l */ (l) => l.toUpperCase());
 const description =
   image?.description ?? `Kolorowanka z kategorii ${catTitle}: ${title}`;
 const year = new Date().getFullYear();

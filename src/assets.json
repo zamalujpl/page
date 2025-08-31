@@ -314,7 +314,7 @@
   "nature": {
     "title_key": "Przyroda",
     "description": "",
-    "header": "public/assets/nature/header.png",
+    "header": "assets/nature/header.png",
     "items": [
       {
         "key": "cactus_desert",
@@ -446,7 +446,7 @@
   "vehicles": {
     "title_key": "Pojazdy",
     "description": "",
-    "header": "public/assets/vehicles/header.png",
+    "header": "assets/vehicles/header.png",
     "items": [
       {
         "key": "airplane_sky",
@@ -573,7 +573,7 @@
   "christmas": {
     "title_key": "Boże Narodzenie",
     "description": "",
-    "header": "public/assets/christmas/header.png",
+    "header": "assets/christmas/header.png",
     "items": [
       {
         "key": "bell_holly",
@@ -705,7 +705,7 @@
   "easter": {
     "title_key": "Wielkanoc",
     "description": "",
-    "header": "public/assets/easter/header.png",
+    "header": "assets/easter/header.png",
     "items": [
       {
         "key": "basket_eastereggs",
@@ -817,7 +817,7 @@
   "fantasy_fairy_tales": {
     "title_key": "Bajki i fantazja",
     "description": "",
-    "header": "public/assets/fantasy_fairy_tales/header.png",
+    "header": "assets/fantasy_fairy_tales/header.png",
     "items": [
       {
         "key": "carriage_two_horses",
@@ -949,7 +949,7 @@
   "halloween": {
     "title_key": "Halloween",
     "description": "",
-    "header": "public/assets/halloween/header.png",
+    "header": "assets/halloween/header.png",
     "items": [
       {
         "key": "bat_cookie",
@@ -1076,7 +1076,7 @@
   "professions": {
     "title_key": "Zawody",
     "description": "",
-    "header": "public/assets/professions/header.png",
+    "header": "assets/professions/header.png",
     "items": [
       {
         "key": "astronaut_space",
@@ -1208,7 +1208,7 @@
   "circus_carnival": {
     "title_key": "Cyrk i karnawał",
     "description": "",
-    "header": "public/assets/circus_carnival/header.png",
+    "header": "assets/circus_carnival/header.png",
     "items": [
       {
         "key": "acrobat_trapeze",
@@ -1340,7 +1340,7 @@
   "dinosaurs_prehistoric": {
     "title_key": "Dinozaury i prehistoria",
     "description": "",
-    "header": "public/assets/dinosaurs_prehistoric/header.png",
+    "header": "assets/dinosaurs_prehistoric/header.png",
     "items": [
       {
         "key": "ankylosaurus_club_tail",
@@ -1472,7 +1472,7 @@
   "food_treats": {
     "title_key": "Jedzenie i smakołyki",
     "description": "",
-    "header": "public/assets/food_treats/header.png",
+    "header": "assets/food_treats/header.png",
     "items": [
       {
         "key": "banana_split_dessert",
@@ -1604,7 +1604,7 @@
   "seasons_weather": {
     "title_key": "Pory roku i pogoda",
     "description": "",
-    "header": "public/assets/seasons_weather/header.png",
+    "header": "assets/seasons_weather/header.png",
     "items": [
       {
         "key": "autumn_leaves_tree",
@@ -1721,7 +1721,7 @@
   "space_science": {
     "title_key": "Kosmos i nauka",
     "description": "",
-    "header": "public/assets/space_science/header.png",
+    "header": "assets/space_science/header.png",
     "items": [
       {
         "key": "alien_wave_hello",
@@ -1853,7 +1853,7 @@
   "sports_activities": {
     "title_key": "Sport i aktywności",
     "description": "",
-    "header": "public/assets/sports_activities/header.png",
+    "header": "assets/sports_activities/header.png",
     "items": [
       {
         "key": "baseball_home_run",
@@ -1985,7 +1985,7 @@
   "underwater_world": {
     "title_key": "Podwodny świat",
     "description": "",
-    "header": "public/assets/underwater_world/header.png",
+    "header": "assets/underwater_world/header.png",
     "items": [
       {
         "key": "beach_bucket_shells",

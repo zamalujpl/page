@@ -1,9 +1,12 @@
 ---
-import "../styles.css";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import assets from "../assets.json";
 import IndexTemplate from "../templates/IndexTemplate.astro";
 
+/** @template T
+ * @param {T[]} arr
+ * @returns {T}
+ */
 function getRandomItem(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }

@@ -3,6 +3,7 @@ import Head from "../components/Head.astro";
 import Navbar from "../components/Navbar.astro";
 import Sidebar from "../components/Sidebar.astro";
 import Footer from "../components/Footer.astro";
+import "../styles.css";
 
 const {
   title,
@@ -16,8 +17,7 @@ const {
 
 <html lang="en" data-theme="light">
   <Head title={title} description={description} />
-  <link rel="preload" href="/styles.css" as="style" />
-  <link rel="stylesheet" href="/styles.css" />
+  <!-- Global styles are imported in the frontmatter (styles.css) -->
   <body
     class={`font-sans text-base-content flex flex-col min-h-screen ${bodyClass}`}
   >
