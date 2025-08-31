@@ -1,0 +1,256 @@
+{
+  "fantasy_fairy_tales": [
+    {
+      "description": "a dragon breathing fire",
+      "filename": "dragon_fire",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a unicorn with rainbow mane",
+      "filename": "unicorn_rainbow",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a princess in a castle",
+      "filename": "princess_castle",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a knight in shining armor",
+      "filename": "knight_armor",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a wizard casting a spell",
+      "filename": "wizard_spell",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a fairy with sparkling wings",
+      "filename": "fairy_wings",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a frog prince wearing a crown",
+      "filename": "frogprince_crown",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a magic lamp with smoke",
+      "filename": "magiclamp_smoke",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a castle on a hill",
+      "filename": "castle_hill",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a giant with a club",
+      "filename": "giant_club",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a mermaid swimming with fish",
+      "filename": "mermaid_fish",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a treasure chest full of gold",
+      "filename": "treasure_gold",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a royal carriage pulled by horses",
+      "filename": "carriage_horses",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a griffin with wings spread",
+      "filename": "griffin_wings",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a phoenix rising from flames",
+      "filename": "phoenix_flames",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a magic mirror with sparkles",
+      "filename": "magicmirror_sparkles",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a dwarf mining gems",
+      "filename": "dwarf_mining",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a sorceress holding a staff",
+      "filename": "sorceress_staff",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a troll under a bridge",
+      "filename": "troll_bridge",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a king wearing a crown",
+      "filename": "king_crown",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a queen in a royal gown",
+      "filename": "queen_gown",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a fairy godmother with a wand",
+      "filename": "fairygodmother_wand",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a dragon guarding treasure",
+      "filename": "dragon_treasure",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a knight riding a horse",
+      "filename": "knight_horse",
+      "category": "fantasy_fairy_tales"
+    },
+    {
+      "description": "a castle gate with towers",
+      "filename": "castle_gate",
+      "category": "fantasy_fairy_tales"
+    }
+  ],
+  "space_science": [
+    {
+      "description": "a rocket blasting into space",
+      "filename": "rocket_space",
+      "category": "space_science"
+    },
+    {
+      "description": "an astronaut floating in space",
+      "filename": "astronaut_float",
+      "category": "space_science"
+    },
+    {
+      "description": "a planet with rings",
+      "filename": "planet_rings",
+      "category": "space_science"
+    },
+    {
+      "description": "a telescope pointing at stars",
+      "filename": "telescope_stars",
+      "category": "space_science"
+    },
+    {
+      "description": "a satellite orbiting Earth",
+      "filename": "satellite_earth",
+      "category": "space_science"
+    },
+    {
+      "description": "a space rover on Mars",
+      "filename": "rover_mars",
+      "category": "space_science"
+    },
+    {
+      "description": "a comet with a glowing tail",
+      "filename": "comet_tail",
+      "category": "space_science"
+    },
+    {
+      "description": "a galaxy full of stars",
+      "filename": "galaxy_stars",
+      "category": "space_science"
+    },
+    {
+      "description": "a space station floating",
+      "filename": "spacestation_float",
+      "category": "space_science"
+    },
+    {
+      "description": "an alien waving hello",
+      "filename": "alien_wave",
+      "category": "space_science"
+    },
+    {
+      "description": "a moon with craters",
+      "filename": "moon_craters",
+      "category": "space_science"
+    },
+    {
+      "description": "a spaceship flying through space",
+      "filename": "spaceship_flying",
+      "category": "space_science"
+    },
+    {
+      "description": "a solar system model",
+      "filename": "solar_system",
+      "category": "space_science"
+    },
+    {
+      "description": "a meteor shower in the night sky",
+      "filename": "meteor_shower",
+      "category": "space_science"
+    },
+    {
+      "description": "an astronaut planting a flag",
+      "filename": "astronaut_flag",
+      "category": "space_science"
+    },
+    {
+      "description": "a black hole in space",
+      "filename": "blackhole",
+      "category": "space_science"
+    },
+    {
+      "description": "a rocket launch pad",
+      "filename": "rocket_launchpad",
+      "category": "space_science"
+    },
+    {
+      "description": "a star shining brightly",
+      "filename": "star_shining",
+      "category": "space_science"
+    },
+    {
+      "description": "a space shuttle landing",
+      "filename": "spaceshuttle_landing",
+      "category": "space_science"
+    },
+    {
+      "description": "a planet with moons",
+      "filename": "planet_moons",
+      "category": "space_science"
+    },
+    {
+      "description": "a space capsule re-entering Earth",
+      "filename": "spacecapsule_reentry",
+      "category": "space_science"
+    },
+    {
+      "description": "a scientist studying space maps",
+      "filename": "scientist_spacemap",
+      "category": "space_science"
+    },
+    {
+      "description": "a constellation of stars",
+      "filename": "constellation",
+      "category": "space_science"
+    },
+    {
+      "description": "a UFO in the night sky",
+      "filename": "ufo_nightsky",
+      "category": "space_science"
+    },
+    {
+      "description": "an asteroid floating in space",
+      "filename": "asteroid",
+      "category": "space_science"
+    }
+  ]
+}

@@ -1,0 +1,2248 @@
+[
+  {
+    "description": "a sleepy owl on a tree stump",
+    "category": "animals",
+    "filename": "owl_stump"
+  },
+  {
+    "description": "a goldfish in a bowl",
+    "category": "animals",
+    "filename": "goldfish_bowl"
+  },
+  {
+    "description": "a frog on a lily pad",
+    "category": "animals",
+    "filename": "frog_lily"
+  },
+  {
+    "description": "a duck swimming in a pond",
+    "category": "animals",
+    "filename": "duck_pond"
+  },
+  {
+    "description": "a flamingo standing on one leg",
+    "category": "animals",
+    "filename": "flamingo_leg"
+  },
+  {
+    "description": "a smiling lion sitting on grass",
+    "category": "animals",
+    "filename": "lion_grass"
+  },
+  {
+    "description": "a playful elephant spraying water",
+    "category": "animals",
+    "filename": "elephant_water"
+  },
+  {
+    "description": "a cute puppy wagging its tail",
+    "category": "animals",
+    "filename": "puppy_tail"
+  },
+  {
+    "description": "a kitten playing with a ball of yarn",
+    "category": "animals",
+    "filename": "kitten_yarn"
+  },
+  {
+    "description": "a monkey hanging from a tree",
+    "category": "animals",
+    "filename": "monkey_tree"
+  },
+  {
+    "description": "a zebra running on the savannah",
+    "category": "animals",
+    "filename": "zebra_savannah"
+  },
+  {
+    "description": "a cheerful giraffe eating leaves",
+    "category": "animals",
+    "filename": "giraffe_leaves"
+  },
+  {
+    "description": "a smiling bear waving hello",
+    "category": "animals",
+    "filename": "bear_hello"
+  },
+  {
+    "description": "a dolphin jumping out of water",
+    "category": "animals",
+    "filename": "dolphin_jump"
+  },
+  {
+    "description": "a happy penguin sliding on ice",
+    "category": "animals",
+    "filename": "penguin_ice"
+  },
+  {
+    "description": "a bunny holding a carrot",
+    "category": "animals",
+    "filename": "bunny_carrot"
+  },
+  {
+    "description": "a turtle with a big shell smiling",
+    "category": "animals",
+    "filename": "turtle_shell"
+  },
+  {
+    "description": "a cow with spots and a bell",
+    "category": "animals",
+    "filename": "cow_bell"
+  },
+  {
+    "description": "a sheep with fluffy wool",
+    "category": "animals",
+    "filename": "sheep_wool"
+  },
+  {
+    "description": "a chick hatching from an egg",
+    "category": "animals",
+    "filename": "chick_egg"
+  },
+  {
+    "description": "a horse running through a meadow",
+    "category": "animals",
+    "filename": "horse_meadow"
+  },
+  {
+    "description": "a parrot sitting on a branch",
+    "category": "animals",
+    "filename": "parrot_branch"
+  },
+  {
+    "description": "a crab on a sandy beach",
+    "category": "animals",
+    "filename": "crab_beach"
+  },
+  {
+    "description": "a kangaroo with a baby in pouch",
+    "category": "animals",
+    "filename": "kangaroo_pouch"
+  },
+  {
+    "description": "a smiling crocodile in a river",
+    "category": "animals",
+    "filename": "crocodile_river"
+  },
+  {
+    "description": "a raccoon with a striped tail",
+    "category": "animals",
+    "filename": "raccoon_tail"
+  },
+  {
+    "description": "a squirrel holding an acorn",
+    "category": "animals",
+    "filename": "squirrel_acorn"
+  },
+  {
+    "description": "a snail with a spiral shell",
+    "category": "animals",
+    "filename": "snail_shell"
+  },
+  {
+    "description": "a butterfly flying over flowers",
+    "category": "animals",
+    "filename": "butterfly_flowers"
+  },
+  {
+    "description": "a bee buzzing around a hive",
+    "category": "animals",
+    "filename": "bee_hive"
+  },
+  {
+    "description": "a ladybug on a leaf",
+    "category": "animals",
+    "filename": "ladybug_leaf"
+  },
+  {
+    "description": "a moose standing in a forest",
+    "category": "animals",
+    "filename": "moose_forest"
+  },
+  {
+    "description": "a deer looking curiously",
+    "category": "animals",
+    "filename": "deer_look"
+  },
+  {
+    "description": "a hedgehog with tiny feet",
+    "category": "animals",
+    "filename": "hedgehog_feet"
+  },
+  {
+    "description": "a walrus with big tusks",
+    "category": "animals",
+    "filename": "walrus_tusks"
+  },
+  {
+    "description": "a seal clapping its flippers",
+    "category": "animals",
+    "filename": "seal_flippers"
+  },
+  {
+    "description": "a fox curled up asleep",
+    "category": "animals",
+    "filename": "fox_sleep"
+  },
+  {
+    "description": "a llama with fluffy fur",
+    "category": "animals",
+    "filename": "llama_fur"
+  },
+  {
+    "description": "a cheetah resting under a tree",
+    "category": "animals",
+    "filename": "cheetah_rest"
+  },
+  {
+    "description": "a hippo yawning wide",
+    "category": "animals",
+    "filename": "hippo_yawn"
+  },
+  {
+    "description": "a reindeer with antlers",
+    "category": "animals",
+    "filename": "reindeer_antlers"
+  },
+  {
+    "description": "a peacock with spread feathers",
+    "category": "animals",
+    "filename": "peacock_feathers"
+  },
+  {
+    "description": "a panda eating bamboo",
+    "category": "animals",
+    "filename": "panda_bamboo"
+  },
+  {
+    "description": "a koala hugging a tree",
+    "category": "animals",
+    "filename": "koala_tree"
+  },
+  {
+    "description": "a skunk with a bushy tail",
+    "category": "animals",
+    "filename": "skunk_tail"
+  },
+  {
+    "description": "a bat flying at night",
+    "category": "animals",
+    "filename": "bat_night"
+  },
+  {
+    "description": "a chameleon on a branch",
+    "category": "animals",
+    "filename": "chameleon_branch"
+  },
+  {
+    "description": "a wolf howling at the moon",
+    "category": "animals",
+    "filename": "wolf_moon"
+  },
+  {
+    "description": "a snake coiled on a rock",
+    "category": "animals",
+    "filename": "snake_rock"
+  },
+  {
+    "description": "a cartoon race car with smiling face",
+    "category": "vehicles",
+    "filename": "racecar_smile"
+  },
+  {
+    "description": "a fire truck with a ladder",
+    "category": "vehicles",
+    "filename": "firetruck_ladder"
+  },
+  {
+    "description": "a police car with flashing lights",
+    "category": "vehicles",
+    "filename": "policecar_lights"
+  },
+  {
+    "description": "a school bus full of happy kids",
+    "category": "vehicles",
+    "filename": "schoolbus_kids"
+  },
+  {
+    "description": "a tractor working in a field",
+    "category": "vehicles",
+    "filename": "tractor_field"
+  },
+  {
+    "description": "a dump truck carrying sand",
+    "category": "vehicles",
+    "filename": "dumptruck_sand"
+  },
+  {
+    "description": "an ambulance with siren",
+    "category": "vehicles",
+    "filename": "ambulance_siren"
+  },
+  {
+    "description": "a train with a smiling engine",
+    "category": "vehicles",
+    "filename": "train_engine"
+  },
+  {
+    "description": "a helicopter flying over mountains",
+    "category": "vehicles",
+    "filename": "helicopter_mountains"
+  },
+  {
+    "description": "a jet airplane flying in the sky",
+    "category": "vehicles",
+    "filename": "airplane_sky"
+  },
+  {
+    "description": "a hot air balloon with colorful stripes",
+    "category": "vehicles",
+    "filename": "hotairballoon_stripes"
+  },
+  {
+    "description": "a sailboat on the ocean",
+    "category": "vehicles",
+    "filename": "sailboat_ocean"
+  },
+  {
+    "description": "a submarine under the sea",
+    "category": "vehicles",
+    "filename": "submarine_sea"
+  },
+  {
+    "description": "a monster truck with big wheels",
+    "category": "vehicles",
+    "filename": "monstertruck_wheels"
+  },
+  {
+    "description": "a convertible car with the roof down",
+    "category": "vehicles",
+    "filename": "convertible_roofdown"
+  },
+  {
+    "description": "a bicycle with a basket",
+    "category": "vehicles",
+    "filename": "bicycle_basket"
+  },
+  {
+    "description": "a scooter with a happy rider",
+    "category": "vehicles",
+    "filename": "scooter_rider"
+  },
+  {
+    "description": "a skateboard with colorful design",
+    "category": "vehicles",
+    "filename": "skateboard_design"
+  },
+  {
+    "description": "a bulldozer pushing dirt",
+    "category": "vehicles",
+    "filename": "bulldozer_dirt"
+  },
+  {
+    "description": "a crane lifting a load",
+    "category": "vehicles",
+    "filename": "crane_load"
+  },
+  {
+    "description": "a spaceship flying through stars",
+    "category": "vehicles",
+    "filename": "spaceship_stars"
+  },
+  {
+    "description": "a rocket blasting off",
+    "category": "vehicles",
+    "filename": "rocket_blastoff"
+  },
+  {
+    "description": "a hovercraft gliding on water",
+    "category": "vehicles",
+    "filename": "hovercraft_water"
+  },
+  {
+    "description": "a canoe on a calm river",
+    "category": "vehicles",
+    "filename": "canoe_river"
+  },
+  {
+    "description": "an ice cream truck with music",
+    "category": "vehicles",
+    "filename": "icecreamtruck_music"
+  },
+  {
+    "description": "a big sunflower with a smiling face",
+    "category": "nature",
+    "filename": "sunflower_smile"
+  },
+  {
+    "description": "a tall pine tree in the forest",
+    "category": "nature",
+    "filename": "pine_tree"
+  },
+  {
+    "description": "a palm tree on a sandy beach",
+    "category": "nature",
+    "filename": "palm_tree"
+  },
+  {
+    "description": "a bright red rose with leaves",
+    "category": "nature",
+    "filename": "rose_red"
+  },
+  {
+    "description": "a bunch of colorful tulips",
+    "category": "nature",
+    "filename": "tulips_bunch"
+  },
+  {
+    "description": "a cactus in a desert",
+    "category": "nature",
+    "filename": "cactus_desert"
+  },
+  {
+    "description": "a watermelon slice with seeds",
+    "category": "nature",
+    "filename": "watermelon_slice"
+  },
+  {
+    "description": "a strawberry with leaves",
+    "category": "nature",
+    "filename": "strawberry_leaves"
+  },
+  {
+    "description": "a pumpkin with a curly stem",
+    "category": "nature",
+    "filename": "pumpkin_stem"
+  },
+  {
+    "description": "a bunch of grapes on a vine",
+    "category": "nature",
+    "filename": "grapes_vine"
+  },
+  {
+    "description": "a banana bunch hanging from a tree",
+    "category": "nature",
+    "filename": "banana_bunch"
+  },
+  {
+    "description": "an apple hanging from a branch",
+    "category": "nature",
+    "filename": "apple_branch"
+  },
+  {
+    "description": "a cherry pair with green stems",
+    "category": "nature",
+    "filename": "cherries_pair"
+  },
+  {
+    "description": "a carrot with green leaves",
+    "category": "nature",
+    "filename": "carrot_leaves"
+  },
+  {
+    "description": "a broccoli head with a big stem",
+    "category": "nature",
+    "filename": "broccoli_head"
+  },
+  {
+    "description": "a mushroom with white spots",
+    "category": "nature",
+    "filename": "mushroom_spots"
+  },
+  {
+    "description": "a clover with four leaves",
+    "category": "nature",
+    "filename": "clover_fourleaves"
+  },
+  {
+    "description": "a big maple leaf",
+    "category": "nature",
+    "filename": "maple_leaf"
+  },
+  {
+    "description": "a dandelion puff blowing in the wind",
+    "category": "nature",
+    "filename": "dandelion_puff"
+  },
+  {
+    "description": "a lily with long petals",
+    "category": "nature",
+    "filename": "lily_flower"
+  },
+  {
+    "description": "a daisy with a round center",
+    "category": "nature",
+    "filename": "daisy_flower"
+  },
+  {
+    "description": "a sunflower field under the sun",
+    "category": "nature",
+    "filename": "sunflower_field"
+  },
+  {
+    "description": "a bunch of bluebells",
+    "category": "nature",
+    "filename": "bluebells_bunch"
+  },
+  {
+    "description": "a fern leaf with many fronds",
+    "category": "nature",
+    "filename": "fern_leaf"
+  },
+  {
+    "description": "a coconut on a palm tree",
+    "category": "nature",
+    "filename": "coconut_palmtree"
+  },
+  {
+    "description": "a smiling jack-o-lantern pumpkin",
+    "category": "halloween",
+    "filename": "jackolantern_smile"
+  },
+  {
+    "description": "a cute ghost holding candy",
+    "category": "halloween",
+    "filename": "ghost_candy"
+  },
+  {
+    "description": "a friendly witch on a broomstick",
+    "category": "halloween",
+    "filename": "witch_broomstick"
+  },
+  {
+    "description": "a haunted house with bats",
+    "category": "halloween",
+    "filename": "hauntedhouse_bats"
+  },
+  {
+    "description": "a black cat with a witch hat",
+    "category": "halloween",
+    "filename": "blackcat_witchhat"
+  },
+  {
+    "description": "a vampire with a cape smiling",
+    "category": "halloween",
+    "filename": "vampire_smile"
+  },
+  {
+    "description": "a mummy with wrapped bandages",
+    "category": "halloween",
+    "filename": "mummy_bandages"
+  },
+  {
+    "description": "a skeleton dancing",
+    "category": "halloween",
+    "filename": "skeleton_dance"
+  },
+  {
+    "description": "a candy bucket full of sweets",
+    "category": "halloween",
+    "filename": "candybucket_sweets"
+  },
+  {
+    "description": "a bat flying across the moon",
+    "category": "halloween",
+    "filename": "bat_moon"
+  },
+  {
+    "description": "a scarecrow in a pumpkin field",
+    "category": "halloween",
+    "filename": "scarecrow_pumpkinfield"
+  },
+  {
+    "description": "a spider hanging from a web",
+    "category": "halloween",
+    "filename": "spider_web"
+  },
+  {
+    "description": "a witch's cauldron with bubbles",
+    "category": "halloween",
+    "filename": "cauldron_bubbles"
+  },
+  {
+    "description": "a gravestone with RIP letters",
+    "category": "halloween",
+    "filename": "gravestone_rip"
+  },
+  {
+    "description": "a werewolf howling at the moon",
+    "category": "halloween",
+    "filename": "werewolf_moon"
+  },
+  {
+    "description": "a broom leaning on a pumpkin",
+    "category": "halloween",
+    "filename": "broom_pumpkin"
+  },
+  {
+    "description": "a trick-or-treat bag with candy",
+    "category": "halloween",
+    "filename": "trickortreat_bag"
+  },
+  {
+    "description": "a magical spell book",
+    "category": "halloween",
+    "filename": "spellbook_magic"
+  },
+  {
+    "description": "a crescent moon with stars",
+    "category": "halloween",
+    "filename": "moon_stars"
+  },
+  {
+    "description": "a witch's hat with a buckle",
+    "category": "halloween",
+    "filename": "witchhat_buckle"
+  },
+  {
+    "description": "a pair of spooky eyes in the dark",
+    "category": "halloween",
+    "filename": "spookyeyes_dark"
+  },
+  {
+    "description": "a ghost flying over a graveyard",
+    "category": "halloween",
+    "filename": "ghost_graveyard"
+  },
+  {
+    "description": "a bat-shaped cookie",
+    "category": "halloween",
+    "filename": "bat_cookie"
+  },
+  {
+    "description": "a pumpkin carriage like in fairy tales",
+    "category": "halloween",
+    "filename": "pumpkin_carriage"
+  },
+  {
+    "description": "a magic wand with sparkles",
+    "category": "halloween",
+    "filename": "magicwand_sparkles"
+  },
+
+  {
+    "description": "a firefighter with a hose spraying water",
+    "category": "professions",
+    "filename": "firefighter_hose"
+  },
+  {
+    "description": "a police officer waving and smiling",
+    "category": "professions",
+    "filename": "police_officer_wave"
+  },
+  {
+    "description": "a doctor with a stethoscope",
+    "category": "professions",
+    "filename": "doctor_stethoscope"
+  },
+  {
+    "description": "a nurse holding a clipboard",
+    "category": "professions",
+    "filename": "nurse_clipboard"
+  },
+  {
+    "description": "a teacher at a chalkboard",
+    "category": "professions",
+    "filename": "teacher_chalkboard"
+  },
+  {
+    "description": "a chef cooking in the kitchen",
+    "category": "professions",
+    "filename": "chef_cooking"
+  },
+  {
+    "description": "a baker holding a tray of cupcakes",
+    "category": "professions",
+    "filename": "baker_cupcakes"
+  },
+  {
+    "description": "a farmer with a pitchfork",
+    "category": "professions",
+    "filename": "farmer_pitchfork"
+  },
+  {
+    "description": "a construction worker with a hammer",
+    "category": "professions",
+    "filename": "construction_hammer"
+  },
+  {
+    "description": "a pilot in an airplane cockpit",
+    "category": "professions",
+    "filename": "pilot_cockpit"
+  },
+  {
+    "description": "a sailor on a ship",
+    "category": "professions",
+    "filename": "sailor_ship"
+  },
+  {
+    "description": "a train conductor waving a flag",
+    "category": "professions",
+    "filename": "train_conductor_flag"
+  },
+  {
+    "description": "a scientist looking through a microscope",
+    "category": "professions",
+    "filename": "scientist_microscope"
+  },
+  {
+    "description": "an astronaut floating in space",
+    "category": "professions",
+    "filename": "astronaut_space"
+  },
+  {
+    "description": "a veterinarian examining a puppy",
+    "category": "professions",
+    "filename": "veterinarian_puppy"
+  },
+  {
+    "description": "a mechanic fixing a car",
+    "category": "professions",
+    "filename": "mechanic_car"
+  },
+  {
+    "description": "a dancer in a ballet pose",
+    "category": "professions",
+    "filename": "dancer_ballet"
+  },
+  {
+    "description": "a singer holding a microphone",
+    "category": "professions",
+    "filename": "singer_microphone"
+  },
+  {
+    "description": "a clown juggling balls",
+    "category": "professions",
+    "filename": "clown_juggling"
+  },
+  {
+    "description": "a painter with a palette and brush",
+    "category": "professions",
+    "filename": "painter_palette"
+  },
+  {
+    "description": "a photographer with a camera",
+    "category": "professions",
+    "filename": "photographer_camera"
+  },
+  {
+    "description": "a soccer player kicking a ball",
+    "category": "professions",
+    "filename": "soccer_player"
+  },
+  {
+    "description": "a basketball player dribbling",
+    "category": "professions",
+    "filename": "basketball_player"
+  },
+  {
+    "description": "a magician pulling a rabbit from a hat",
+    "category": "professions",
+    "filename": "magician_rabbit"
+  },
+  {
+    "description": "a lifeguard with a rescue buoy",
+    "category": "professions",
+    "filename": "lifeguard_buoy"
+  },
+  {
+    "description": "a decorated christmas tree with presents",
+    "category": "christmas",
+    "filename": "christmastree_presents"
+  },
+  {
+    "description": "santa claus carrying a sack of gifts",
+    "category": "christmas",
+    "filename": "santa_sack"
+  },
+  {
+    "description": "a snowman with a scarf and hat",
+    "category": "christmas",
+    "filename": "snowman_scarf"
+  },
+  {
+    "description": "a reindeer with a red nose",
+    "category": "christmas",
+    "filename": "reindeer_rednose"
+  },
+  {
+    "description": "a sleigh full of gifts",
+    "category": "christmas",
+    "filename": "sleigh_gifts"
+  },
+  {
+    "description": "a christmas stocking hanging by the fireplace",
+    "category": "christmas",
+    "filename": "stocking_fireplace"
+  },
+  {
+    "description": "a gingerbread house with candy decorations",
+    "category": "christmas",
+    "filename": "gingerbreadhouse_candy"
+  },
+  {
+    "description": "a wrapped present with a big bow",
+    "category": "christmas",
+    "filename": "present_bow"
+  },
+  {
+    "description": "a candy cane with a ribbon",
+    "category": "christmas",
+    "filename": "candycane_ribbon"
+  },
+  {
+    "description": "a christmas wreath with bells",
+    "category": "christmas",
+    "filename": "wreath_bells"
+  },
+  {
+    "description": "elves making toys in a workshop",
+    "category": "christmas",
+    "filename": "elves_toyworkshop"
+  },
+  {
+    "description": "a north pole sign with snow",
+    "category": "christmas",
+    "filename": "northpole_sign"
+  },
+  {
+    "description": "a cup of hot chocolate with marshmallows",
+    "category": "christmas",
+    "filename": "hotchocolate_marshmallows"
+  },
+  {
+    "description": "a snowy village with lights",
+    "category": "christmas",
+    "filename": "snowy_village"
+  },
+  {
+    "description": "a polar bear wearing a scarf",
+    "category": "christmas",
+    "filename": "polarbear_scarf"
+  },
+  {
+    "description": "a penguin holding a gift",
+    "category": "christmas",
+    "filename": "penguin_gift"
+  },
+  {
+    "description": "santa's sleigh flying over rooftops",
+    "category": "christmas",
+    "filename": "sleigh_rooftops"
+  },
+  {
+    "description": "a fireplace with hanging stockings",
+    "category": "christmas",
+    "filename": "fireplace_stockings"
+  },
+  {
+    "description": "a star shining on top of a tree",
+    "category": "christmas",
+    "filename": "star_tree"
+  },
+  {
+    "description": "a christmas bell with holly leaves",
+    "category": "christmas",
+    "filename": "bell_holly"
+  },
+  {
+    "description": "snowflakes falling from the sky",
+    "category": "christmas",
+    "filename": "snowflakes_sky"
+  },
+  {
+    "description": "a christmas train with toys",
+    "category": "christmas",
+    "filename": "christmastrain_toys"
+  },
+  {
+    "description": "a nutcracker soldier standing tall",
+    "category": "christmas",
+    "filename": "nutcracker_soldier"
+  },
+  {
+    "description": "a mailbox with letters to santa",
+    "category": "christmas",
+    "filename": "mailbox_letters"
+  },
+  {
+    "description": "a snow globe with a christmas scene",
+    "category": "christmas",
+    "filename": "snowglobe_scene"
+  },
+  {
+    "description": "a basket full of colorful easter eggs",
+    "category": "easter",
+    "filename": "basket_eastereggs"
+  },
+  {
+    "description": "a bunny holding a decorated egg",
+    "category": "easter",
+    "filename": "bunny_decoratedegg"
+  },
+  {
+    "description": "a chick hatching from a decorated egg",
+    "category": "easter",
+    "filename": "chick_hatching"
+  },
+  {
+    "description": "a lamb with a bow around its neck",
+    "category": "easter",
+    "filename": "lamb_bow"
+  },
+  {
+    "description": "a group of painted easter eggs",
+    "category": "easter",
+    "filename": "painted_eastereggs"
+  },
+  {
+    "description": "an easter egg hunt in a garden",
+    "category": "easter",
+    "filename": "easteregghunt_garden"
+  },
+  {
+    "description": "a bunny driving a carrot car",
+    "category": "easter",
+    "filename": "bunny_carrotcar"
+  },
+  {
+    "description": "a chick holding a small basket",
+    "category": "easter",
+    "filename": "chick_basket"
+  },
+  {
+    "description": "a butterfly flying over flowers",
+    "category": "easter",
+    "filename": "butterfly_flowers"
+  },
+  {
+    "description": "a bunny painting an easter egg",
+    "category": "easter",
+    "filename": "bunny_paintingegg"
+  },
+  {
+    "description": "a decorated egg with floral patterns",
+    "category": "easter",
+    "filename": "decoratedegg_flowers"
+  },
+  {
+    "description": "a bunny peeking out from behind an egg",
+    "category": "easter",
+    "filename": "bunny_peeking"
+  },
+  {
+    "description": "a chick wearing bunny ears",
+    "category": "easter",
+    "filename": "chick_bunnyears"
+  },
+  {
+    "description": "a wreath made of easter eggs and flowers",
+    "category": "easter",
+    "filename": "wreath_eastereggs"
+  },
+  {
+    "description": "a bunny hiding eggs in the grass",
+    "category": "easter",
+    "filename": "bunny_hidingeggs"
+  },
+  {
+    "description": "a picnic scene with easter treats",
+    "category": "easter",
+    "filename": "picnic_easter"
+  },
+  {
+    "description": "a bunny and chick playing together",
+    "category": "easter",
+    "filename": "bunny_chick_play"
+  },
+  {
+    "description": "a big chocolate bunny",
+    "category": "easter",
+    "filename": "chocolate_bunny"
+  },
+  {
+    "description": "a nest with colorful eggs",
+    "category": "easter",
+    "filename": "nest_coloredeggs"
+  },
+  {
+    "description": "a bunny riding a bicycle with eggs in the basket",
+    "category": "easter",
+    "filename": "bunny_bicycle_eggs"
+  },
+  {
+    "description": "a decorated egg with zigzag patterns",
+    "category": "easter",
+    "filename": "decoratedegg_zigzag"
+  },
+  {
+    "description": "a bunny sleeping in a field of flowers",
+    "category": "easter",
+    "filename": "bunny_sleeping_flowers"
+  },
+  {
+    "description": "a chick holding a paintbrush",
+    "category": "easter",
+    "filename": "chick_paintbrush"
+  },
+  {
+    "description": "a carrot patch with a bunny peeking out",
+    "category": "easter",
+    "filename": "carrotpatch_bunny"
+  },
+  {
+    "description": "a bunny family having an easter picnic",
+    "category": "easter",
+    "filename": "bunnyfamily_picnic"
+  },
+  {
+    "description": "a royal carriage pulled by two horses",
+    "filename": "carriage_two_horses",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a griffin perched with wings spread wide",
+    "filename": "griffin_wings_spread",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a phoenix rising from glowing embers",
+    "filename": "phoenix_embers",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a magic mirror with twinkling stars",
+    "filename": "magic_mirror_stars",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a dwarf mining sparkling gems",
+    "filename": "dwarf_mining_gems",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a sorceress holding a staff with a crystal",
+    "filename": "sorceress_staff_crystal",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a troll sitting under a stone bridge",
+    "filename": "troll_stone_bridge",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a kind king wearing a crown and cape",
+    "filename": "king_crown_cape",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a queen in a royal gown with scepter",
+    "filename": "queen_gown_scepter",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a fairy godmother waving a wand",
+    "filename": "fairy_godmother_wand",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a dragon guarding a pile of treasure",
+    "filename": "dragon_guarding_treasure",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a brave knight riding a horse",
+    "filename": "knight_riding_horse",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a castle gate with tall towers",
+    "filename": "castle_gate_towers",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a rocket blasting into space",
+    "filename": "rocket_blastoff",
+    "category": "space_science"
+  },
+  {
+    "description": "an astronaut floating with a tether",
+    "filename": "astronaut_tether",
+    "category": "space_science"
+  },
+  {
+    "description": "a ringed planet with moons",
+    "filename": "ringed_planet_moons",
+    "category": "space_science"
+  },
+  {
+    "description": "a telescope pointing at twinkling stars",
+    "filename": "telescope_twinkle_stars",
+    "category": "space_science"
+  },
+  {
+    "description": "a satellite orbiting the Earth",
+    "filename": "satellite_orbit_earth",
+    "category": "space_science"
+  },
+  {
+    "description": "a Mars rover with big wheels",
+    "filename": "mars_rover_wheels",
+    "category": "space_science"
+  },
+  {
+    "description": "a comet streaking across the night",
+    "filename": "comet_streak",
+    "category": "space_science"
+  },
+  {
+    "description": "a spiral galaxy full of stars",
+    "filename": "spiral_galaxy",
+    "category": "space_science"
+  },
+  {
+    "description": "a space station with solar panels",
+    "filename": "space_station_panels",
+    "category": "space_science"
+  },
+  {
+    "description": "a friendly alien waving hello",
+    "filename": "alien_wave_hello",
+    "category": "space_science"
+  },
+  {
+    "description": "a cratered moon close up",
+    "filename": "moon_craters_close",
+    "category": "space_science"
+  },
+  {
+    "description": "a spaceship flying among planets",
+    "filename": "spaceship_among_planets",
+    "category": "space_science"
+  },
+  {
+    "description": "a model of the solar system",
+    "filename": "solar_system_model",
+    "category": "space_science"
+  },
+  {
+    "description": "a meteor shower over mountains",
+    "filename": "meteor_shower_mountains",
+    "category": "space_science"
+  },
+  {
+    "description": "an astronaut planting a flag on the moon",
+    "filename": "astronaut_flag_moon",
+    "category": "space_science"
+  },
+  {
+    "description": "a cartoon black hole with swirls",
+    "filename": "black_hole_swirls",
+    "category": "space_science"
+  },
+  {
+    "description": "a rocket on a launch pad",
+    "filename": "rocket_launch_pad",
+    "category": "space_science"
+  },
+  {
+    "description": "a bright star shining",
+    "filename": "bright_star_shining",
+    "category": "space_science"
+  },
+  {
+    "description": "a space shuttle gliding to land",
+    "filename": "space_shuttle_landing",
+    "category": "space_science"
+  },
+  {
+    "description": "a planet with many tiny moons",
+    "filename": "planet_many_moons",
+    "category": "space_science"
+  },
+  {
+    "description": "a capsule re-entering with a parachute",
+    "filename": "capsule_parachute",
+    "category": "space_science"
+  },
+  {
+    "description": "a scientist studying star charts",
+    "filename": "scientist_star_charts",
+    "category": "space_science"
+  },
+  {
+    "description": "a constellation shaped like a kite",
+    "filename": "constellation_kite",
+    "category": "space_science"
+  },
+  {
+    "description": "a UFO zooming across the sky",
+    "filename": "ufo_zooming",
+    "category": "space_science"
+  },
+  {
+    "description": "an asteroid floating in space",
+    "filename": "asteroid_floating",
+    "category": "space_science"
+  },
+  {
+    "description": "a soccer player kicking a ball",
+    "filename": "soccer_player_kick",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a basketball player making a slam dunk",
+    "filename": "basketball_slam_dunk",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a tennis player serving the ball",
+    "filename": "tennis_serve_ball",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a swimmer doing the butterfly stroke",
+    "filename": "swimmer_butterfly_stroke",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a cyclist riding up a hill",
+    "filename": "cyclist_uphill",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a baseball player hitting a home run",
+    "filename": "baseball_home_run",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a gymnast doing a split on a beam",
+    "filename": "gymnast_beam_split",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a skateboarder doing a kickflip",
+    "filename": "skateboarder_kickflip",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a skier racing down a snowy slope",
+    "filename": "skier_downhill_snow",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a surfer riding a big wave",
+    "filename": "surfer_big_wave",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a fencer lunging with a foil",
+    "filename": "fencer_lunge",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a hockey player taking a slapshot",
+    "filename": "hockey_slapshot",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a rugby player running with the ball",
+    "filename": "rugby_runner_ball",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a bowler rolling for a strike",
+    "filename": "bowler_rolling_strike",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a climber reaching the mountain summit",
+    "filename": "climber_mountain_summit",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a karate kid doing a high kick",
+    "filename": "karate_high_kick",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a horse rider jumping over a fence",
+    "filename": "horse_rider_jump",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a runner crossing the finish line",
+    "filename": "runner_finish_line",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a weightlifter lifting a barbell",
+    "filename": "weightlifter_barbell",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a golfer swinging a club",
+    "filename": "golfer_swing_club",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a dancer performing a grand jet\u00e9",
+    "filename": "dancer_grand_jete",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a volleyball player spiking the ball",
+    "filename": "volleyball_spike",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a snowboarder doing a flip",
+    "filename": "snowboarder_flip",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a boxer throwing a jab",
+    "filename": "boxer_throwing_jab",
+    "category": "sports_activities"
+  },
+  {
+    "description": "a fishing kid proudly holding a fish",
+    "filename": "fishing_kid_fish",
+    "category": "sports_activities"
+  },
+  {
+    "description": "an ice cream cone with sprinkles",
+    "filename": "ice_cream_sprinkles",
+    "category": "food_treats"
+  },
+  {
+    "description": "a cupcake with fluffy frosting",
+    "filename": "cupcake_fluffy_frosting",
+    "category": "food_treats"
+  },
+  {
+    "description": "a slice of pizza with extra cheese",
+    "filename": "pizza_extra_cheese",
+    "category": "food_treats"
+  },
+  {
+    "description": "a stack of pancakes with syrup",
+    "filename": "pancakes_stack_syrup",
+    "category": "food_treats"
+  },
+  {
+    "description": "a donut with chocolate glaze",
+    "filename": "donut_chocolate_glaze",
+    "category": "food_treats"
+  },
+  {
+    "description": "a swirly lollipop on a stick",
+    "filename": "lollipop_swirly",
+    "category": "food_treats"
+  },
+  {
+    "description": "a sandwich with lettuce and tomato",
+    "filename": "sandwich_lettuce_tomato",
+    "category": "food_treats"
+  },
+  {
+    "description": "a burger with fries on a tray",
+    "filename": "burger_fries_tray",
+    "category": "food_treats"
+  },
+  {
+    "description": "a juicy slice of watermelon",
+    "filename": "watermelon_juicy_slice",
+    "category": "food_treats"
+  },
+  {
+    "description": "a bowl full of strawberries",
+    "filename": "bowl_strawberries",
+    "category": "food_treats"
+  },
+  {
+    "description": "a bunch of purple grapes",
+    "filename": "grapes_purple_bunch",
+    "category": "food_treats"
+  },
+  {
+    "description": "a banana split dessert",
+    "filename": "banana_split_dessert",
+    "category": "food_treats"
+  },
+  {
+    "description": "a chocolate bar with squares",
+    "filename": "chocolate_bar_squares",
+    "category": "food_treats"
+  },
+  {
+    "description": "a candy cane with stripes",
+    "filename": "candy_cane_stripes",
+    "category": "food_treats"
+  },
+  {
+    "description": "a milkshake with a straw",
+    "filename": "milkshake_with_straw",
+    "category": "food_treats"
+  },
+  {
+    "description": "a slice of birthday cake with candles",
+    "filename": "birthday_cake_candles",
+    "category": "food_treats"
+  },
+  {
+    "description": "a popcorn bucket spilling kernels",
+    "filename": "popcorn_bucket_kernels",
+    "category": "food_treats"
+  },
+  {
+    "description": "a pretzel with salt crystals",
+    "filename": "pretzel_salt_crystals",
+    "category": "food_treats"
+  },
+  {
+    "description": "a blueberry muffin",
+    "filename": "blueberry_muffin",
+    "category": "food_treats"
+  },
+  {
+    "description": "a hot dog with mustard",
+    "filename": "hot_dog_mustard",
+    "category": "food_treats"
+  },
+  {
+    "description": "a taco with tasty toppings",
+    "filename": "taco_tasty_toppings",
+    "category": "food_treats"
+  },
+  {
+    "description": "a colorful salad bowl",
+    "filename": "salad_bowl_colorful",
+    "category": "food_treats"
+  },
+  {
+    "description": "a buttered pancake on a plate",
+    "filename": "pancake_butter_plate",
+    "category": "food_treats"
+  },
+  {
+    "description": "a cheese wedge and crackers",
+    "filename": "cheese_wedge_crackers",
+    "category": "food_treats"
+  },
+  {
+    "description": "a warm cinnamon roll",
+    "filename": "cinnamon_roll_warm",
+    "category": "food_treats"
+  },
+  {
+    "description": "a T-rex roaring with tiny arms",
+    "filename": "trex_roar",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a triceratops with three horns",
+    "filename": "triceratops_three_horns",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a stegosaurus with spiky plates",
+    "filename": "stegosaurus_spiky_plates",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a brachiosaurus eating leaves",
+    "filename": "brachiosaurus_eating_leaves",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a pterodactyl gliding in the sky",
+    "filename": "pterodactyl_gliding",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a velociraptor running fast",
+    "filename": "velociraptor_running",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "an ankylosaurus with a club tail",
+    "filename": "ankylosaurus_club_tail",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a parasaurolophus with a crest",
+    "filename": "parasaurolophus_crest",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a spinosaurus near a river",
+    "filename": "spinosaurus_river",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a dimetrodon with a big sail",
+    "filename": "dimetrodon_sail",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a compsognathus chasing a bug",
+    "filename": "compsognathus_bug",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a diplodocus with a long neck",
+    "filename": "diplodocus_long_neck",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "an iguanodon with thumb spikes",
+    "filename": "iguanodon_thumb_spikes",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "an archaeopteryx with feathers",
+    "filename": "archaeopteryx_feathers",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a gallimimus sprinting",
+    "filename": "gallimimus_sprint",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a pachycephalosaurus with a dome head",
+    "filename": "pachycephalosaurus_dome_head",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a styracosaurus with long horns",
+    "filename": "styracosaurus_long_horns",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a kentrosaurus with tail spikes",
+    "filename": "kentrosaurus_tail_spikes",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a protoceratops nesting",
+    "filename": "protoceratops_nest",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "an oviraptor guarding eggs",
+    "filename": "oviraptor_eggs",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a microraptor gliding between trees",
+    "filename": "microraptor_glide",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a carnotaurus with horns and tiny arms",
+    "filename": "carnotaurus_horns",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a mosasaurus swimming",
+    "filename": "mosasaurus_swimming",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a plesiosaur with long neck in water",
+    "filename": "plesiosaur_long_neck",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a pteranodon perched on a cliff",
+    "filename": "pteranodon_perched",
+    "category": "dinosaurs_prehistoric"
+  },
+  {
+    "description": "a clown juggling three balls",
+    "filename": "clown_juggling_balls",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a big circus tent with flags",
+    "filename": "circus_tent_flags",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "an acrobat swinging on a trapeze",
+    "filename": "acrobat_trapeze",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a ringmaster tipping his hat",
+    "filename": "ringmaster_hat",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a unicyclist balancing on one wheel",
+    "filename": "unicyclist_balance",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a strongman lifting a barbell",
+    "filename": "strongman_barbell",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a magician pulling a rabbit from a hat",
+    "filename": "magician_rabbit_hat",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a ferris wheel with many cabins",
+    "filename": "ferris_wheel_cabins",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a carousel horse with decorations",
+    "filename": "carousel_horse_decor",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a popcorn stand at the fair",
+    "filename": "popcorn_stand_fair",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a cotton candy cart",
+    "filename": "cotton_candy_cart",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a mime pretending to push a wall",
+    "filename": "mime_push_wall",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a tightrope walker with a pole",
+    "filename": "tightrope_walker_pole",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a stilt walker towering high",
+    "filename": "stilt_walker_tall",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a fire breather performing",
+    "filename": "fire_breather_perform",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a juggler with clubs",
+    "filename": "juggler_clubs",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a clown car with tiny windows",
+    "filename": "clown_car_tiny",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a ticket booth with a sign",
+    "filename": "ticket_booth_sign",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a parade of balloons",
+    "filename": "parade_balloons",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a game booth with prizes",
+    "filename": "game_booth_prizes",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a merry-go-round with lights",
+    "filename": "merry_go_round_lights",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a face painting station",
+    "filename": "face_painting_station",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a dunk tank with a target",
+    "filename": "dunk_tank_target",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a circus elephant balancing on a ball",
+    "filename": "elephant_balance_ball",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a ring of fire performance (cartoony)",
+    "filename": "ring_of_fire_show",
+    "category": "circus_carnival"
+  },
+  {
+    "description": "a dolphin jumping out of waves",
+    "filename": "dolphin_jump_waves",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a smiling whale spouting water",
+    "filename": "whale_spout_water",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a sea turtle swimming by coral",
+    "filename": "sea_turtle_coral",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a crab on a sandy seabed",
+    "filename": "crab_sandy_bed",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a starfish resting on a rock",
+    "filename": "starfish_on_rock",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a seahorse curled around seaweed",
+    "filename": "seahorse_seaweed",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a school of fish making a heart",
+    "filename": "fish_school_heart",
+    "category": "underwater_world"
+  },
+  {
+    "description": "an octopus waving tentacles",
+    "filename": "octopus_waving",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a shark smiling with small teeth",
+    "filename": "shark_smile",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a manta ray gliding gracefully",
+    "filename": "manta_ray_glide",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a submarine with round windows",
+    "filename": "submarine_round_windows",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a coral reef full of shapes",
+    "filename": "coral_reef_shapes",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a diver giving a thumbs up",
+    "filename": "diver_thumbs_up",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a puffed pufferfish",
+    "filename": "pufferfish_puffed",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a jellyfish floating gently",
+    "filename": "jellyfish_floating",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a hermit crab with a swirly shell",
+    "filename": "hermit_crab_swirl_shell",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a clam with a pearl inside",
+    "filename": "clam_with_pearl",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a lobster waving a claw",
+    "filename": "lobster_waving_claw",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a pirate treasure chest undersea",
+    "filename": "pirate_treasure_undersea",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a playful otter holding a shell",
+    "filename": "otter_holding_shell",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a sea lion clapping flippers",
+    "filename": "sea_lion_clap",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a kelp forest with fish",
+    "filename": "kelp_forest_fish",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a beach bucket and shells",
+    "filename": "beach_bucket_shells",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a lighthouse by the ocean",
+    "filename": "lighthouse_ocean",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a mermaid tail splashing water",
+    "filename": "mermaid_tail_splash",
+    "category": "underwater_world"
+  },
+  {
+    "description": "a cheerful train engine with smoke",
+    "filename": "train_engine_smoke",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a race car with big spoilers",
+    "filename": "race_car_spoiler",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a fire truck with a tall ladder",
+    "filename": "fire_truck_ladder",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a police car with flashing lights",
+    "filename": "police_car_lights",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a school bus with smiling kids",
+    "filename": "school_bus_kids",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a dump truck carrying sand",
+    "filename": "dump_truck_sand",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "an ambulance with a siren",
+    "filename": "ambulance_siren",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a helicopter flying over hills",
+    "filename": "helicopter_over_hills",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "an airplane soaring in the sky",
+    "filename": "airplane_soaring_sky",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a hot air balloon with stripes",
+    "filename": "hot_air_balloon_stripes",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a sailboat gliding on the sea",
+    "filename": "sailboat_gliding_sea",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a submarine under the ocean",
+    "filename": "submarine_under_ocean",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a monster truck with giant wheels",
+    "filename": "monster_truck_giant_wheels",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a convertible car with the roof down",
+    "filename": "convertible_roof_down",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a bicycle with a basket",
+    "filename": "bicycle_with_basket",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a kid on a scooter with helmet",
+    "filename": "scooter_kid_helmet",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a skateboard with lightning design",
+    "filename": "skateboard_lightning",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a bulldozer pushing dirt",
+    "filename": "bulldozer_push_dirt",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a crane lifting a load",
+    "filename": "crane_lifting_load",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a spaceship flying through stars",
+    "filename": "spaceship_through_stars",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a rocket blasting off the pad",
+    "filename": "rocket_blast_pad",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a hovercraft gliding on water",
+    "filename": "hovercraft_on_water",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a canoe on a calm river",
+    "filename": "canoe_calm_river",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "an ice cream truck playing music",
+    "filename": "ice_cream_truck_music",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a tractor working in a field",
+    "filename": "tractor_field_work",
+    "category": "transportation_adventures"
+  },
+  {
+    "description": "a snowman with scarf and hat",
+    "filename": "snowman_scarf_hat",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a spring meadow with flowers",
+    "filename": "spring_meadow_flowers",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a beach scene with sun umbrella",
+    "filename": "beach_sun_umbrella",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "autumn leaves falling from a tree",
+    "filename": "autumn_leaves_tree",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a rainbow after rain",
+    "filename": "rainbow_after_rain",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a kid jumping in puddles with boots",
+    "filename": "kid_puddles_boots",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a kite flying on a breezy day",
+    "filename": "kite_breezy_day",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a thundercloud with lightning bolts",
+    "filename": "thundercloud_lightning",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a sunny smiling sun",
+    "filename": "sunny_smiling_sun",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a windy day with swaying trees",
+    "filename": "windy_day_trees",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a snowflake pattern to color",
+    "filename": "snowflake_pattern",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a cozy cabin in winter snow",
+    "filename": "cozy_cabin_winter",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a picnic under a bright sun",
+    "filename": "picnic_bright_sun",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a scarecrow in a fall field",
+    "filename": "scarecrow_fall_field",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a springtime butterfly garden",
+    "filename": "spring_butterfly_garden",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a sled sliding down a hill",
+    "filename": "sled_down_hill",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a rain cloud with raindrops",
+    "filename": "rain_cloud_raindrops",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a thermometer showing hot day",
+    "filename": "thermometer_hot_day",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a snow-covered pine tree",
+    "filename": "snow_pine_tree",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a blooming cherry tree",
+    "filename": "blooming_cherry_tree",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a sunflower under bright sun",
+    "filename": "sunflower_bright_sun",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a windy pinwheel spinning",
+    "filename": "pinwheel_spinning_wind",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a rainy day with umbrella",
+    "filename": "rainy_day_umbrella",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "an autumn pumpkin patch",
+    "filename": "autumn_pumpkin_patch",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a campfire on a summer night",
+    "filename": "campfire_summer_night",
+    "category": "seasons_weather"
+  },
+  {
+    "description": "a friendly dragon curled around a book",
+    "filename": "friendly_dragon_book",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a baby griffin playing with a ball",
+    "filename": "baby_griffin_ball",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a unicorn jumping over a rainbow",
+    "filename": "unicorn_jump_rainbow",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a fairy sitting on a flower",
+    "filename": "fairy_sitting_flower",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a tiny elf peeking from a mushroom",
+    "filename": "elf_peek_mushroom",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a smiling gnome with a lantern",
+    "filename": "gnome_lantern",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a pegasus flying through clouds",
+    "filename": "pegasus_flying_clouds",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a friendly cyclops with one big eye",
+    "filename": "cyclops_friendly_one_eye",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a phoenix feather glowing",
+    "filename": "phoenix_feather_glow",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a sea serpent waving in the water",
+    "filename": "sea_serpent_wave",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a baby dragon hatching from an egg",
+    "filename": "baby_dragon_hatch",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a wizard owl with a tiny hat",
+    "filename": "wizard_owl_hat",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a magic crystal floating above a stand",
+    "filename": "magic_crystal_floating",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a witch cat stirring a tiny cauldron",
+    "filename": "witch_cat_cauldron",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a friendly yeti building a snowman",
+    "filename": "yeti_building_snowman",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a mermaid playing a harp",
+    "filename": "mermaid_playing_harp",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a dragon blowing heart-shaped smoke",
+    "filename": "dragon_heart_smoke",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a genie popping out of a lamp",
+    "filename": "genie_lamp_pop",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a troll baking cookies",
+    "filename": "troll_baking_cookies",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a kelpie horse splashing in a lake",
+    "filename": "kelpie_horse_lake",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a narwhal with a sparkling horn",
+    "filename": "narwhal_sparkling_horn",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a fairy door in a tree",
+    "filename": "fairy_door_tree",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a dragon sleeping on treasure",
+    "filename": "dragon_sleep_treasure",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a moon sprite dancing under stars",
+    "filename": "moon_sprite_dance",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a crystal ball on a cushion",
+    "filename": "crystal_ball_cushion",
+    "category": "magic_mythical_creatures"
+  },
+  {
+    "description": "a tall fairy-tale castle perched on a green hill with flags waving in the wind",
+    "filename": "castle_hill",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a mighty dragon breathing a stream of flames into the sky",
+    "filename": "dragon_fire",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a graceful fairy with sparkling wings fluttering among flowers",
+    "filename": "fairy_wings",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a smiling frog wearing a small golden crown, sitting on a lily pad",
+    "filename": "frogprince_crown",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a friendly giant holding a big wooden club over his shoulder",
+    "filename": "giant_club",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a brave knight in shining armor holding a sword and shield",
+    "filename": "knight_armor",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a magic lamp with swirling smoke rising from its spout",
+    "filename": "magiclamp_smoke",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a mermaid swimming with colorful fish in a blue ocean",
+    "filename": "mermaid_fish",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a princess in a gown standing in front of her majestic castle",
+    "filename": "princess_castle",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "an open treasure chest overflowing with gold coins and jewels",
+    "filename": "treasure_gold",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a unicorn with a rainbow-colored mane galloping in a meadow",
+    "filename": "unicorn_rainbow",
+    "category": "fantasy_fairy_tales"
+  },
+  {
+    "description": "a wise wizard casting a glowing spell from his staff",
+    "filename": "wizard_spell",
+    "category": "fantasy_fairy_tales"
+  }
+]
