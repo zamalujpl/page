@@ -122,12 +122,5 @@ import assets from "../assets.json";
       localStorage.setItem("theme", "light");
     }
     document.documentElement.setAttribute("data-theme", savedTheme);
-    themeToggle.checked = savedTheme === "dark";
-
-    themeToggle.addEventListener("change", function () {
-      const newTheme = themeToggle.checked ? "dark" : "light";
-      document.documentElement.setAttribute("data-theme", newTheme);
-      localStorage.setItem("theme", newTheme);
-    });
   });
 </script>

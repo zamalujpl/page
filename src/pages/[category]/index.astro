@@ -64,4 +64,7 @@ const items = imageItems.map(toCard);
       headerImgAlt={cat.header ? `${title} header` : undefined}
     />
   </main>
+  <script is:inline>
+    trackEvent();
+  </script>
 </BaseLayout>
