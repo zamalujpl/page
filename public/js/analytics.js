@@ -56,7 +56,6 @@ function trackEvent(eventType = "visit") {
     path: window.location.pathname || "/",
     referrer: document.referrer || "",
     user_agent: navigator.userAgent || "",
-    ip: "",
     ts: new Date().toISOString(),
   };
 
