@@ -31,7 +31,9 @@ const items = Object.entries(assets).map(([objectKey, cat]) => {
       headerImgAlt="Zamaluj.pl header"
     />
   </main>
-  <script is:inline>
-    trackEvent();
+  <script>
+    window.addEventListener("analyticsLoaded", ({ detail: trackEvent }) => {
+      trackEvent();
+    });
   </script>
 </BaseLayout>

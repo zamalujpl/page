@@ -91,10 +91,12 @@ const year = new Date().getFullYear();
       Powrót do kategorii: {catTitle}
     </a>
   </div>
-  <script is:inline>
-    trackEvent();
-    window.addEventListener("beforeprint", () => {
-      trackEvent("print");
+  <script>
+    window.addEventListener("analyticsLoaded", ({ detail: trackEvent }) => {
+      trackEvent();
+      window.addEventListener("beforeprint", () => {
+        trackEvent("print");
+      });
     });
   </script>
 </BaseLayout>
