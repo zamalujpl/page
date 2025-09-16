@@ -144,7 +144,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Expose API
   window.__analyticsForceFlush = () => flushQueue();
-  console.log("[Analytics] loaded, user", USER_UUID);
   window.dispatchEvent(
     new CustomEvent("analyticsLoaded", { detail: trackEvent }),
   );
