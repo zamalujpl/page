@@ -1,6 +1,6 @@
 /* Minimal batched analytics with localStorage queue + exponential backoff */
 document.addEventListener("DOMContentLoaded", function () {
-  const ANALYTICS_ENDPOINT = "https://simple-analytics-m5ck.onrender.com";
+  const ANALYTICS_ENDPOINT = "https://analytics.zamaluj.pl";
   const USER_KEY = "analytics_user_uuid";
   const QUEUE_KEY = "analytics_event_queue_v1";
   const BASE_INTERVAL_MS = 2000;
