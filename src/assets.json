@@ -1998,5 +1998,467 @@
         "description": "a smiling whale spouting water"
       }
     ]
+  },
+  "minecraft": {
+    "title_key": "Minecraft",
+    "description": "",
+    "header": "assets/minecraft/header.png",
+    "items": [
+      {
+        "key": "allay",
+        "file": "assets/minecraft/allay.svg",
+        "description": ""
+      },
+      {
+        "key": "axolotl",
+        "file": "assets/minecraft/axolotl.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_goat",
+        "file": "assets/minecraft/baby_goat.svg",
+        "description": "Minecraft Goat baby jumping high."
+      },
+      {
+        "key": "baby_pig",
+        "file": "assets/minecraft/baby_pig.svg",
+        "description": "Minecraft Baby pig following mother."
+      },
+      {
+        "key": "baby_sniffer",
+        "file": "assets/minecraft/baby_sniffer.svg",
+        "description": "Minecraft Sniffer baby sniffing dirt."
+      },
+      {
+        "key": "baby_turtle",
+        "file": "assets/minecraft/baby_turtle.svg",
+        "description": "Minecraft Tiny baby turtle crawling."
+      },
+      {
+        "key": "baby_villager",
+        "file": "assets/minecraft/baby_villager.svg",
+        "description": "Minecraft Baby villager running around."
+      },
+      {
+        "key": "baby_zombie",
+        "file": "assets/minecraft/baby_zombie.svg",
+        "description": "Minecraft Baby zombie running fast."
+      },
+      {
+        "key": "bat",
+        "file": "assets/minecraft/bat.svg",
+        "description": "Minecraft Brown bat flying in cave."
+      },
+      {
+        "key": "bee",
+        "file": "assets/minecraft/bee.svg",
+        "description": ""
+      },
+      {
+        "key": "blaze",
+        "file": "assets/minecraft/blaze.svg",
+        "description": ""
+      },
+      {
+        "key": "camel",
+        "file": "assets/minecraft/camel.svg",
+        "description": ""
+      },
+      {
+        "key": "cat",
+        "file": "assets/minecraft/cat.svg",
+        "description": ""
+      },
+      {
+        "key": "chicken",
+        "file": "assets/minecraft/chicken.svg",
+        "description": "Minecraft Chicken laying egg."
+      },
+      {
+        "key": "chicken_jockey",
+        "file": "assets/minecraft/chicken_jockey.svg",
+        "description": "Minecraft Chicken jockey riding tiny chicken."
+      },
+      {
+        "key": "cod",
+        "file": "assets/minecraft/cod.svg",
+        "description": "Minecraft Cod fish in cold water."
+      },
+      {
+        "key": "cow",
+        "file": "assets/minecraft/cow.svg",
+        "description": "Minecraft Brown cow making milk."
+      },
+      {
+        "key": "creeper",
+        "file": "assets/minecraft/creeper.svg",
+        "description": ""
+      },
+      {
+        "key": "dancing_parrot",
+        "file": "assets/minecraft/dancing_parrot.svg",
+        "description": "Minecraft Parrot dancing to music."
+      },
+      {
+        "key": "dolphin",
+        "file": "assets/minecraft/dolphin.svg",
+        "description": "Minecraft Dolphin jumping in ocean."
+      },
+      {
+        "key": "drowned",
+        "file": "assets/minecraft/drowned.svg",
+        "description": ""
+      },
+      {
+        "key": "elder_guardian",
+        "file": "assets/minecraft/elder_guardian.svg",
+        "description": ""
+      },
+      {
+        "key": "end_crystal",
+        "file": "assets/minecraft/end_crystal.svg",
+        "description": "Minecraft End crystal floating and glowing."
+      },
+      {
+        "key": "ender_dragon",
+        "file": "assets/minecraft/ender_dragon.svg",
+        "description": ""
+      },
+      {
+        "key": "enderman",
+        "file": "assets/minecraft/enderman.svg",
+        "description": ""
+      },
+      {
+        "key": "endermite",
+        "file": "assets/minecraft/endermite.svg",
+        "description": ""
+      },
+      {
+        "key": "evoker",
+        "file": "assets/minecraft/evoker.svg",
+        "description": ""
+      },
+      {
+        "key": "flying_bee",
+        "file": "assets/minecraft/flying_bee.svg",
+        "description": "Minecraft Bee flying over flowers."
+      },
+      {
+        "key": "fox",
+        "file": "assets/minecraft/fox.svg",
+        "description": ""
+      },
+      {
+        "key": "frog",
+        "file": "assets/minecraft/frog.svg",
+        "description": ""
+      },
+      {
+        "key": "ghast",
+        "file": "assets/minecraft/ghast.svg",
+        "description": ""
+      },
+      {
+        "key": "glow_squid",
+        "file": "assets/minecraft/glow_squid.svg",
+        "description": "Minecraft Glow squid shining underwater."
+      },
+      {
+        "key": "goat",
+        "file": "assets/minecraft/goat.svg",
+        "description": ""
+      },
+      {
+        "key": "guardian",
+        "file": "assets/minecraft/guardian.svg",
+        "description": ""
+      },
+      {
+        "key": "hoglin",
+        "file": "assets/minecraft/hoglin.svg",
+        "description": ""
+      },
+      {
+        "key": "horse",
+        "file": "assets/minecraft/horse.svg",
+        "description": ""
+      },
+      {
+        "key": "husk",
+        "file": "assets/minecraft/husk.svg",
+        "description": ""
+      },
+      {
+        "key": "iron_golem",
+        "file": "assets/minecraft/iron_golem.svg",
+        "description": "Minecraft Iron golem protecting village."
+      },
+      {
+        "key": "llama",
+        "file": "assets/minecraft/llama.svg",
+        "description": "Minecraft Spitting llama carrying chest."
+      },
+      {
+        "key": "magma_cube_big",
+        "file": "assets/minecraft/magma_cube_big.svg",
+        "description": "Minecraft Big magma cube bouncing high."
+      },
+      {
+        "key": "magma_cube_small",
+        "file": "assets/minecraft/magma_cube_small.svg",
+        "description": "Minecraft Small magma cube jumping."
+      },
+      {
+        "key": "mooshroom",
+        "file": "assets/minecraft/mooshroom.svg",
+        "description": "Minecraft Mooshroom red cow with mushrooms."
+      },
+      {
+        "key": "ocelot",
+        "file": "assets/minecraft/ocelot.svg",
+        "description": "Minecraft Ocelot hiding in jungle."
+      },
+      {
+        "key": "panda",
+        "file": "assets/minecraft/panda.svg",
+        "description": "Minecraft Panda eating bamboo."
+      },
+      {
+        "key": "parrot",
+        "file": "assets/minecraft/parrot.svg",
+        "description": ""
+      },
+      {
+        "key": "phantom",
+        "file": "assets/minecraft/phantom.svg",
+        "description": ""
+      },
+      {
+        "key": "pig",
+        "file": "assets/minecraft/pig.svg",
+        "description": "Minecraft Pink pig eating carrots."
+      },
+      {
+        "key": "piglin",
+        "file": "assets/minecraft/piglin.svg",
+        "description": ""
+      },
+      {
+        "key": "piglin_brute",
+        "file": "assets/minecraft/piglin_brute.svg",
+        "description": "Minecraft Piglin brute guarding treasure."
+      },
+      {
+        "key": "pillager",
+        "file": "assets/minecraft/pillager.svg",
+        "description": ""
+      },
+      {
+        "key": "polar_bear",
+        "file": "assets/minecraft/polar_bear.svg",
+        "description": "Minecraft Polar bear walking on ice."
+      },
+      {
+        "key": "pufferfish",
+        "file": "assets/minecraft/pufferfish.svg",
+        "description": "Minecraft Pufferfish inflating in ocean."
+      },
+      {
+        "key": "rabbit",
+        "file": "assets/minecraft/rabbit.svg",
+        "description": "Minecraft Rabbit hopping fast."
+      },
+      {
+        "key": "ravager",
+        "file": "assets/minecraft/ravager.svg",
+        "description": ""
+      },
+      {
+        "key": "resting_camel",
+        "file": "assets/minecraft/resting_camel.svg",
+        "description": "Minecraft Camel sitting on sand."
+      },
+      {
+        "key": "salmon",
+        "file": "assets/minecraft/salmon.svg",
+        "description": "Minecraft Salmon swimming upstream."
+      },
+      {
+        "key": "sheep",
+        "file": "assets/minecraft/sheep.svg",
+        "description": "Minecraft White sheep eating grass."
+      },
+      {
+        "key": "shulker",
+        "file": "assets/minecraft/shulker.svg",
+        "description": ""
+      },
+      {
+        "key": "silver_axolotl",
+        "file": "assets/minecraft/silver_axolotl.svg",
+        "description": "Minecraft Silver axolotl swimming slowly."
+      },
+      {
+        "key": "silverfish",
+        "file": "assets/minecraft/silverfish.svg",
+        "description": ""
+      },
+      {
+        "key": "skeleton",
+        "file": "assets/minecraft/skeleton.svg",
+        "description": ""
+      },
+      {
+        "key": "skeleton_chicken_jockey",
+        "file": "assets/minecraft/skeleton_chicken_jockey.svg",
+        "description": "Minecraft Skeleton riding a baby chicken."
+      },
+      {
+        "key": "skeleton_horse",
+        "file": "assets/minecraft/skeleton_horse.svg",
+        "description": "Minecraft Skeleton horse running fast."
+      },
+      {
+        "key": "slime",
+        "file": "assets/minecraft/slime.svg",
+        "description": ""
+      },
+      {
+        "key": "sniffer",
+        "file": "assets/minecraft/sniffer.svg",
+        "description": ""
+      },
+      {
+        "key": "snow_fox",
+        "file": "assets/minecraft/snow_fox.svg",
+        "description": "Minecraft Fox sleeping in snow."
+      },
+      {
+        "key": "snow_golem",
+        "file": "assets/minecraft/snow_golem.svg",
+        "description": "Minecraft Snow golem throwing snowballs."
+      },
+      {
+        "key": "spider",
+        "file": "assets/minecraft/spider.svg",
+        "description": ""
+      },
+      {
+        "key": "spider_jockey",
+        "file": "assets/minecraft/spider_jockey.svg",
+        "description": "Minecraft Spider jockey skeleton on spider."
+      },
+      {
+        "key": "squid",
+        "file": "assets/minecraft/squid.svg",
+        "description": "Minecraft Squid squirting ink."
+      },
+      {
+        "key": "stray",
+        "file": "assets/minecraft/stray.svg",
+        "description": ""
+      },
+      {
+        "key": "stray_spider_jockey",
+        "file": "assets/minecraft/stray_spider_jockey.svg",
+        "description": "Minecraft Stray skeleton riding spider."
+      },
+      {
+        "key": "strider",
+        "file": "assets/minecraft/strider.svg",
+        "description": "Minecraft Strider walking on lava."
+      },
+      {
+        "key": "tropical_fish",
+        "file": "assets/minecraft/tropical_fish.svg",
+        "description": "Minecraft Tropical fish with bright colors."
+      },
+      {
+        "key": "turtle",
+        "file": "assets/minecraft/turtle.svg",
+        "description": ""
+      },
+      {
+        "key": "vex",
+        "file": "assets/minecraft/vex.svg",
+        "description": ""
+      },
+      {
+        "key": "villager",
+        "file": "assets/minecraft/villager.svg",
+        "description": "Minecraft Villager trading emeralds."
+      },
+      {
+        "key": "vindicator",
+        "file": "assets/minecraft/vindicator.svg",
+        "description": ""
+      },
+      {
+        "key": "wandering_trader",
+        "file": "assets/minecraft/wandering_trader.svg",
+        "description": "Minecraft Wandering trader with llamas."
+      },
+      {
+        "key": "witch",
+        "file": "assets/minecraft/witch.svg",
+        "description": ""
+      },
+      {
+        "key": "wither",
+        "file": "assets/minecraft/wither.svg",
+        "description": ""
+      },
+      {
+        "key": "wither_skeleton",
+        "file": "assets/minecraft/wither_skeleton.svg",
+        "description": ""
+      },
+      {
+        "key": "wither_spider_jockey",
+        "file": "assets/minecraft/wither_spider_jockey.svg",
+        "description": "Minecraft Wither skeleton on spider."
+      },
+      {
+        "key": "wolf",
+        "file": "assets/minecraft/wolf.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie",
+        "file": "assets/minecraft/zombie.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_chicken_jockey",
+        "file": "assets/minecraft/zombie_chicken_jockey.svg",
+        "description": "Minecraft Zombie riding a baby chicken."
+      },
+      {
+        "key": "zombie_horse",
+        "file": "assets/minecraft/zombie_horse.svg",
+        "description": "Minecraft Zombie horse standing still."
+      },
+      {
+        "key": "zombie_pig_jockey",
+        "file": "assets/minecraft/zombie_pig_jockey.svg",
+        "description": "Minecraft Baby zombie riding pig."
+      },
+      {
+        "key": "zombie_sheep_jockey",
+        "file": "assets/minecraft/zombie_sheep_jockey.svg",
+        "description": "Minecraft Baby zombie riding sheep."
+      },
+      {
+        "key": "zombie_wolf_jockey",
+        "file": "assets/minecraft/zombie_wolf_jockey.svg",
+        "description": "Minecraft Baby zombie riding wolf."
+      },
+      {
+        "key": "zombified_piglin",
+        "file": "assets/minecraft/zombified_piglin.svg",
+        "description": ""
+      }
+    ]
   }
 }
