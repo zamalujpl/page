@@ -34,7 +34,7 @@ function getCategorySafe(k) {
 
 const { category } = Astro.props;
 const cat = getCategorySafe(/** @type {string} */ (category));
-const title = cat.title_key ? capitalize(cat.title_key) : capitalize(category);
+const title = cat.title_key ? cat.title_key : capitalize(category);
 
 /** @type {ImageItem[]} */
 const imageItems = /** @type {any} */ (cat.items);
