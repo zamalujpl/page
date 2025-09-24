@@ -2,8 +2,9 @@ import os
 import random
 from PIL import Image
 
-ASSETS_ROOT = "public/assets"
-TEMPLATE_PATH = os.path.join(ASSETS_ROOT, "header_template_alpha.png")
+INPUT_ASSETS_ROOT = "public/assets"
+OUTPUT_ASSETS_ROOT = "public/assets"
+TEMPLATE_PATH = os.path.join("scripts/header_template_alpha.png")
 IMAGE_NAMES = ["outline.png", "pencil.png", "paint.png"]
 SIZE = (400, 400)
 
@@ -46,13 +47,16 @@ def process_folder(folder):
     final.paste(template_overlay, (0, 0), template_overlay)
 
     # Save result
-    out_path = os.path.join(folder, "header.png")
+    rel = os.path.relpath(folder, INPUT_ASSETS_ROOT)
+    dest_folder = os.path.join(OUTPUT_ASSETS_ROOT, rel)
+    os.makedirs(dest_folder, exist_ok=True)
+    out_path = os.path.join(dest_folder, "header.png")
     final.save(out_path)
     log(f"    [DONE] Saved header: {out_path}")
 
 def main():
-    log(f"[START] Scanning {ASSETS_ROOT}")
-    for entry in os.scandir(ASSETS_ROOT):
+    log(f"[START] Scanning {INPUT_ASSETS_ROOT}")
+    for entry in os.scandir(INPUT_ASSETS_ROOT):
         if entry.is_dir():
             log(f"[DIR] {entry.path}")
             process_folder(entry.path)

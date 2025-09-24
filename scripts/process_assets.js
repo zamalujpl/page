@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 // Paths
 const projectRoot = path.resolve(__dirname, "..");
-const toProcessDir = path.join(projectRoot, "public/assets/to_process");
+const toProcessDir = path.join(projectRoot, "private/assets/to_process");
 const assetsJsonPath = path.join(projectRoot, "src/assets.json");
 const descriptionsPath = path.join(toProcessDir, "descriptions.json");
 const assetsBaseDir = path.join(projectRoot, "public/assets");

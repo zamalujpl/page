@@ -1,101 +1,143 @@
 /**
- * Script to recursively check SVG files in a given directory.
- * Ensures all colors are only black (#000, #000000, rgb(0,0,0)) or white (#fff, #ffffff, rgb(255,255,255)).
- * Any other color is replaced with white.
+ * Script to recursively check SVG files in a given directory and ensure
+ * all colors are only black (#000, #000000, rgb(0,0,0)) or white (#fff, #ffffff, rgb(255,255,255)).
+ * Any other detected color literal is replaced with white (#fff).
  *
  * Usage:
  *   node scripts/svg_tools/black_white_svg.js <directory>
+ *
+ * Notes:
+ * - This file is an ES module (project has "type": "module").
+ * - It was converted from a CommonJS version that used require().
  */
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import fsp from "fs/promises";
+import path from "path";
+import { fileURLToPath } from "url";
 
-// Regex to match color values in SVG attributes and styles
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Regex to match color values in SVG attributes and styles.
+// Matches:
+//   - #rgb or #rrggbb
+//   - rgb(r,g,b) with optional spaces
 const COLOR_REGEX =
   /(#(?:[0-9a-fA-F]{3}){1,2}|rgb\(\s*\d+\s*,\s*\d+\s*,\s*\d+\s*\))/gi;
 
-// Acceptable black/white colors
-const ALLOWED_COLORS = [
+// Acceptable black/white colors (normalized forms also considered)
+const ALLOWED_COLORS = new Set([
   "#000",
   "#000000",
   "rgb(0,0,0)",
   "#fff",
   "#ffffff",
   "rgb(255,255,255)",
-];
+]);
 
-// Normalize color for comparison
 function normalizeColor(color) {
-  color = color.toLowerCase();
-  if (color.startsWith("rgb")) {
-    // Remove spaces
-    color = color.replace(/\s+/g, "");
+  let c = color.toLowerCase();
+  if (c.startsWith("rgb")) {
+    c = c.replace(/\s+/g, "");
   }
-  return color;
+  return c;
 }
 
-// Replace non-black/white colors with white
-function fixSvgColors(svgContent) {
+/**
+ * Replace non black/white colors with white (#fff)
+ * @param {string} svgContent
+ * @returns {string}
+ */
+export function fixSvgColors(svgContent) {
   return svgContent.replace(COLOR_REGEX, (match) => {
     const norm = normalizeColor(match);
-    if (ALLOWED_COLORS.includes(norm)) {
-      return match;
-    }
-    // Replace with white
+    if (ALLOWED_COLORS.has(norm)) return match;
     return "#fff";
   });
 }
 
-// Recursively find SVG files
-function findSvgFiles(dir) {
-  let results = [];
-  const list = fs.readdirSync(dir);
-  list.forEach((file) => {
-    const filePath = path.join(dir, file);
-    const stat = fs.statSync(filePath);
-    if (stat && stat.isDirectory()) {
-      results = results.concat(findSvgFiles(filePath));
-    } else if (file.toLowerCase().endsWith(".svg")) {
-      results.push(filePath);
+/**
+ * Recursively collect SVG file paths
+ * @param {string} dir
+ * @returns {Promise<string[]>}
+ */
+async function findSvgFiles(dir) {
+  const results = [];
+  async function walk(current) {
+    const entries = await fsp.readdir(current, { withFileTypes: true });
+    for (const entry of entries) {
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        await walk(full);
+      } else if (entry.isFile() && entry.name.toLowerCase().endsWith(".svg")) {
+        results.push(full);
+      }
     }
-  });
+  }
+  await walk(dir);
   return results;
 }
 
-// Main
-function main() {
+async function processFile(filePath) {
+  const original = await fsp.readFile(filePath, "utf8");
+  const fixed = fixSvgColors(original);
+  if (fixed !== original) {
+    await fsp.writeFile(filePath, fixed, "utf8");
+    console.log(`Fixed colors in: ${filePath}`);
+    return true;
+  }
+  return false;
+}
+
+async function main() {
   const targetDir = process.argv[2];
   if (!targetDir) {
     console.error(
       "Usage: node scripts/svg_tools/black_white_svg.js <directory>",
     );
-    process.exit(1);
+    process.exitCode = 1;
+    return;
   }
 
   const absDir = path.resolve(targetDir);
-  if (!fs.existsSync(absDir) || !fs.statSync(absDir).isDirectory()) {
+  let stat;
+  try {
+    stat = await fsp.stat(absDir);
+  } catch {
     console.error(`Directory does not exist: ${absDir}`);
-    process.exit(1);
+    process.exitCode = 1;
+    return;
+  }
+  if (!stat.isDirectory()) {
+    console.error(`Not a directory: ${absDir}`);
+    process.exitCode = 1;
+    return;
   }
 
-  const svgFiles = findSvgFiles(absDir);
+  const svgFiles = await findSvgFiles(absDir);
   let changedCount = 0;
 
-  svgFiles.forEach((file) => {
-    const original = fs.readFileSync(file, "utf8");
-    const fixed = fixSvgColors(original);
-    if (original !== fixed) {
-      fs.writeFileSync(file, fixed, "utf8");
-      console.log(`Fixed colors in: ${file}`);
-      changedCount++;
-    }
-  });
+  // Process sequentially to avoid overwhelming FS (SVG count typically small)
+  for (const file of svgFiles) {
+    const changed = await processFile(file);
+    if (changed) changedCount++;
+  }
 
   console.log(
     `Checked ${svgFiles.length} SVG files. Fixed ${changedCount} files.`,
   );
 }
 
-if (require.main === module) {
-  main();
+// Detect direct execution (similar to require.main === module in CommonJS)
+if (import.meta.url === `file://${process.argv[1]}`) {
+  // Wrap in top-level await pattern via immediately invoked async
+  (async () => {
+    try {
+      await main();
+    } catch (err) {
+      console.error("Error:", err?.message || err);
+      process.exitCode = 1;
+    }
+  })();
 }

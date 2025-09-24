@@ -12,7 +12,8 @@
     "png-to-svg:assets": "bash scripts/png_to_svg.sh -d public/assets",
     "png-to-svg:color": "bash scripts/png_to_svg_color.sh",
     "process-assets": "node scripts/process_assets.js",
-    "svg:black-white": "node scripts/svg_tools/black_white_svg.js public/assets"
+    "svg:black-white": "node scripts/svg_tools/black_white_svg.js public/assets",
+    "assets:orchestrate": "node scripts/orchestrate_assets.js"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
