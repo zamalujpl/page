@@ -61,7 +61,8 @@ const items = imageItems.map(toCard);
       headerImgSrc={cat.header
         ? `/${cat.header.replace(/\.[^/.]+$/, "")}.png`
         : undefined}
-      headerImgAlt={cat.header ? `${title} header` : undefined}
+      headerImgAlt={cat.header ? `${title}` : undefined}
+      headerDescription={cat.description}
     />
   </main>
   <script>

@@ -1,7 +1,7 @@
 {
   "animals": {
     "title_key": "Zwierzęta",
-    "description": "",
+    "description": "Kolorowanki ze zwierzętami – drukuj darmowe obrazki z kotami, psami, lwami i innymi zwierzętami, rozwijaj kreatywność i miłość do natury.",
     "header": "assets/animals/header.svg",
     "items": [
       {
@@ -198,7 +198,7 @@
   },
   "nature": {
     "title_key": "Przyroda",
-    "description": "",
+    "description": "Kolorowanki przyrodnicze: kwiaty, drzewa, krajobrazy – koloruj i zbliż się do natury dzięki darmowym wzorom do druku.",
     "header": "assets/nature/header.png",
     "items": [
       {
@@ -330,7 +330,7 @@
   },
   "vehicles": {
     "title_key": "Pojazdy",
-    "description": "",
+    "description": "Kolorowanki pojazdy: auta, samoloty, traktory i wszelkie maszyny – idealne dla fanów motoryzacji, do druku za darmo.",
     "header": "assets/vehicles/header.png",
     "items": [
       {
@@ -457,7 +457,7 @@
   },
   "christmas": {
     "title_key": "Boże Narodzenie",
-    "description": "",
+    "description": "Świąteczne kolorowanki: choinka, Mikołaj, prezenty – pobierz i wydrukuj darmowe obrazki na Boże Narodzenie.",
     "header": "assets/christmas/header.png",
     "items": [
       {
@@ -589,7 +589,7 @@
   },
   "easter": {
     "title_key": "Wielkanoc",
-    "description": "",
+    "description": "Kolorowanki wielkanocne: pisanki, zajączki, koszyki – świąteczna inspiracja do druku i kolorowania dla dzieci.",
     "header": "assets/easter/header.png",
     "items": [
       {
@@ -701,7 +701,7 @@
   },
   "fantasy_fairy_tales": {
     "title_key": "Bajki i fantazja",
-    "description": "",
+    "description": "Kolorowanki z bohaterami i światem fantazji – magia, wróżki, smoki – pobierz darmowe obrazki i rozwijaj wyobraźnię.",
     "header": "assets/fantasy_fairy_tales/header.png",
     "items": [
       {
@@ -833,7 +833,7 @@
   },
   "halloween": {
     "title_key": "Halloween",
-    "description": "",
+    "description": "Kolorowanki Halloween: dynie, duchy, czarownice – pobierz darmowe wzory idealne na jesienną zabawę kolorowania.",
     "header": "assets/halloween/header.png",
     "items": [
       {
@@ -960,7 +960,7 @@
   },
   "professions": {
     "title_key": "Zawody",
-    "description": "",
+    "description": "Kolorowanki przedstawiające zawody: lekarz, strażak, nauczyciel – idealne do nauki i zabawy przez kolorowanie.",
     "header": "assets/professions/header.png",
     "items": [
       {
@@ -1092,7 +1092,7 @@
   },
   "circus_carnival": {
     "title_key": "Cyrk i karnawał",
-    "description": "",
+    "description": "Kolorowanki cyrkowe i karnawałowe: klauny, akrobaci, stoiska – świetna zabawa z kreatywnym wydrukiem.",
     "header": "assets/circus_carnival/header.png",
     "items": [
       {
@@ -1224,7 +1224,7 @@
   },
   "dinosaurs_prehistoric": {
     "title_key": "Dinozaury i prehistoria",
-    "description": "",
+    "description": "Kolorowanki dinozaurów i prehistorycznych stworzeń – fascynująca podróż w świat jurajski w formie obrazków do druku.",
     "header": "assets/dinosaurs_prehistoric/header.png",
     "items": [
       {
@@ -1356,7 +1356,7 @@
   },
   "food_treats": {
     "title_key": "Jedzenie i smakołyki",
-    "description": "",
+    "description": "Kolorowanki jedzeniowe: lody, owoce, ciasta – pobierz darmowe wzory i baw się kolorując apetyczne obrazki.",
     "header": "assets/food_treats/header.png",
     "items": [
       {
@@ -1488,7 +1488,7 @@
   },
   "seasons_weather": {
     "title_key": "Pory roku i pogoda",
-    "description": "",
+    "description": "Kolorowanki sezonowe i pogodowe: lato, zima, deszcz, słońce – rozwijaj świadomość przyrody przez kolorowanie.",
     "header": "assets/seasons_weather/header.png",
     "items": [
       {
@@ -1605,7 +1605,7 @@
   },
   "space_science": {
     "title_key": "Kosmos i nauka",
-    "description": "",
+    "description": "Kolorowanki kosmiczne i edukacyjne: planety, rakiety, eksperymenty – pobierz darmowe wzory, rozwijaj wiedzę i kreatywność.",
     "header": "assets/space_science/header.png",
     "items": [
       {
@@ -1737,7 +1737,7 @@
   },
   "sports_activities": {
     "title_key": "Sport i aktywności",
-    "description": "",
+    "description": "Kolorowanki sportowe: piłka nożna, taniec, pływanie – dla miłośników ruchu, do druku i kolorowania.",
     "header": "assets/sports_activities/header.png",
     "items": [
       {
@@ -1869,7 +1869,7 @@
   },
   "underwater_world": {
     "title_key": "Podwodny świat",
-    "description": "",
+    "description": "Kolorowanki podwodne: ryby, rafy koralowe, morskie istoty – zanurz się w kolorowy świat oceanu.",
     "header": "assets/underwater_world/header.png",
     "items": [
       {
@@ -2001,7 +2001,7 @@
   },
   "minecraft": {
     "title_key": "Minecraft",
-    "description": "",
+    "description": "Kolorowanki z motywami Minecraft – pikselowy świat, postacie i budowle – idealne dla fanów gry, do wydruku.",
     "header": "assets/minecraft/header.png",
     "items": [
       {
