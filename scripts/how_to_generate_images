@@ -1,0 +1,18 @@
+1. Generate Image ideas
+PROMPT:
+Example output { "description": "a wise wizard casting a glowing spell from his staff", "filename": "wizard_spell", "category": "fantasy_fairy_tales" } Category: Minecraft Task: Create a list of coloring books description with minecraft characters. One coloring book can containe one, two, up to three chracters, then can interact with eachother and/or can have itemes from the game: bow, axe, sword etc... Before you give final answer consider double check if assumptions are right
+
+2. Copy the output from step 1 local storage
+ * localStorage.setItem("images", JSON.stringify([
+ *   {
+ *     description: "a robot walking a dog in space",
+ *     category: "sci-fi",
+ *     filename: "robot_dog"
+ *   }
+ * ]));
+
+3. Download images using CGPT `Downdload button`
+
+4. modify private/assets/to_process/descriptions.json
+
+5.
