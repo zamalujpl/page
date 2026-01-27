@@ -1,0 +1,157 @@
+{
+  "category_slug": "jedzenie-i-smakolyki",
+  "category_title": "Jedzenie i smakołyki",
+  "category_description": "Przygotuj kredki, bo robi się pysznie! Nasza kolekcja kolorowanek z jedzeniem i smakołykami to prawdziwa uczta dla oczu i wyobraźni. Przygotowaliśmy dziesiątki darmowych rysunków do druku, które przedstawiają ulubione potrawy i desery dzieci i dorosłych. Znajdziesz tu soczyste owoce, słodkie lody, kolorowe babeczki, apetyczną pizzę i wiele, wiele więcej. Nasze kolorowanki to świetny sposób na rozwijanie kreatywności i... apetytu! To także doskonała okazja do rozmowy o smakach, zdrowym odżywianiu i różnych kuchniach świata. Każdy obrazek to zaproszenie do stworzenia własnej, kolorowej książki kucharskiej. Pobieraj, drukuj i baw się, zamieniając proste rysunki w prawdziwe dzieła sztuki kulinarnej. Smacznego kolorowania!",
+  "images": [
+    {
+      "key": "banana_split_dessert",
+      "slug": "deser-bananowy-banana-split",
+      "title": "Deser bananowy Banana Split",
+      "description": "Klasyczny deser lodowy Banana Split z bananem, gałkami lodów, bitą śmietaną i polewą. To prawdziwa bomba kaloryczna, ale jak pysznie wygląda! Pokoloruj lody na ulubione smaki."
+    },
+    {
+      "key": "birthday_cake_candles",
+      "slug": "kawaler-tortu-urodzinowego-ze-swieczkami",
+      "title": "Kawałek tortu urodzinowego ze świeczkami",
+      "description": "Apetyczny kawałek tortu urodzinowego z zapalonymi świeczkami. Czas pomyśleć życzenie! Ta kolorowanka jest idealna do stworzenia własnej kartki urodzinowej."
+    },
+    {
+      "key": "blueberry_muffin",
+      "slug": "babeczka-jagodowa",
+      "title": "Babeczka jagodowa",
+      "description": "Puszysta babeczka z borówkami amerykańskimi. Wygląda jak prosto z najlepszej cukierni. Pokoloruj jagody na fioletowo, a ciasto na złocisty kolor."
+    },
+    {
+      "key": "bowl_strawberries",
+      "slug": "miska-truskawek",
+      "title": "Miska pełna truskawek",
+      "description": "Miska po brzegi wypełniona świeżymi, czerwonymi truskawkami. To symbol lata i słońca. Ta kolorowanka jest prosta i idealna dla najmłodszych dzieci."
+    },
+    {
+      "key": "burger_fries_tray",
+      "slug": "burger-z-frytkami",
+      "title": "Burger z frytkami",
+      "description": "Soczysty burger z serem i warzywami podany na tacy ze złotymi, chrupiącymi frytkami. To jedno z najpopularniejszych dań na świecie. Aż ślinka cieknie!"
+    },
+    {
+      "key": "candy_cane_stripes",
+      "slug": "laska-cukrowa-w-paski",
+      "title": "Laska cukrowa w paski",
+      "description": "Klasyczna, biało-czerwona laska cukrowa. Kojarzy się głównie ze świętami, ale jest pyszna przez cały rok. To prosta i przyjemna kolorowanka."
+    },
+    {
+      "key": "cheese_wedge_crackers",
+      "slug": "kawalek-sera-z-krakersami",
+      "title": "Kawałek sera z krakersami",
+      "description": "Kawałek żółtego sera z dziurami i słone krakersy to idealna przekąska. Czy wiesz, że dziury w serze tworzą bakterie? Pokoloruj ser na apetyczny, żółty kolor."
+    },
+    {
+      "key": "chocolate_bar_squares",
+      "slug": "tabliczka-czekolady",
+      "title": "Tabliczka czekolady",
+      "description": "Tabliczka pysznej, mlecznej czekolady podzielona na kostki. Kto nie kocha czekolady? Twoje dziecko może pokolorować każdą kostkę na inny 'smak'."
+    },
+    {
+      "key": "cupcake_fluffy_frosting",
+      "slug": "babeczka-z-puszystym-kremem",
+      "title": "Babeczka z puszystym kremem",
+      "description": "Słodka babeczka z dużą porcją puszystego, różowego kremu na wierzchu. Wygląda jak z bajki! Możesz dorysować na niej kolorową posypkę lub owoc."
+    },
+    {
+      "key": "donut_chocolate_glaze",
+      "slug": "paczek-z-czekolada",
+      "title": "Pączek z czekoladą",
+      "description": "Pączek z dziurką (donut) polany błyszczącą, czekoladową polewą. To ulubiony przysmak policjantów z amerykańskich filmów. Pokoloruj go tak, by wyglądał jak najsmaczniej."
+    },
+    {
+      "key": "grapes_purple_bunch",
+      "slug": "kisc-fioletowych-winogron",
+      "title": "Kiść fioletowych winogron",
+      "description": "Kiść soczystych, fioletowych winogron. Robi się z nich pyszny sok i wino. Użyj różnych odcieni fioletu, aby nadać im głębi."
+    },
+    {
+      "key": "hot_dog_mustard",
+      "slug": "hot-dog-z-musztarda",
+      "title": "Hot dog z musztardą",
+      "description": "Klasyczny hot dog w bułce, polany musztardą. To szybka i popularna przekąska na całym świecie. Możesz dorysować do niego ketchupu lub inne dodatki."
+    },
+    {
+      "key": "ice_cream_sprinkles",
+      "slug": "lody-w-wafelku-z-posypka",
+      "title": "Lody w wafelku z posypką",
+      "description": "Gałka lodów w chrupiącym wafelku, posypana kolorową posypką. Idealny deser na upalny dzień. Jaki to smak? Truskawkowy, śmietankowy, a może gumy balonowej?"
+    },
+    {
+      "key": "lollipop_swirly",
+      "slug": "kolorowy-lizak-w-paski",
+      "title": "Kolorowy lizak w paski",
+      "description": "Duży, okrągły lizak w tęczowe, kręcone paski. Wygląda tak wesoło i słodko! Użyj wszystkich swoich ulubionych kolorów, aby go ozdobić."
+    },
+    {
+      "key": "milkshake_with_straw",
+      "slug": "koktajl-mleczny-z-rurka",
+      "title": "Koktajl mleczny z rurką",
+      "description": "Gęsty, kremowy koktajl mleczny (milkshake) podany w wysokiej szklance z rurką. Może jest truskawkowy, a może czekoladowy? Ty decydujesz!"
+    },
+    {
+      "key": "pancake_butter_plate",
+      "slug": "nalesnik-z-maslem",
+      "title": "Naleśnik z masłem",
+      "description": "Ciepły, puszysty naleśnik (pancake) z kostką topiącego się masła na wierzchu. To klasyczne amerykańskie śniadanie. Polej go w wyobraźni syropem klonowym."
+    },
+    {
+      "key": "pancakes_stack_syrup",
+      "slug": "stos-nalesnikow-z-syropem",
+      "title": "Stos naleśników z syropem",
+      "description": "Wysoki stos puszystych naleśników (pancakes) polany obficie syropem klonowym. Wygląda niezwykle apetycznie. To idealne, słodkie śniadanie."
+    },
+    {
+      "key": "pizza_extra_cheese",
+      "slug": "kawaler-pizzy-z-dodatkowym-serem",
+      "title": "Kawałek pizzy z dodatkowym serem",
+      "description": "Gorący kawałek pizzy z ciągnącym się, roztopionym serem. Pizza to jedno z ulubionych dań na całym świecie. Jakie są Twoje ulubione dodatki?"
+    },
+    {
+      "key": "popcorn_bucket_kernels",
+      "slug": "popcorn-w-pudelku",
+      "title": "Popcorn w pudełku",
+      "description": "Pudełko w czerwono-białe paski, wypełnione po brzegi prażoną kukurydzą. Popcorn to nieodłączny towarzysz seansów filmowych. Pokoloruj go tak, by wyglądał jak w prawdziwym kinie."
+    },
+    {
+      "key": "pretzel_salt_crystals",
+      "slug": "precel-z-sola",
+      "title": "Precel z solą",
+      "description": "Tradycyjny, chrupiący precel posypany grubymi kryształkami soli. To popularna przekąska w wielu krajach. Pokoloruj go na złocisto-brązowy kolor."
+    },
+    {
+      "key": "salad_bowl_colorful",
+      "slug": "kolorowa-salatka",
+      "title": "Kolorowa sałatka",
+      "description": "Miska pełna świeżych, kolorowych warzyw - sałaty, pomidorów, ogórków. To samo zdrowie! Ta kolorowanka to świetna okazja, by porozmawiać o witaminach."
+    },
+    {
+      "key": "sandwich_lettuce_tomato",
+      "slug": "kanapka-z-salata-i-pomidorem",
+      "title": "Kanapka z sałatą i pomidorem",
+      "description": "Pyszna, zdrowa kanapka ze świeżą sałatą i plasterkami pomidora. Idealna na drugie śniadanie do szkoły. Jakie są Twoje ulubione kanapki?"
+    },
+    {
+      "key": "taco_tasty_toppings",
+      "slug": "taco-z-dodatkami",
+      "title": "Taco z dodatkami",
+      "description": "Chrupiąca muszla taco wypełniona mięsem, warzywami i pysznymi dodatkami. To popularne danie kuchni meksykańskiej. Pokoloruj każdy składnik na inny kolor."
+    },
+    {
+      "key": "watermelon_juicy_slice",
+      "slug": "soczysty-kawalek-arbuza",
+      "title": "Soczysty kawałek arbuza",
+      "description": "Trójkątny, soczysty kawałek arbuza z czarnymi pestkami. To idealny owoc na gaszenie pragnienia w gorący, letni dzień. Poczuj jego słodki smak!"
+    },
+    {
+      "key": "cinnamon_roll_warm",
+      "slug": "ciepla-drozdzowka-z-cynamonem",
+      "title": "Ciepła drożdżówka z cynamonem",
+      "description": "Apetyczna, zwinięta drożdżówka z cynamonem, polana słodkim lukrem. Pachnie tak, że nie można się oprzeć! To idealny dodatek do popołudniowej herbaty."
+    }
+  ]
+}

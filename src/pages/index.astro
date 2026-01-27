@@ -3,24 +3,40 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import assets from "../assets.json";
 import IndexTemplate from "../templates/IndexTemplate.astro";
 
-/** @template T
- * @param {T[]} arr
- * @returns {T}
- */
+const contentFiles = import.meta.glob('../content/kolorowanki/*.json', { eager: true });
+
 function getRandomItem(arr) {
+  if (!arr || arr.length === 0) return null;
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-const items = Object.entries(assets).map(([objectKey, cat]) => {
-  const randomItem = getRandomItem(cat.items);
+const items = Object.entries(contentFiles).map(([path, contentModule]) => {
+  const content = contentModule.default;
+  const categoryKey = path.split('/').pop().replace('.json', '');
+  const assetCategory = assets[categoryKey];
+
+  if (!assetCategory || !assetCategory.items || assetCategory.items.length === 0) {
+    return null; // Skip category if no assets
+  }
+  
+  const randomAssetItem = getRandomItem(assetCategory.items);
+  if (!randomAssetItem) return null;
+
+  const randomImageContent = content.images.find(img => img.key === randomAssetItem.key);
+
+  // If a matching image content is not found, skip this item
+  if (!randomImageContent) {
+    return null;
+  }
+
   return {
-    href: `/${objectKey}/`,
-    imgSrc: `/${randomItem.file}`,
-    imgAlt: randomItem.key,
-    title: cat.title_key,
-    buttonText: cat.title_key,
+    href: `/${content.category_slug}/`,
+    imgSrc: `/${randomAssetItem.file}`,
+    imgAlt: randomImageContent.title,
+    title: content.category_title,
+    buttonText: "Zobacz",
   };
-});
+}).filter(Boolean); // Remove null entries
 ---
 
 <BaseLayout title="Kolorowanki dla wszystkich" bodyClass="bg-base-200">

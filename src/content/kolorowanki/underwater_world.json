@@ -1,0 +1,157 @@
+{
+  "category_slug": "podwodny-swiat",
+  "category_title": "Podwodny świat",
+  "category_description": "Zanurz się w głębinach oceanu i odkryj jego tajemnice z naszą kolekcją podwodnych kolorowanek! Przygotowaliśmy mnóstwo darmowych rysunków do druku, które przedstawiają fascynujące życie tętniące pod powierzchnią wody. Znajdziesz tu kolorowe rybki, majestatyczne wieloryby, przyjazne delfiny, tajemnicze ośmiornice i piękne rafy koralowe. Nasze kolorowanki to wspaniała przygoda i lekcja biologii morskiej w jednym. Dzieci mogą poznawać różne gatunki morskich stworzeń, uczyć się o ekosystemach i rozwijać swoją wyobraźnię, tworząc własne, podwodne krajobrazy. Każdy obrazek to zaproszenie do świata ciszy, spokoju i niezwykłych form życia. Pobieraj, drukuj i daj się porwać podwodnej przygodzie, nie wychodząc z domu!",
+  "images": [
+    {
+      "key": "beach_bucket_shells",
+      "slug": "wiaderko-i-muszelki-na-plazy",
+      "title": "Wiaderko i muszelki na plaży",
+      "description": "Kolorowe wiaderko i piękne muszelki leżą na piasku. To skarby, które morze wyrzuciło na brzeg. Idealna pamiąka z wakacji nad wodą."
+    },
+    {
+      "key": "clam_with_pearl",
+      "slug": "malza-z-perla",
+      "title": "Małża z perłą",
+      "description": "Otwarta muszla małży ukazuje w środku błyszczącą perłę. Perły to prawdziwe klejnoty tworzone przez naturę. Pokoloruj wnętrze muszli na perłowy kolor."
+    },
+    {
+      "key": "coral_reef_shapes",
+      "slug": "rafa-koralowa-pelna-ksztaltow",
+      "title": "Rafa koralowa pełna kształtów",
+      "description": "Rafa koralowa to podwodny ogród pełen niezwykłych kształtów i kolorów. Jest domem dla tysięcy morskich stworzeń. Użyj całej palety barw, aby oddać jej piękno."
+    },
+    {
+      "key": "crab_sandy_bed",
+      "slug": "krab-na-piaszczystym-dnie",
+      "title": "Krab na piaszczystym dnie",
+      "description": "Czerwony krab z wielkimi szczypcami spaceruje bokiem po piaszczystym dnie oceanu. Kraby to ciekawe skorupiaki, które potrafią szybko biegać."
+    },
+    {
+      "key": "diver_thumbs_up",
+      "slug": "nurek-pokazujacy-kciuk-w-gore",
+      "title": "Nurek pokazujący kciuk w górę",
+      "description": "Nurek w masce i z butlą tlenową pokazuje gest 'wszystko w porządku'. Odkrywanie podwodnego świata to jego pasja. Otocz go kolorowymi rybkami."
+    },
+    {
+      "key": "dolphin_jump_waves",
+      "slug": "delfin-skaczacy-przez-fale",
+      "title": "Delfin skaczący przez fale",
+      "description": "Radosny delfin wyskakuje wysoko z wody, bawiąc się na falach. Delfiny to jedne z najmądrzejszych i najbardziej przyjaznych stworzeń morskich."
+    },
+    {
+      "key": "fish_school_heart",
+      "slug": "lawica-ryb-w-ksztalcie-serca",
+      "title": "Ławica ryb w kształcie serca",
+      "description": "Małe rybki płyną razem w ławicy, tworząc kształt serca. To piękny symbol miłości do oceanu i jego mieszkańców. Pokoloruj każdą rybkę na inny kolor."
+    },
+    {
+      "key": "hermit_crab_swirl_shell",
+      "slug": "rak-pustelnik-w-muszli",
+      "title": "Rak pustelnik w muszli",
+      "description": "Mały rak pustelnik znalazł sobie dom w pustej, spiralnej muszli ślimaka. Kiedy rośnie, musi znaleźć sobie nową, większą muszlę. To bardzo pomysłowe zwierzątko."
+    },
+    {
+      "key": "jellyfish_floating",
+      "slug": "dryfujaca-meduza",
+      "title": "Dryfująca meduza",
+      "description": "Delikatna, galaretowata meduza unosi się w toni wodnej. Jej ramiona mogą parzyć, ale na obrazku jest zupełnie bezpieczna. Pokoloruj ją na pastelowe, przezroczyste barwy."
+    },
+    {
+      "key": "kelp_forest_fish",
+      "slug": "las-wodorostow-z-rybami",
+      "title": "Las wodorostów z rybami",
+      "description": "Wysokie wodorosty tworzą podwodny las, w którym ukrywają się małe rybki. To bogaty i ważny ekosystem. Użyj wielu odcieni zieleni i błękitu."
+    },
+    {
+      "key": "lighthouse_ocean",
+      "slug": "latarnia-morska-nad-oceanem",
+      "title": "Latarnia morska nad oceanem",
+      "description": "Wysoka latarnia morska stoi na brzegu, wysyłając światło i wskazując drogę statkom. To symbol bezpieczeństwa i nadziei dla marynarzy."
+    },
+    {
+      "key": "lobster_waving_claw",
+      "slug": "homar-machajacy-szczypcami",
+      "title": "Homar machający szczypcami",
+      "description": "Duży, czerwony homar macha swoimi potężnymi szczypcami. Homary to duże skorupiaki, które żyją na dnie oceanu. Pokoloruj go na intensywny, czerwony kolor."
+    },
+    {
+      "key": "manta_ray_glide",
+      "slug": "szybujaca-mantra",
+      "title": "Szybująca mantra",
+      "description": "Ogromna manta, zwana diabłem morskim, 'szybuje' w wodzie, poruszając swoimi wielkimi płetwami niczym skrzydłami. To majestatyczny i łagodny olbrzym."
+    },
+    {
+      "key": "mermaid_tail_splash",
+      "slug": "ogon-syreny-pluskajacy-w-wodzie",
+      "title": "Ogon syreny pluskający w wodzie",
+      "description": "Ogon syreny z błyszczącymi łuskami wynurza się z wody, tworząc plusk. Gdzie jest reszta syreny? To tajemnica, którą możesz odkryć, kolorując ten obrazek."
+    },
+    {
+      "key": "octopus_waving",
+      "slug": "machajaca-osmiornica",
+      "title": "Machająca ośmiornica",
+      "description": "Inteligentna ośmiornica macha swoimi ośmioma mackami. Ośmiornice potrafią zmieniać kolor i kształt, by ukryć się przed wrogami. To fascynujące stworzenie."
+    },
+    {
+      "key": "otter_holding_shell",
+      "slug": "wydra-trzymajaca-muszle",
+      "title": "Wydra trzymająca muszlę",
+      "description": "Zabawna wydra morska pływa na plecach, trzymając na brzuchu muszlę. Wydry używają kamieni, by otwierać skorupiaki. To jedne z najsłodszych morskich ssaków."
+    },
+    {
+      "key": "pirate_treasure_undersea",
+      "slug": "piracki-skarb-na-dnie-morza",
+      "title": "Piracki skarb na dnie morza",
+      "description": "Zatopiona skrzynia skarbów, pełna złotych monet, leży na dnie morza. Strzegą jej ryby i wodorosty. To pozostałość po dawnych, pirackich przygodach."
+    },
+    {
+      "key": "pufferfish_puffed",
+      "slug": "nadymajaca-sie-rozdymka",
+      "title": "Nadymająca się rozdymka",
+      "description": "Mała rybka rozdymka nadyma się jak balon, by odstraszyć drapieżniki. Wygląda wtedy jak kolczasta piłka. To zabawny i ciekawy mechanizm obronny."
+    },
+    {
+      "key": "sea_lion_clap",
+      "slug": "lew-morski-klaszczacy-pletwami",
+      "title": "Lew morski klaszczący płetwami",
+      "description": "Wesoły lew morski klaszcze w swoje płetwy. To bardzo inteligentne zwierzęta, które można nauczyć wielu sztuczek. Pokoloruj go na gładki, brązowy kolor."
+    },
+    {
+      "key": "sea_turtle_coral",
+      "slug": "zolw-morski-przy-rafie-koralowej",
+      "title": "Żółw morski przy rafie koralowej",
+      "description": "Wielki żółw morski spokojnie płynie obok kolorowej rafy koralowej. Żółwie morskie to starożytne gady, które odbywają dalekie podróże po oceanach."
+    },
+    {
+      "key": "seahorse_seaweed",
+      "slug": "konik-morski-w-wodorostach",
+      "title": "Konik morski w wodorostach",
+      "description": "Malutki konik morski chwyta się ogonem wodorostu, by nie porwał go prąd. Czy wiesz, że u koników morskich to samiec nosi w torbie jajeczka?"
+    },
+    {
+      "key": "shark_smile",
+      "slug": "usmiechniety-rekin",
+      "title": "Uśmiechnięty rekin",
+      "description": "Duży rekin uśmiecha się, pokazując swoje ostre zęby. Choć rekiny budzą strach, w rzeczywistości rzadko atakują ludzi. Ten wygląda na całkiem przyjaznego!"
+    },
+    {
+      "key": "starfish_on_rock",
+      "slug": "rozgwiazda-na-skale",
+      "title": "Rozgwiazda na skale",
+      "description": "Pięcioramienna rozgwiazda przyczepiła się do podwodnej skały. Rozgwiazdy potrafią odrastać swoje ramiona! Pokoloruj ją na dowolny, jaskrawy kolor."
+    },
+    {
+      "key": "submarine_round_windows",
+      "slug": "lodz-podwodna-z-okraglymi-oknami",
+      "title": "Łódź podwodna z okrągłymi oknami",
+      "description": "Łódź podwodna z okrągłymi oknami, zwanymi bulajami, pozwala obserwować podwodny świat. Co widać przez okna? Możesz to narysować!"
+    },
+    {
+      "key": "whale_spout_water",
+      "slug": "wieloryb-tryskajacy-woda",
+      "title": "Wieloryb tryskający wodą",
+      "description": "Ogromny, uśmiechnięty wieloryb wypuszcza fontannę wody ze swojego nozdrza na grzbiecie. Wieloryby to największe zwierzęta na Ziemi. Ta kolorowanka pokazuje ich łagodną naturę."
+    }
+  ]
+}

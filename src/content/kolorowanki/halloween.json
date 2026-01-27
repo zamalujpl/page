@@ -1,0 +1,151 @@
+{
+  "category_slug": "halloween",
+  "category_title": "Halloween",
+  "category_description": "Przygotuj się na najstraszniejszą noc w roku z naszą kolekcją kolorowanek na Halloween! Oferujemy mnóstwo darmowych rysunków do druku, które wprowadzą do Twojego domu atmosferę zabawy z dreszczykiem. Znajdziesz tu wszystkie symbole Halloween: od uśmiechniętych dyń (Jack-o'-lantern), przez przyjazne duszki, aż po tajemnicze czarownice i ich czarne koty. Nasze kolorowanki to świetny sposób na kreatywne przygotowania do Halloween. Możecie wspólnie tworzyć mroczne dekoracje, ozdabiać dom na przyjęcie lub po prostu miło spędzić jesienny wieczór. Każdy obrazek to zaproszenie do świata duchów, wampirów i innych potworów, które wcale nie muszą być straszne! To doskonała okazja do oswojenia dziecięcych lęków poprzez zabawę i śmiech. Pobieraj, drukuj i koloruj, tworząc własną galerię halloweenowych postaci.",
+  "images": [
+    {
+      "key": "bat_cookie",
+      "slug": "ciasteczko-nietoperz",
+      "title": "Ciasteczko w kształcie nietoperza",
+      "description": "Pyszne, halloweenowe ciasteczko w kształcie nietoperza. Wygląda tak apetycznie, że aż chce się je zjeść! Pokoloruj je na ciemnobrązowo, jakby było zrobione z czekolady."
+    },
+    {
+      "key": "bat_moon",
+      "slug": "nietoperz-na-tle-ksiezyca",
+      "title": "Nietoperz na tle księżyca",
+      "description": "Nietoperz leci na tle wielkiego, świecącego księżyca w pełni. To klasyczny, nieco mroczny motyw z horrorów. Idealny do stworzenia klimatycznego obrazka."
+    },
+    {
+      "key": "blackcat_witchhat",
+      "slug": "czarny-kot-w-kapeluszu-czarownicy",
+      "title": "Czarny kot w kapeluszu czarownicy",
+      "description": "Tajemniczy czarny kot założył spiczasty kapelusz czarownicy. Czy to jej pomocnik? Czarny kot to jeden z najbardziej znanych symboli Halloween."
+    },
+    {
+      "key": "broom_pumpkin",
+      "slug": "miotla-oparta-o-dynie",
+      "title": "Miotła oparta o dynię",
+      "description": "Magiczna miotła czarownicy stoi oparta o dużą, halloweenową dynię. Czarownica pewnie jest gdzieś w pobliżu! To prosty, ale bardzo klimatyczny obrazek."
+    },
+    {
+      "key": "candybucket_sweets",
+      "slug": "wiaderko-na-cukierki",
+      "title": "Wiaderko na cukierki",
+      "description": "Wiaderko w kształcie dyni, wypełnione po brzegi słodyczami zebranymi podczas zabawy w 'cukierek albo psikus'. Pokoloruj cukierki we wszystkie kolory tęczy."
+    },
+    {
+      "key": "cauldron_bubbles",
+      "slug": "kociol-czarownicy-z-babelkami",
+      "title": "Kocioł czarownicy z bąbelkami",
+      "description": "W wielkim kotle czarownicy bulgocze tajemniczy, zielony eliksir. Co ona tam warzy? Ta kolorowanka pobudza wyobraźnię i zachęca do tworzenia własnych historii."
+    },
+    {
+      "key": "ghost_candy",
+      "slug": "duszek-z-cukierkiem",
+      "title": "Duszek z cukierkiem",
+      "description": "Przyjazny duszek trzyma w rączce lizaka. Udowadnia, że nie wszystkie duchy są straszne! To słodka i prosta kolorowanka dla najmłodszych."
+    },
+    {
+      "key": "ghost_graveyard",
+      "slug": "duch-na-cmentarzu",
+      "title": "Duch na cmentarzu",
+      "description": "Duch unosi się nad starymi nagrobkami na cmentarzu o północy. To bardziej mroczna propozycja dla starszych dzieci, które lubią historie z dreszczykiem."
+    },
+    {
+      "key": "gravestone_rip",
+      "slug": "nagrobek-z-napisem-rip",
+      "title": "Nagrobek z napisem R.I.P.",
+      "description": "Stary, kamienny nagrobek z napisem 'R.I.P.' (Spoczywaj w pokoju). To nieodłączny element każdego strasznego cmentarza. Dorysuj obok niego pająka lub czarnego kota."
+    },
+    {
+      "key": "hauntedhouse_bats",
+      "slug": "nawiedzony-dom-z-nietoperzami",
+      "title": "Nawiedzony dom z nietoperzami",
+      "description": "Stary, opuszczony dom, nad którym krążą nietoperze. W oknach widać tajemnicze światła. Kto odważy się wejść do środka? To kolorowanka dla odważnych!"
+    },
+    {
+      "key": "jackolantern_smile",
+      "slug": "usmiechnieta-dynia-jack-o-lantern",
+      "title": "Uśmiechnięta dynia Jack-o'-lantern",
+      "description": "Klasyczna, uśmiechnięta dynia z wyciętymi oczami, nosem i ustami. To najważniejszy symbol Halloween. Pokoloruj ją na intensywny pomarańczowy kolor."
+    },
+    {
+      "key": "magicwand_sparkles",
+      "slug": "magiczna-rozdzka-z-iskierkami",
+      "title": "Magiczna różdżka z iskierkami",
+      "description": "Magiczna różdżka rzucająca wokół świetliste iskierki. Należy do czarownicy, a może do dobrej wróżki? Użyj błyszczących i jaskrawych kolorów."
+    },
+    {
+      "key": "moon_stars",
+      "slug": "ksiezyc-w-pelni-z-gwiazdami",
+      "title": "Księżyc w pełni z gwiazdami",
+      "description": "Księżyc w pełni na ciemnym, rozgwieżdżonym niebie. Taka sceneria to idealne tło dla wszystkich halloweenowych opowieści. Dorysuj na jego tle lecącą czarownicę."
+    },
+    {
+      "key": "mummy_bandages",
+      "slug": "mumia-w-bandazach",
+      "title": "Mumia w bandażach",
+      "description": "Starożytna mumia, cała owinięta w bandaże, powoli idzie przed siebie. Czy wiesz, że mumie pochodzą ze starożytnego Egiptu? To ciekawa i nieco straszna postać."
+    },
+    {
+      "key": "pumpkin_carriage",
+      "slug": "dyniowa-kareta",
+      "title": "Dyniowa kareta",
+      "description": "Kareta zrobiona z wielkiej dyni, zupełnie jak w bajce o Kopciuszku. W Halloween nawet zwykłe warzywa mogą stać się magiczne! Pokoloruj ją na bajkowe, błyszczące kolory."
+    },
+    {
+      "key": "scarecrow_pumpkinfield",
+      "slug": "strach-na-wroble-na-polu-dyn",
+      "title": "Strach na wróble na polu dyń",
+      "description": "Strach na wróble stoi na polu pełnym dojrzałych dyń. W nocy może wyglądać trochę strasznie! To idealny obrazek oddający klimat jesieni i Halloween."
+    },
+    {
+      "key": "skeleton_dance",
+      "slug": "tanczacy-szkielet",
+      "title": "Tańczący szkielet",
+      "description": "Zabawny szkielet tańczy wesoło. Kto powiedział, że szkielety muszą być straszne? Ten na pewno jest w świetnym humorze. Prosta kolorowanka, która oswaja strach."
+    },
+    {
+      "key": "spellbook_magic",
+      "slug": "magiczna-ksiega-zaklec",
+      "title": "Magiczna księga zaklęć",
+      "description": "Stara, oprawiona w skórę księga pełna tajemniczych zaklęć i receptur na magiczne eliksiry. Jakie sekrety skrywa? To zależy od wyobraźni Twojego dziecka."
+    },
+    {
+      "key": "spider_web",
+      "slug": "pajak-na-pajeczynie",
+      "title": "Pająk na pajęczynie",
+      "description": "Duży pająk wisi na swojej starannie utkanej pajęczynie. Pajęczyny to nieodłączny element każdego nawiedzonego domu. Świetne ćwiczenie na precyzyjne kolorowanie."
+    },
+    {
+      "key": "trickortreat_bag",
+      "slug": "torba-na-cukierki-albo-psikus",
+      "title": "Torba na 'cukierek albo psikus'",
+      "description": "Torba na słodycze z napisem 'Trick or Treat'. Jest gotowa do wypełnienia cukierkami podczas halloweenowej wędrówki po domach. Dzieci mogą ją ozdobić według własnego pomysłu."
+    },
+    {
+      "key": "vampire_smile",
+      "slug": "usmiechniety-wampir",
+      "title": "Uśmiechnięty wampir",
+      "description": "Elegancki wampir w pelerynie uśmiecha się, pokazując swoje ostre kły. Mimo groźnego wyglądu, wydaje się być w dobrym nastroju. Pokoloruj jego pelerynę na czarno lub fioletowo."
+    },
+    {
+      "key": "werewolf_moon",
+      "slug": "wilkolak-wyjacy-do-ksiezyca",
+      "title": "Wilkołak wyjący do księżyca",
+      "description": "Podczas pełni księżyca człowiek zamienia się w wilkołaka i wyje przeraźliwie. To postać z legend dla odważnych miłośników horrorów. Pokoloruj go w odcieniach szarości i brązu."
+    },
+    {
+      "key": "witch_broomstick",
+      "slug": "czarownica-na-miotlce",
+      "title": "Czarownica na miotle",
+      "description": "Uśmiechnięta czarownica w spiczastym kapeluszu leci na swojej magicznej miotle. Może leci na zlot czarownic? Ta przyjazna postać na pewno spodoba się dzieciom."
+    },
+    {
+      "key": "witchhat_buckle",
+      "slug": "kapelusz-czarownicy-z-klamra",
+      "title": "Kapelusz czarownicy z klamrą",
+      "description": "Czarny, spiczasty kapelusz czarownicy z dużą, złotą klamrą. To najważniejszy atrybut każdej wiedźmy. Prosty rysunek, idealny do ozdabiania zaproszeń na bal Halloween."
+    }
+  ]
+}

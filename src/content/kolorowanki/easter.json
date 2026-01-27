@@ -1,0 +1,133 @@
+{
+  "category_slug": "wielkanoc",
+  "category_title": "Wielkanoc",
+  "category_description": "Świętuj nadejście wiosny z naszą kolekcją kolorowanek wielkanocnych! Znajdziesz tu mnóstwo darmowych rysunków do druku, które wprowadzą do Twojego domu radosną, świąteczną atmosferę. Czekają na Ciebie pisanki w fantazyjne wzory, słodkie zajączki, puszyste kurczaczki i koszyczki pełne smakołyków. Nasze kolorowanki to doskonały sposób na rodzinne przygotowania do Wielkanocy. Możecie wspólnie tworzyć unikalne dekoracje, ozdabiać świąteczny stół lub przygotowywać własnoręczne kartki z życzeniami dla najbliższych. Każdy obrazek został stworzony z myślą o rozwijaniu kreatywności i zdolności manualnych dzieci w każdym wieku. To świetna zabawa, która uczy tradycji i symboli związanych z tymi wiosennymi świętami. Pobieraj, drukuj i ciesz się kolorowaniem, wprowadzając do swojego domu powiew wiosennej świeżości i radości.",
+  "images": [
+    {
+      "key": "basket_eastereggs",
+      "slug": "koszyczek-z-pisankami",
+      "title": "Koszyczek z pisankami",
+      "description": "Pięknie udekorowany koszyczek wielkanocny wypełniony kolorowymi pisankami. To centralny element świąt. Dzieci mogą ozdobić każdą pisankę innym, unikalnym wzorem."
+    },
+    {
+      "key": "bunny_bicycle_eggs",
+      "slug": "zajaczek-na-rowerze-z-jajkami",
+      "title": "Zajączek na rowerze z jajkami",
+      "description": "Zabawny zajączek jedzie na rowerze, wioząc w koszyku wielkanocne jajka. To dynamiczna i wesoła kolorowanka, która na pewno spodoba się dzieciom."
+    },
+    {
+      "key": "bunny_carrotcar",
+      "slug": "zajaczek-w-aucie-z-marchewki",
+      "title": "Zajączek w aucie z marchewki",
+      "description": "Kreatywny zajączek prowadzi samochód zrobiony z marchewki. To niezwykle pomysłowy i zabawny obrazek, który pobudzi wyobraźnię każdego malucha."
+    },
+    {
+      "key": "bunny_chick_play",
+      "slug": "zajaczek-i-kurczaczek-bawia-sie-razem",
+      "title": "Zajączek i kurczaczek bawią się razem",
+      "description": "Uroczy zajączek i mały, puszysty kurczaczek bawią się razem na łące. To obrazek pełen przyjaźni i wiosennej radości. Idealny dla najmłodszych artystów."
+    },
+    {
+      "key": "bunny_decoratedegg",
+      "slug": "zajaczek-z-ozdobionym-jajkiem",
+      "title": "Zajączek z ozdobionym jajkiem",
+      "description": "Słodki zajączek trzyma w łapkach duże, pięknie ozdobione jajko wielkanocne. Zachęć dziecko, aby zaprojektowało własny wzór na pisance."
+    },
+    {
+      "key": "bunny_hidingeggs",
+      "slug": "zajaczek-chowajacy-jajka",
+      "title": "Zajączek chowający jajka",
+      "description": "Wielkanocny zajączek chowa kolorowe jajka w trawie. Szukanie jajek to popularna świąteczna zabawa. Ta kolorowanka może być do niej wspaniałym wstępem."
+    },
+    {
+      "key": "bunny_paintingegg",
+      "slug": "zajaczek-malujacy-pisanke",
+      "title": "Zajączek malujący pisankę",
+      "description": "Skupiony zajączek maluje pędzelkiem wzory na wielkanocnej pisance. To scena pełna precyzji i artystycznego zacięcia. Idealna dla małych miłośników malowania."
+    },
+    {
+      "key": "bunny_sleeping_flowers",
+      "slug": "spiacy-zajaczek-wsrod-kwiatow",
+      "title": "Śpiący zajączek wśród kwiatów",
+      "description": "Zmęczony po świątecznych przygotowaniach zajączek śpi smacznie w otoczeniu wiosennych kwiatów. To spokojna i relaksująca kolorowanka."
+    },
+    {
+      "key": "bunnyfamily_picnic",
+      "slug": "rodzina-zajaczkow-na-pikniku",
+      "title": "Rodzina zajączków na pikniku",
+      "description": "Cała rodzina zajączków urządziła sobie wielkanocny piknik na łące. To ciepła, rodzinna scena, która pokazuje radość ze wspólnie spędzanego czasu."
+    },
+    {
+      "key": "butterfly_flowers",
+      "slug": "motyl-nad-kwiatami",
+      "title": "Motyl nad kwiatami",
+      "description": "Kolorowy motyl unosi się nad wiosennymi kwiatami. Motyle to piękny symbol przemiany i budzącej się do życia przyrody. Użyj najpiękniejszych kolorów do jego skrzydeł."
+    },
+    {
+      "key": "carrotpatch_bunny",
+      "slug": "zajaczek-w-grzadce-marchewki",
+      "title": "Zajączek w grządce marchewki",
+      "description": "Zabawny zajączek wygląda z grządki pełnej dorodnych marchewek. To jego ulubiony przysmak! Pokoloruj marchewki na pomarańczowo, a natkę na zielono."
+    },
+    {
+      "key": "chick_basket",
+      "slug": "kurczaczek-z-koszyczkiem",
+      "title": "Kurczaczek z koszyczkiem",
+      "description": "Mały, żółty kurczaczek trzyma w skrzydełku mały koszyczek. Może też wybiera się na poszukiwanie pisanek? To prosty i uroczy rysunek dla małych dzieci."
+    },
+    {
+      "key": "chick_bunnyears",
+      "slug": "kurczaczek-w-uszach-zajaca",
+      "title": "Kurczaczek w uszach zająca",
+      "description": "Zabawny kurczaczek założył na głowę uszy zajączka. To dowód na wspaniałą przyjaźń między wielkanocnymi symbolami. Ta kolorowanka na pewno wywoła uśmiech."
+    },
+    {
+      "key": "chick_hatching",
+      "slug": "kurczaczek-wykluwajacy-sie-z-jajka",
+      "title": "Kurczaczek wykluwający się z jajka",
+      "description": "Mały kurczaczek właśnie wykluwa się z kolorowej pisanki. To symbol nowego życia i wiosny. Scena pełna uroku i pozytywnej energii."
+    },
+    {
+      "key": "chick_paintbrush",
+      "slug": "kurczaczek-z-pedzlem",
+      "title": "Kurczaczek z pędzlem",
+      "description": "Mały kurczaczek artysta trzyma w skrzydełku pędzel, gotowy do malowania. Może właśnie skończył ozdabiać pisanki? To kreatywna i zabawna kolorowanka."
+    },
+    {
+      "key": "chocolate_bunny",
+      "slug": "czekoladowy-zajaczek",
+      "title": "Czekoladowy zajączek",
+      "description": "Duży, apetyczny zajączek zrobiony z czekolady. To jeden z ulubionych świątecznych smakołyków. Pokoloruj go na różne odcienie brązu, by wyglądał jak z pysznej czekolady."
+    },
+    {
+      "key": "easteregghunt_garden",
+      "slug": "poszukiwanie-jajek-w-ogrodzie",
+      "title": "Poszukiwanie jajek w ogrodzie",
+      "description": "Scena przedstawiająca poszukiwanie jajek wielkanocnych w kwitnącym ogrodzie. Dzieci mogą dorysować siebie, szukających ukrytych przez zajączka skarbów."
+    },
+    {
+      "key": "lamb_bow",
+      "slug": "baranek-ze-wstazka",
+      "title": "Baranek ze wstążką",
+      "description": "Słodki baranek wielkanocny z kokardą na szyi. Baranek jest ważnym symbolem świąt Wielkanocnych. Jego białe futerko pięknie kontrastuje z kolorową wstążką."
+    },
+    {
+      "key": "nest_coloredeggs",
+      "slug": "gniazdko-z-kolorowymi-jajkami",
+      "title": "Gniazdko z kolorowymi jajkami",
+      "description": "Ptasie gniazdko wypełnione małymi, kolorowymi jajeczkami. To symbol nowego życia i płodności, idealnie pasujący do wiosennej atmosfery Wielkanocy."
+    },
+    {
+      "key": "painted_eastereggs",
+      "slug": "malowane-pisanki",
+      "title": "Malowane pisanki",
+      "description": "Grupa pięknie malowanych pisanek w różnorodne wzory. To świetna okazja, aby dziecko puściło wodze fantazji i stworzyło własne, niepowtarzalne projekty zdobień."
+    },
+    {
+      "key": "picnic_easter",
+      "slug": "piknik-wielkanocny",
+      "title": "Piknik wielkanocny",
+      "description": "Wiosenny piknik ze świątecznymi smakołykami, takimi jak babka wielkanocna i mazurek. To scena pełna słońca, radości i pysznego jedzenia."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import assets from "../../assets.json";
+import PrintFooter from "../../components/PrintFooter.astro";
+
+export async function getStaticPaths() {
+  const contentFiles = import.meta.glob('../../content/kolorowanki/*.json');
+  const paths = [];
+  for (const path in contentFiles) {
+    const categoryModule = await contentFiles[path]();
+    const categoryContent = categoryModule.default;
+    const categoryKey = path.split('/').pop().replace('.json', '');
+
+    for (const image of categoryContent.images) {
+      paths.push({
+        params: {
+          category_slug: categoryContent.category_slug,
+          slug: image.slug,
+        },
+        props: {
+          image,
+          categoryKey,
+          categoryTitle: categoryContent.category_title,
+          categoryDescription: categoryContent.category_description
+        },
+      });
+    }
+  }
+  return paths;
+}
+
+const { image, categoryKey, categoryTitle, categoryDescription } = Astro.props;
+const assetItem = assets[categoryKey]?.items.find(item => item.key === image.key);
+
+if (!assetItem) {
+  return new Response(null, { status: 404 });
+}
+
+const title = image.title;
+const description = image.description;
+---
+<BaseLayout
+  title={title}
+  description={description}
+  bodyClass="bg-base-100"
+  showSidebar={true}
+>
+  <div
+    id="print-area"
+    class="w-full max-w-2xl flex flex-col items-center bg-base-100 px-2 sm:px-4 pt-4 sm:pt-6 mt-2 sm:mt-4"
+  >
+    <img
+      src={`/${assetItem.file}`}
+      alt={title}
+      id="main-image"
+      class="w-full h-auto max-w-full max-h-[70vh] md:max-h-[80vh] object-contain mb-4 md:mb-6"
+      width={800}
+      height={600}
+      title={title}
+      loading="eager"
+      decoding="async"
+    />
+    <PrintFooter />
+  </div>
+  <div
+    class="no-print flex flex-col gap-3 items-center justify-center mt-2 mb-6 md:mb-8 w-full max-w-2xl px-2 sm:px-4"
+  >
+    <button
+      onclick="window.print();"
+      class="btn btn-primary btn-md md:btn-sm w-full sm:w-auto px-6"
+    >
+      Drukuj obrazek
+    </button>
+    <a
+      href={`/${Astro.params.category_slug}/`}
+      class="text-primary hover:underline w-full sm:w-auto text-center sm:text-left"
+      title={categoryDescription}
+      aria-label={`Powrót do kategorii ${categoryTitle}`}
+    >
+      Powrót do kategorii: {categoryTitle}
+    </a>
+  </div>
+  <script>
+    window.addEventListener("analyticsLoaded", ({ detail: trackEvent }) => {
+      trackEvent();
+      window.addEventListener("beforeprint", () => {
+        trackEvent("print");
+      });
+    });
+  </script>
+</BaseLayout>

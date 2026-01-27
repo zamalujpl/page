@@ -1,5 +1,11 @@
 ---
-import assets from "../assets.json";
+const contentFiles = await import.meta.glob('../content/kolorowanki/*.json');
+const categories = await Promise.all(
+  Object.values(contentFiles).map(async (importer) => {
+    const module = await importer();
+    return module.default;
+  })
+);
 ---
 
 <aside
@@ -8,13 +14,13 @@ import assets from "../assets.json";
 >
   <ul class="menu menu-vertical rounded-box">
     {
-      Object.entries(assets).map(([objectKey, cat]) => (
+      categories.map((cat) => (
         <li>
           <a
-            href={`/${objectKey}/`}
+            href={`/${cat.category_slug}/`}
             class="font-semibold transition-colors duration-200 hover:bg-primary hover:text-white rounded px-2 py-1"
           >
-            {cat.title_key}
+            {cat.category_title}
           </a>
         </li>
       ))

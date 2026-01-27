@@ -1,0 +1,157 @@
+{
+  "category_slug": "kosmos-i-nauka",
+  "category_title": "Kosmos i nauka",
+  "category_description": "Odkryj tajemnice wszechświata i fascynujący świat nauki z naszą edukacyjną kolekcją kolorowanek. Przygotowaliśmy dziesiątki darmowych rysunków do druku, które zabiorą Cię w niezwykłą podróż – od odległych galaktyk, przez nasz Układ Słoneczny, aż po wnętrze laboratorium. Znajdziesz tu rakiety kosmiczne, planety, astronautów, a także mikroskopy i probówki. Nasze kolorowanki to fantastyczny sposób na rozbudzenie w dzieciach ciekawości świata i pasji do odkrywania. To nie tylko kreatywna zabawa, ale również wspaniała lekcja astronomii, chemii i fizyki w jednym. Każdy obrazek to okazja do zadawania pytań i szukania na nie odpowiedzi. Pobieraj, drukuj i koloruj, stając się małym odkrywcą i naukowcem we własnym domu.",
+  "images": [
+    {
+      "key": "alien_wave_hello",
+      "slug": "przyjazny-kosmita-macha-reka",
+      "title": "Przyjazny kosmita macha ręką",
+      "description": "Zielony, przyjazny kosmita z dużymi oczami macha na powitanie. Czy kosmici istnieją? Ta kolorowanka to świetny pretekst do rozmowy o życiu pozaziemskim."
+    },
+    {
+      "key": "asteroid_floating",
+      "slug": "asteroida-w-przestrzeni-kosmicznej",
+      "title": "Asteroida w przestrzeni kosmicznej",
+      "description": "Duża, skalista asteroida dryfuje w przestrzeni kosmicznej. Asteroidy to małe ciała niebieskie krążące wokół Słońca. Pokoloruj ją na odcienie szarości i brązu."
+    },
+    {
+      "key": "astronaut_flag_moon",
+      "slug": "astronauta-z-flaga-na-ksiezycu",
+      "title": "Astronauta z flagą na Księżycu",
+      "description": "Astronauta w skafandrze wbija flagę w powierzchnię Księżyca. To historyczny moment dla ludzkości. Dorysuj w tle Ziemię widoczną z Księżyca."
+    },
+    {
+      "key": "astronaut_tether",
+      "slug": "astronauta-na-uwiezi-kosmicznej",
+      "title": "Astronauta na uwięzi kosmicznej",
+      "description": "Astronauta unosi się w przestrzeni kosmicznej, połączony ze statkiem za pomocą specjalnej liny (uwięzi). To zapewnia mu bezpieczeństwo podczas spacerów kosmicznych."
+    },
+    {
+      "key": "black_hole_swirls",
+      "slug": "kreskowkowa-czarna-dziura",
+      "title": "Kreskówkowa czarna dziura",
+      "description": "Zabawna, kreskówkowa wersja czarnej dziury, która wciąga wszystko wokół. Czarne dziury to obiekty o tak silnej grawitacji, że nic nie może z nich uciec, nawet światło."
+    },
+    {
+      "key": "bright_star_shining",
+      "slug": "jasno-swiecaca-gwiazda",
+      "title": "Jasno świecąca gwiazda",
+      "description": "Wielka, jasno świecąca gwiazda na ciemnym niebie. Gwiazdy to ogromne kule gazu, które produkują światło i ciepło. Słońce też jest gwiazdą!"
+    },
+    {
+      "key": "capsule_parachute",
+      "slug": "kapsula-kosmiczna-ze-spadochronem",
+      "title": "Kapsuła kosmiczna ze spadochronem",
+      "description": "Kapsuła kosmiczna z astronautami wraca na Ziemię, opadając na wielkim spadochronie. To kulminacyjny moment każdej misji kosmicznej. Pokoloruj spadochron w kolorowe pasy."
+    },
+    {
+      "key": "comet_streak",
+      "slug": "kometa-na-niebie",
+      "title": "Kometa na niebie",
+      "description": "Kometa z długim, świecącym warkoczem przelatuje przez nocne niebo. Komety to bryły lodu, skał i pyłu. Ich warkocz powstaje, gdy zbliżają się do Słońca."
+    },
+    {
+      "key": "constellation_kite",
+      "slug": "gwiazdozbior-w-ksztalcie-latawca",
+      "title": "Gwiazdozbiór w kształcie latawca",
+      "description": "Gwiazdy na niebie połączone w konstelację, która przypomina latawiec. Ludzie od wieków łączyli gwiazdy w różne wzory. Wymyśl własny gwiazdozbiór!"
+    },
+    {
+      "key": "mars_rover_wheels",
+      "slug": "lazik-marsjanski-z-duzymi-kolami",
+      "title": "Łazik marsjański z dużymi kołami",
+      "description": "Zdalnie sterowany łazik z wielkimi kołami bada powierzchnię Marsa. Dzięki takim pojazdom poznajemy tajemnice Czerwonej Planety. Pokoloruj marsjański krajobraz na czerwono."
+    },
+    {
+      "key": "meteor_shower_mountains",
+      "slug": "deszcz-meteorow-nad-gorami",
+      "title": "Deszcz meteorów nad górami",
+      "description": "'Spadające gwiazdy', czyli deszcz meteorów, rozświetlają niebo nad górami. To piękne zjawisko astronomiczne. Narysuj jak najwięcej świetlistych smug."
+    },
+    {
+      "key": "moon_craters_close",
+      "slug": "ksiezyc-z-kraterami",
+      "title": "Księżyc z kraterami",
+      "description": "Zbliżenie na powierzchnię Księżyca, pokrytą licznymi kraterami. Kratery powstały w wyniku uderzeń asteroid i komet. To surowy, ale piękny krajobraz."
+    },
+    {
+      "key": "planet_many_moons",
+      "slug": "planeta-z-wieloma-ksiezycami",
+      "title": "Planeta z wieloma księżycami",
+      "description": "Egzotyczna planeta otoczona przez wiele małych księżyców. Niektóre planety w naszym Układzie Słonecznym, jak Jowisz, mają dziesiątki księżyców."
+    },
+    {
+      "key": "ringed_planet_moons",
+      "slug": "planeta-z-pierscieniami-i-ksiezycami",
+      "title": "Planeta z pierścieniami i księżycami",
+      "description": "Wielka planeta gazowa z charakterystycznymi pierścieniami, podobna do Saturna. Pierścienie składają się z miliardów kawałków lodu i skał. To jeden z najpiękniejszych widoków w kosmosie."
+    },
+    {
+      "key": "rocket_blastoff",
+      "slug": "start-rakiety-kosmicznej",
+      "title": "Start rakiety kosmicznej",
+      "description": "Potężna rakieta kosmiczna startuje, wznosząc się w niebo na ognistym ogonie. Start rakiety to niesamowite widowisko pełne mocy i huku. Pokoloruj płomienie na jaskrawe kolory."
+    },
+    {
+      "key": "rocket_launch_pad",
+      "slug": "rakieta-na-platformie-startowej",
+      "title": "Rakieta na platformie startowej",
+      "description": "Rakieta stoi na platformie startowej, gotowa do odliczania i startu w kosmos. To początek każdej wielkiej misji. Scena pełna napięcia i oczekiwania."
+    },
+    {
+      "key": "satellite_orbit_earth",
+      "slug": "satelita-orbitujacy-wokol-ziemi",
+      "title": "Satelita orbitujący wokół Ziemi",
+      "description": "Satelita telekomunikacyjny z panelami słonecznymi krąży po orbicie wokół Ziemi. Dzięki satelitom mamy internet, telewizję i nawigację GPS."
+    },
+    {
+      "key": "scientist_star_charts",
+      "slug": "naukowiec-badajacy-mapy-nieba",
+      "title": "Naukowiec badający mapy nieba",
+      "description": "Astronom bada mapy nieba, śledząc ruch gwiazd i planet. To praca wymagająca cierpliwości i precyzji, ale dająca ogromną wiedzę o wszechświecie."
+    },
+    {
+      "key": "solar_system_model",
+      "slug": "model-ukladu-slonecznego",
+      "title": "Model Układu Słonecznego",
+      "description": "Model przedstawiający Słońce i krążące wokół niego planety. To świetna pomoc naukowa. Czy potrafisz nazwać wszystkie planety po kolei?"
+    },
+    {
+      "key": "space_shuttle_landing",
+      "slug": "ladujacy-wahadlowiec-kosmiczny",
+      "title": "Lądujący wahadłowiec kosmiczny",
+      "description": "Wahadłowiec kosmiczny ląduje na pasie startowym, niczym samolot. Wahadłowce to statki kosmiczne wielokrotnego użytku, które odbyły wiele misji."
+    },
+    {
+      "key": "space_station_panels",
+      "slug": "stacja-kosmiczna-z-panelami-slonecznymi",
+      "title": "Stacja kosmiczna z panelami słonecznymi",
+      "description": "Międzynarodowa Stacja Kosmiczna (ISS) z wielkimi panelami słonecznymi, które dostarczają jej energii. Na stacji na stałe mieszkają i pracują astronauci."
+    },
+    {
+      "key": "spaceship_among_planets",
+      "slug": "statek-kosmiczny-miedzy-planetami",
+      "title": "Statek kosmiczny między planetami",
+      "description": "Statek kosmiczny podróżuje między różnymi, kolorowymi planetami. To scena jak z filmu science-fiction. Puść wodze fantazji i stwórz własną galaktykę."
+    },
+    {
+      "key": "spiral_galaxy",
+      "slug": "galaktyka-spiralna",
+      "title": "Galaktyka spiralna",
+      "description": "Piękna galaktyka spiralna z miliardami gwiazd. Nasza galaktyka, Droga Mleczna, też jest galaktyką spiralną. Pokoloruj jej ramiona na tajemnicze, kosmiczne barwy."
+    },
+    {
+      "key": "telescope_twinkle_stars",
+      "slug": "teleskop-skierowany-na-gwiazdy",
+      "title": "Teleskop skierowany na gwiazdy",
+      "description": "Teleskop skierowany w stronę nocnego nieba, pełnego migoczących gwiazd. Dzięki teleskopom możemy oglądać obiekty oddalone o miliony lat świetlnych."
+    },
+    {
+      "key": "ufo_zooming",
+      "slug": "ufo-przelatujace-po-niebie",
+      "title": "UFO przelatujące po niebie",
+      "description": "Niezidentyfikowany Obiekt Latający, czyli UFO, w kształcie latającego spodka, przelatuje z dużą prędkością. Czy na pokładzie są kosmici? To pozostaje tajemnicą."
+    }
+  ]
+}

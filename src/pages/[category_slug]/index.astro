@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import assets from "../../assets.json";
+import IndexTemplate from "../../templates/IndexTemplate.astro";
+
+export async function getStaticPaths() {
+    const contentFiles = import.meta.glob('../../content/kolorowanki/*.json');
+    const paths = [];
+    for (const path in contentFiles) {
+        const categoryModule = await contentFiles[path]();
+        const categoryKey = path.split('/').pop().replace('.json', '');
+        paths.push({
+            params: { category_slug: categoryModule.default.category_slug },
+            props: { categoryKey }
+        });
+    }
+    return paths;
+}
+
+const { categoryKey } = Astro.props;
+
+const contentModule = await import(`../../content/kolorowanki/${categoryKey}.json`);
+const content = contentModule.default;
+
+if (!content) {
+    return new Response(null, { status: 404 });
+}
+
+const assetCategory = assets[categoryKey];
+
+const items = content.images.map(image => {
+    const assetItem = assetCategory.items.find(item => item.key === image.key);
+    return {
+        href: `/${content.category_slug}/${image.slug}`,
+        imgSrc: assetItem ? `/${assetItem.file}` : '',
+        imgAlt: image.title,
+        title: image.title,
+        buttonText: "Zobacz",
+        description: image.description,
+    };
+});
+
+const { category_title, category_description } = content;
+---
+<BaseLayout title={category_title} description={category_description} bodyClass="bg-base-200">
+  <main class="flex-1 flex flex-col pt-0 bg-base-200 min-h-0">
+    <IndexTemplate
+      items={items}
+      headerImgSrc={`/assets/${categoryKey}/header.png`}
+      headerImgAlt={category_title}
+      headerDescription={category_description}
+    />
+  </main>
+  <script>
+    window.addEventListener("analyticsLoaded", ({ detail: trackEvent }) => {
+      trackEvent();
+    });
+  </script>
+</BaseLayout>

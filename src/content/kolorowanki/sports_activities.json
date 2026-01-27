@@ -1,0 +1,157 @@
+{
+  "category_slug": "sport-i-aktywnosci",
+  "category_title": "Sport i aktywności",
+  "category_description": "Ruszaj się i baw się dobrze z naszą dynamiczną kolekcją kolorowanek o sporcie i aktywnościach fizycznych! Przygotowaliśmy mnóstwo darmowych rysunków do druku, które zachęcą każde dziecko do ruchu i zdrowego stylu życia. Znajdziesz tu piłkarzy strzelających gole, koszykarzy wykonujących wsady, baletnice w eleganckich pozach i wiele innych dyscyplin sportowych. Nasze kolorowanki to świetny sposób na promowanie aktywności fizycznej i ducha sportowej rywalizacji. To także doskonała okazja do poznawania zasad różnych gier i rozmowy o ulubionych sportowcach. Każdy obrazek to zaproszenie do świata, w którym liczy się ruch, zdrowie i dobra zabawa. Pobieraj, drukuj i koloruj, tworząc własną galerię sportowych mistrzów i inspirując się do aktywnego spędzania czasu!",
+  "images": [
+    {
+      "key": "baseball_home_run",
+      "slug": "baseballista-odbijajacy-pilke",
+      "title": "Baseballista odbijający piłkę",
+      "description": "Baseballista właśnie odbija piłkę, zdobywając home run! Baseball to bardzo popularny sport w Stanach Zjednoczonych. Pokoloruj strój zawodnika w barwy jego drużyny."
+    },
+    {
+      "key": "basketball_slam_dunk",
+      "slug": "koszykarz-robiacy-wsad",
+      "title": "Koszykarz robiący wsad",
+      "description": "Wysoki koszykarz z wyskokiem pakuje piłkę do kosza. To jeden z najbardziej widowiskowych rzutów w koszykówce. Poczuj te sportowe emocje!"
+    },
+    {
+      "key": "bowler_rolling_strike",
+      "slug": "kreglarz-rzucajacy-do-strajku",
+      "title": "Kręglarz rzucający do strajku",
+      "description": "Kręglarz precyzyjnie rzuca kulą, mając nadzieję na strącenie wszystkich kręgli, czyli 'strike'. Kręgle to świetna zabawa dla całej rodziny. Pokoloruj kulę na swój ulubiony kolor."
+    },
+    {
+      "key": "boxer_throwing_jab",
+      "slug": "bokser-zadajacy-cios",
+      "title": "Bokser zadający cios",
+      "description": "Bokser w rękawicach zadaje szybki, prosty cios. Boks to sport wymagający siły, szybkości i taktyki. Ta kolorowanka oddaje dynamikę tego sportu walki."
+    },
+    {
+      "key": "climber_mountain_summit",
+      "slug": "alpinista-na-szczycie-gory",
+      "title": "Alpinista na szczycie góry",
+      "description": "Alpinista dociera na ośnieżony szczyt góry, podnosząc ręce w geście triumfu. Zdobywanie szczytów to wielkie wyzwanie. Pokoloruj piękny, górski krajobraz."
+    },
+    {
+      "key": "cyclist_uphill",
+      "slug": "kolarz-jadacy-pod-gore",
+      "title": "Kolarz jadący pod górę",
+      "description": "Kolarz w profesjonalnym stroju i kasku wspina się na strome wzniesienie. Kolarstwo to sport dla wytrwałych. Poczuj ten wysiłek i satysfakcję!"
+    },
+    {
+      "key": "dancer_grand_jete",
+      "slug": "tancerka-w-skoku-szpagatowym",
+      "title": "Tancerka w skoku szpagatowym",
+      "description": "Utalentowana tancerka wykonuje w powietrzu 'grand jeté', czyli skok w szpagacie. To figura wymagająca niezwykłej gibkości i siły. Pokoloruj jej zwiewny strój."
+    },
+    {
+      "key": "fencer_lunge",
+      "slug": "szermierz-w-ataku",
+      "title": "Szermierz w ataku",
+      "description": "Szermierz w masce i białym kostiumie wykonuje wypad, próbując trafić przeciwnika szpadą. Szermierka to elegancki i szybki sport."
+    },
+    {
+      "key": "fishing_kid_fish",
+      "slug": "dziecko-wedkujace-ze-zlowiona-ryba",
+      "title": "Dziecko wędkujące ze złowioną rybą",
+      "description": "Mały wędkarz z dumą prezentuje swoją pierwszą, złowioną rybę. Wędkowanie uczy cierpliwości i kontaktu z naturą. To spokojna i relaksująca aktywność."
+    },
+    {
+      "key": "golfer_swing_club",
+      "slug": "golfista-uderzajacy-pilke",
+      "title": "Golfista uderzający piłkę",
+      "description": "Golfista wykonuje precyzyjny zamach kijem, aby uderzyć piłeczkę. Golf to sport wymagający skupienia i techniki. Pokoloruj zielone pole golfowe."
+    },
+    {
+      "key": "gymnast_beam_split",
+      "slug": "gimnastyczka-robiaca-szpagat-na-rownowni",
+      "title": "Gimnastyczka robiąca szpagat na równoważni",
+      "description": "Gibka gimnastyczka wykonuje szpagat na wąskiej równoważni. Gimnastyka artystyczna to połączenie siły, gracji i odwagi. Pokoloruj jej błyszczący strój."
+    },
+    {
+      "key": "hockey_slapshot",
+      "slug": "hokeista-strzelajacy-na-bramke",
+      "title": "Hokeista strzelający na bramkę",
+      "description": "Hokeista na lodzie bierze potężny zamach, wykonując 'slapshot' - najsilniejszy strzał na bramkę. Hokej to bardzo szybki i kontaktowy sport."
+    },
+    {
+      "key": "horse_rider_jump",
+      "slug": "jezdiec-na-koniu-skaczacy-przez-przeszkode",
+      "title": "Jeździec na koniu skaczący przez przeszkodę",
+      "description": "Jeździec i jego koń w idealnej harmonii przeskakują przez przeszkodę. Jeździectwo to piękny sport, który buduje więź między człowiekiem a zwierzęciem."
+    },
+    {
+      "key": "karate_high_kick",
+      "slug": "karateka-wykonujacy-wysokie-kopniecie",
+      "title": "Karateka wykonujący wysokie kopnięcie",
+      "description": "Karateka w białym kimonie wykonuje wysokie kopnięcie, pokazując swoją zwinność i siłę. Karate to sztuka walki, która uczy dyscypliny i szacunku."
+    },
+    {
+      "key": "rugby_runner_ball",
+      "slug": "rugbista-biegnacy-z-pilka",
+      "title": "Rugbista biegnący z piłką",
+      "description": "Zawodnik rugby biegnie z owalną piłką, próbując uniknąć przeciwników. Rugby to sport dla prawdziwych twardzieli. Poczuj dynamikę tego sportu!"
+    },
+    {
+      "key": "runner_finish_line",
+      "slug": "biegacz-na-mecie",
+      "title": "Biegacz na mecie",
+      "description": "Biegacz zrywa taśmę na linii mety, wygrywając wyścig. To moment wielkiej radości i satysfakcji po ogromnym wysiłku. Pokoloruj go jak prawdziwego mistrza."
+    },
+    {
+      "key": "skateboarder_kickflip",
+      "slug": "deskorolkarz-robiacy-kickflip",
+      "title": "Deskorolkarz robiący kickflip",
+      "description": "Deskorolkarz wykonuje w powietrzu ewolucję 'kickflip', obracając deskorolkę wokół jej osi. Skateboarding to widowiskowy i kreatywny sport miejski."
+    },
+    {
+      "key": "skier_downhill_snow",
+      "slug": "narciarz-zjezdzajacy-ze-stoku",
+      "title": "Narciarz zjeżdżający ze stoku",
+      "description": "Narciarz w kasku i goglach zjeżdża z dużą prędkością po ośnieżonym stoku. Narciarstwo to jedna z najpopularniejszych zimowych aktywności. Poczuj pęd wiatru!"
+    },
+    {
+      "key": "snowboarder_flip",
+      "slug": "snowboardzista-robiacy-salto",
+      "title": "Snowboardzista robiący salto",
+      "description": "Snowboardzista wykonuje w powietrzu widowiskowe salto. Snowboard to sport dla ludzi kochających adrenalinę i zimowe szaleństwo. Pokoloruj jego deskę w odważne wzory."
+    },
+    {
+      "key": "soccer_player_kick",
+      "slug": "pilkarz-strzelajacy-gola",
+      "title": "Piłkarz strzelający gola",
+      "description": "Piłkarz nożny oddaje potężny strzał na bramkę. Czy padnie gol? Piłka nożna to sport, który łączy miliony ludzi na całym świecie. Pokoloruj jego strój w barwy narodowe."
+    },
+    {
+      "key": "surfer_big_wave",
+      "slug": "surfer-na-wielkiej-fali",
+      "title": "Surfer na wielkiej fali",
+      "description": "Odważny surfer płynie na desce po grzbiecie ogromnej fali. Surfing to sport wymagający odwagi i doskonałej równowagi. Poczuj siłę oceanu!"
+    },
+    {
+      "key": "swimmer_butterfly_stroke",
+      "slug": "plywak-stylem-motylkowym",
+      "title": "Pływak stylem motylkowym",
+      "description": "Pływak płynie w basenie widowiskowym stylem motylkowym (delfinem). To jeden z najtrudniejszych, ale i najpiękniejszych stylów pływackich. Poczuj rytm i siłę."
+    },
+    {
+      "key": "tennis_serve_ball",
+      "slug": "tenisista-serwujacy-pilke",
+      "title": "Tenisista serwujący piłkę",
+      "description": "Tenisista podrzuca piłkę, aby wykonać potężny serwis. Tenis to elegancki sport, który wymaga szybkości, precyzji i myślenia taktycznego."
+    },
+    {
+      "key": "volleyball_spike",
+      "slug": "siatkarz-atakujacy-pilke",
+      "title": "Siatkarz atakujący piłkę",
+      "description": "Siatkarz wyskakuje wysoko nad siatkę, aby wykonać potężny atak, czyli 'gwóźdź'. Siatkówka to emocjonujący sport drużynowy. Pokoloruj stroje zawodników."
+    },
+    {
+      "key": "weightlifter_barbell",
+      "slug": "sztangista-podnoszacy-sztange",
+      "title": "Sztangista podnoszący sztangę",
+      "description": "Siłacz podnosi z ziemi ciężką sztangę. Podnoszenie ciężarów to sport wymagający ogromnej siły i techniki. Poczuj tę moc!"
+    }
+  ]
+}

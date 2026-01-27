@@ -1,0 +1,157 @@
+{
+  "category_slug": "zawody",
+  "category_title": "Zawody",
+  "category_description": "Kim chcesz zostać, gdy dorośniesz? Odkryj świat różnych profesji z naszą edukacyjną kolekcją kolorowanek o zawodach! Przygotowaliśmy dziesiątki darmowych rysunków do druku, które w ciekawy i przystępny sposób przedstawiają ludzi przy pracy. Znajdziesz tu odważnych strażaków, mądrych lekarzy, kreatywnych artystów, a nawet astronautów eksplorujących kosmos. Nasze kolorowanki to fantastyczne narzędzie edukacyjne, które inspiruje dzieci do myślenia o swojej przyszłości i poznawania różnych ról społecznych. To także świetny sposób na rozwijanie szacunku do pracy innych. Każdy obrazek to okazja do rozmowy o tym, czym zajmują się dorośli, jakie narzędzia wykorzystują i jak ważna jest każda praca. Pobieraj, drukuj i baw się, poznając fascynujący świat zawodów!",
+  "images": [
+    {
+      "key": "astronaut_space",
+      "slug": "astronauta-w-kosmosie",
+      "title": "Astronauta w kosmosie",
+      "description": "Odważny astronauta w skafandrze unosi się w stanie nieważkości w przestrzeni kosmicznej. To marzenie wielu dzieci! Ta kolorowanka to pierwszy krok do wielkiej, kosmicznej przygody."
+    },
+    {
+      "key": "baker_cupcakes",
+      "slug": "piekarz-z-babeczkami",
+      "title": "Piekarz z babeczkami",
+      "description": "Uśmiechnięty piekarz trzyma tacę pełną pysznych, świeżo upieczonych babeczek. Wyglądają apetycznie! Dzieci mogą ozdobić każdą babeczkę kolorowym lukrem i posypką."
+    },
+    {
+      "key": "basketball_player",
+      "slug": "koszykarz-dryblujacy-pilka",
+      "title": "Koszykarz dryblujący piłką",
+      "description": "Dynamiczny koszykarz w sportowym stroju drybluje piłką, gotowy do rzutu. To świetna kolorowanka dla małych fanów sportu i aktywności fizycznej."
+    },
+    {
+      "key": "chef_cooking",
+      "slug": "szef-kuchni-gotujacy",
+      "title": "Szef kuchni gotujący",
+      "description": "Szef kuchni w charakterystycznej, wysokiej czapce gotuje coś pysznego na patelni. Gotowanie to prawdziwa sztuka! Może ta kolorowanka zainspiruje przyszłego mistrza kuchni?"
+    },
+    {
+      "key": "clown_juggling",
+      "slug": "klaun-zonglujacy-pilkami",
+      "title": "Klaun żonglujący piłkami",
+      "description": "Wesoły klaun w kolorowym stroju żongluje kilkoma piłkami naraz. To trudna sztuka, która wymaga wiele ćwiczeń. Pokoloruj jego strój w najśmieszniejsze wzory."
+    },
+    {
+      "key": "construction_hammer",
+      "slug": "budowlaniec-z-mlotkiem",
+      "title": "Budowlaniec z młotkiem",
+      "description": "Pracownik budowy w kasku trzyma w ręku młotek. Dzięki pracy budowlańców powstają nasze domy i szkoły. To ważny i odpowiedzialny zawód."
+    },
+    {
+      "key": "dancer_ballet",
+      "slug": "tancerka-baletowa",
+      "title": "Tancerka baletowa",
+      "description": "Delikatna baletnica w paczce baletowej stoi w eleganckiej pozie. Taniec baletowy jest piękny, ale wymaga wielu lat treningu. Pokoloruj jej strój na różowo lub biało."
+    },
+    {
+      "key": "doctor_stethoscope",
+      "slug": "lekarz-ze-stetoskopem",
+      "title": "Lekarz ze stetoskopem",
+      "description": "Przyjazny pan doktor ze stetoskopem na szyi jest gotowy, by pomagać pacjentom. To zawód, który ratuje życie i zdrowie. Ta kolorowanka może oswoić dziecko z wizytą u lekarza."
+    },
+    {
+      "key": "farmer_pitchfork",
+      "slug": "rolnik-z-widlami",
+      "title": "Rolnik z widłami",
+      "description": "Rolnik w kapeluszu stoi na polu z widłami w ręku. Dzięki ciężkiej pracy rolników mamy pyszne jedzenie. To obrazek pokazujący życie na wsi."
+    },
+    {
+      "key": "firefighter_hose",
+      "slug": "strazak-z-wezem-strazackim",
+      "title": "Strażak z wężem strażackim",
+      "description": "Odważny strażak w hełmie i specjalnym ubraniu gasi pożar za pomocą węża strażackiego. Strażacy to prawdziwi bohaterowie! Pokoloruj jego mundur na czerwono lub granatowo."
+    },
+    {
+      "key": "lifeguard_buoy",
+      "slug": "ratownik-z-boja-ratunkowa",
+      "title": "Ratownik z boją ratunkową",
+      "description": "Czuwający ratownik na plaży trzyma boję ratunkową, gotów do akcji. Dba o bezpieczeństwo kąpiących się osób. To bardzo odpowiedzialna praca."
+    },
+    {
+      "key": "magician_rabbit",
+      "slug": "magik-wyciagajacy-krolika-z-kapelusza",
+      "title": "Magik wyciągający królika z kapelusza",
+      "description": "Iluzjonista wykonuje słynną sztuczkę, wyciągając królika z pustego kapelusza. Jak on to robi? To magia! Scena pełna tajemnicy i zdumienia."
+    },
+    {
+      "key": "mechanic_car",
+      "slug": "mechanik-naprawiajacy-samochod",
+      "title": "Mechanik naprawiający samochód",
+      "description": "Mechanik samochodowy z kluczem w ręku naprawia zepsuty samochód. Dzięki niemu nasze auta są sprawne i bezpieczne. To zawód dla prawdziwych majsterkowiczów."
+    },
+    {
+      "key": "nurse_clipboard",
+      "slug": "pielegniarka-z-notatnikiem",
+      "title": "Pielęgniarka z notatnikiem",
+      "description": "Troskliwa pielęgniarka w czepku trzyma notatnik z zaleceniami dla pacjentów. Pielęgniarki opiekują się chorymi w szpitalach i przychodniach. To zawód pełen empatii."
+    },
+    {
+      "key": "painter_palette",
+      "slug": "malarz-z-paleta-farb",
+      "title": "Malarz z paletą farb",
+      "description": "Artysta malarz w berecie trzyma paletę z kolorowymi farbami i pędzel. Właśnie tworzy nowe dzieło sztuki. Ta kolorowanka może zainspirować małego artystę."
+    },
+    {
+      "key": "photographer_camera",
+      "slug": "fotograf-z-aparatem",
+      "title": "Fotograf z aparatem",
+      "description": "Fotograf robi zdjęcie swoim profesjonalnym aparatem. Dzięki fotografom możemy zatrzymać piękne chwile na dłużej. Uśmiechnij się, robi Ci zdjęcie!"
+    },
+    {
+      "key": "pilot_cockpit",
+      "slug": "pilot-w-kokpicie-samolotu",
+      "title": "Pilot w kokpicie samolotu",
+      "description": "Pilot w mundurze i czapce siedzi za sterami samolotu w kokpicie. To on bezpiecznie przewozi pasażerów przez chmury. Widok z kokpitu jest niesamowity!"
+    },
+    {
+      "key": "police_officer_wave",
+      "slug": "policjant-machajacy-reka",
+      "title": "Policjant machający ręką",
+      "description": "Uśmiechnięty policjant w mundurze macha przyjaźnie ręką. Policjanci dbają o porządek i bezpieczeństwo na naszych ulicach. To ważny i potrzebny zawód."
+    },
+    {
+      "key": "sailor_ship",
+      "slug": "marynarz-na-statku",
+      "title": "Marynarz na statku",
+      "description": "Marynarz w charakterystycznym ubraniu stoi na pokładzie statku. Praca marynarza to dalekie podróże po morzach i oceanach. To zawód dla prawdziwych poszukiwaczy przygód."
+    },
+    {
+      "key": "scientist_microscope",
+      "slug": "naukowiec-patrzacy-przez-mikroskop",
+      "title": "Naukowiec patrzący przez mikroskop",
+      "description": "Naukowiec w kitlu laboratoryjnym prowadzi badania, patrząc przez mikroskop. Dzięki naukowcom poznajemy tajemnice świata. Może Twoje dziecko odkryje kiedyś nowe lekarstwo?"
+    },
+    {
+      "key": "singer_microphone",
+      "slug": "piosenkarz-z-mikrofonem",
+      "title": "Piosenkarz z mikrofonem",
+      "description": "Piosenkarz lub piosenkarka śpiewa do mikrofonu na scenie. To zawód dla osób, które kochają muzykę i występy przed publicznością. Pokoloruj światła sceny na jaskrawe kolory."
+    },
+    {
+      "key": "soccer_player",
+      "slug": "pilkarz-kopiący-pilke",
+      "title": "Piłkarz kopiący piłkę",
+      "description": "Piłkarz w stroju sportowym właśnie kopie piłkę, próbując strzelić gola. Piłka nożna to najpopularniejszy sport na świecie. Pokoloruj strój piłkarza w barwy ulubionej drużyny."
+    },
+    {
+      "key": "teacher_chalkboard",
+      "slug": "nauczyciel-przy-tablicy",
+      "title": "Nauczyciel przy tablicy",
+      "description": "Nauczyciel lub nauczycielka stoi przy tablicy i tłumaczy lekcję. To dzięki nim uczymy się czytać, pisać i poznajemy świat. To bardzo ważny i ceniony zawód."
+    },
+    {
+      "key": "train_conductor_flag",
+      "slug": "konduktor-pociagu-z-flaga",
+      "title": "Konduktor pociągu z flagą",
+      "description": "Konduktor pociągu daje sygnał do odjazdu za pomocą flagi. Dba o to, by podróż pociągiem była bezpieczna i punktualna. Pokoloruj jego elegancki mundur."
+    },
+    {
+      "key": "veterinarian_puppy",
+      "slug": "weterynarz-badajacy-szczeniaka",
+      "title": "Weterynarz badający szczeniaka",
+      "description": "Weterynarz, czyli lekarz dla zwierząt, delikatnie bada małego szczeniaczka. To zawód dla osób, które kochają zwierzęta i chcą im pomagać. Scena pełna troski i ciepła."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "category_slug": "dinozaury-i-prehistoria",
+  "category_title": "Dinozaury i prehistoria",
+  "category_description": "Przenieś się w czasie o miliony lat i stań oko w oko z największymi stworzeniami, jakie kiedykolwiek stąpały po Ziemi! Nasza kolekcja kolorowanek z dinozaurami i prehistorią to fascynująca podróż do zaginionego świata. Oferujemy dziesiątki darmowych rysunków do druku, które przedstawiają zarówno potężnego Tyranozaura, roślinożernego Triceratopsa, jak i latającego Pterodaktyla. To nie tylko doskonała zabawa dla każdego fana tych prehistorycznych gadów, ale także wspaniała lekcja paleontologii. Dzieci mogą uczyć się nazw dinozaurów, poznawać ich wygląd i wyobrażać sobie, jak wyglądał świat w erze mezozoicznej. Każdy obrazek to starannie przygotowana ilustracja, która pobudza kreatywność i zachęca do odkrywania tajemnic przeszłości. Pobieraj, drukuj i stwórz własny, kolorowy Park Jurajski!",
+  "images": [
+    {
+      "key": "ankylosaurus_club_tail",
+      "slug": "ankylozaur-z-maczuga-na-ogonie",
+      "title": "Ankylozaur z maczugą na ogonie",
+      "description": "Ankylozaur, 'żywy czołg' wśród dinozaurów, prezentuje swoją potężną maczugę na ogonie, którą służyła mu do obrony. Jego grzbiet pokrywał gruby pancerz."
+    },
+    {
+      "key": "archaeopteryx_feathers",
+      "slug": "archeopteryks-z-piorami",
+      "title": "Archeopteryks z piórami",
+      "description": "Archeopteryks jest uważany za jednego z pierwszych ptaków. Miał pióra i skrzydła, ale także cechy gadów, takie jak zęby. Pokoloruj jego pióra na dowolne, egzotyczne barwy."
+    },
+    {
+      "key": "brachiosaurus_eating_leaves",
+      "slug": "brachiozaur-jedzacy-liscie",
+      "title": "Brachiozaur jedzący liście",
+      "description": "Ogromny brachiozaur z długą szyją sięga po liście z najwyższych drzew. Był jednym z największych roślinożernych dinozaurów. Pokoloruj go w odcieniach zieleni i brązu."
+    },
+    {
+      "key": "carnotaurus_horns",
+      "slug": "karnozaur-z-rogami",
+      "title": "Karnozaur z rogami",
+      "description": "Drapieżny karnozaur z charakterystycznymi rogami nad oczami i bardzo krótkimi ramionami. Był szybkim i groźnym łowcą. Jego skóra mogła mieć maskujące barwy."
+    },
+    {
+      "key": "compsognathus_bug",
+      "slug": "kompsognat-goniacy-owada",
+      "title": "Kompsognat goniący owada",
+      "description": "Mały i zwinny kompsognat, jeden z najmniejszych dinozaurów, poluje na prehistorycznego owada. Były one wielkości kurczaka. To zabawna i dynamiczna scena."
+    },
+    {
+      "key": "dimetrodon_sail",
+      "slug": "dimetrodon-z-zaglem-na-grzbiecie",
+      "title": "Dimetrodon z żaglem na grzbiecie",
+      "description": "Dimetrodon, choć często mylony z dinozaurem, był gadem ssakokształtnym. Jego najbardziej charakterystyczną cechą był wielki 'żagiel' na grzbiecie, który pomagał regulować temperaturę ciała."
+    },
+    {
+      "key": "diplodocus_long_neck",
+      "slug": "diplodok-z-dluga-szyja",
+      "title": "Diplodok z długą szyją",
+      "description": "Diplodok był jednym z najdłuższych dinozaurów, z bardzo długą szyją i ogonem. Jego ogon, niczym bicz, służył do obrony. Wyobraź sobie, jak ogromny był ten roślinożerca."
+    },
+    {
+      "key": "gallimimus_sprint",
+      "slug": "galimim-w-sprincie",
+      "title": "Galimim w sprincie",
+      "description": "Struśiopodobny galimim biegnie bardzo szybko przez prehistoryczną równinę. Były to jedne z najszybszych dinozaurów. Pokoloruj go w barwy, które kojarzą się z szybkością."
+    },
+    {
+      "key": "iguanodon_thumb_spikes",
+      "slug": "iguanodon-z-kolcami-na-kciukach",
+      "title": "Iguanodon z kolcami na kciukach",
+      "description": "Roślinożerny iguanodon miał charakterystyczne, ostre kolce na kciukach, których używał do obrony przed drapieżnikami. Był jednym z pierwszych odkrytych dinozaurów."
+    },
+    {
+      "key": "kentrosaurus_tail_spikes",
+      "slug": "kentrozaur-z-kolcami-na-ogonie",
+      "title": "Kentrozaur z kolcami na ogonie",
+      "description": "Kentrozaur, krewny stegozaura, miał na grzbiecie i ogonie rzędy ostrych kolców. Jego ogon był niebezpieczną bronią. To ciekawy i groźnie wyglądający dinozaur."
+    },
+    {
+      "key": "microraptor_glide",
+      "slug": "mikroraptor-szybujacy-miedzy-drzewami",
+      "title": "Mikroraptor szybujący między drzewami",
+      "description": "Mały mikroraptor, który miał pióra na wszystkich czterech kończynach, szybuje z drzewa na drzewo. Był jednym z 'czteroskrzydłych' dinozaurów. Jego pióra mogły być ciemne i błyszczące."
+    },
+    {
+      "key": "mosasaurus_swimming",
+      "slug": "mozazaur-plywajacy",
+      "title": "Mozazaur pływający",
+      "description": "Ogromny mozazaur, morski gad, patroluje prehistoryczne oceany. Był na szczycie łańcucha pokarmowego w wodzie. Pokoloruj go na ciemne, morskie barwy."
+    },
+    {
+      "key": "oviraptor_eggs",
+      "slug": "owiraptor-pilnujacy-jaj",
+      "title": "Owiraptor pilnujący jaj",
+      "description": "Owiraptor, którego nazwa znaczy 'złodziej jaj', w rzeczywistości był troskliwym rodzicem, który pilnował swojego gniazda. Ta kolorowanka pokazuje go właśnie w tej roli."
+    },
+    {
+      "key": "pachycephalosaurus_dome_head",
+      "slug": "pachycefalozaur-z-kopulasta-glowa",
+      "title": "Pachycefalozaur z kopulastą głową",
+      "description": "Pachycefalozaur miał niezwykle grubą, kopulastą czaszkę, której prawdopodobnie używał do walk z rywalami. To jeden z najbardziej charakterystycznych roślinożerców."
+    },
+    {
+      "key": "parasaurolophus_crest",
+      "slug": "parazaurolof-z-grzebieniem-na-glowie",
+      "title": "Parazaurolof z grzebieniem na głowie",
+      "description": "Parazaurolof jest znany ze swojego długiego, pustego w środku grzebienia na głowie. Prawdopodobnie używał go do wydawania dźwięków i komunikacji. Pokoloruj jego grzebień w jaskrawe wzory."
+    },
+    {
+      "key": "plesiosaur_long_neck",
+      "slug": "plezjozaur-z-dluga-szyja-w-wodzie",
+      "title": "Plezjozaur z długą szyją w wodzie",
+      "description": "Plezjozaur, morski gad z niezwykle długą szyją i małą głową, poluje na ryby. Często jest kojarzony z legendarnym potworem z Loch Ness. To fascynujące stworzenie z głębin."
+    },
+    {
+      "key": "protoceratops_nest",
+      "slug": "protoceratops-w-gniezdzie",
+      "title": "Protoceratops w gnieździe",
+      "description": "Protoceratops, mały roślinożerny dinozaur z kostną kryzą na szyi, opiekuje się swoim gniazdem. Był przodkiem większych dinozaurów rogatych, jak triceratops."
+    },
+    {
+      "key": "pteranodon_perched",
+      "slug": "pteranodon-siedzacy-na-skale",
+      "title": "Pteranodon siedzący na skale",
+      "description": "Wielki pterozaur, pteranodon, ze swoim charakterystycznym grzebieniem na głowie, odpoczywa na nadmorskim klifie. Był latającym gadem, a nie dinozaurem!"
+    },
+    {
+      "key": "pterodactyl_gliding",
+      "slug": "pterodaktyl-szybujacy-na-niebie",
+      "title": "Pterodaktyl szybujący na niebie",
+      "description": "Pterodaktyl, jeden z najbardziej znanych pterozaurów, szybuje na swoich skórzastych skrzydłach. Był zręcznym lotnikiem polującym na ryby i małe zwierzęta."
+    },
+    {
+      "key": "spinosaurus_river",
+      "slug": "spinozaur-nad-rzeka",
+      "title": "Spinozaur nad rzeką",
+      "description": "Ogromny spinozaur z charakterystycznym żaglem na grzbiecie brodzi w rzece, polując na ryby. Był jednym z największych lądowych drapieżników, większym nawet od T-Rexa."
+    },
+    {
+      "key": "stegosaurus_spiky_plates",
+      "slug": "stegozaur-z-pancernymi-plytami",
+      "title": "Stegozaur z pancernymi płytami",
+      "description": "Stegozaur, znany ze swoich dwóch rzędów charakterystycznych płyt na grzbiecie i kolczastego ogona. Płyty prawdopodobnie służyły do termoregulacji lub do odstraszania wrogów."
+    },
+    {
+      "key": "styracosaurus_long_horns",
+      "slug": "styrakozaur-z-dlugimi-rogami",
+      "title": "Styrakozaur z długimi rogami",
+      "description": "Styrakozaur, krewny triceratopsa, miał imponującą kryzę z długimi rogami oraz wielki róg na nosie. Wyglądał naprawdę groźnie! Pokoloruj jego kryzę w ostrzegawcze barwy."
+    },
+    {
+      "key": "trex_roar",
+      "slug": "ryczacy-tyranozaur-rex",
+      "title": "Ryczący Tyranozaur Rex",
+      "description": "Król dinozaurów, Tyranozaur Rex, ryczy, pokazując swoje potężne zęby. Mimo małych przednich łapek, był jednym z najgroźniejszych drapieżników wszech czasów."
+    },
+    {
+      "key": "triceratops_three_horns",
+      "slug": "triceratops-z-trzema-rogami",
+      "title": "Triceratops z trzema rogami",
+      "description": "Potężny triceratops z trzema rogami na twarzy i wielką, kostną kryzą. Był roślinożercą, który używał swoich rogów do obrony przed tyranozaurem. To jeden z najbardziej rozpoznawalnych dinozaurów."
+    },
+    {
+      "key": "velociraptor_running",
+      "slug": "biegnacy-welociraptor",
+      "title": "Biegnący welociraptor",
+      "description": "Szybki i inteligentny welociraptor biegnie, polując w stadzie. W rzeczywistości welociraptory były pokryte piórami i znacznie mniejsze niż w filmach. Pokoloruj go w barwach ptaka drapieżnego."
+    }
+  ]
+}

@@ -1,2464 +1,536 @@
 {
   "animals": {
-    "title_key": "Zwierzęta",
-    "description": "Kolorowanki ze zwierzętami – drukuj darmowe obrazki z kotami, psami, lwami i innymi zwierzętami, rozwijaj kreatywność i miłość do natury.",
-    "header": "assets/animals/header.svg",
     "items": [
-      {
-        "key": "crocodile_river",
-        "file": "assets/animals/crocodile_river.svg",
-        "description": "a smiling crocodile in a river"
-      },
-      {
-        "key": "deer_look",
-        "file": "assets/animals/deer_look.svg",
-        "description": "a deer looking curiously"
-      },
-      {
-        "key": "dolphin_jump",
-        "file": "assets/animals/dolphin_jump.svg",
-        "description": "a dolphin jumping out of water"
-      },
-      {
-        "key": "duck_pond",
-        "file": "assets/animals/duck_pond.svg",
-        "description": "a duck swimming in a pond"
-      },
-      {
-        "key": "elephant_water",
-        "file": "assets/animals/elephant_water.svg",
-        "description": "a playful elephant spraying water"
-      },
-      {
-        "key": "flamingo_leg",
-        "file": "assets/animals/flamingo_leg.svg",
-        "description": "a flamingo standing on one leg"
-      },
-      {
-        "key": "fox_sleep",
-        "file": "assets/animals/fox_sleep.svg",
-        "description": "a fox curled up asleep"
-      },
-      {
-        "key": "frog_lily",
-        "file": "assets/animals/frog_lily.svg",
-        "description": "a frog on a lily pad"
-      },
-      {
-        "key": "giraffe_leaves",
-        "file": "assets/animals/giraffe_leaves.svg",
-        "description": "a cheerful giraffe eating leaves"
-      },
-      {
-        "key": "hedgehog_feet",
-        "file": "assets/animals/hedgehog_feet.svg",
-        "description": "a hedgehog with tiny feet"
-      },
-      {
-        "key": "hippo_yawn",
-        "file": "assets/animals/hippo_yawn.svg",
-        "description": "a hippo yawning wide"
-      },
-      {
-        "key": "horse_meadow",
-        "file": "assets/animals/horse_meadow.svg",
-        "description": "a horse running through a meadow"
-      },
-      {
-        "key": "kangaroo_pouch",
-        "file": "assets/animals/kangaroo_pouch.svg",
-        "description": "a kangaroo with a baby in pouch"
-      },
-      {
-        "key": "kitten_yarn",
-        "file": "assets/animals/kitten_yarn.svg",
-        "description": "a kitten playing with a ball of yarn"
-      },
-      {
-        "key": "koala_tree",
-        "file": "assets/animals/koala_tree.svg",
-        "description": "a koala hugging a tree"
-      },
-      {
-        "key": "ladybug_leaf",
-        "file": "assets/animals/ladybug_leaf.svg",
-        "description": "a ladybug on a leaf"
-      },
-      {
-        "key": "lion_grass",
-        "file": "assets/animals/lion_grass.svg",
-        "description": "a smiling lion sitting on grass"
-      },
-      {
-        "key": "llama_fur",
-        "file": "assets/animals/llama_fur.svg",
-        "description": "a llama with fluffy fur"
-      },
-      {
-        "key": "monkey_tree",
-        "file": "assets/animals/monkey_tree.svg",
-        "description": "a monkey hanging from a tree"
-      },
-      {
-        "key": "moose_forest",
-        "file": "assets/animals/moose_forest.svg",
-        "description": "a moose standing in a forest"
-      },
-      {
-        "key": "owl_stump",
-        "file": "assets/animals/owl_stump.svg",
-        "description": "a sleepy owl on a tree stump"
-      },
-      {
-        "key": "panda_bamboo",
-        "file": "assets/animals/panda_bamboo.svg",
-        "description": "a panda eating bamboo"
-      },
-      {
-        "key": "parrot_branch",
-        "file": "assets/animals/parrot_branch.svg",
-        "description": "a parrot sitting on a branch"
-      },
-      {
-        "key": "peacock_feathers",
-        "file": "assets/animals/peacock_feathers.svg",
-        "description": "a peacock with spread feathers"
-      },
-      {
-        "key": "penguin_ice",
-        "file": "assets/animals/penguin_ice.svg",
-        "description": "a happy penguin sliding on ice"
-      },
-      {
-        "key": "puppy_tail",
-        "file": "assets/animals/puppy_tail.svg",
-        "description": "a cute puppy wagging its tail"
-      },
-      {
-        "key": "raccoon_tail",
-        "file": "assets/animals/raccoon_tail.svg",
-        "description": "a raccoon with a striped tail"
-      },
-      {
-        "key": "reindeer_antlers",
-        "file": "assets/animals/reindeer_antlers.svg",
-        "description": "a reindeer with antlers"
-      },
-      {
-        "key": "seal_flippers",
-        "file": "assets/animals/seal_flippers.svg",
-        "description": "a seal clapping its flippers"
-      },
-      {
-        "key": "sheep_wool",
-        "file": "assets/animals/sheep_wool.svg",
-        "description": "a sheep with fluffy wool"
-      },
-      {
-        "key": "skunk_tail",
-        "file": "assets/animals/skunk_tail.svg",
-        "description": "a skunk with a bushy tail"
-      },
-      {
-        "key": "snail_shell",
-        "file": "assets/animals/snail_shell.svg",
-        "description": "a snail with a spiral shell"
-      },
-      {
-        "key": "snake_rock",
-        "file": "assets/animals/snake_rock.svg",
-        "description": "a snake coiled on a rock"
-      },
-      {
-        "key": "squirrel_acorn",
-        "file": "assets/animals/squirrel_acorn.svg",
-        "description": "a squirrel holding an acorn"
-      },
-      {
-        "key": "turtle_shell",
-        "file": "assets/animals/turtle_shell.svg",
-        "description": "a turtle with a big shell smiling"
-      },
-      {
-        "key": "walrus_tusks",
-        "file": "assets/animals/walrus_tusks.svg",
-        "description": "a walrus with big tusks"
-      },
-      {
-        "key": "wolf_moon",
-        "file": "assets/animals/wolf_moon.svg",
-        "description": "a wolf howling at the moon"
-      },
-      {
-        "key": "zebra_savannah",
-        "file": "assets/animals/zebra_savannah.svg",
-        "description": "a zebra running on the savannah"
-      }
+      { "key": "crocodile_river", "file": "assets/animals/crocodile_river.svg" },
+      { "key": "deer_look", "file": "assets/animals/deer_look.svg" },
+      { "key": "dolphin_jump", "file": "assets/animals/dolphin_jump.svg" },
+      { "key": "duck_pond", "file": "assets/animals/duck_pond.svg" },
+      { "key": "elephant_water", "file": "assets/animals/elephant_water.svg" },
+      { "key": "flamingo_leg", "file": "assets/animals/flamingo_leg.svg" },
+      { "key": "fox_sleep", "file": "assets/animals/fox_sleep.svg" },
+      { "key": "frog_lily", "file": "assets/animals/frog_lily.svg" },
+      { "key": "giraffe_leaves", "file": "assets/animals/giraffe_leaves.svg" },
+      { "key": "hedgehog_feet", "file": "assets/animals/hedgehog_feet.svg" },
+      { "key": "hippo_yawn", "file": "assets/animals/hippo_yawn.svg" },
+      { "key": "horse_meadow", "file": "assets/animals/horse_meadow.svg" },
+      { "key": "kangaroo_pouch", "file": "assets/animals/kangaroo_pouch.svg" },
+      { "key": "kitten_yarn", "file": "assets/animals/kitten_yarn.svg" },
+      { "key": "koala_tree", "file": "assets/animals/koala_tree.svg" },
+      { "key": "ladybug_leaf", "file": "assets/animals/ladybug_leaf.svg" },
+      { "key": "lion_grass", "file": "assets/animals/lion_grass.svg" },
+      { "key": "llama_fur", "file": "assets/animals/llama_fur.svg" },
+      { "key": "monkey_tree", "file": "assets/animals/monkey_tree.svg" },
+      { "key": "moose_forest", "file": "assets/animals/moose_forest.svg" },
+      { "key": "owl_stump", "file": "assets/animals/owl_stump.svg" },
+      { "key": "panda_bamboo", "file": "assets/animals/panda_bamboo.svg" },
+      { "key": "parrot_branch", "file": "assets/animals/parrot_branch.svg" },
+      { "key": "peacock_feathers", "file": "assets/animals/peacock_feathers.svg" },
+      { "key": "penguin_ice", "file": "assets/animals/penguin_ice.svg" },
+      { "key": "puppy_tail", "file": "assets/animals/puppy_tail.svg" },
+      { "key": "raccoon_tail", "file": "assets/animals/raccoon_tail.svg" },
+      { "key": "reindeer_antlers", "file": "assets/animals/reindeer_antlers.svg" },
+      { "key": "seal_flippers", "file": "assets/animals/seal_flippers.svg" },
+      { "key": "sheep_wool", "file": "assets/animals/sheep_wool.svg" },
+      { "key": "skunk_tail", "file": "assets/animals/skunk_tail.svg" },
+      { "key": "snail_shell", "file": "assets/animals/snail_shell.svg" },
+      { "key": "snake_rock", "file": "assets/animals/snake_rock.svg" },
+      { "key": "squirrel_acorn", "file": "assets/animals/squirrel_acorn.svg" },
+      { "key": "turtle_shell", "file": "assets/animals/turtle_shell.svg" },
+      { "key": "walrus_tusks", "file": "assets/animals/walrus_tusks.svg" },
+      { "key": "wolf_moon", "file": "assets/animals/wolf_moon.svg" },
+      { "key": "zebra_savannah", "file": "assets/animals/zebra_savannah.svg" }
     ]
   },
   "nature": {
-    "title_key": "Przyroda",
-    "description": "Kolorowanki przyrodnicze: kwiaty, drzewa, krajobrazy – koloruj i zbliż się do natury dzięki darmowym wzorom do druku.",
-    "header": "assets/nature/header.png",
     "items": [
-      {
-        "key": "cactus_desert",
-        "file": "assets/nature/cactus_desert.svg",
-        "description": "a cactus in a desert"
-      },
-      {
-        "key": "palm_tree",
-        "file": "assets/nature/palm_tree.svg",
-        "description": "a palm tree on a sandy beach"
-      },
-      {
-        "key": "pine_tree",
-        "file": "assets/nature/pine_tree.svg",
-        "description": "a tall pine tree in the forest"
-      },
-      {
-        "key": "pumpkin_stem",
-        "file": "assets/nature/pumpkin_stem.svg",
-        "description": "a pumpkin with a curly stem"
-      },
-      {
-        "key": "rose_red",
-        "file": "assets/nature/rose_red.svg",
-        "description": "a bright red rose with leaves"
-      },
-      {
-        "key": "strawberry_leaves",
-        "file": "assets/nature/strawberry_leaves.svg",
-        "description": "a strawberry with leaves"
-      },
-      {
-        "key": "sunflower_smile",
-        "file": "assets/nature/sunflower_smile.svg",
-        "description": "a big sunflower with a smiling face"
-      },
-      {
-        "key": "tulips_bunch",
-        "file": "assets/nature/tulips_bunch.svg",
-        "description": "a bunch of colorful tulips"
-      },
-      {
-        "key": "watermelon_slice",
-        "file": "assets/nature/watermelon_slice.svg",
-        "description": "a watermelon slice with seeds"
-      },
-      {
-        "key": "apple_branch",
-        "file": "assets/nature/apple_branch.svg",
-        "description": "an apple hanging from a branch"
-      },
-      {
-        "key": "banana_bunch",
-        "file": "assets/nature/banana_bunch.svg",
-        "description": "a banana bunch hanging from a tree"
-      },
-      {
-        "key": "bluebells_bunch",
-        "file": "assets/nature/bluebells_bunch.svg",
-        "description": "a bunch of bluebells"
-      },
-      {
-        "key": "broccoli_head",
-        "file": "assets/nature/broccoli_head.svg",
-        "description": "a broccoli head with a big stem"
-      },
-      {
-        "key": "carrot_leaves",
-        "file": "assets/nature/carrot_leaves.svg",
-        "description": "a carrot with green leaves"
-      },
-      {
-        "key": "cherries_pair",
-        "file": "assets/nature/cherries_pair.svg",
-        "description": "a cherry pair with green stems"
-      },
-      {
-        "key": "clover_fourleaves",
-        "file": "assets/nature/clover_fourleaves.svg",
-        "description": "a clover with four leaves"
-      },
-      {
-        "key": "coconut_palmtree",
-        "file": "assets/nature/coconut_palmtree.svg",
-        "description": "a coconut on a palm tree"
-      },
-      {
-        "key": "daisy_flower",
-        "file": "assets/nature/daisy_flower.svg",
-        "description": "a daisy with a round center"
-      },
-      {
-        "key": "dandelion_puff",
-        "file": "assets/nature/dandelion_puff.svg",
-        "description": "a dandelion puff blowing in the wind"
-      },
-      {
-        "key": "fern_leaf",
-        "file": "assets/nature/fern_leaf.svg",
-        "description": "a fern leaf with many fronds"
-      },
-      {
-        "key": "grapes_vine",
-        "file": "assets/nature/grapes_vine.svg",
-        "description": "a bunch of grapes on a vine"
-      },
-      {
-        "key": "lily_flower",
-        "file": "assets/nature/lily_flower.svg",
-        "description": "a lily with long petals"
-      },
-      {
-        "key": "maple_leaf",
-        "file": "assets/nature/maple_leaf.svg",
-        "description": "a big maple leaf"
-      },
-      {
-        "key": "mushroom_spots",
-        "file": "assets/nature/mushroom_spots.svg",
-        "description": "a mushroom with white spots"
-      },
-      {
-        "key": "sunflower_field",
-        "file": "assets/nature/sunflower_field.svg",
-        "description": "a sunflower field under the sun"
-      }
+      { "key": "cactus_desert", "file": "assets/nature/cactus_desert.svg" },
+      { "key": "palm_tree", "file": "assets/nature/palm_tree.svg" },
+      { "key": "pine_tree", "file": "assets/nature/pine_tree.svg" },
+      { "key": "pumpkin_stem", "file": "assets/nature/pumpkin_stem.svg" },
+      { "key": "rose_red", "file": "assets/nature/rose_red.svg" },
+      { "key": "strawberry_leaves", "file": "assets/nature/strawberry_leaves.svg" },
+      { "key": "sunflower_smile", "file": "assets/nature/sunflower_smile.svg" },
+      { "key": "tulips_bunch", "file": "assets/nature/tulips_bunch.svg" },
+      { "key": "watermelon_slice", "file": "assets/nature/watermelon_slice.svg" },
+      { "key": "apple_branch", "file": "assets/nature/apple_branch.svg" },
+      { "key": "banana_bunch", "file": "assets/nature/banana_bunch.svg" },
+      { "key": "bluebells_bunch", "file": "assets/nature/bluebells_bunch.svg" },
+      { "key": "broccoli_head", "file": "assets/nature/broccoli_head.svg" },
+      { "key": "carrot_leaves", "file": "assets/nature/carrot_leaves.svg" },
+      { "key": "cherries_pair", "file": "assets/nature/cherries_pair.svg" },
+      { "key": "clover_fourleaves", "file": "assets/nature/clover_fourleaves.svg" },
+      { "key": "coconut_palmtree", "file": "assets/nature/coconut_palmtree.svg" },
+      { "key": "daisy_flower", "file": "assets/nature/daisy_flower.svg" },
+      { "key": "dandelion_puff", "file": "assets/nature/dandelion_puff.svg" },
+      { "key": "fern_leaf", "file": "assets/nature/fern_leaf.svg" },
+      { "key": "grapes_vine", "file": "assets/nature/grapes_vine.svg" },
+      { "key": "lily_flower", "file": "assets/nature/lily_flower.svg" },
+      { "key": "maple_leaf", "file": "assets/nature/maple_leaf.svg" },
+      { "key": "mushroom_spots", "file": "assets/nature/mushroom_spots.svg" },
+      { "key": "sunflower_field", "file": "assets/nature/sunflower_field.svg" }
     ]
   },
   "vehicles": {
-    "title_key": "Pojazdy",
-    "description": "Kolorowanki pojazdy: auta, samoloty, traktory i wszelkie maszyny – idealne dla fanów motoryzacji, do druku za darmo.",
-    "header": "assets/vehicles/header.png",
     "items": [
-      {
-        "key": "airplane_sky",
-        "file": "assets/vehicles/airplane_sky.svg",
-        "description": "a jet airplane flying in the sky"
-      },
-      {
-        "key": "ambulance_siren",
-        "file": "assets/vehicles/ambulance_siren.svg",
-        "description": "an ambulance with siren"
-      },
-      {
-        "key": "bulldozer_dirt",
-        "file": "assets/vehicles/bulldozer_dirt.svg",
-        "description": "a bulldozer pushing dirt"
-      },
-      {
-        "key": "canoe_river",
-        "file": "assets/vehicles/canoe_river.svg",
-        "description": "a canoe on a calm river"
-      },
-      {
-        "key": "convertible_roofdown",
-        "file": "assets/vehicles/convertible_roofdown.svg",
-        "description": "a convertible car with the roof down"
-      },
-      {
-        "key": "crane_load",
-        "file": "assets/vehicles/crane_load.svg",
-        "description": "a crane lifting a load"
-      },
-      {
-        "key": "dumptruck_sand",
-        "file": "assets/vehicles/dumptruck_sand.svg",
-        "description": "a dump truck carrying sand"
-      },
-      {
-        "key": "firetruck_ladder",
-        "file": "assets/vehicles/firetruck_ladder.svg",
-        "description": "a fire truck with a ladder"
-      },
-      {
-        "key": "helicopter_mountains",
-        "file": "assets/vehicles/helicopter_mountains.svg",
-        "description": "a helicopter flying over mountains"
-      },
-      {
-        "key": "hotairballoon_stripes",
-        "file": "assets/vehicles/hotairballoon_stripes.svg",
-        "description": "a hot air balloon with colorful stripes"
-      },
-      {
-        "key": "hovercraft_water",
-        "file": "assets/vehicles/hovercraft_water.svg",
-        "description": "a hovercraft gliding on water"
-      },
-      {
-        "key": "icecreamtruck_music",
-        "file": "assets/vehicles/icecreamtruck_music.svg",
-        "description": "an ice cream truck with music"
-      },
-      {
-        "key": "monstertruck_wheels",
-        "file": "assets/vehicles/monstertruck_wheels.svg",
-        "description": "a monster truck with big wheels"
-      },
-      {
-        "key": "policecar_lights",
-        "file": "assets/vehicles/policecar_lights.svg",
-        "description": "a police car with flashing lights"
-      },
-      {
-        "key": "racecar_smile",
-        "file": "assets/vehicles/racecar_smile.svg",
-        "description": "a cartoon race car with smiling face"
-      },
-      {
-        "key": "rocket_blastoff",
-        "file": "assets/vehicles/rocket_blastoff.svg",
-        "description": "a rocket blasting off"
-      },
-      {
-        "key": "sailboat_ocean",
-        "file": "assets/vehicles/sailboat_ocean.svg",
-        "description": "a sailboat on the ocean"
-      },
-      {
-        "key": "schoolbus_kids",
-        "file": "assets/vehicles/schoolbus_kids.svg",
-        "description": "a school bus full of happy kids"
-      },
-      {
-        "key": "scooter_rider",
-        "file": "assets/vehicles/scooter_rider.svg",
-        "description": "a scooter with a happy rider"
-      },
-      {
-        "key": "skateboard_design",
-        "file": "assets/vehicles/skateboard_design.svg",
-        "description": "a skateboard with colorful design"
-      },
-      {
-        "key": "spaceship_stars",
-        "file": "assets/vehicles/spaceship_stars.svg",
-        "description": "a spaceship flying through stars"
-      },
-      {
-        "key": "submarine_sea",
-        "file": "assets/vehicles/submarine_sea.svg",
-        "description": "a submarine under the sea"
-      },
-      {
-        "key": "tractor_field",
-        "file": "assets/vehicles/tractor_field.svg",
-        "description": "a tractor working in a field"
-      },
-      {
-        "key": "train_engine",
-        "file": "assets/vehicles/train_engine.svg",
-        "description": "a train with a smiling engine"
-      }
+      { "key": "airplane_sky", "file": "assets/vehicles/airplane_sky.svg" },
+      { "key": "ambulance_siren", "file": "assets/vehicles/ambulance_siren.svg" },
+      { "key": "bulldozer_dirt", "file": "assets/vehicles/bulldozer_dirt.svg" },
+      { "key": "canoe_river", "file": "assets/vehicles/canoe_river.svg" },
+      { "key": "convertible_roofdown", "file": "assets/vehicles/convertible_roofdown.svg" },
+      { "key": "crane_load", "file": "assets/vehicles/crane_load.svg" },
+      { "key": "dumptruck_sand", "file": "assets/vehicles/dumptruck_sand.svg" },
+      { "key": "firetruck_ladder", "file": "assets/vehicles/firetruck_ladder.svg" },
+      { "key": "helicopter_mountains", "file": "assets/vehicles/helicopter_mountains.svg" },
+      { "key": "hotairballoon_stripes", "file": "assets/vehicles/hotairballoon_stripes.svg" },
+      { "key": "hovercraft_water", "file": "assets/vehicles/hovercraft_water.svg" },
+      { "key": "icecreamtruck_music", "file": "assets/vehicles/icecreamtruck_music.svg" },
+      { "key": "monstertruck_wheels", "file": "assets/vehicles/monstertruck_wheels.svg" },
+      { "key": "policecar_lights", "file": "assets/vehicles/policecar_lights.svg" },
+      { "key": "racecar_smile", "file": "assets/vehicles/racecar_smile.svg" },
+      { "key": "rocket_blastoff", "file": "assets/vehicles/rocket_blastoff.svg" },
+      { "key": "sailboat_ocean", "file": "assets/vehicles/sailboat_ocean.svg" },
+      { "key": "schoolbus_kids", "file": "assets/vehicles/schoolbus_kids.svg" },
+      { "key": "scooter_rider", "file": "assets/vehicles/scooter_rider.svg" },
+      { "key": "skateboard_design", "file": "assets/vehicles/skateboard_design.svg" },
+      { "key": "spaceship_stars", "file": "assets/vehicles/spaceship_stars.svg" },
+      { "key": "submarine_sea", "file": "assets/vehicles/submarine_sea.svg" },
+      { "key": "tractor_field", "file": "assets/vehicles/tractor_field.svg" },
+      { "key": "train_engine", "file": "assets/vehicles/train_engine.svg" }
     ]
   },
   "christmas": {
-    "title_key": "Boże Narodzenie",
-    "description": "Świąteczne kolorowanki: choinka, Mikołaj, prezenty – pobierz i wydrukuj darmowe obrazki na Boże Narodzenie.",
-    "header": "assets/christmas/header.png",
     "items": [
-      {
-        "key": "bell_holly",
-        "file": "assets/christmas/bell_holly.svg",
-        "description": "a christmas bell with holly leaves"
-      },
-      {
-        "key": "candycane_ribbon",
-        "file": "assets/christmas/candycane_ribbon.svg",
-        "description": "a candy cane with a ribbon"
-      },
-      {
-        "key": "christmastrain_toys",
-        "file": "assets/christmas/christmastrain_toys.svg",
-        "description": "a christmas train with toys"
-      },
-      {
-        "key": "christmastree_presents",
-        "file": "assets/christmas/christmastree_presents.svg",
-        "description": "a decorated christmas tree with presents"
-      },
-      {
-        "key": "elves_toyworkshop",
-        "file": "assets/christmas/elves_toyworkshop.svg",
-        "description": "elves making toys in a workshop"
-      },
-      {
-        "key": "fireplace_stockings",
-        "file": "assets/christmas/fireplace_stockings.svg",
-        "description": "a fireplace with hanging stockings"
-      },
-      {
-        "key": "gingerbreadhouse_candy",
-        "file": "assets/christmas/gingerbreadhouse_candy.svg",
-        "description": "a gingerbread house with candy decorations"
-      },
-      {
-        "key": "hotchocolate_marshmallows",
-        "file": "assets/christmas/hotchocolate_marshmallows.svg",
-        "description": "a cup of hot chocolate with marshmallows"
-      },
-      {
-        "key": "mailbox_letters",
-        "file": "assets/christmas/mailbox_letters.svg",
-        "description": "a mailbox with letters to santa"
-      },
-      {
-        "key": "northpole_sign",
-        "file": "assets/christmas/northpole_sign.svg",
-        "description": "a north pole sign with snow"
-      },
-      {
-        "key": "nutcracker_soldier",
-        "file": "assets/christmas/nutcracker_soldier.svg",
-        "description": "a nutcracker soldier standing tall"
-      },
-      {
-        "key": "penguin_gift",
-        "file": "assets/christmas/penguin_gift.svg",
-        "description": "a penguin holding a gift"
-      },
-      {
-        "key": "polarbear_scarf",
-        "file": "assets/christmas/polarbear_scarf.svg",
-        "description": "a polar bear wearing a scarf"
-      },
-      {
-        "key": "present_bow",
-        "file": "assets/christmas/present_bow.svg",
-        "description": "a wrapped present with a big bow"
-      },
-      {
-        "key": "reindeer_rednose",
-        "file": "assets/christmas/reindeer_rednose.svg",
-        "description": "a reindeer with a red nose"
-      },
-      {
-        "key": "santa_sack",
-        "file": "assets/christmas/santa_sack.svg",
-        "description": "santa claus carrying a sack of gifts"
-      },
-      {
-        "key": "sleigh_gifts",
-        "file": "assets/christmas/sleigh_gifts.svg",
-        "description": "a sleigh full of gifts"
-      },
-      {
-        "key": "sleigh_rooftops",
-        "file": "assets/christmas/sleigh_rooftops.svg",
-        "description": "santa's sleigh flying over rooftops"
-      },
-      {
-        "key": "snowflakes_sky",
-        "file": "assets/christmas/snowflakes_sky.svg",
-        "description": "snowflakes falling from the sky"
-      },
-      {
-        "key": "snowglobe_scene",
-        "file": "assets/christmas/snowglobe_scene.svg",
-        "description": "a snow globe with a christmas scene"
-      },
-      {
-        "key": "snowman_scarf",
-        "file": "assets/christmas/snowman_scarf.svg",
-        "description": "a snowman with a scarf and hat"
-      },
-      {
-        "key": "snowy_village",
-        "file": "assets/christmas/snowy_village.svg",
-        "description": "a snowy village with lights"
-      },
-      {
-        "key": "star_tree",
-        "file": "assets/christmas/star_tree.svg",
-        "description": "a star shining on top of a tree"
-      },
-      {
-        "key": "stocking_fireplace",
-        "file": "assets/christmas/stocking_fireplace.svg",
-        "description": "a christmas stocking hanging by the fireplace"
-      },
-      {
-        "key": "wreath_bells",
-        "file": "assets/christmas/wreath_bells.svg",
-        "description": "a christmas wreath with bells"
-      }
+      { "key": "bell_holly", "file": "assets/christmas/bell_holly.svg" },
+      { "key": "candycane_ribbon", "file": "assets/christmas/candycane_ribbon.svg" },
+      { "key": "christmastrain_toys", "file": "assets/christmas/christmastrain_toys.svg" },
+      { "key": "christmastree_presents", "file": "assets/christmas/christmastree_presents.svg" },
+      { "key": "elves_toyworkshop", "file": "assets/christmas/elves_toyworkshop.svg" },
+      { "key": "fireplace_stockings", "file": "assets/christmas/fireplace_stockings.svg" },
+      { "key": "gingerbreadhouse_candy", "file": "assets/christmas/gingerbreadhouse_candy.svg" },
+      { "key": "hotchocolate_marshmallows", "file": "assets/christmas/hotchocolate_marshmallows.svg" },
+      { "key": "mailbox_letters", "file": "assets/christmas/mailbox_letters.svg" },
+      { "key": "northpole_sign", "file": "assets/christmas/northpole_sign.svg" },
+      { "key": "nutcracker_soldier", "file": "assets/christmas/nutcracker_soldier.svg" },
+      { "key": "penguin_gift", "file": "assets/christmas/penguin_gift.svg" },
+      { "key": "polarbear_scarf", "file": "assets/christmas/polarbear_scarf.svg" },
+      { "key": "present_bow", "file": "assets/christmas/present_bow.svg" },
+      { "key": "reindeer_rednose", "file": "assets/christmas/reindeer_rednose.svg" },
+      { "key": "santa_sack", "file": "assets/christmas/santa_sack.svg" },
+      { "key": "sleigh_gifts", "file": "assets/christmas/sleigh_gifts.svg" },
+      { "key": "sleigh_rooftops", "file": "assets/christmas/sleigh_rooftops.svg" },
+      { "key": "snowflakes_sky", "file": "assets/christmas/snowflakes_sky.svg" },
+      { "key": "snowglobe_scene", "file": "assets/christmas/snowglobe_scene.svg" },
+      { "key": "snowman_scarf", "file": "assets/christmas/snowman_scarf.svg" },
+      { "key": "snowy_village", "file": "assets/christmas/snowy_village.svg" },
+      { "key": "star_tree", "file": "assets/christmas/star_tree.svg" },
+      { "key": "stocking_fireplace", "file": "assets/christmas/stocking_fireplace.svg" },
+      { "key": "wreath_bells", "file": "assets/christmas/wreath_bells.svg" }
     ]
   },
   "easter": {
-    "title_key": "Wielkanoc",
-    "description": "Kolorowanki wielkanocne: pisanki, zajączki, koszyki – świąteczna inspiracja do druku i kolorowania dla dzieci.",
-    "header": "assets/easter/header.png",
     "items": [
-      {
-        "key": "basket_eastereggs",
-        "file": "assets/easter/basket_eastereggs.svg",
-        "description": "a basket full of colorful easter eggs"
-      },
-      {
-        "key": "bunny_bicycle_eggs",
-        "file": "assets/easter/bunny_bicycle_eggs.svg",
-        "description": "a bunny riding a bicycle with eggs in the basket"
-      },
-      {
-        "key": "bunny_carrotcar",
-        "file": "assets/easter/bunny_carrotcar.svg",
-        "description": "a bunny driving a carrot car"
-      },
-      {
-        "key": "bunny_chick_play",
-        "file": "assets/easter/bunny_chick_play.svg",
-        "description": "a bunny and chick playing together"
-      },
-      {
-        "key": "bunny_decoratedegg",
-        "file": "assets/easter/bunny_decoratedegg.svg",
-        "description": "a bunny holding a decorated egg"
-      },
-      {
-        "key": "bunny_hidingeggs",
-        "file": "assets/easter/bunny_hidingeggs.svg",
-        "description": "a bunny hiding eggs in the grass"
-      },
-      {
-        "key": "bunny_paintingegg",
-        "file": "assets/easter/bunny_paintingegg.svg",
-        "description": "a bunny painting an easter egg"
-      },
-      {
-        "key": "bunny_sleeping_flowers",
-        "file": "assets/easter/bunny_sleeping_flowers.svg",
-        "description": "a bunny sleeping in a field of flowers"
-      },
-      {
-        "key": "bunnyfamily_picnic",
-        "file": "assets/easter/bunnyfamily_picnic.svg",
-        "description": "a bunny family having an easter picnic"
-      },
-      {
-        "key": "butterfly_flowers",
-        "file": "assets/easter/butterfly_flowers.svg",
-        "description": "a butterfly flying over flowers"
-      },
-      {
-        "key": "carrotpatch_bunny",
-        "file": "assets/easter/carrotpatch_bunny.svg",
-        "description": "a carrot patch with a bunny peeking out"
-      },
-      {
-        "key": "chick_basket",
-        "file": "assets/easter/chick_basket.svg",
-        "description": "a chick holding a small basket"
-      },
-      {
-        "key": "chick_bunnyears",
-        "file": "assets/easter/chick_bunnyears.svg",
-        "description": "a chick wearing bunny ears"
-      },
-      {
-        "key": "chick_hatching",
-        "file": "assets/easter/chick_hatching.svg",
-        "description": "a chick hatching from a decorated egg"
-      },
-      {
-        "key": "chick_paintbrush",
-        "file": "assets/easter/chick_paintbrush.svg",
-        "description": "a chick holding a paintbrush"
-      },
-      {
-        "key": "chocolate_bunny",
-        "file": "assets/easter/chocolate_bunny.svg",
-        "description": "a big chocolate bunny"
-      },
-      {
-        "key": "easteregghunt_garden",
-        "file": "assets/easter/easteregghunt_garden.svg",
-        "description": "an easter egg hunt in a garden"
-      },
-      {
-        "key": "lamb_bow",
-        "file": "assets/easter/lamb_bow.svg",
-        "description": "a lamb with a bow around its neck"
-      },
-      {
-        "key": "nest_coloredeggs",
-        "file": "assets/easter/nest_coloredeggs.svg",
-        "description": "a nest with colorful eggs"
-      },
-      {
-        "key": "painted_eastereggs",
-        "file": "assets/easter/painted_eastereggs.svg",
-        "description": "a group of painted easter eggs"
-      },
-      {
-        "key": "picnic_easter",
-        "file": "assets/easter/picnic_easter.svg",
-        "description": "a picnic scene with easter treats"
-      }
+      { "key": "basket_eastereggs", "file": "assets/easter/basket_eastereggs.svg" },
+      { "key": "bunny_bicycle_eggs", "file": "assets/easter/bunny_bicycle_eggs.svg" },
+      { "key": "bunny_carrotcar", "file": "assets/easter/bunny_carrotcar.svg" },
+      { "key": "bunny_chick_play", "file": "assets/easter/bunny_chick_play.svg" },
+      { "key": "bunny_decoratedegg", "file": "assets/easter/bunny_decoratedegg.svg" },
+      { "key": "bunny_hidingeggs", "file": "assets/easter/bunny_hidingeggs.svg" },
+      { "key": "bunny_paintingegg", "file": "assets/easter/bunny_paintingegg.svg" },
+      { "key": "bunny_sleeping_flowers", "file": "assets/easter/bunny_sleeping_flowers.svg" },
+      { "key": "bunnyfamily_picnic", "file": "assets/easter/bunnyfamily_picnic.svg" },
+      { "key": "butterfly_flowers", "file": "assets/easter/butterfly_flowers.svg" },
+      { "key": "carrotpatch_bunny", "file": "assets/easter/carrotpatch_bunny.svg" },
+      { "key": "chick_basket", "file": "assets/easter/chick_basket.svg" },
+      { "key": "chick_bunnyears", "file": "assets/easter/chick_bunnyears.svg" },
+      { "key": "chick_hatching", "file": "assets/easter/chick_hatching.svg" },
+      { "key": "chick_paintbrush", "file": "assets/easter/chick_paintbrush.svg" },
+      { "key": "chocolate_bunny", "file": "assets/easter/chocolate_bunny.svg" },
+      { "key": "easteregghunt_garden", "file": "assets/easter/easteregghunt_garden.svg" },
+      { "key": "lamb_bow", "file": "assets/easter/lamb_bow.svg" },
+      { "key": "nest_coloredeggs", "file": "assets/easter/nest_coloredeggs.svg" },
+      { "key": "painted_eastereggs", "file": "assets/easter/painted_eastereggs.svg" },
+      { "key": "picnic_easter", "file": "assets/easter/picnic_easter.svg" }
     ]
   },
   "fantasy_fairy_tales": {
-    "title_key": "Bajki i fantazja",
-    "description": "Kolorowanki z bohaterami i światem fantazji – magia, wróżki, smoki – pobierz darmowe obrazki i rozwijaj wyobraźnię.",
-    "header": "assets/fantasy_fairy_tales/header.png",
     "items": [
-      {
-        "key": "carriage_two_horses",
-        "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg",
-        "description": "a royal carriage pulled by two horses"
-      },
-      {
-        "key": "dwarf_mining_gems",
-        "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg",
-        "description": "a dwarf mining sparkling gems"
-      },
-      {
-        "key": "griffin_wings_spread",
-        "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg",
-        "description": "a griffin perched with wings spread wide"
-      },
-      {
-        "key": "king_crown_cape",
-        "file": "assets/fantasy_fairy_tales/king_crown_cape.svg",
-        "description": "a kind king wearing a crown and cape"
-      },
-      {
-        "key": "magic_mirror_stars",
-        "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg",
-        "description": "a magic mirror with twinkling stars"
-      },
-      {
-        "key": "phoenix_embers",
-        "file": "assets/fantasy_fairy_tales/phoenix_embers.svg",
-        "description": "a phoenix rising from glowing embers"
-      },
-      {
-        "key": "sorceress_staff_crystal",
-        "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg",
-        "description": "a sorceress holding a staff with a crystal"
-      },
-      {
-        "key": "troll_stone_bridge",
-        "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg",
-        "description": "a troll sitting under a stone bridge"
-      },
-      {
-        "key": "castle_hill",
-        "file": "assets/fantasy_fairy_tales/castle_hill.svg",
-        "description": "a tall fairy-tale castle perched on a green hill with flags waving in the wind"
-      },
-      {
-        "key": "dragon_fire",
-        "file": "assets/fantasy_fairy_tales/dragon_fire.svg",
-        "description": "a mighty dragon breathing a stream of flames into the sky"
-      },
-      {
-        "key": "fairy_wings",
-        "file": "assets/fantasy_fairy_tales/fairy_wings.svg",
-        "description": "a graceful fairy with sparkling wings fluttering among flowers"
-      },
-      {
-        "key": "frogprince_crown",
-        "file": "assets/fantasy_fairy_tales/frogprince_crown.svg",
-        "description": "a smiling frog wearing a small golden crown, sitting on a lily pad"
-      },
-      {
-        "key": "giant_club",
-        "file": "assets/fantasy_fairy_tales/giant_club.svg",
-        "description": "a friendly giant holding a big wooden club over his shoulder"
-      },
-      {
-        "key": "knight_armor",
-        "file": "assets/fantasy_fairy_tales/knight_armor.svg",
-        "description": "a brave knight in shining armor holding a sword and shield"
-      },
-      {
-        "key": "magiclamp_smoke",
-        "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg",
-        "description": "a magic lamp with swirling smoke rising from its spout"
-      },
-      {
-        "key": "mermaid_fish",
-        "file": "assets/fantasy_fairy_tales/mermaid_fish.svg",
-        "description": "a mermaid swimming with colorful fish in a blue ocean"
-      },
-      {
-        "key": "princess_castle",
-        "file": "assets/fantasy_fairy_tales/princess_castle.svg",
-        "description": "a princess in a gown standing in front of her majestic castle"
-      },
-      {
-        "key": "treasure_gold",
-        "file": "assets/fantasy_fairy_tales/treasure_gold.svg",
-        "description": "an open treasure chest overflowing with gold coins and jewels"
-      },
-      {
-        "key": "unicorn_rainbow",
-        "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg",
-        "description": "a unicorn with a rainbow-colored mane galloping in a meadow"
-      },
-      {
-        "key": "wizard_spell",
-        "file": "assets/fantasy_fairy_tales/wizard_spell.svg",
-        "description": "a wise wizard casting a glowing spell from his staff"
-      },
-      {
-        "key": "castle_gate_towers",
-        "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg",
-        "description": "a castle gate with tall towers"
-      },
-      {
-        "key": "dragon_guarding_treasure",
-        "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg",
-        "description": "a dragon guarding a pile of treasure"
-      },
-      {
-        "key": "fairy_godmother_wand",
-        "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg",
-        "description": "a fairy godmother waving a wand"
-      },
-      {
-        "key": "knight_riding_horse",
-        "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg",
-        "description": "a brave knight riding a horse"
-      },
-      {
-        "key": "queen_gown_scepter",
-        "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg",
-        "description": "a queen in a royal gown with scepter"
-      }
+      { "key": "carriage_two_horses", "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg" },
+      { "key": "dwarf_mining_gems", "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg" },
+      { "key": "griffin_wings_spread", "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg" },
+      { "key": "king_crown_cape", "file": "assets/fantasy_fairy_tales/king_crown_cape.svg" },
+      { "key": "magic_mirror_stars", "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg" },
+      { "key": "phoenix_embers", "file": "assets/fantasy_fairy_tales/phoenix_embers.svg" },
+      { "key": "sorceress_staff_crystal", "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg" },
+      { "key": "troll_stone_bridge", "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg" },
+      { "key": "castle_hill", "file": "assets/fantasy_fairy_tales/castle_hill.svg" },
+      { "key": "dragon_fire", "file": "assets/fantasy_fairy_tales/dragon_fire.svg" },
+      { "key": "fairy_wings", "file": "assets/fantasy_fairy_tales/fairy_wings.svg" },
+      { "key": "frogprince_crown", "file": "assets/fantasy_fairy_tales/frogprince_crown.svg" },
+      { "key": "giant_club", "file": "assets/fantasy_fairy_tales/giant_club.svg" },
+      { "key": "knight_armor", "file": "assets/fantasy_fairy_tales/knight_armor.svg" },
+      { "key": "magiclamp_smoke", "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg" },
+      { "key": "mermaid_fish", "file": "assets/fantasy_fairy_tales/mermaid_fish.svg" },
+      { "key": "princess_castle", "file": "assets/fantasy_fairy_tales/princess_castle.svg" },
+      { "key": "treasure_gold", "file": "assets/fantasy_fairy_tales/treasure_gold.svg" },
+      { "key": "unicorn_rainbow", "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg" },
+      { "key": "wizard_spell", "file": "assets/fantasy_fairy_tales/wizard_spell.svg" },
+      { "key": "castle_gate_towers", "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg" },
+      { "key": "dragon_guarding_treasure", "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg" },
+      { "key": "fairy_godmother_wand", "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg" },
+      { "key": "knight_riding_horse", "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg" },
+      { "key": "queen_gown_scepter", "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg" }
     ]
   },
   "halloween": {
-    "title_key": "Halloween",
-    "description": "Kolorowanki Halloween: dynie, duchy, czarownice – pobierz darmowe wzory idealne na jesienną zabawę kolorowania.",
-    "header": "assets/halloween/header.png",
     "items": [
-      {
-        "key": "bat_cookie",
-        "file": "assets/halloween/bat_cookie.svg",
-        "description": "a bat-shaped cookie"
-      },
-      {
-        "key": "bat_moon",
-        "file": "assets/halloween/bat_moon.svg",
-        "description": "a bat flying across the moon"
-      },
-      {
-        "key": "blackcat_witchhat",
-        "file": "assets/halloween/blackcat_witchhat.svg",
-        "description": "a black cat with a witch hat"
-      },
-      {
-        "key": "broom_pumpkin",
-        "file": "assets/halloween/broom_pumpkin.svg",
-        "description": "a broom leaning on a pumpkin"
-      },
-      {
-        "key": "candybucket_sweets",
-        "file": "assets/halloween/candybucket_sweets.svg",
-        "description": "a candy bucket full of sweets"
-      },
-      {
-        "key": "cauldron_bubbles",
-        "file": "assets/halloween/cauldron_bubbles.svg",
-        "description": "a witch's cauldron with bubbles"
-      },
-      {
-        "key": "ghost_candy",
-        "file": "assets/halloween/ghost_candy.svg",
-        "description": "a cute ghost holding candy"
-      },
-      {
-        "key": "ghost_graveyard",
-        "file": "assets/halloween/ghost_graveyard.svg",
-        "description": "a ghost flying over a graveyard"
-      },
-      {
-        "key": "gravestone_rip",
-        "file": "assets/halloween/gravestone_rip.svg",
-        "description": "a gravestone with RIP letters"
-      },
-      {
-        "key": "hauntedhouse_bats",
-        "file": "assets/halloween/hauntedhouse_bats.svg",
-        "description": "a haunted house with bats"
-      },
-      {
-        "key": "jackolantern_smile",
-        "file": "assets/halloween/jackolantern_smile.svg",
-        "description": "a smiling jack-o-lantern pumpkin"
-      },
-      {
-        "key": "magicwand_sparkles",
-        "file": "assets/halloween/magicwand_sparkles.svg",
-        "description": "a magic wand with sparkles"
-      },
-      {
-        "key": "moon_stars",
-        "file": "assets/halloween/moon_stars.svg",
-        "description": "a crescent moon with stars"
-      },
-      {
-        "key": "mummy_bandages",
-        "file": "assets/halloween/mummy_bandages.svg",
-        "description": "a mummy with wrapped bandages"
-      },
-      {
-        "key": "pumpkin_carriage",
-        "file": "assets/halloween/pumpkin_carriage.svg",
-        "description": "a pumpkin carriage like in fairy tales"
-      },
-      {
-        "key": "scarecrow_pumpkinfield",
-        "file": "assets/halloween/scarecrow_pumpkinfield.svg",
-        "description": "a scarecrow in a pumpkin field"
-      },
-      {
-        "key": "skeleton_dance",
-        "file": "assets/halloween/skeleton_dance.svg",
-        "description": "a skeleton dancing"
-      },
-      {
-        "key": "spellbook_magic",
-        "file": "assets/halloween/spellbook_magic.svg",
-        "description": "a magical spell book"
-      },
-      {
-        "key": "spider_web",
-        "file": "assets/halloween/spider_web.svg",
-        "description": "a spider hanging from a web"
-      },
-      {
-        "key": "trickortreat_bag",
-        "file": "assets/halloween/trickortreat_bag.svg",
-        "description": "a trick-or-treat bag with candy"
-      },
-      {
-        "key": "vampire_smile",
-        "file": "assets/halloween/vampire_smile.svg",
-        "description": "a vampire with a cape smiling"
-      },
-      {
-        "key": "werewolf_moon",
-        "file": "assets/halloween/werewolf_moon.svg",
-        "description": "a werewolf howling at the moon"
-      },
-      {
-        "key": "witch_broomstick",
-        "file": "assets/halloween/witch_broomstick.svg",
-        "description": "a friendly witch on a broomstick"
-      },
-      {
-        "key": "witchhat_buckle",
-        "file": "assets/halloween/witchhat_buckle.svg",
-        "description": "a witch's hat with a buckle"
-      }
+      { "key": "bat_cookie", "file": "assets/halloween/bat_cookie.svg" },
+      { "key": "bat_moon", "file": "assets/halloween/bat_moon.svg" },
+      { "key": "blackcat_witchhat", "file": "assets/halloween/blackcat_witchhat.svg" },
+      { "key": "broom_pumpkin", "file": "assets/halloween/broom_pumpkin.svg" },
+      { "key": "candybucket_sweets", "file": "assets/halloween/candybucket_sweets.svg" },
+      { "key": "cauldron_bubbles", "file": "assets/halloween/cauldron_bubbles.svg" },
+      { "key": "ghost_candy", "file": "assets/halloween/ghost_candy.svg" },
+      { "key": "ghost_graveyard", "file": "assets/halloween/ghost_graveyard.svg" },
+      { "key": "gravestone_rip", "file": "assets/halloween/gravestone_rip.svg" },
+      { "key": "hauntedhouse_bats", "file": "assets/halloween/hauntedhouse_bats.svg" },
+      { "key": "jackolantern_smile", "file": "assets/halloween/jackolantern_smile.svg" },
+      { "key": "magicwand_sparkles", "file": "assets/halloween/magicwand_sparkles.svg" },
+      { "key": "moon_stars", "file": "assets/halloween/moon_stars.svg" },
+      { "key": "mummy_bandages", "file": "assets/halloween/mummy_bandages.svg" },
+      { "key": "pumpkin_carriage", "file": "assets/halloween/pumpkin_carriage.svg" },
+      { "key": "scarecrow_pumpkinfield", "file": "assets/halloween/scarecrow_pumpkinfield.svg" },
+      { "key": "skeleton_dance", "file": "assets/halloween/skeleton_dance.svg" },
+      { "key": "spellbook_magic", "file": "assets/halloween/spellbook_magic.svg" },
+      { "key": "spider_web", "file": "assets/halloween/spider_web.svg" },
+      { "key": "trickortreat_bag", "file": "assets/halloween/trickortreat_bag.svg" },
+      { "key": "vampire_smile", "file": "assets/halloween/vampire_smile.svg" },
+      { "key": "werewolf_moon", "file": "assets/halloween/werewolf_moon.svg" },
+      { "key": "witch_broomstick", "file": "assets/halloween/witch_broomstick.svg" },
+      { "key": "witchhat_buckle", "file": "assets/halloween/witchhat_buckle.svg" }
     ]
   },
   "professions": {
-    "title_key": "Zawody",
-    "description": "Kolorowanki przedstawiające zawody: lekarz, strażak, nauczyciel – idealne do nauki i zabawy przez kolorowanie.",
-    "header": "assets/professions/header.png",
     "items": [
-      {
-        "key": "astronaut_space",
-        "file": "assets/professions/astronaut_space.svg",
-        "description": "an astronaut floating in space"
-      },
-      {
-        "key": "baker_cupcakes",
-        "file": "assets/professions/baker_cupcakes.svg",
-        "description": "a baker holding a tray of cupcakes"
-      },
-      {
-        "key": "basketball_player",
-        "file": "assets/professions/basketball_player.svg",
-        "description": "a basketball player dribbling"
-      },
-      {
-        "key": "chef_cooking",
-        "file": "assets/professions/chef_cooking.svg",
-        "description": "a chef cooking in the kitchen"
-      },
-      {
-        "key": "clown_juggling",
-        "file": "assets/professions/clown_juggling.svg",
-        "description": "a clown juggling balls"
-      },
-      {
-        "key": "construction_hammer",
-        "file": "assets/professions/construction_hammer.svg",
-        "description": "a construction worker with a hammer"
-      },
-      {
-        "key": "dancer_ballet",
-        "file": "assets/professions/dancer_ballet.svg",
-        "description": "a dancer in a ballet pose"
-      },
-      {
-        "key": "doctor_stethoscope",
-        "file": "assets/professions/doctor_stethoscope.svg",
-        "description": "a doctor with a stethoscope"
-      },
-      {
-        "key": "farmer_pitchfork",
-        "file": "assets/professions/farmer_pitchfork.svg",
-        "description": "a farmer with a pitchfork"
-      },
-      {
-        "key": "firefighter_hose",
-        "file": "assets/professions/firefighter_hose.svg",
-        "description": "a firefighter with a hose spraying water"
-      },
-      {
-        "key": "lifeguard_buoy",
-        "file": "assets/professions/lifeguard_buoy.svg",
-        "description": "a lifeguard with a rescue buoy"
-      },
-      {
-        "key": "magician_rabbit",
-        "file": "assets/professions/magician_rabbit.svg",
-        "description": "a magician pulling a rabbit from a hat"
-      },
-      {
-        "key": "mechanic_car",
-        "file": "assets/professions/mechanic_car.svg",
-        "description": "a mechanic fixing a car"
-      },
-      {
-        "key": "nurse_clipboard",
-        "file": "assets/professions/nurse_clipboard.svg",
-        "description": "a nurse holding a clipboard"
-      },
-      {
-        "key": "painter_palette",
-        "file": "assets/professions/painter_palette.svg",
-        "description": "a painter with a palette and brush"
-      },
-      {
-        "key": "photographer_camera",
-        "file": "assets/professions/photographer_camera.svg",
-        "description": "a photographer with a camera"
-      },
-      {
-        "key": "pilot_cockpit",
-        "file": "assets/professions/pilot_cockpit.svg",
-        "description": "a pilot in an airplane cockpit"
-      },
-      {
-        "key": "police_officer_wave",
-        "file": "assets/professions/police_officer_wave.svg",
-        "description": "a police officer waving and smiling"
-      },
-      {
-        "key": "sailor_ship",
-        "file": "assets/professions/sailor_ship.svg",
-        "description": "a sailor on a ship"
-      },
-      {
-        "key": "scientist_microscope",
-        "file": "assets/professions/scientist_microscope.svg",
-        "description": "a scientist looking through a microscope"
-      },
-      {
-        "key": "singer_microphone",
-        "file": "assets/professions/singer_microphone.svg",
-        "description": "a singer holding a microphone"
-      },
-      {
-        "key": "soccer_player",
-        "file": "assets/professions/soccer_player.svg",
-        "description": "a soccer player kicking a ball"
-      },
-      {
-        "key": "teacher_chalkboard",
-        "file": "assets/professions/teacher_chalkboard.svg",
-        "description": "a teacher at a chalkboard"
-      },
-      {
-        "key": "train_conductor_flag",
-        "file": "assets/professions/train_conductor_flag.svg",
-        "description": "a train conductor waving a flag"
-      },
-      {
-        "key": "veterinarian_puppy",
-        "file": "assets/professions/veterinarian_puppy.svg",
-        "description": "a veterinarian examining a puppy"
-      }
+      { "key": "astronaut_space", "file": "assets/professions/astronaut_space.svg" },
+      { "key": "baker_cupcakes", "file": "assets/professions/baker_cupcakes.svg" },
+      { "key": "basketball_player", "file": "assets/professions/basketball_player.svg" },
+      { "key": "chef_cooking", "file": "assets/professions/chef_cooking.svg" },
+      { "key": "clown_juggling", "file": "assets/professions/clown_juggling.svg" },
+      { "key": "construction_hammer", "file": "assets/professions/construction_hammer.svg" },
+      { "key": "dancer_ballet", "file": "assets/professions/dancer_ballet.svg" },
+      { "key": "doctor_stethoscope", "file": "assets/professions/doctor_stethoscope.svg" },
+      { "key": "farmer_pitchfork", "file": "assets/professions/farmer_pitchfork.svg" },
+      { "key": "firefighter_hose", "file": "assets/professions/firefighter_hose.svg" },
+      { "key": "lifeguard_buoy", "file": "assets/professions/lifeguard_buoy.svg" },
+      { "key": "magician_rabbit", "file": "assets/professions/magician_rabbit.svg" },
+      { "key": "mechanic_car", "file": "assets/professions/mechanic_car.svg" },
+      { "key": "nurse_clipboard", "file": "assets/professions/nurse_clipboard.svg" },
+      { "key": "painter_palette", "file": "assets/professions/painter_palette.svg" },
+      { "key": "photographer_camera", "file": "assets/professions/photographer_camera.svg" },
+      { "key": "pilot_cockpit", "file": "assets/professions/pilot_cockpit.svg" },
+      { "key": "police_officer_wave", "file": "assets/professions/police_officer_wave.svg" },
+      { "key": "sailor_ship", "file": "assets/professions/sailor_ship.svg" },
+      { "key": "scientist_microscope", "file": "assets/professions/scientist_microscope.svg" },
+      { "key": "singer_microphone", "file": "assets/professions/singer_microphone.svg" },
+      { "key": "soccer_player", "file": "assets/professions/soccer_player.svg" },
+      { "key": "teacher_chalkboard", "file": "assets/professions/teacher_chalkboard.svg" },
+      { "key": "train_conductor_flag", "file": "assets/professions/train_conductor_flag.svg" },
+      { "key": "veterinarian_puppy", "file": "assets/professions/veterinarian_puppy.svg" }
     ]
   },
   "circus_carnival": {
-    "title_key": "Cyrk i karnawał",
-    "description": "Kolorowanki cyrkowe i karnawałowe: klauny, akrobaci, stoiska – świetna zabawa z kreatywnym wydrukiem.",
-    "header": "assets/circus_carnival/header.png",
     "items": [
-      {
-        "key": "acrobat_trapeze",
-        "file": "assets/circus_carnival/acrobat_trapeze.svg",
-        "description": "an acrobat swinging on a trapeze"
-      },
-      {
-        "key": "carousel_horse_decor",
-        "file": "assets/circus_carnival/carousel_horse_decor.svg",
-        "description": "a carousel horse with decorations"
-      },
-      {
-        "key": "circus_tent_flags",
-        "file": "assets/circus_carnival/circus_tent_flags.svg",
-        "description": "a big circus tent with flags"
-      },
-      {
-        "key": "clown_car_tiny",
-        "file": "assets/circus_carnival/clown_car_tiny.svg",
-        "description": "a clown car with tiny windows"
-      },
-      {
-        "key": "clown_juggling_balls",
-        "file": "assets/circus_carnival/clown_juggling_balls.svg",
-        "description": "a clown juggling three balls"
-      },
-      {
-        "key": "cotton_candy_cart",
-        "file": "assets/circus_carnival/cotton_candy_cart.svg",
-        "description": "a cotton candy cart"
-      },
-      {
-        "key": "dunk_tank_target",
-        "file": "assets/circus_carnival/dunk_tank_target.svg",
-        "description": "a dunk tank with a target"
-      },
-      {
-        "key": "elephant_balance_ball",
-        "file": "assets/circus_carnival/elephant_balance_ball.svg",
-        "description": "a circus elephant balancing on a ball"
-      },
-      {
-        "key": "face_painting_station",
-        "file": "assets/circus_carnival/face_painting_station.svg",
-        "description": "a face painting station"
-      },
-      {
-        "key": "ferris_wheel_cabins",
-        "file": "assets/circus_carnival/ferris_wheel_cabins.svg",
-        "description": "a ferris wheel with many cabins"
-      },
-      {
-        "key": "fire_breather_perform",
-        "file": "assets/circus_carnival/fire_breather_perform.svg",
-        "description": "a fire breather performing"
-      },
-      {
-        "key": "game_booth_prizes",
-        "file": "assets/circus_carnival/game_booth_prizes.svg",
-        "description": "a game booth with prizes"
-      },
-      {
-        "key": "juggler_clubs",
-        "file": "assets/circus_carnival/juggler_clubs.svg",
-        "description": "a juggler with clubs"
-      },
-      {
-        "key": "magician_rabbit_hat",
-        "file": "assets/circus_carnival/magician_rabbit_hat.svg",
-        "description": "a magician pulling a rabbit from a hat"
-      },
-      {
-        "key": "merry_go_round_lights",
-        "file": "assets/circus_carnival/merry_go_round_lights.svg",
-        "description": "a merry-go-round with lights"
-      },
-      {
-        "key": "mime_push_wall",
-        "file": "assets/circus_carnival/mime_push_wall.svg",
-        "description": "a mime pretending to push a wall"
-      },
-      {
-        "key": "parade_balloons",
-        "file": "assets/circus_carnival/parade_balloons.svg",
-        "description": "a parade of balloons"
-      },
-      {
-        "key": "popcorn_stand_fair",
-        "file": "assets/circus_carnival/popcorn_stand_fair.svg",
-        "description": "a popcorn stand at the fair"
-      },
-      {
-        "key": "ring_of_fire_show",
-        "file": "assets/circus_carnival/ring_of_fire_show.svg",
-        "description": "a ring of fire performance (cartoony)"
-      },
-      {
-        "key": "ringmaster_hat",
-        "file": "assets/circus_carnival/ringmaster_hat.svg",
-        "description": "a ringmaster tipping his hat"
-      },
-      {
-        "key": "stilt_walker_tall",
-        "file": "assets/circus_carnival/stilt_walker_tall.svg",
-        "description": "a stilt walker towering high"
-      },
-      {
-        "key": "strongman_barbell",
-        "file": "assets/circus_carnival/strongman_barbell.svg",
-        "description": "a strongman lifting a barbell"
-      },
-      {
-        "key": "ticket_booth_sign",
-        "file": "assets/circus_carnival/ticket_booth_sign.svg",
-        "description": "a ticket booth with a sign"
-      },
-      {
-        "key": "tightrope_walker_pole",
-        "file": "assets/circus_carnival/tightrope_walker_pole.svg",
-        "description": "a tightrope walker with a pole"
-      },
-      {
-        "key": "unicyclist_balance",
-        "file": "assets/circus_carnival/unicyclist_balance.svg",
-        "description": "a unicyclist balancing on one wheel"
-      }
+      { "key": "acrobat_trapeze", "file": "assets/circus_carnival/acrobat_trapeze.svg" },
+      { "key": "carousel_horse_decor", "file": "assets/circus_carnival/carousel_horse_decor.svg" },
+      { "key": "circus_tent_flags", "file": "assets/circus_carnival/circus_tent_flags.svg" },
+      { "key": "clown_car_tiny", "file": "assets/circus_carnival/clown_car_tiny.svg" },
+      { "key": "clown_juggling_balls", "file": "assets/circus_carnival/clown_juggling_balls.svg" },
+      { "key": "cotton_candy_cart", "file": "assets/circus_carnival/cotton_candy_cart.svg" },
+      { "key": "dunk_tank_target", "file": "assets/circus_carnival/dunk_tank_target.svg" },
+      { "key": "elephant_balance_ball", "file": "assets/circus_carnival/elephant_balance_ball.svg" },
+      { "key": "face_painting_station", "file": "assets/circus_carnival/face_painting_station.svg" },
+      { "key": "ferris_wheel_cabins", "file": "assets/circus_carnival/ferris_wheel_cabins.svg" },
+      { "key": "fire_breather_perform", "file": "assets/circus_carnival/fire_breather_perform.svg" },
+      { "key": "game_booth_prizes", "file": "assets/circus_carnival/game_booth_prizes.svg" },
+      { "key": "juggler_clubs", "file": "assets/circus_carnival/juggler_clubs.svg" },
+      { "key": "magician_rabbit_hat", "file": "assets/circus_carnival/magician_rabbit_hat.svg" },
+      { "key": "merry_go_round_lights", "file": "assets/circus_carnival/merry_go_round_lights.svg" },
+      { "key": "mime_push_wall", "file": "assets/circus_carnival/mime_push_wall.svg" },
+      { "key": "parade_balloons", "file": "assets/circus_carnival/parade_balloons.svg" },
+      { "key": "popcorn_stand_fair", "file": "assets/circus_carnival/popcorn_stand_fair.svg" },
+      { "key": "ring_of_fire_show", "file": "assets/circus_carnival/ring_of_fire_show.svg" },
+      { "key": "ringmaster_hat", "file": "assets/circus_carnival/ringmaster_hat.svg" },
+      { "key": "stilt_walker_tall", "file": "assets/circus_carnival/stilt_walker_tall.svg" },
+      { "key": "strongman_barbell", "file": "assets/circus_carnival/strongman_barbell.svg" },
+      { "key": "ticket_booth_sign", "file": "assets/circus_carnival/ticket_booth_sign.svg" },
+      { "key": "tightrope_walker_pole", "file": "assets/circus_carnival/tightrope_walker_pole.svg" },
+      { "key": "unicyclist_balance", "file": "assets/circus_carnival/unicyclist_balance.svg" }
     ]
   },
   "dinosaurs_prehistoric": {
-    "title_key": "Dinozaury i prehistoria",
-    "description": "Kolorowanki dinozaurów i prehistorycznych stworzeń – fascynująca podróż w świat jurajski w formie obrazków do druku.",
-    "header": "assets/dinosaurs_prehistoric/header.png",
     "items": [
-      {
-        "key": "ankylosaurus_club_tail",
-        "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg",
-        "description": "an ankylosaurus with a club tail"
-      },
-      {
-        "key": "archaeopteryx_feathers",
-        "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg",
-        "description": "an archaeopteryx with feathers"
-      },
-      {
-        "key": "brachiosaurus_eating_leaves",
-        "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg",
-        "description": "a brachiosaurus eating leaves"
-      },
-      {
-        "key": "carnotaurus_horns",
-        "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg",
-        "description": "a carnotaurus with horns and tiny arms"
-      },
-      {
-        "key": "compsognathus_bug",
-        "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg",
-        "description": "a compsognathus chasing a bug"
-      },
-      {
-        "key": "dimetrodon_sail",
-        "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg",
-        "description": "a dimetrodon with a big sail"
-      },
-      {
-        "key": "diplodocus_long_neck",
-        "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg",
-        "description": "a diplodocus with a long neck"
-      },
-      {
-        "key": "gallimimus_sprint",
-        "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg",
-        "description": "a gallimimus sprinting"
-      },
-      {
-        "key": "iguanodon_thumb_spikes",
-        "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg",
-        "description": "an iguanodon with thumb spikes"
-      },
-      {
-        "key": "kentrosaurus_tail_spikes",
-        "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg",
-        "description": "a kentrosaurus with tail spikes"
-      },
-      {
-        "key": "microraptor_glide",
-        "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg",
-        "description": "a microraptor gliding between trees"
-      },
-      {
-        "key": "mosasaurus_swimming",
-        "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg",
-        "description": "a mosasaurus swimming"
-      },
-      {
-        "key": "oviraptor_eggs",
-        "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg",
-        "description": "an oviraptor guarding eggs"
-      },
-      {
-        "key": "pachycephalosaurus_dome_head",
-        "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg",
-        "description": "a pachycephalosaurus with a dome head"
-      },
-      {
-        "key": "parasaurolophus_crest",
-        "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg",
-        "description": "a parasaurolophus with a crest"
-      },
-      {
-        "key": "plesiosaur_long_neck",
-        "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg",
-        "description": "a plesiosaur with long neck in water"
-      },
-      {
-        "key": "protoceratops_nest",
-        "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg",
-        "description": "a protoceratops nesting"
-      },
-      {
-        "key": "pteranodon_perched",
-        "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg",
-        "description": "a pteranodon perched on a cliff"
-      },
-      {
-        "key": "pterodactyl_gliding",
-        "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg",
-        "description": "a pterodactyl gliding in the sky"
-      },
-      {
-        "key": "spinosaurus_river",
-        "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg",
-        "description": "a spinosaurus near a river"
-      },
-      {
-        "key": "stegosaurus_spiky_plates",
-        "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg",
-        "description": "a stegosaurus with spiky plates"
-      },
-      {
-        "key": "styracosaurus_long_horns",
-        "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg",
-        "description": "a styracosaurus with long horns"
-      },
-      {
-        "key": "trex_roar",
-        "file": "assets/dinosaurs_prehistoric/trex_roar.svg",
-        "description": "a T-rex roaring with tiny arms"
-      },
-      {
-        "key": "triceratops_three_horns",
-        "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg",
-        "description": "a triceratops with three horns"
-      },
-      {
-        "key": "velociraptor_running",
-        "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg",
-        "description": "a velociraptor running fast"
-      }
+      { "key": "ankylosaurus_club_tail", "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg" },
+      { "key": "archaeopteryx_feathers", "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg" },
+      { "key": "brachiosaurus_eating_leaves", "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg" },
+      { "key": "carnotaurus_horns", "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg" },
+      { "key": "compsognathus_bug", "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg" },
+      { "key": "dimetrodon_sail", "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg" },
+      { "key": "diplodocus_long_neck", "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg" },
+      { "key": "gallimimus_sprint", "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg" },
+      { "key": "iguanodon_thumb_spikes", "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg" },
+      { "key": "kentrosaurus_tail_spikes", "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg" },
+      { "key": "microraptor_glide", "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg" },
+      { "key": "mosasaurus_swimming", "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg" },
+      { "key": "oviraptor_eggs", "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg" },
+      { "key": "pachycephalosaurus_dome_head", "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg" },
+      { "key": "parasaurolophus_crest", "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg" },
+      { "key": "plesiosaur_long_neck", "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg" },
+      { "key": "protoceratops_nest", "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg" },
+      { "key": "pteranodon_perched", "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg" },
+      { "key": "pterodactyl_gliding", "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg" },
+      { "key": "spinosaurus_river", "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg" },
+      { "key": "stegosaurus_spiky_plates", "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg" },
+      { "key": "styracosaurus_long_horns", "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg" },
+      { "key": "trex_roar", "file": "assets/dinosaurs_prehistoric/trex_roar.svg" },
+      { "key": "triceratops_three_horns", "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg" },
+      { "key": "velociraptor_running", "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg" }
     ]
   },
   "food_treats": {
-    "title_key": "Jedzenie i smakołyki",
-    "description": "Kolorowanki jedzeniowe: lody, owoce, ciasta – pobierz darmowe wzory i baw się kolorując apetyczne obrazki.",
-    "header": "assets/food_treats/header.png",
     "items": [
-      {
-        "key": "banana_split_dessert",
-        "file": "assets/food_treats/banana_split_dessert.svg",
-        "description": "a banana split dessert"
-      },
-      {
-        "key": "birthday_cake_candles",
-        "file": "assets/food_treats/birthday_cake_candles.svg",
-        "description": "a slice of birthday cake with candles"
-      },
-      {
-        "key": "blueberry_muffin",
-        "file": "assets/food_treats/blueberry_muffin.svg",
-        "description": "a blueberry muffin"
-      },
-      {
-        "key": "bowl_strawberries",
-        "file": "assets/food_treats/bowl_strawberries.svg",
-        "description": "a bowl full of strawberries"
-      },
-      {
-        "key": "burger_fries_tray",
-        "file": "assets/food_treats/burger_fries_tray.svg",
-        "description": "a burger with fries on a tray"
-      },
-      {
-        "key": "candy_cane_stripes",
-        "file": "assets/food_treats/candy_cane_stripes.svg",
-        "description": "a candy cane with stripes"
-      },
-      {
-        "key": "cheese_wedge_crackers",
-        "file": "assets/food_treats/cheese_wedge_crackers.svg",
-        "description": "a cheese wedge and crackers"
-      },
-      {
-        "key": "chocolate_bar_squares",
-        "file": "assets/food_treats/chocolate_bar_squares.svg",
-        "description": "a chocolate bar with squares"
-      },
-      {
-        "key": "cupcake_fluffy_frosting",
-        "file": "assets/food_treats/cupcake_fluffy_frosting.svg",
-        "description": "a cupcake with fluffy frosting"
-      },
-      {
-        "key": "donut_chocolate_glaze",
-        "file": "assets/food_treats/donut_chocolate_glaze.svg",
-        "description": "a donut with chocolate glaze"
-      },
-      {
-        "key": "grapes_purple_bunch",
-        "file": "assets/food_treats/grapes_purple_bunch.svg",
-        "description": "a bunch of purple grapes"
-      },
-      {
-        "key": "hot_dog_mustard",
-        "file": "assets/food_treats/hot_dog_mustard.svg",
-        "description": "a hot dog with mustard"
-      },
-      {
-        "key": "ice_cream_sprinkles",
-        "file": "assets/food_treats/ice_cream_sprinkles.svg",
-        "description": "an ice cream cone with sprinkles"
-      },
-      {
-        "key": "lollipop_swirly",
-        "file": "assets/food_treats/lollipop_swirly.svg",
-        "description": "a swirly lollipop on a stick"
-      },
-      {
-        "key": "milkshake_with_straw",
-        "file": "assets/food_treats/milkshake_with_straw.svg",
-        "description": "a milkshake with a straw"
-      },
-      {
-        "key": "pancake_butter_plate",
-        "file": "assets/food_treats/pancake_butter_plate.svg",
-        "description": "a buttered pancake on a plate"
-      },
-      {
-        "key": "pancakes_stack_syrup",
-        "file": "assets/food_treats/pancakes_stack_syrup.svg",
-        "description": "a stack of pancakes with syrup"
-      },
-      {
-        "key": "pizza_extra_cheese",
-        "file": "assets/food_treats/pizza_extra_cheese.svg",
-        "description": "a slice of pizza with extra cheese"
-      },
-      {
-        "key": "popcorn_bucket_kernels",
-        "file": "assets/food_treats/popcorn_bucket_kernels.svg",
-        "description": "a popcorn bucket spilling kernels"
-      },
-      {
-        "key": "pretzel_salt_crystals",
-        "file": "assets/food_treats/pretzel_salt_crystals.svg",
-        "description": "a pretzel with salt crystals"
-      },
-      {
-        "key": "salad_bowl_colorful",
-        "file": "assets/food_treats/salad_bowl_colorful.svg",
-        "description": "a colorful salad bowl"
-      },
-      {
-        "key": "sandwich_lettuce_tomato",
-        "file": "assets/food_treats/sandwich_lettuce_tomato.svg",
-        "description": "a sandwich with lettuce and tomato"
-      },
-      {
-        "key": "taco_tasty_toppings",
-        "file": "assets/food_treats/taco_tasty_toppings.svg",
-        "description": "a taco with tasty toppings"
-      },
-      {
-        "key": "watermelon_juicy_slice",
-        "file": "assets/food_treats/watermelon_juicy_slice.svg",
-        "description": "a juicy slice of watermelon"
-      },
-      {
-        "key": "cinnamon_roll_warm",
-        "file": "assets/food_treats/cinnamon_roll_warm.svg",
-        "description": "a warm cinnamon roll"
-      }
+      { "key": "banana_split_dessert", "file": "assets/food_treats/banana_split_dessert.svg" },
+      { "key": "birthday_cake_candles", "file": "assets/food_treats/birthday_cake_candles.svg" },
+      { "key": "blueberry_muffin", "file": "assets/food_treats/blueberry_muffin.svg" },
+      { "key": "bowl_strawberries", "file": "assets/food_treats/bowl_strawberries.svg" },
+      { "key": "burger_fries_tray", "file": "assets/food_treats/burger_fries_tray.svg" },
+      { "key": "candy_cane_stripes", "file": "assets/food_treats/candy_cane_stripes.svg" },
+      { "key": "cheese_wedge_crackers", "file": "assets/food_treats/cheese_wedge_crackers.svg" },
+      { "key": "chocolate_bar_squares", "file": "assets/food_treats/chocolate_bar_squares.svg" },
+      { "key": "cupcake_fluffy_frosting", "file": "assets/food_treats/cupcake_fluffy_frosting.svg" },
+      { "key": "donut_chocolate_glaze", "file": "assets/food_treats/donut_chocolate_glaze.svg" },
+      { "key": "grapes_purple_bunch", "file": "assets/food_treats/grapes_purple_bunch.svg" },
+      { "key": "hot_dog_mustard", "file": "assets/food_treats/hot_dog_mustard.svg" },
+      { "key": "ice_cream_sprinkles", "file": "assets/food_treats/ice_cream_sprinkles.svg" },
+      { "key": "lollipop_swirly", "file": "assets/food_treats/lollipop_swirly.svg" },
+      { "key": "milkshake_with_straw", "file": "assets/food_treats/milkshake_with_straw.svg" },
+      { "key": "pancake_butter_plate", "file": "assets/food_treats/pancake_butter_plate.svg" },
+      { "key": "pancakes_stack_syrup", "file": "assets/food_treats/pancakes_stack_syrup.svg" },
+      { "key": "pizza_extra_cheese", "file": "assets/food_treats/pizza_extra_cheese.svg" },
+      { "key": "popcorn_bucket_kernels", "file": "assets/food_treats/popcorn_bucket_kernels.svg" },
+      { "key": "pretzel_salt_crystals", "file": "assets/food_treats/pretzel_salt_crystals.svg" },
+      { "key": "salad_bowl_colorful", "file": "assets/food_treats/salad_bowl_colorful.svg" },
+      { "key": "sandwich_lettuce_tomato", "file": "assets/food_treats/sandwich_lettuce_tomato.svg" },
+      { "key": "taco_tasty_toppings", "file": "assets/food_treats/taco_tasty_toppings.svg" },
+      { "key": "watermelon_juicy_slice", "file": "assets/food_treats/watermelon_juicy_slice.svg" },
+      { "key": "cinnamon_roll_warm", "file": "assets/food_treats/cinnamon_roll_warm.svg" }
     ]
   },
   "seasons_weather": {
-    "title_key": "Pory roku i pogoda",
-    "description": "Kolorowanki sezonowe i pogodowe: lato, zima, deszcz, słońce – rozwijaj świadomość przyrody przez kolorowanie.",
-    "header": "assets/seasons_weather/header.png",
     "items": [
-      {
-        "key": "autumn_leaves_tree",
-        "file": "assets/seasons_weather/autumn_leaves_tree.svg",
-        "description": "autumn leaves falling from a tree"
-      },
-      {
-        "key": "beach_sun_umbrella",
-        "file": "assets/seasons_weather/beach_sun_umbrella.svg",
-        "description": "a beach scene with sun umbrella"
-      },
-      {
-        "key": "blooming_cherry_tree",
-        "file": "assets/seasons_weather/blooming_cherry_tree.svg",
-        "description": "a blooming cherry tree"
-      },
-      {
-        "key": "cozy_cabin_winter",
-        "file": "assets/seasons_weather/cozy_cabin_winter.svg",
-        "description": "a cozy cabin in winter snow"
-      },
-      {
-        "key": "kid_puddles_boots",
-        "file": "assets/seasons_weather/kid_puddles_boots.svg",
-        "description": "a kid jumping in puddles with boots"
-      },
-      {
-        "key": "kite_breezy_day",
-        "file": "assets/seasons_weather/kite_breezy_day.svg",
-        "description": "a kite flying on a breezy day"
-      },
-      {
-        "key": "picnic_bright_sun",
-        "file": "assets/seasons_weather/picnic_bright_sun.svg",
-        "description": "a picnic under a bright sun"
-      },
-      {
-        "key": "pinwheel_spinning_wind",
-        "file": "assets/seasons_weather/pinwheel_spinning_wind.svg",
-        "description": "a windy pinwheel spinning"
-      },
-      {
-        "key": "rain_cloud_raindrops",
-        "file": "assets/seasons_weather/rain_cloud_raindrops.svg",
-        "description": "a rain cloud with raindrops"
-      },
-      {
-        "key": "rainbow_after_rain",
-        "file": "assets/seasons_weather/rainbow_after_rain.svg",
-        "description": "a rainbow after rain"
-      },
-      {
-        "key": "rainy_day_umbrella",
-        "file": "assets/seasons_weather/rainy_day_umbrella.svg",
-        "description": "a rainy day with umbrella"
-      },
-      {
-        "key": "scarecrow_fall_field",
-        "file": "assets/seasons_weather/scarecrow_fall_field.svg",
-        "description": "a scarecrow in a fall field"
-      },
-      {
-        "key": "sled_down_hill",
-        "file": "assets/seasons_weather/sled_down_hill.svg",
-        "description": "a sled sliding down a hill"
-      },
-      {
-        "key": "snow_pine_tree",
-        "file": "assets/seasons_weather/snow_pine_tree.svg",
-        "description": "a snow-covered pine tree"
-      },
-      {
-        "key": "snowflake_pattern",
-        "file": "assets/seasons_weather/snowflake_pattern.svg",
-        "description": "a snowflake pattern to color"
-      },
-      {
-        "key": "spring_butterfly_garden",
-        "file": "assets/seasons_weather/spring_butterfly_garden.svg",
-        "description": "a springtime butterfly garden"
-      },
-      {
-        "key": "spring_meadow_flowers",
-        "file": "assets/seasons_weather/spring_meadow_flowers.svg",
-        "description": "a spring meadow with flowers"
-      },
-      {
-        "key": "sunflower_bright_sun",
-        "file": "assets/seasons_weather/sunflower_bright_sun.svg",
-        "description": "a sunflower under bright sun"
-      },
-      {
-        "key": "sunny_smiling_sun",
-        "file": "assets/seasons_weather/sunny_smiling_sun.svg",
-        "description": "a sunny smiling sun"
-      },
-      {
-        "key": "thermometer_hot_day",
-        "file": "assets/seasons_weather/thermometer_hot_day.svg",
-        "description": "a thermometer showing hot day"
-      },
-      {
-        "key": "thundercloud_lightning",
-        "file": "assets/seasons_weather/thundercloud_lightning.svg",
-        "description": "a thundercloud with lightning bolts"
-      },
-      {
-        "key": "windy_day_trees",
-        "file": "assets/seasons_weather/windy_day_trees.svg",
-        "description": "a windy day with swaying trees"
-      }
+      { "key": "autumn_leaves_tree", "file": "assets/seasons_weather/autumn_leaves_tree.svg" },
+      { "key": "beach_sun_umbrella", "file": "assets/seasons_weather/beach_sun_umbrella.svg" },
+      { "key": "blooming_cherry_tree", "file": "assets/seasons_weather/blooming_cherry_tree.svg" },
+      { "key": "cozy_cabin_winter", "file": "assets/seasons_weather/cozy_cabin_winter.svg" },
+      { "key": "kid_puddles_boots", "file": "assets/seasons_weather/kid_puddles_boots.svg" },
+      { "key": "kite_breezy_day", "file": "assets/seasons_weather/kite_breezy_day.svg" },
+      { "key": "picnic_bright_sun", "file": "assets/seasons_weather/picnic_bright_sun.svg" },
+      { "key": "pinwheel_spinning_wind", "file": "assets/seasons_weather/pinwheel_spinning_wind.svg" },
+      { "key": "rain_cloud_raindrops", "file": "assets/seasons_weather/rain_cloud_raindrops.svg" },
+      { "key": "rainbow_after_rain", "file": "assets/seasons_weather/rainbow_after_rain.svg" },
+      { "key": "rainy_day_umbrella", "file": "assets/seasons_weather/rainy_day_umbrella.svg" },
+      { "key": "scarecrow_fall_field", "file": "assets/seasons_weather/scarecrow_fall_field.svg" },
+      { "key": "sled_down_hill", "file": "assets/seasons_weather/sled_down_hill.svg" },
+      { "key": "snow_pine_tree", "file": "assets/seasons_weather/snow_pine_tree.svg" },
+      { "key": "snowflake_pattern", "file": "assets/seasons_weather/snowflake_pattern.svg" },
+      { "key": "spring_butterfly_garden", "file": "assets/seasons_weather/spring_butterfly_garden.svg" },
+      { "key": "spring_meadow_flowers", "file": "assets/seasons_weather/spring_meadow_flowers.svg" },
+      { "key": "sunflower_bright_sun", "file": "assets/seasons_weather/sunflower_bright_sun.svg" },
+      { "key": "sunny_smiling_sun", "file": "assets/seasons_weather/sunny_smiling_sun.svg" },
+      { "key": "thermometer_hot_day", "file": "assets/seasons_weather/thermometer_hot_day.svg" },
+      { "key": "thundercloud_lightning", "file": "assets/seasons_weather/thundercloud_lightning.svg" },
+      { "key": "windy_day_trees", "file": "assets/seasons_weather/windy_day_trees.svg" }
     ]
   },
   "space_science": {
-    "title_key": "Kosmos i nauka",
-    "description": "Kolorowanki kosmiczne i edukacyjne: planety, rakiety, eksperymenty – pobierz darmowe wzory, rozwijaj wiedzę i kreatywność.",
-    "header": "assets/space_science/header.png",
     "items": [
-      {
-        "key": "alien_wave_hello",
-        "file": "assets/space_science/alien_wave_hello.svg",
-        "description": "a friendly alien waving hello"
-      },
-      {
-        "key": "asteroid_floating",
-        "file": "assets/space_science/asteroid_floating.svg",
-        "description": "an asteroid floating in space"
-      },
-      {
-        "key": "astronaut_flag_moon",
-        "file": "assets/space_science/astronaut_flag_moon.svg",
-        "description": "an astronaut planting a flag on the moon"
-      },
-      {
-        "key": "astronaut_tether",
-        "file": "assets/space_science/astronaut_tether.svg",
-        "description": "an astronaut floating with a tether"
-      },
-      {
-        "key": "black_hole_swirls",
-        "file": "assets/space_science/black_hole_swirls.svg",
-        "description": "a cartoon black hole with swirls"
-      },
-      {
-        "key": "bright_star_shining",
-        "file": "assets/space_science/bright_star_shining.svg",
-        "description": "a bright star shining"
-      },
-      {
-        "key": "capsule_parachute",
-        "file": "assets/space_science/capsule_parachute.svg",
-        "description": "a capsule re-entering with a parachute"
-      },
-      {
-        "key": "comet_streak",
-        "file": "assets/space_science/comet_streak.svg",
-        "description": "a comet streaking across the night"
-      },
-      {
-        "key": "constellation_kite",
-        "file": "assets/space_science/constellation_kite.svg",
-        "description": "a constellation shaped like a kite"
-      },
-      {
-        "key": "mars_rover_wheels",
-        "file": "assets/space_science/mars_rover_wheels.svg",
-        "description": "a Mars rover with big wheels"
-      },
-      {
-        "key": "meteor_shower_mountains",
-        "file": "assets/space_science/meteor_shower_mountains.svg",
-        "description": "a meteor shower over mountains"
-      },
-      {
-        "key": "moon_craters_close",
-        "file": "assets/space_science/moon_craters_close.svg",
-        "description": "a cratered moon close up"
-      },
-      {
-        "key": "planet_many_moons",
-        "file": "assets/space_science/planet_many_moons.svg",
-        "description": "a planet with many tiny moons"
-      },
-      {
-        "key": "ringed_planet_moons",
-        "file": "assets/space_science/ringed_planet_moons.svg",
-        "description": "a ringed planet with moons"
-      },
-      {
-        "key": "rocket_blastoff",
-        "file": "assets/space_science/rocket_blastoff.svg",
-        "description": "a rocket blasting into space"
-      },
-      {
-        "key": "rocket_launch_pad",
-        "file": "assets/space_science/rocket_launch_pad.svg",
-        "description": "a rocket on a launch pad"
-      },
-      {
-        "key": "satellite_orbit_earth",
-        "file": "assets/space_science/satellite_orbit_earth.svg",
-        "description": "a satellite orbiting the Earth"
-      },
-      {
-        "key": "scientist_star_charts",
-        "file": "assets/space_science/scientist_star_charts.svg",
-        "description": "a scientist studying star charts"
-      },
-      {
-        "key": "solar_system_model",
-        "file": "assets/space_science/solar_system_model.svg",
-        "description": "a model of the solar system"
-      },
-      {
-        "key": "space_shuttle_landing",
-        "file": "assets/space_science/space_shuttle_landing.svg",
-        "description": "a space shuttle gliding to land"
-      },
-      {
-        "key": "space_station_panels",
-        "file": "assets/space_science/space_station_panels.svg",
-        "description": "a space station with solar panels"
-      },
-      {
-        "key": "spaceship_among_planets",
-        "file": "assets/space_science/spaceship_among_planets.svg",
-        "description": "a spaceship flying among planets"
-      },
-      {
-        "key": "spiral_galaxy",
-        "file": "assets/space_science/spiral_galaxy.svg",
-        "description": "a spiral galaxy full of stars"
-      },
-      {
-        "key": "telescope_twinkle_stars",
-        "file": "assets/space_science/telescope_twinkle_stars.svg",
-        "description": "a telescope pointing at twinkling stars"
-      },
-      {
-        "key": "ufo_zooming",
-        "file": "assets/space_science/ufo_zooming.svg",
-        "description": "a UFO zooming across the sky"
-      }
+      { "key": "alien_wave_hello", "file": "assets/space_science/alien_wave_hello.svg" },
+      { "key": "asteroid_floating", "file": "assets/space_science/asteroid_floating.svg" },
+      { "key": "astronaut_flag_moon", "file": "assets/space_science/astronaut_flag_moon.svg" },
+      { "key": "astronaut_tether", "file": "assets/space_science/astronaut_tether.svg" },
+      { "key": "black_hole_swirls", "file": "assets/space_science/black_hole_swirls.svg" },
+      { "key": "bright_star_shining", "file": "assets/space_science/bright_star_shining.svg" },
+      { "key": "capsule_parachute", "file": "assets/space_science/capsule_parachute.svg" },
+      { "key": "comet_streak", "file": "assets/space_science/comet_streak.svg" },
+      { "key": "constellation_kite", "file": "assets/space_science/constellation_kite.svg" },
+      { "key": "mars_rover_wheels", "file": "assets/space_science/mars_rover_wheels.svg" },
+      { "key": "meteor_shower_mountains", "file": "assets/space_science/meteor_shower_mountains.svg" },
+      { "key": "moon_craters_close", "file": "assets/space_science/moon_craters_close.svg" },
+      { "key": "planet_many_moons", "file": "assets/space_science/planet_many_moons.svg" },
+      { "key": "ringed_planet_moons", "file": "assets/space_science/ringed_planet_moons.svg" },
+      { "key": "rocket_blastoff", "file": "assets/space_science/rocket_blastoff.svg" },
+      { "key": "rocket_launch_pad", "file": "assets/space_science/rocket_launch_pad.svg" },
+      { "key": "satellite_orbit_earth", "file": "assets/space_science/satellite_orbit_earth.svg" },
+      { "key": "scientist_star_charts", "file": "assets/space_science/scientist_star_charts.svg" },
+      { "key": "solar_system_model", "file": "assets/space_science/solar_system_model.svg" },
+      { "key": "space_shuttle_landing", "file": "assets/space_science/space_shuttle_landing.svg" },
+      { "key": "space_station_panels", "file": "assets/space_science/space_station_panels.svg" },
+      { "key": "spaceship_among_planets", "file": "assets/space_science/spaceship_among_planets.svg" },
+      { "key": "spiral_galaxy", "file": "assets/space_science/spiral_galaxy.svg" },
+      { "key": "telescope_twinkle_stars", "file": "assets/space_science/telescope_twinkle_stars.svg" },
+      { "key": "ufo_zooming", "file": "assets/space_science/ufo_zooming.svg" }
     ]
   },
   "sports_activities": {
-    "title_key": "Sport i aktywności",
-    "description": "Kolorowanki sportowe: piłka nożna, taniec, pływanie – dla miłośników ruchu, do druku i kolorowania.",
-    "header": "assets/sports_activities/header.png",
     "items": [
-      {
-        "key": "baseball_home_run",
-        "file": "assets/sports_activities/baseball_home_run.svg",
-        "description": "a baseball player hitting a home run"
-      },
-      {
-        "key": "basketball_slam_dunk",
-        "file": "assets/sports_activities/basketball_slam_dunk.svg",
-        "description": "a basketball player making a slam dunk"
-      },
-      {
-        "key": "bowler_rolling_strike",
-        "file": "assets/sports_activities/bowler_rolling_strike.svg",
-        "description": "a bowler rolling for a strike"
-      },
-      {
-        "key": "boxer_throwing_jab",
-        "file": "assets/sports_activities/boxer_throwing_jab.svg",
-        "description": "a boxer throwing a jab"
-      },
-      {
-        "key": "climber_mountain_summit",
-        "file": "assets/sports_activities/climber_mountain_summit.svg",
-        "description": "a climber reaching the mountain summit"
-      },
-      {
-        "key": "cyclist_uphill",
-        "file": "assets/sports_activities/cyclist_uphill.svg",
-        "description": "a cyclist riding up a hill"
-      },
-      {
-        "key": "dancer_grand_jete",
-        "file": "assets/sports_activities/dancer_grand_jete.svg",
-        "description": "a dancer performing a grand jeté"
-      },
-      {
-        "key": "fencer_lunge",
-        "file": "assets/sports_activities/fencer_lunge.svg",
-        "description": "a fencer lunging with a foil"
-      },
-      {
-        "key": "fishing_kid_fish",
-        "file": "assets/sports_activities/fishing_kid_fish.svg",
-        "description": "a fishing kid proudly holding a fish"
-      },
-      {
-        "key": "golfer_swing_club",
-        "file": "assets/sports_activities/golfer_swing_club.svg",
-        "description": "a golfer swinging a club"
-      },
-      {
-        "key": "gymnast_beam_split",
-        "file": "assets/sports_activities/gymnast_beam_split.svg",
-        "description": "a gymnast doing a split on a beam"
-      },
-      {
-        "key": "hockey_slapshot",
-        "file": "assets/sports_activities/hockey_slapshot.svg",
-        "description": "a hockey player taking a slapshot"
-      },
-      {
-        "key": "horse_rider_jump",
-        "file": "assets/sports_activities/horse_rider_jump.svg",
-        "description": "a horse rider jumping over a fence"
-      },
-      {
-        "key": "karate_high_kick",
-        "file": "assets/sports_activities/karate_high_kick.svg",
-        "description": "a karate kid doing a high kick"
-      },
-      {
-        "key": "rugby_runner_ball",
-        "file": "assets/sports_activities/rugby_runner_ball.svg",
-        "description": "a rugby player running with the ball"
-      },
-      {
-        "key": "runner_finish_line",
-        "file": "assets/sports_activities/runner_finish_line.svg",
-        "description": "a runner crossing the finish line"
-      },
-      {
-        "key": "skateboarder_kickflip",
-        "file": "assets/sports_activities/skateboarder_kickflip.svg",
-        "description": "a skateboarder doing a kickflip"
-      },
-      {
-        "key": "skier_downhill_snow",
-        "file": "assets/sports_activities/skier_downhill_snow.svg",
-        "description": "a skier racing down a snowy slope"
-      },
-      {
-        "key": "snowboarder_flip",
-        "file": "assets/sports_activities/snowboarder_flip.svg",
-        "description": "a snowboarder doing a flip"
-      },
-      {
-        "key": "soccer_player_kick",
-        "file": "assets/sports_activities/soccer_player_kick.svg",
-        "description": "a soccer player kicking a ball"
-      },
-      {
-        "key": "surfer_big_wave",
-        "file": "assets/sports_activities/surfer_big_wave.svg",
-        "description": "a surfer riding a big wave"
-      },
-      {
-        "key": "swimmer_butterfly_stroke",
-        "file": "assets/sports_activities/swimmer_butterfly_stroke.svg",
-        "description": "a swimmer doing the butterfly stroke"
-      },
-      {
-        "key": "tennis_serve_ball",
-        "file": "assets/sports_activities/tennis_serve_ball.svg",
-        "description": "a tennis player serving the ball"
-      },
-      {
-        "key": "volleyball_spike",
-        "file": "assets/sports_activities/volleyball_spike.svg",
-        "description": "a volleyball player spiking the ball"
-      },
-      {
-        "key": "weightlifter_barbell",
-        "file": "assets/sports_activities/weightlifter_barbell.svg",
-        "description": "a weightlifter lifting a barbell"
-      }
+      { "key": "baseball_home_run", "file": "assets/sports_activities/baseball_home_run.svg" },
+      { "key": "basketball_slam_dunk", "file": "assets/sports_activities/basketball_slam_dunk.svg" },
+      { "key": "bowler_rolling_strike", "file": "assets/sports_activities/bowler_rolling_strike.svg" },
+      { "key": "boxer_throwing_jab", "file": "assets/sports_activities/boxer_throwing_jab.svg" },
+      { "key": "climber_mountain_summit", "file": "assets/sports_activities/climber_mountain_summit.svg" },
+      { "key": "cyclist_uphill", "file": "assets/sports_activities/cyclist_uphill.svg" },
+      { "key": "dancer_grand_jete", "file": "assets/sports_activities/dancer_grand_jete.svg" },
+      { "key": "fencer_lunge", "file": "assets/sports_activities/fencer_lunge.svg" },
+      { "key": "fishing_kid_fish", "file": "assets/sports_activities/fishing_kid_fish.svg" },
+      { "key": "golfer_swing_club", "file": "assets/sports_activities/golfer_swing_club.svg" },
+      { "key": "gymnast_beam_split", "file": "assets/sports_activities/gymnast_beam_split.svg" },
+      { "key": "hockey_slapshot", "file": "assets/sports_activities/hockey_slapshot.svg" },
+      { "key": "horse_rider_jump", "file": "assets/sports_activities/horse_rider_jump.svg" },
+      { "key": "karate_high_kick", "file": "assets/sports_activities/karate_high_kick.svg" },
+      { "key": "rugby_runner_ball", "file": "assets/sports_activities/rugby_runner_ball.svg" },
+      { "key": "runner_finish_line", "file": "assets/sports_activities/runner_finish_line.svg" },
+      { "key": "skateboarder_kickflip", "file": "assets/sports_activities/skateboarder_kickflip.svg" },
+      { "key": "skier_downhill_snow", "file": "assets/sports_activities/skier_downhill_snow.svg" },
+      { "key": "snowboarder_flip", "file": "assets/sports_activities/snowboarder_flip.svg" },
+      { "key": "soccer_player_kick", "file": "assets/sports_activities/soccer_player_kick.svg" },
+      { "key": "surfer_big_wave", "file": "assets/sports_activities/surfer_big_wave.svg" },
+      { "key": "swimmer_butterfly_stroke", "file": "assets/sports_activities/swimmer_butterfly_stroke.svg" },
+      { "key": "tennis_serve_ball", "file": "assets/sports_activities/tennis_serve_ball.svg" },
+      { "key": "volleyball_spike", "file": "assets/sports_activities/volleyball_spike.svg" },
+      { "key": "weightlifter_barbell", "file": "assets/sports_activities/weightlifter_barbell.svg" }
     ]
   },
   "underwater_world": {
-    "title_key": "Podwodny świat",
-    "description": "Kolorowanki podwodne: ryby, rafy koralowe, morskie istoty – zanurz się w kolorowy świat oceanu.",
-    "header": "assets/underwater_world/header.png",
     "items": [
-      {
-        "key": "beach_bucket_shells",
-        "file": "assets/underwater_world/beach_bucket_shells.svg",
-        "description": "a beach bucket and shells"
-      },
-      {
-        "key": "clam_with_pearl",
-        "file": "assets/underwater_world/clam_with_pearl.svg",
-        "description": "a clam with a pearl inside"
-      },
-      {
-        "key": "coral_reef_shapes",
-        "file": "assets/underwater_world/coral_reef_shapes.svg",
-        "description": "a coral reef full of shapes"
-      },
-      {
-        "key": "crab_sandy_bed",
-        "file": "assets/underwater_world/crab_sandy_bed.svg",
-        "description": "a crab on a sandy seabed"
-      },
-      {
-        "key": "diver_thumbs_up",
-        "file": "assets/underwater_world/diver_thumbs_up.svg",
-        "description": "a diver giving a thumbs up"
-      },
-      {
-        "key": "dolphin_jump_waves",
-        "file": "assets/underwater_world/dolphin_jump_waves.svg",
-        "description": "a dolphin jumping out of waves"
-      },
-      {
-        "key": "fish_school_heart",
-        "file": "assets/underwater_world/fish_school_heart.svg",
-        "description": "a school of fish making a heart"
-      },
-      {
-        "key": "hermit_crab_swirl_shell",
-        "file": "assets/underwater_world/hermit_crab_swirl_shell.svg",
-        "description": "a hermit crab with a swirly shell"
-      },
-      {
-        "key": "jellyfish_floating",
-        "file": "assets/underwater_world/jellyfish_floating.svg",
-        "description": "a jellyfish floating gently"
-      },
-      {
-        "key": "kelp_forest_fish",
-        "file": "assets/underwater_world/kelp_forest_fish.svg",
-        "description": "a kelp forest with fish"
-      },
-      {
-        "key": "lighthouse_ocean",
-        "file": "assets/underwater_world/lighthouse_ocean.svg",
-        "description": "a lighthouse by the ocean"
-      },
-      {
-        "key": "lobster_waving_claw",
-        "file": "assets/underwater_world/lobster_waving_claw.svg",
-        "description": "a lobster waving a claw"
-      },
-      {
-        "key": "manta_ray_glide",
-        "file": "assets/underwater_world/manta_ray_glide.svg",
-        "description": "a manta ray gliding gracefully"
-      },
-      {
-        "key": "mermaid_tail_splash",
-        "file": "assets/underwater_world/mermaid_tail_splash.svg",
-        "description": "a mermaid tail splashing water"
-      },
-      {
-        "key": "octopus_waving",
-        "file": "assets/underwater_world/octopus_waving.svg",
-        "description": "an octopus waving tentacles"
-      },
-      {
-        "key": "otter_holding_shell",
-        "file": "assets/underwater_world/otter_holding_shell.svg",
-        "description": "a playful otter holding a shell"
-      },
-      {
-        "key": "pirate_treasure_undersea",
-        "file": "assets/underwater_world/pirate_treasure_undersea.svg",
-        "description": "a pirate treasure chest undersea"
-      },
-      {
-        "key": "pufferfish_puffed",
-        "file": "assets/underwater_world/pufferfish_puffed.svg",
-        "description": "a puffed pufferfish"
-      },
-      {
-        "key": "sea_lion_clap",
-        "file": "assets/underwater_world/sea_lion_clap.svg",
-        "description": "a sea lion clapping flippers"
-      },
-      {
-        "key": "sea_turtle_coral",
-        "file": "assets/underwater_world/sea_turtle_coral.svg",
-        "description": "a sea turtle swimming by coral"
-      },
-      {
-        "key": "seahorse_seaweed",
-        "file": "assets/underwater_world/seahorse_seaweed.svg",
-        "description": "a seahorse curled around seaweed"
-      },
-      {
-        "key": "shark_smile",
-        "file": "assets/underwater_world/shark_smile.svg",
-        "description": "a shark smiling with small teeth"
-      },
-      {
-        "key": "starfish_on_rock",
-        "file": "assets/underwater_world/starfish_on_rock.svg",
-        "description": "a starfish resting on a rock"
-      },
-      {
-        "key": "submarine_round_windows",
-        "file": "assets/underwater_world/submarine_round_windows.svg",
-        "description": "a submarine with round windows"
-      },
-      {
-        "key": "whale_spout_water",
-        "file": "assets/underwater_world/whale_spout_water.svg",
-        "description": "a smiling whale spouting water"
-      }
+      { "key": "beach_bucket_shells", "file": "assets/underwater_world/beach_bucket_shells.svg" },
+      { "key": "clam_with_pearl", "file": "assets/underwater_world/clam_with_pearl.svg" },
+      { "key": "coral_reef_shapes", "file": "assets/underwater_world/coral_reef_shapes.svg" },
+      { "key": "crab_sandy_bed", "file": "assets/underwater_world/crab_sandy_bed.svg" },
+      { "key": "diver_thumbs_up", "file": "assets/underwater_world/diver_thumbs_up.svg" },
+      { "key": "dolphin_jump_waves", "file": "assets/underwater_world/dolphin_jump_waves.svg" },
+      { "key": "fish_school_heart", "file": "assets/underwater_world/fish_school_heart.svg" },
+      { "key": "hermit_crab_swirl_shell", "file": "assets/underwater_world/hermit_crab_swirl_shell.svg" },
+      { "key": "jellyfish_floating", "file": "assets/underwater_world/jellyfish_floating.svg" },
+      { "key": "kelp_forest_fish", "file": "assets/underwater_world/kelp_forest_fish.svg" },
+      { "key": "lighthouse_ocean", "file": "assets/underwater_world/lighthouse_ocean.svg" },
+      { "key": "lobster_waving_claw", "file": "assets/underwater_world/lobster_waving_claw.svg" },
+      { "key": "manta_ray_glide", "file": "assets/underwater_world/manta_ray_glide.svg" },
+      { "key": "mermaid_tail_splash", "file": "assets/underwater_world/mermaid_tail_splash.svg" },
+      { "key": "octopus_waving", "file": "assets/underwater_world/octopus_waving.svg" },
+      { "key": "otter_holding_shell", "file": "assets/underwater_world/otter_holding_shell.svg" },
+      { "key": "pirate_treasure_undersea", "file": "assets/underwater_world/pirate_treasure_undersea.svg" },
+      { "key": "pufferfish_puffed", "file": "assets/underwater_world/pufferfish_puffed.svg" },
+      { "key": "sea_lion_clap", "file": "assets/underwater_world/sea_lion_clap.svg" },
+      { "key": "sea_turtle_coral", "file": "assets/underwater_world/sea_turtle_coral.svg" },
+      { "key": "seahorse_seaweed", "file": "assets/underwater_world/seahorse_seaweed.svg" },
+      { "key": "shark_smile", "file": "assets/underwater_world/shark_smile.svg" },
+      { "key": "starfish_on_rock", "file": "assets/underwater_world/starfish_on_rock.svg" },
+      { "key": "submarine_round_windows", "file": "assets/underwater_world/submarine_round_windows.svg" },
+      { "key": "whale_spout_water", "file": "assets/underwater_world/whale_spout_water.svg" }
     ]
   },
   "minecraft": {
-    "title_key": "Minecraft",
-    "description": "Kolorowanki z motywami Minecraft – pikselowy świat, postacie i budowle – idealne dla fanów gry, do wydruku.",
-    "header": "assets/minecraft/header.png",
     "items": [
-      {
-        "key": "allay",
-        "file": "assets/minecraft/allay.svg",
-        "description": ""
-      },
-      {
-        "key": "axolotl",
-        "file": "assets/minecraft/axolotl.svg",
-        "description": ""
-      },
-      {
-        "key": "baby_goat",
-        "file": "assets/minecraft/baby_goat.svg",
-        "description": "Minecraft Goat baby jumping high."
-      },
-      {
-        "key": "baby_pig",
-        "file": "assets/minecraft/baby_pig.svg",
-        "description": "Minecraft Baby pig following mother."
-      },
-      {
-        "key": "baby_sniffer",
-        "file": "assets/minecraft/baby_sniffer.svg",
-        "description": "Minecraft Sniffer baby sniffing dirt."
-      },
-      {
-        "key": "baby_turtle",
-        "file": "assets/minecraft/baby_turtle.svg",
-        "description": "Minecraft Tiny baby turtle crawling."
-      },
-      {
-        "key": "baby_villager",
-        "file": "assets/minecraft/baby_villager.svg",
-        "description": "Minecraft Baby villager running around."
-      },
-      {
-        "key": "baby_zombie",
-        "file": "assets/minecraft/baby_zombie.svg",
-        "description": "Minecraft Baby zombie running fast."
-      },
-      {
-        "key": "bat",
-        "file": "assets/minecraft/bat.svg",
-        "description": "Minecraft Brown bat flying in cave."
-      },
-      {
-        "key": "bee",
-        "file": "assets/minecraft/bee.svg",
-        "description": ""
-      },
-      {
-        "key": "blaze",
-        "file": "assets/minecraft/blaze.svg",
-        "description": ""
-      },
-      {
-        "key": "camel",
-        "file": "assets/minecraft/camel.svg",
-        "description": ""
-      },
-      {
-        "key": "cat",
-        "file": "assets/minecraft/cat.svg",
-        "description": ""
-      },
-      {
-        "key": "chicken",
-        "file": "assets/minecraft/chicken.svg",
-        "description": "Minecraft Chicken laying egg."
-      },
-      {
-        "key": "chicken_jockey",
-        "file": "assets/minecraft/chicken_jockey.svg",
-        "description": "Minecraft Chicken jockey riding tiny chicken."
-      },
-      {
-        "key": "cod",
-        "file": "assets/minecraft/cod.svg",
-        "description": "Minecraft Cod fish in cold water."
-      },
-      {
-        "key": "cow",
-        "file": "assets/minecraft/cow.svg",
-        "description": "Minecraft Brown cow making milk."
-      },
-      {
-        "key": "creeper",
-        "file": "assets/minecraft/creeper.svg",
-        "description": ""
-      },
-      {
-        "key": "dancing_parrot",
-        "file": "assets/minecraft/dancing_parrot.svg",
-        "description": "Minecraft Parrot dancing to music."
-      },
-      {
-        "key": "dolphin",
-        "file": "assets/minecraft/dolphin.svg",
-        "description": "Minecraft Dolphin jumping in ocean."
-      },
-      {
-        "key": "drowned",
-        "file": "assets/minecraft/drowned.svg",
-        "description": ""
-      },
-      {
-        "key": "elder_guardian",
-        "file": "assets/minecraft/elder_guardian.svg",
-        "description": ""
-      },
-      {
-        "key": "end_crystal",
-        "file": "assets/minecraft/end_crystal.svg",
-        "description": "Minecraft End crystal floating and glowing."
-      },
-      {
-        "key": "ender_dragon",
-        "file": "assets/minecraft/ender_dragon.svg",
-        "description": ""
-      },
-      {
-        "key": "enderman",
-        "file": "assets/minecraft/enderman.svg",
-        "description": ""
-      },
-      {
-        "key": "endermite",
-        "file": "assets/minecraft/endermite.svg",
-        "description": ""
-      },
-      {
-        "key": "evoker",
-        "file": "assets/minecraft/evoker.svg",
-        "description": ""
-      },
-      {
-        "key": "flying_bee",
-        "file": "assets/minecraft/flying_bee.svg",
-        "description": "Minecraft Bee flying over flowers."
-      },
-      {
-        "key": "fox",
-        "file": "assets/minecraft/fox.svg",
-        "description": ""
-      },
-      {
-        "key": "frog",
-        "file": "assets/minecraft/frog.svg",
-        "description": ""
-      },
-      {
-        "key": "ghast",
-        "file": "assets/minecraft/ghast.svg",
-        "description": ""
-      },
-      {
-        "key": "glow_squid",
-        "file": "assets/minecraft/glow_squid.svg",
-        "description": "Minecraft Glow squid shining underwater."
-      },
-      {
-        "key": "goat",
-        "file": "assets/minecraft/goat.svg",
-        "description": ""
-      },
-      {
-        "key": "guardian",
-        "file": "assets/minecraft/guardian.svg",
-        "description": ""
-      },
-      {
-        "key": "hoglin",
-        "file": "assets/minecraft/hoglin.svg",
-        "description": ""
-      },
-      {
-        "key": "horse",
-        "file": "assets/minecraft/horse.svg",
-        "description": ""
-      },
-      {
-        "key": "husk",
-        "file": "assets/minecraft/husk.svg",
-        "description": ""
-      },
-      {
-        "key": "iron_golem",
-        "file": "assets/minecraft/iron_golem.svg",
-        "description": "Minecraft Iron golem protecting village."
-      },
-      {
-        "key": "llama",
-        "file": "assets/minecraft/llama.svg",
-        "description": "Minecraft Spitting llama carrying chest."
-      },
-      {
-        "key": "magma_cube_big",
-        "file": "assets/minecraft/magma_cube_big.svg",
-        "description": "Minecraft Big magma cube bouncing high."
-      },
-      {
-        "key": "magma_cube_small",
-        "file": "assets/minecraft/magma_cube_small.svg",
-        "description": "Minecraft Small magma cube jumping."
-      },
-      {
-        "key": "mooshroom",
-        "file": "assets/minecraft/mooshroom.svg",
-        "description": "Minecraft Mooshroom red cow with mushrooms."
-      },
-      {
-        "key": "ocelot",
-        "file": "assets/minecraft/ocelot.svg",
-        "description": "Minecraft Ocelot hiding in jungle."
-      },
-      {
-        "key": "panda",
-        "file": "assets/minecraft/panda.svg",
-        "description": "Minecraft Panda eating bamboo."
-      },
-      {
-        "key": "parrot",
-        "file": "assets/minecraft/parrot.svg",
-        "description": ""
-      },
-      {
-        "key": "phantom",
-        "file": "assets/minecraft/phantom.svg",
-        "description": ""
-      },
-      {
-        "key": "pig",
-        "file": "assets/minecraft/pig.svg",
-        "description": "Minecraft Pink pig eating carrots."
-      },
-      {
-        "key": "piglin",
-        "file": "assets/minecraft/piglin.svg",
-        "description": ""
-      },
-      {
-        "key": "piglin_brute",
-        "file": "assets/minecraft/piglin_brute.svg",
-        "description": "Minecraft Piglin brute guarding treasure."
-      },
-      {
-        "key": "pillager",
-        "file": "assets/minecraft/pillager.svg",
-        "description": ""
-      },
-      {
-        "key": "polar_bear",
-        "file": "assets/minecraft/polar_bear.svg",
-        "description": "Minecraft Polar bear walking on ice."
-      },
-      {
-        "key": "pufferfish",
-        "file": "assets/minecraft/pufferfish.svg",
-        "description": "Minecraft Pufferfish inflating in ocean."
-      },
-      {
-        "key": "rabbit",
-        "file": "assets/minecraft/rabbit.svg",
-        "description": "Minecraft Rabbit hopping fast."
-      },
-      {
-        "key": "ravager",
-        "file": "assets/minecraft/ravager.svg",
-        "description": ""
-      },
-      {
-        "key": "resting_camel",
-        "file": "assets/minecraft/resting_camel.svg",
-        "description": "Minecraft Camel sitting on sand."
-      },
-      {
-        "key": "salmon",
-        "file": "assets/minecraft/salmon.svg",
-        "description": "Minecraft Salmon swimming upstream."
-      },
-      {
-        "key": "sheep",
-        "file": "assets/minecraft/sheep.svg",
-        "description": "Minecraft White sheep eating grass."
-      },
-      {
-        "key": "shulker",
-        "file": "assets/minecraft/shulker.svg",
-        "description": ""
-      },
-      {
-        "key": "silver_axolotl",
-        "file": "assets/minecraft/silver_axolotl.svg",
-        "description": "Minecraft Silver axolotl swimming slowly."
-      },
-      {
-        "key": "silverfish",
-        "file": "assets/minecraft/silverfish.svg",
-        "description": ""
-      },
-      {
-        "key": "skeleton",
-        "file": "assets/minecraft/skeleton.svg",
-        "description": ""
-      },
-      {
-        "key": "skeleton_chicken_jockey",
-        "file": "assets/minecraft/skeleton_chicken_jockey.svg",
-        "description": "Minecraft Skeleton riding a baby chicken."
-      },
-      {
-        "key": "skeleton_horse",
-        "file": "assets/minecraft/skeleton_horse.svg",
-        "description": "Minecraft Skeleton horse running fast."
-      },
-      {
-        "key": "slime",
-        "file": "assets/minecraft/slime.svg",
-        "description": ""
-      },
-      {
-        "key": "sniffer",
-        "file": "assets/minecraft/sniffer.svg",
-        "description": ""
-      },
-      {
-        "key": "snow_fox",
-        "file": "assets/minecraft/snow_fox.svg",
-        "description": "Minecraft Fox sleeping in snow."
-      },
-      {
-        "key": "snow_golem",
-        "file": "assets/minecraft/snow_golem.svg",
-        "description": "Minecraft Snow golem throwing snowballs."
-      },
-      {
-        "key": "spider",
-        "file": "assets/minecraft/spider.svg",
-        "description": ""
-      },
-      {
-        "key": "spider_jockey",
-        "file": "assets/minecraft/spider_jockey.svg",
-        "description": "Minecraft Spider jockey skeleton on spider."
-      },
-      {
-        "key": "squid",
-        "file": "assets/minecraft/squid.svg",
-        "description": "Minecraft Squid squirting ink."
-      },
-      {
-        "key": "stray",
-        "file": "assets/minecraft/stray.svg",
-        "description": ""
-      },
-      {
-        "key": "stray_spider_jockey",
-        "file": "assets/minecraft/stray_spider_jockey.svg",
-        "description": "Minecraft Stray skeleton riding spider."
-      },
-      {
-        "key": "strider",
-        "file": "assets/minecraft/strider.svg",
-        "description": "Minecraft Strider walking on lava."
-      },
-      {
-        "key": "tropical_fish",
-        "file": "assets/minecraft/tropical_fish.svg",
-        "description": "Minecraft Tropical fish with bright colors."
-      },
-      {
-        "key": "turtle",
-        "file": "assets/minecraft/turtle.svg",
-        "description": ""
-      },
-      {
-        "key": "vex",
-        "file": "assets/minecraft/vex.svg",
-        "description": ""
-      },
-      {
-        "key": "villager",
-        "file": "assets/minecraft/villager.svg",
-        "description": "Minecraft Villager trading emeralds."
-      },
-      {
-        "key": "vindicator",
-        "file": "assets/minecraft/vindicator.svg",
-        "description": ""
-      },
-      {
-        "key": "wandering_trader",
-        "file": "assets/minecraft/wandering_trader.svg",
-        "description": "Minecraft Wandering trader with llamas."
-      },
-      {
-        "key": "witch",
-        "file": "assets/minecraft/witch.svg",
-        "description": ""
-      },
-      {
-        "key": "wither",
-        "file": "assets/minecraft/wither.svg",
-        "description": ""
-      },
-      {
-        "key": "wither_skeleton",
-        "file": "assets/minecraft/wither_skeleton.svg",
-        "description": ""
-      },
-      {
-        "key": "wither_spider_jockey",
-        "file": "assets/minecraft/wither_spider_jockey.svg",
-        "description": "Minecraft Wither skeleton on spider."
-      },
-      {
-        "key": "wolf",
-        "file": "assets/minecraft/wolf.svg",
-        "description": ""
-      },
-      {
-        "key": "zombie",
-        "file": "assets/minecraft/zombie.svg",
-        "description": ""
-      },
-      {
-        "key": "zombie_chicken_jockey",
-        "file": "assets/minecraft/zombie_chicken_jockey.svg",
-        "description": "Minecraft Zombie riding a baby chicken."
-      },
-      {
-        "key": "zombie_horse",
-        "file": "assets/minecraft/zombie_horse.svg",
-        "description": "Minecraft Zombie horse standing still."
-      },
-      {
-        "key": "zombie_pig_jockey",
-        "file": "assets/minecraft/zombie_pig_jockey.svg",
-        "description": "Minecraft Baby zombie riding pig."
-      },
-      {
-        "key": "zombie_sheep_jockey",
-        "file": "assets/minecraft/zombie_sheep_jockey.svg",
-        "description": "Minecraft Baby zombie riding sheep."
-      },
-      {
-        "key": "zombie_wolf_jockey",
-        "file": "assets/minecraft/zombie_wolf_jockey.svg",
-        "description": "Minecraft Baby zombie riding wolf."
-      },
-      {
-        "key": "zombified_piglin",
-        "file": "assets/minecraft/zombified_piglin.svg",
-        "description": ""
-      }
+      { "key": "allay", "file": "assets/minecraft/allay.svg" },
+      { "key": "axolotl", "file": "assets/minecraft/axolotl.svg" },
+      { "key": "baby_goat", "file": "assets/minecraft/baby_goat.svg" },
+      { "key": "baby_pig", "file": "assets/minecraft/baby_pig.svg" },
+      { "key": "baby_sniffer", "file": "assets/minecraft/baby_sniffer.svg" },
+      { "key": "baby_turtle", "file": "assets/minecraft/baby_turtle.svg" },
+      { "key": "baby_villager", "file": "assets/minecraft/baby_villager.svg" },
+      { "key": "baby_zombie", "file": "assets/minecraft/baby_zombie.svg" },
+      { "key": "bat", "file": "assets/minecraft/bat.svg" },
+      { "key": "bee", "file": "assets/minecraft/bee.svg" },
+      { "key": "blaze", "file": "assets/minecraft/blaze.svg" },
+      { "key": "camel", "file": "assets/minecraft/camel.svg" },
+      { "key": "cat", "file": "assets/minecraft/cat.svg" },
+      { "key": "chicken", "file": "assets/minecraft/chicken.svg" },
+      { "key": "chicken_jockey", "file": "assets/minecraft/chicken_jockey.svg" },
+      { "key": "cod", "file": "assets/minecraft/cod.svg" },
+      { "key": "cow", "file": "assets/minecraft/cow.svg" },
+      { "key": "creeper", "file": "assets/minecraft/creeper.svg" },
+      { "key": "dancing_parrot", "file": "assets/minecraft/dancing_parrot.svg" },
+      { "key": "dolphin", "file": "assets/minecraft/dolphin.svg" },
+      { "key": "drowned", "file": "assets/minecraft/drowned.svg" },
+      { "key": "elder_guardian", "file": "assets/minecraft/elder_guardian.svg" },
+      { "key": "end_crystal", "file": "assets/minecraft/end_crystal.svg" },
+      { "key": "ender_dragon", "file": "assets/minecraft/ender_dragon.svg" },
+      { "key": "enderman", "file": "assets/minecraft/enderman.svg" },
+      { "key": "endermite", "file": "assets/minecraft/endermite.svg" },
+      { "key": "evoker", "file": "assets/minecraft/evoker.svg" },
+      { "key": "flying_bee", "file": "assets/minecraft/flying_bee.svg" },
+      { "key": "fox", "file": "assets/minecraft/fox.svg" },
+      { "key": "frog", "file": "assets/minecraft/frog.svg" },
+      { "key": "ghast", "file": "assets/minecraft/ghast.svg" },
+      { "key": "glow_squid", "file": "assets/minecraft/glow_squid.svg" },
+      { "key": "goat", "file": "assets/minecraft/goat.svg" },
+      { "key": "guardian", "file": "assets/minecraft/guardian.svg" },
+      { "key": "hoglin", "file": "assets/minecraft/hoglin.svg" },
+      { "key": "horse", "file": "assets/minecraft/horse.svg" },
+      { "key": "husk", "file": "assets/minecraft/husk.svg" },
+      { "key": "iron_golem", "file": "assets/minecraft/iron_golem.svg" },
+      { "key": "llama", "file": "assets/minecraft/llama.svg" },
+      { "key": "magma_cube_big", "file": "assets/minecraft/magma_cube_big.svg" },
+      { "key": "magma_cube_small", "file": "assets/minecraft/magma_cube_small.svg" },
+      { "key": "mooshroom", "file": "assets/minecraft/mooshroom.svg" },
+      { "key": "ocelot", "file": "assets/minecraft/ocelot.svg" },
+      { "key": "panda", "file": "assets/minecraft/panda.svg" },
+      { "key": "parrot", "file": "assets/minecraft/parrot.svg" },
+      { "key": "phantom", "file": "assets/minecraft/phantom.svg" },
+      { "key": "pig", "file": "assets/minecraft/pig.svg" },
+      { "key": "piglin", "file": "assets/minecraft/piglin.svg" },
+      { "key": "piglin_brute", "file": "assets/minecraft/piglin_brute.svg" },
+      { "key": "pillager", "file": "assets/minecraft/pillager.svg" },
+      { "key": "polar_bear", "file": "assets/minecraft/polar_bear.svg" },
+      { "key": "pufferfish", "file": "assets/minecraft/pufferfish.svg" },
+      { "key": "rabbit", "file": "assets/minecraft/rabbit.svg" },
+      { "key": "ravager", "file": "assets/minecraft/ravager.svg" },
+      { "key": "resting_camel", "file": "assets/minecraft/resting_camel.svg" },
+      { "key": "salmon", "file": "assets/minecraft/salmon.svg" },
+      { "key": "sheep", "file": "assets/minecraft/sheep.svg" },
+      { "key": "shulker", "file": "assets/minecraft/shulker.svg" },
+      { "key": "silver_axolotl", "file": "assets/minecraft/silver_axolotl.svg" },
+      { "key": "silverfish", "file": "assets/minecraft/silverfish.svg" },
+      { "key": "skeleton", "file": "assets/minecraft/skeleton.svg" },
+      { "key": "skeleton_chicken_jockey", "file": "assets/minecraft/skeleton_chicken_jockey.svg" },
+      { "key": "skeleton_horse", "file": "assets/minecraft/skeleton_horse.svg" },
+      { "key": "slime", "file": "assets/minecraft/slime.svg" },
+      { "key": "sniffer", "file": "assets/minecraft/sniffer.svg" },
+      { "key": "snow_fox", "file": "assets/minecraft/snow_fox.svg" },
+      { "key": "snow_golem", "file": "assets/minecraft/snow_golem.svg" },
+      { "key": "spider", "file": "assets/minecraft/spider.svg" },
+      { "key": "spider_jockey", "file": "assets/minecraft/spider_jockey.svg" },
+      { "key": "squid", "file": "assets/minecraft/squid.svg" },
+      { "key": "stray", "file": "assets/minecraft/stray.svg" },
+      { "key": "stray_spider_jockey", "file": "assets/minecraft/stray_spider_jockey.svg" },
+      { "key": "strider", "file": "assets/minecraft/strider.svg" },
+      { "key": "tropical_fish", "file": "assets/minecraft/tropical_fish.svg" },
+      { "key": "turtle", "file": "assets/minecraft/turtle.svg" },
+      { "key": "vex", "file": "assets/minecraft/vex.svg" },
+      { "key": "villager", "file": "assets/minecraft/villager.svg" },
+      { "key": "vindicator", "file": "assets/minecraft/vindicator.svg" },
+      { "key": "wandering_trader", "file": "assets/minecraft/wandering_trader.svg" },
+      { "key": "witch", "file": "assets/minecraft/witch.svg" },
+      { "key": "wither", "file": "assets/minecraft/wither.svg" },
+      { "key": "wither_skeleton", "file": "assets/minecraft/wither_skeleton.svg" },
+      { "key": "wither_spider_jockey", "file": "assets/minecraft/wither_spider_jockey.svg" },
+      { "key": "wolf", "file": "assets/minecraft/wolf.svg" },
+      { "key": "zombie", "file": "assets/minecraft/zombie.svg" },
+      { "key": "zombie_chicken_jockey", "file": "assets/minecraft/zombie_chicken_jockey.svg" },
+      { "key": "zombie_horse", "file": "assets/minecraft/zombie_horse.svg" },
+      { "key": "zombie_pig_jockey", "file": "assets/minecraft/zombie_pig_jockey.svg" },
+      { "key": "zombie_sheep_jockey", "file": "assets/minecraft/zombie_sheep_jockey.svg" },
+      { "key": "zombie_wolf_jockey", "file": "assets/minecraft/zombie_wolf_jockey.svg" },
+      { "key": "zombified_piglin", "file": "assets/minecraft/zombified_piglin.svg" }
     ]
   }
 }

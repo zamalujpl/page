@@ -1,0 +1,157 @@
+{
+  "category_slug": "boze-narodzenie",
+  "category_title": "Boże Narodzenie",
+  "category_description": "Poczuj magię świąt z naszą wyjątkową kolekcją kolorowanek na Boże Narodzenie. Przygotowaliśmy dziesiątki darmowych rysunków do druku, które wprowadzą do Twojego domu ciepłą, świąteczną atmosferę. Znajdziesz tu wszystko, co kojarzy się z tym niezwykłym czasem: od pięknie udekorowanej choinki, przez sanie Świętego Mikołaja, aż po urocze renifery i bałwanki. Nasze kolorowanki to idealny sposób na kreatywne spędzenie długich, zimowych wieczorów. To także wspaniała aktywność dla całej rodziny, która pozwala wspólnie przygotować się na święta, tworząc własnoręczne dekoracje czy kartki z życzeniami. Każdy obrazek został zaprojektowany z dbałością o szczegóły, aby inspirować i rozwijać wyobraźnię zarówno dzieci, jak i dorosłych. Pobieraj, drukuj i koloruj bez ograniczeń, ciesząc się radosnym czasem oczekiwania na pierwszą gwiazdkę.",
+  "images": [
+    {
+      "key": "bell_holly",
+      "slug": "dzwonek-swiateczny-z-ostrokrzewem",
+      "title": "Dzwonek świąteczny z ostrokrzewem",
+      "description": "Złoty dzwonek ozdobiony gałązkami ostrokrzewu z czerwonymi owocami. To klasyczny symbol Bożego Narodzenia, który pięknie ozdobi każdą kartkę świąteczną."
+    },
+    {
+      "key": "candycane_ribbon",
+      "slug": "laska-cukrowa-ze-wstazka",
+      "title": "Laska cukrowa ze wstążką",
+      "description": "Biało-czerwona laska cukrowa przewiązana elegancką wstążką. Ten słodki symbol świąt to idealna, prosta kolorowanka dla najmłodszych dzieci."
+    },
+    {
+      "key": "christmastrain_toys",
+      "slug": "pociag-swiateczny-z-zabawkami",
+      "title": "Pociąg świąteczny z zabawkami",
+      "description": "Pociąg parowy wiozący wagoniki pełne prezentów i zabawek. To marzenie każdego dziecka! Pokoloruj go na jaskrawe, wesołe kolory, aby wyglądał jak z bajki."
+    },
+    {
+      "key": "christmastree_presents",
+      "slug": "choinka-z-prezentami",
+      "title": "Choinka z prezentami",
+      "description": "Pięknie udekorowana choinka z gwiazdą na czubku, a pod nią góra prezentów. Ta kolorowanka to kwintesencja świąt. Dzieci mogą ozdobić bombki według własnego pomysłu."
+    },
+    {
+      "key": "elves_toyworkshop",
+      "slug": "elfy-w-warsztacie-zabawek",
+      "title": "Elfy w warsztacie zabawek",
+      "description": "Pracowite elfy uwijają się w warsztacie Świętego Mikołaja, przygotowując zabawki dla dzieci. To scena pełna detali, która zapewni długie godziny kolorowania."
+    },
+    {
+      "key": "fireplace_stockings",
+      "slug": "kominek-ze-skarpetami-na-prezenty",
+      "title": "Kominek ze skarpetami na prezenty",
+      "description": "Ciepły kominek, na którym wiszą skarpety czekające na prezenty od Mikołaja. Czy wiesz, że ten zwyczaj pochodzi z Anglii? Stwórz przytulną atmosferę, używając ciepłych barw."
+    },
+    {
+      "key": "gingerbreadhouse_candy",
+      "slug": "domek-z-piernika-ozdobiony-cukierkami",
+      "title": "Domek z piernika ozdobiony cukierkami",
+      "description": "Apetyczny domek z piernika udekorowany lukrem i kolorowymi cukierkami. Wygląda tak smacznie! Ta kolorowanka pobudza wyobraźnię i apetyt na świąteczne słodkości."
+    },
+    {
+      "key": "hotchocolate_marshmallows",
+      "slug": "goraca-czekolada-z-piankami",
+      "title": "Gorąca czekolada z piankami",
+      "description": "Kubek gorącej czekolady z puszystymi piankami marshmallow. To idealny napój na zimowy wieczór. Pokoloruj kubek w świąteczne wzory, aby był jeszcze bardziej wyjątkowy."
+    },
+    {
+      "key": "mailbox_letters",
+      "slug": "skrzynka-pocztowa-z-listami-do-mikolaja",
+      "title": "Skrzynka pocztowa z listami do Mikołaja",
+      "description": "Skrzynka pocztowa wypełniona listami od dzieci do Świętego Mikołaja. Każdy list to jedno marzenie. To uroczy obrazek, który przypomina o magii pisania listów."
+    },
+    {
+      "key": "northpole_sign",
+      "slug": "znak-biegun-polnocny",
+      "title": "Znak Biegun Północny",
+      "description": "Drewniany znak wskazujący drogę na Biegun Północny, przyprószony śniegiem. To właśnie tam, według legendy, mieszka Święty Mikołaj. Pokoloruj go i poczuj atmosferę dalekiej Północy."
+    },
+    {
+      "key": "nutcracker_soldier",
+      "slug": "dziadek-do-orzechow-zolnierz",
+      "title": "Dziadek do orzechów - żołnierz",
+      "description": "Figurka dziadka do orzechów w formie żołnierza w galowym mundurze. Ta postać jest bohaterem słynnego baletu. Pokoloruj jego mundur na czerwono, niebiesko i złoto."
+    },
+    {
+      "key": "penguin_gift",
+      "slug": "pingwin-z-prezentem",
+      "title": "Pingwin z prezentem",
+      "description": "Uroczy pingwin w czapce Mikołaja trzyma w płetwach mały prezent. Pingwiny to mieszkańcy bieguna południowego, ale na święta chętnie odwiedzają też północ."
+    },
+    {
+      "key": "polarbear_scarf",
+      "slug": "niedzwiedz-polarny-w-szaliku",
+      "title": "Niedźwiedź polarny w szaliku",
+      "description": "Sympatyczny niedźwiedź polarny w ciepłym, pasiastym szaliku. Mimo że jest przyzwyczajony do zimna, w święta każdy lubi poczuć się przytulnie. Pokoloruj jego szalik w ulubione kolory."
+    },
+    {
+      "key": "present_bow",
+      "slug": "prezent-z-kokarda",
+      "title": "Prezent z kokardą",
+      "description": "Pięknie zapakowany prezent z dużą, ozdobną kokardą. Co może być w środku? Ta kolorowanka to świetna okazja do rozmowy o radości dawania i otrzymywania prezentów."
+    },
+    {
+      "key": "reindeer_rednose",
+      "slug": "renifer-z-czerwonym-nosem",
+      "title": "Renifer z czerwonym nosem",
+      "description": "Słynny renifer Rudolf z czerwonym, świecącym nosem. To właśnie on oświetla drogę zaprzęgowi Świętego Mikołaja. Nie zapomnij pokolorować jego nosa na jaskrawoczerwono!"
+    },
+    {
+      "key": "santa_sack",
+      "slug": "swiety-mikolaj-z-workiem-prezentow",
+      "title": "Święty Mikołaj z workiem prezentów",
+      "description": "Święty Mikołaj dźwiga na plecach ogromny wór pełen prezentów dla grzecznych dzieci. To najważniejsza postać świąt! Pokoloruj jego czerwony strój i białą brodę."
+    },
+    {
+      "key": "sleigh_gifts",
+      "slug": "sanie-pelne-prezentow",
+      "title": "Sanie pełne prezentów",
+      "description": "Magiczne sanie Świętego Mikołaja wypełnione po brzegi prezentami. Już za chwilę wyruszą w podróż po całym świecie. Pokoloruj je na tradycyjne, świąteczne barwy."
+    },
+    {
+      "key": "sleigh_rooftops",
+      "slug": "sanie-mikolaja-nad-dachami",
+      "title": "Sanie Mikołaja nad dachami",
+      "description": "Sanie Świętego Mikołaja ciągnięte przez renifery przelatują nad ośnieżonymi dachami miasteczka. To magiczna scena, która oddaje niezwykłą atmosferę wigilijnej nocy."
+    },
+    {
+      "key": "snowflakes_sky",
+      "slug": "sniezynki-na-niebie",
+      "title": "Śnieżynki na niebie",
+      "description": "Delikatne, wirujące płatki śniegu spadają z nieba. Każda śnieżynka ma unikalny kształt. Spróbuj pokolorować tło na ciemnoniebiesko, aby płatki były lepiej widoczne."
+    },
+    {
+      "key": "snowglobe_scene",
+      "slug": "kula-sniezna-ze-scenka-swiateczna",
+      "title": "Kula śnieżna ze scenką świąteczną",
+      "description": "Szklana kula, w której zamknięta jest zimowa, świąteczna scenka. Potrząśnij nią, a w środku zacznie padać śnieg! Możesz narysować w niej, co tylko zechcesz."
+    },
+    {
+      "key": "snowman_scarf",
+      "slug": "balwan-w-szaliku",
+      "title": "Bałwan w szaliku",
+      "description": "Uśmiechnięty bałwan z marchewkowym nosem, w kapeluszu i ciepłym szaliku. Lepienie bałwana to jedna z ulubionych zimowych zabaw. Pokoloruj jego szalik w wesołe paski."
+    },
+    {
+      "key": "snowy_village",
+      "slug": "zasniezona-wioska",
+      "title": "Zaśnieżona wioska",
+      "description": "Mała, przytulna wioska pokryta grubą warstwą śniegu. W oknach domów palą się światełka. To piękny, spokojny krajobraz, idealny do pokolorowania w zimowy wieczór."
+    },
+    {
+      "key": "star_tree",
+      "slug": "gwiazda-na-choince",
+      "title": "Gwiazda na choince",
+      "description": "Wielka, świecąca gwiazda na czubku choinki. To ona jest najważniejszą ozdobą świątecznego drzewka. Pokoloruj ją na złoto lub srebrno, aby pięknie błyszczała."
+    },
+    {
+      "key": "stocking_fireplace",
+      "slug": "skarpeta-swiateczna-przy-kominku",
+      "title": "Skarpeta świąteczna przy kominku",
+      "description": "Duża, świąteczna skarpeta wisi przy kominku, czekając na drobne upominki. Możesz ozdobić ją dowolnymi wzorami i kolorami, a nawet narysować, co jest w środku."
+    },
+    {
+      "key": "wreath_bells",
+      "slug": "wieniec-swiateczny-z-dzwonkami",
+      "title": "Wieniec świąteczny z dzwonkami",
+      "description": "Zielony wieniec świąteczny ozdobiony dzwonkami, kokardą i owocami ostrokrzewu. Wiesza się go na drzwiach, aby powitać gości. To piękny symbol świątecznej gościnności."
+    }
+  ]
+}

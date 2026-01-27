@@ -1,0 +1,235 @@
+{
+  "category_slug": "zwierzeta",
+  "category_title": "Zwierzęta",
+  "category_description": "Wkrocz do fascynującego świata dzikiej przyrody dzięki naszej kolekcji kolorowanek ze zwierzętami. Oferujemy setki darmowych rysunków do druku, które zachwycą zarówno dzieci, jak i dorosłych. Znajdziesz tu wszystko – od majestatycznego lwa, przez sympatycznego słonia, aż po skaczącego delfina. Nasze kolorowanki to doskonała okazja, aby rozwijać kreatywność, ćwiczyć precyzję ruchów i poznawać różnorodność gatunków zamieszkujących naszą planetę. Każdy obrazek został starannie przygotowany, aby zapewnić najwyższą jakość wydruku i godziny wspaniałej zabawy. Zachęcamy rodziców i nauczycieli do wykorzystania naszych materiałów jako narzędzia edukacyjnego, które w przystępny sposób uczy miłości i szacunku do zwierząt. Pobieraj, drukuj i koloruj bez ograniczeń, odkrywając piękno natury każdego dnia. To idealny sposób na kreatywne spędzenie popołudnia i stworzenie własnej, kolorowej galerii dzikich stworzeń.",
+  "images": [
+    {
+      "key": "crocodile_river",
+      "slug": "krokodyl-w-rzece",
+      "title": "Krokodyl w rzece",
+      "description": "Uśmiechnięty krokodyl odpoczywa w spokojnej rzece. Czy wiesz, że krokodyle to jedne z najstarszych gadów na świecie? Pokoloruj go na zielono, a wodę na niebiesko, tworząc piękny obrazek."
+    },
+    {
+      "key": "deer_look",
+      "slug": "ciekawski-jelen",
+      "title": "Ciekawski jeleń",
+      "description": "Piękny jeleń z zaciekawieniem spogląda w Twoją stronę. Jego poroże jest imponujące! Użyj odcieni brązu i beżu, aby oddać naturalny wygląd tego leśnego mieszkańca."
+    },
+    {
+      "key": "dolphin_jump",
+      "slug": "skaczacy-delfin",
+      "title": "Skaczący delfin",
+      "description": "Radosny delfin wyskakuje wysoko ponad fale. Delfiny są niezwykle inteligentnymi ssakami morskimi. Ta kolorowanka do druku to świetna okazja, by użyć wielu odcieni błękitu i szarości."
+    },
+    {
+      "key": "duck_pond",
+      "slug": "kaczka-w-stawie",
+      "title": "Kaczka w stawie",
+      "description": "Kaczka spokojnie pływa po stawie, otoczona liliami wodnymi. To klasyczny, sielski obrazek, który pozwoli Twojemu dziecku na zabawę z kolorami natury."
+    },
+    {
+      "key": "elephant_water",
+      "slug": "slon-pryskajacy-woda",
+      "title": "Słoń pryskający wodą",
+      "description": "Zabawny słoń pryska wodą ze swojej trąby. Słonie uwielbiają wodne kąpiele! Ta darmowa kolorowanka to idealna propozycja na upalny dzień, pełna radości i śmiechu."
+    },
+    {
+      "key": "flamingo_leg",
+      "slug": "flaming-na-jednej-nodze",
+      "title": "Flaming na jednej nodze",
+      "description": "Elegancki flaming stoi na jednej nodze, co jest jego charakterystyczną pozą. Czy wiesz, że swój różowy kolor zawdzięcza diecie? Użyj najpiękniejszych odcieni różu i czerwieni."
+    },
+    {
+      "key": "fox_sleep",
+      "slug": "spiacy-lis",
+      "title": "Śpiący lis",
+      "description": "Sprytny lis zwinął się w kłębek i smacznie śpi. Jego rude futro pięknie kontrastuje z zielenią trawy. To idealna kolorowanka do wyciszenia i relaksu przed snem."
+    },
+    {
+      "key": "frog_lily",
+      "slug": "zaba-na-lisciu-lilii",
+      "title": "Żaba na liściu lilii",
+      "description": "Mała, zielona żabka siedzi na dużym liściu lilii wodnej. To klasyczny motyw, który kojarzy się z bajkami. Dzieci pokochają kolorowanie tej sympatycznej postaci."
+    },
+    {
+      "key": "giraffe_leaves",
+      "slug": "zyrafa-jedzaca-liscie",
+      "title": "Żyrafa jedząca liście",
+      "description": "Wesoła żyrafa zjada liście z wysokiego drzewa dzięki swojej długiej szyi. Żyrafy to najwyższe zwierzęta lądowe. Twoje dziecko może pokolorować jej charakterystyczne łaty."
+    },
+    {
+      "key": "hedgehog_feet",
+      "slug": "jez-z-malymi-lapkami",
+      "title": "Jeż z małymi łapkami",
+      "description": "Uroczy jeż z malutkimi łapkami i kolczastym grzbietem. To sympatyczne zwierzątko, które można spotkać w parku lub ogrodzie. Idealny rysunek dla najmłodszych."
+    },
+    {
+      "key": "hippo_yawn",
+      "slug": "hipopotam-ziewajacy",
+      "title": "Hipopotam ziewający",
+      "description": "Wielki hipopotam szeroko ziewa, pokazując swoje ogromne zęby. Mimo groźnego wyglądu, to ciekawy obrazek do pokolorowania. Pamiętaj, że hipopotamy spędzają dużo czasu w wodzie."
+    },
+    {
+      "key": "horse_meadow",
+      "slug": "kon-na-lace",
+      "title": "Koń na łące",
+      "description": "Piękny koń galopuje swobodnie po kwiecistej łące. To darmowa kolorowanka dla wszystkich miłośników tych majestatycznych zwierząt. Użyj dowolnych kolorów, by stworzyć swojego wymarzonego konia."
+    },
+    {
+      "key": "kangaroo_pouch",
+      "slug": "kangur-z-malym-w-torbie",
+      "title": "Kangur z małym w torbie",
+      "description": "Mama kangurzyca z małym kangurkiem w torbie to uroczy widok. Czy wiesz, że kangury żyją w Australii? Ta kolorowanka to świetna okazja do rozmowy o egzotycznych zwierzętach."
+    },
+    {
+      "key": "kitten_yarn",
+      "slug": "kotek-bawacy-sie-welna",
+      "title": "Kotek bawiący się włóczką",
+      "description": "Słodki kotek bawi się kłębkiem włóczki. To klasyczna scena, którą uwielbiają wszyscy miłośnicy kotów. Pozwól dziecku wybrać kolor kotka i włóczki."
+    },
+    {
+      "key": "koala_tree",
+      "slug": "koala-na-drzewie",
+      "title": "Koala na drzewie",
+      "description": "Miś koala przytula się do gałęzi drzewa eukaliptusowego. Koale to torbacze, które przesypiają większość dnia. Ta kolorowanka jest idealna do nauki o zwierzętach Australii."
+    },
+    {
+      "key": "ladybug_leaf",
+      "slug": "biedronka-na-lisciu",
+      "title": "Biedronka na liściu",
+      "description": "Mała biedronka z kropkami na grzbiecie siedzi na zielonym liściu. To prosty i uroczy rysunek, doskonały dla małych dzieci, które dopiero uczą się kolorować."
+    },
+    {
+      "key": "lion_grass",
+      "slug": "lew-na-trawie",
+      "title": "Lew na trawie",
+      "description": "Uśmiechnięty król dżungli, lew, odpoczywa na trawie. Jego bujna grzywa czeka na pokolorowanie. Czy wiesz, że tylko samce lwów mają grzywę? To świetny rysunek dla fanów dzikich kotów."
+    },
+    {
+      "key": "llama_fur",
+      "slug": "lama-z-puszystym-futrem",
+      "title": "Lama z puszystym futrem",
+      "description": "Zabawna lama z puszystym futrem i przyjaznym uśmiechem. Lamy to zwierzęta pochodzące z Ameryki Południowej. Użyj kremowych i brązowych barw, by ją pokolorować."
+    },
+    {
+      "key": "monkey_tree",
+      "slug": "malpka-na-drzewie",
+      "title": "Małpka na drzewie",
+      "description": "Wesoła małpka zwisa z gałęzi drzewa, trzymając się ogonem. Małpy to zwinne i inteligentne zwierzęta. Ta kolorowanka do druku dostarczy wiele radości."
+    },
+    {
+      "key": "moose_forest",
+      "slug": "los-w-lesie",
+      "title": "Łoś w lesie",
+      "description": "Potężny łoś z imponującym porożem stoi w lesie. Łosie to największe ssaki z rodziny jeleniowatych. Pokoloruj go, używając odcieni brązu i szarości."
+    },
+    {
+      "key": "owl_stump",
+      "slug": "sowa-na-pieńku",
+      "title": "Sowa na pieńku",
+      "description": "Mądra sowa siedzi na pieńku drzewa, obserwując otoczenie swoimi wielkimi oczami. Sowy to nocne ptaki, więc możesz dodać tło z księżycem i gwiazdami."
+    },
+    {
+      "key": "panda_bamboo",
+      "slug": "panda-jedzaca-bambus",
+      "title": "Panda jedząca bambus",
+      "description": "Urocza panda siedzi i zajada pędy bambusa. Pandy to niedźwiedzie zamieszkujące Chiny. Ich czarno-białe futro jest charakterystyczne, ale tło możesz pokolorować na dowolny kolor."
+    },
+    {
+      "key": "parrot_branch",
+      "slug": "papuga-na-galezi",
+      "title": "Papuga na gałęzi",
+      "description": "Kolorowa papuga siedzi na gałęzi tropikalnego drzewa. Papugi potrafią naśladować ludzką mowę! Użyj całej palety barw, aby jej pióra były naprawdę tęczowe."
+    },
+    {
+      "key": "peacock_feathers",
+      "slug": "paw-z-rozlozonym-ogonem",
+      "title": "Paw z rozłożonym ogonem",
+      "description": "Dumny paw prezentuje swój wspaniały, rozłożysty ogon z setkami 'oczu'. To prawdziwe wyzwanie dla małego artysty, które pozwala na użycie wielu pięknych kolorów."
+    },
+    {
+      "key": "penguin_ice",
+      "slug": "pingwin-na-lodzie",
+      "title": "Pingwin na lodzie",
+      "description": "Szczęśliwy pingwin ślizga się na lodzie. Pingwiny to nielotne ptaki, które świetnie pływają. Ta darmowa kolorowanka przeniesie Was wprost na Antarktydę."
+    },
+    {
+      "key": "puppy_tail",
+      "slug": "szczeniaczek-machajacy-ogonem",
+      "title": "Szczeniaczek machający ogonem",
+      "description": "Słodki szczeniaczek radośnie macha ogonem. Które dziecko nie kocha psów? Pozwól maluchowi wybrać, jakiego koloru będzie jego nowy, czworonożny przyjaciel."
+    },
+    {
+      "key": "raccoon_tail",
+      "slug": "szop-pracz-z-pasiastym-ogonem",
+      "title": "Szop pracz z pasiastym ogonem",
+      "description": "Szop pracz z charakterystycznym, pasiastym ogonem i 'maską' na oczach. To bardzo sprytne zwierzę. Użyj odcieni szarości, czerni i bieli, by go pokolorować."
+    },
+    {
+      "key": "reindeer_antlers",
+      "slug": "renifer-z-porozem",
+      "title": "Renifer z porożem",
+      "description": "Dostojny renifer z pięknym, rozłożystym porożem. Renifery kojarzą się ze świętami i zaprzęgiem Świętego Mikołaja, ale żyją też dziko w zimnych rejonach świata."
+    },
+    {
+      "key": "seal_flippers",
+      "slug": "foka-klaszczaca-pletwami",
+      "title": "Foka klaszcząca płetwami",
+      "description": "Wesoła foka klaszcze swoimi płetwami. Foki to ssaki morskie, które są doskonałymi pływakami. Ta prosta kolorowanka spodoba się najmłodszym dzieciom."
+    },
+    {
+      "key": "sheep_wool",
+      "slug": "owca-z-puszysta-welna",
+      "title": "Owca z puszystą wełną",
+      "description": "Puszysta owieczka z miękką wełną skubie trawę na łące. Czy wiesz, że to właśnie z owczej wełny robi się swetry? To idealny obrazek do kolorowania pastelowymi kredkami."
+    },
+    {
+      "key": "skunk_tail",
+      "slug": "skunks-z-puchatym-ogonem",
+      "title": "Skunks z puchatym ogonem",
+      "description": "Skunks z charakterystycznym białym pasem na grzbiecie i dużym, puszystym ogonem. Choć znany jest z niemiłego zapachu, na obrazku wygląda bardzo sympatycznie."
+    },
+    {
+      "key": "snail_shell",
+      "slug": "slimak-ze-skorupka",
+      "title": "Ślimak ze skorupką",
+      "description": "Powolny ślimak nosi na grzbiecie swoją spiralną skorupkę. Dzieci mogą ozdobić jego 'domek' w najróżniejsze wzory i kolory, puszczając wodze fantazji."
+    },
+    {
+      "key": "snake_rock",
+      "slug": "waz-na-kamieniu",
+      "title": "Wąż na kamieniu",
+      "description": "Wąż wygrzewa się na słońcu, zwinięty na ciepłym kamieniu. Węże mogą mieć bardzo kolorowe wzory na skórze. To świetna okazja do poćwiczenia precyzji w kolorowaniu."
+    },
+    {
+      "key": "squirrel_acorn",
+      "slug": "wiewiorka-z-zoledziem",
+      "title": "Wiewiórka z żołędziem",
+      "description": "Ruda wiewiórka z puszystym ogonem trzyma w łapkach żołędzia. Wiewiórki to bardzo pracowite zwierzęta, które robią zapasy na zimę. Pokoloruj ją na rudo lub brązowo."
+    },
+    {
+      "key": "turtle_shell",
+      "slug": "zolw-z-wielka-skorupa",
+      "title": "Żółw z wielką skorupą",
+      "description": "Uśmiechnięty żółw z wielką, twardą skorupą. Żółwie to długowieczne gady. Twoje dziecko może pokolorować jego skorupę w geometryczne wzory, co będzie świetnym ćwiczeniem."
+    },
+    {
+      "key": "walrus_tusks",
+      "slug": "mors-z-wielkimi-klami",
+      "title": "Mors z wielkimi kłami",
+      "description": "Mors z charakterystycznymi, długimi kłami i wąsami odpoczywa na lodzie. To potężne zwierzę arktyczne. Ta kolorowanka to okazja do nauki o mieszkańcach zimnych mórz."
+    },
+    {
+      "key": "wolf_moon",
+      "slug": "wilk-wyjacy-do-ksiezyca",
+      "title": "Wilk wyjący do księżyca",
+      "description": "Dostojny wilk wyje do pełni księżyca. To tajemniczy i piękny obrazek, który pobudzi wyobraźnię. Użyj odcieni szarości, czerni i granatu, by stworzyć nocny klimat."
+    },
+    {
+      "key": "zebra_savannah",
+      "slug": "zebra-na-sawannie",
+      "title": "Zebra na sawannie",
+      "description": "Zebra w charakterystyczne czarno-białe pasy biegnie po afrykańskiej sawannie. Czy wiesz, że układ pasów każdej zebry jest unikalny, jak linie papilarne u człowieka?"
+    }
+  ]
+}

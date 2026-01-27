@@ -1,0 +1,151 @@
+{
+  "category_slug": "pojazdy",
+  "category_title": "Pojazdy",
+  "category_description": "Zapnij pasy i przygotuj się na ekscytującą podróż z naszą kolekcją kolorowanek z pojazdami! Oferujemy szeroki wybór darmowych rysunków do druku, które zachwycą każdego małego fana motoryzacji. Znajdziesz tu szybkie samochody wyścigowe, potężne maszyny budowlane, latające samoloty, a nawet statki kosmiczne. Nasze kolorowanki to nie tylko świetna zabawa, ale również doskonała okazja do nauki. Dzieci mogą poznawać różne rodzaje transportu, uczyć się nazw pojazdów i rozwijać swoją wyobraźnię, tworząc własne, kolorowe wersje ulubionych maszyn. Każdy obrazek został starannie przygotowany, aby zapewnić wysoką jakość wydruku i wiele godzin kreatywnej rozrywki. Pobieraj, drukuj i koloruj bez ograniczeń. To idealny sposób na rozwijanie pasji i zdolności manualnych każdego dziecka.",
+  "images": [
+    {
+      "key": "airplane_sky",
+      "slug": "samolot-na-niebie",
+      "title": "Samolot na niebie",
+      "description": "Nowoczesny samolot odrzutowy leci wysoko na niebie. Samoloty pozwalają nam podróżować po całym świecie. Pokoloruj go na biało lub szaro, a niebo na piękny błękit."
+    },
+    {
+      "key": "ambulance_siren",
+      "slug": "karetka-pogotowia-z-syrena",
+      "title": "Karetka pogotowia z syreną",
+      "description": "Karetka pogotowia z włączoną syreną jedzie na ratunek. To bardzo ważny pojazd, który pomaga chorym. Pamiętaj, aby jej kogut był niebieski lub czerwony."
+    },
+    {
+      "key": "bulldozer_dirt",
+      "slug": "spychacz-przesuwajacy-ziemie",
+      "title": "Spychacz przesuwający ziemię",
+      "description": "Wielki spychacz pcha przed sobą ogromną hałdę ziemi. Maszyny budowlane są bardzo silne. Ta kolorowanka spodoba się każdemu fanowi placu budowy. Pokoloruj go na żółto!"
+    },
+    {
+      "key": "canoe_river",
+      "slug": "kanu-na-rzece",
+      "title": "Kanu na rzece",
+      "description": "Drewniane kanu spokojnie unosi się na wodzie. Pływanie kanu to świetny sposób na relaks na łonie natury. Użyj brązowych kredek do łódki i niebieskich do wody."
+    },
+    {
+      "key": "convertible_roofdown",
+      "slug": "kabriolet-z-otwartym-dachem",
+      "title": "Kabriolet z otwartym dachem",
+      "description": "Stylowy kabriolet z otwartym dachem jest gotowy na letnią przejażdżkę. To samochód marzeń wielu osób. Pokoloruj go na swój ulubiony, jaskrawy kolor."
+    },
+    {
+      "key": "crane_load",
+      "slug": "dzwig-podnoszacy-ladunek",
+      "title": "Dźwig podnoszący ładunek",
+      "description": "Wysoki dźwig budowlany podnosi ciężki ładunek. Dźwigi pomagają budować wysokie budynki. To fascynująca maszyna dla każdego małego inżyniera."
+    },
+    {
+      "key": "dumptruck_sand",
+      "slug": "wywrotka-z-piaskiem",
+      "title": "Wywrotka z piaskiem",
+      "description": "Duża wywrotka transportuje piasek na plac budowy. Jej skrzynia ładunkowa może się podnosić, aby wysypać zawartość. Pokoloruj ją na pomarańczowo lub żółto."
+    },
+    {
+      "key": "firetruck_ladder",
+      "slug": "woz-strazacki-z-drabina",
+      "title": "Wóz strażacki z drabiną",
+      "description": "Czerwony wóz strażacki z długą, rozkładaną drabiną. Strażacy to bohaterowie, którzy gaszą pożary. Nie zapomnij o drabinie i wężu strażackim!"
+    },
+    {
+      "key": "helicopter_mountains",
+      "slug": "helikopter-w-gorach",
+      "title": "Helikopter w górach",
+      "description": "Helikopter leci nad malowniczymi górami. Śmigła helikoptera obracają się bardzo szybko. To świetna kolorowanka dla fanów latania i górskich krajobrazów."
+    },
+    {
+      "key": "hotairballoon_stripes",
+      "slug": "balon-w-kolorowe-pasy",
+      "title": "Balon w kolorowe pasy",
+      "description": "Ogromny balon na gorące powietrze w kolorowe pasy unosi się po niebie. Lot balonem to niezwykła przygoda. Użyj całej tęczy kolorów, by go ozdobić."
+    },
+    {
+      "key": "hovercraft_water",
+      "slug": "poduszkowiec-na-wodzie",
+      "title": "Poduszkowiec na wodzie",
+      "description": "Poduszkowiec unosi się tuż nad powierzchnią wody. To niezwykły pojazd, który potrafi poruszać się zarówno po lądzie, jak i po wodzie. Pokoloruj go na nowoczesne, jaskrawe barwy."
+    },
+    {
+      "key": "icecreamtruck_music",
+      "slug": "samochod-z-lodami",
+      "title": "Samochód z lodami",
+      "description": "Samochód z lodami gra wesołą melodyjkę, przyciągając wszystkie dzieci. Kto nie kocha lodów? Ta kolorowanka przywołuje wspomnienia słonecznego lata i pysznych deserów."
+    },
+    {
+      "key": "monstertruck_wheels",
+      "slug": "monster-truck-z-wielkimi-kolami",
+      "title": "Monster truck z wielkimi kołami",
+      "description": "Potężny monster truck na gigantycznych kołach jest gotowy do zmiażdżenia mniejszych aut. To pojazd dla fanów ekstremalnej motoryzacji. Ozdób go płomieniami lub innymi wzorami."
+    },
+    {
+      "key": "policecar_lights",
+      "slug": "radiowoz-policyjny-ze-swiatlami",
+      "title": "Radiowóz policyjny ze światłami",
+      "description": "Radiowóz policyjny z włączonymi światłami na dachu. Policjanci dbają o nasze bezpieczeństwo. Pomaluj go na charakterystyczne, policyjne barwy."
+    },
+    {
+      "key": "racecar_smile",
+      "slug": "usmiechniety-samochod-wyscigowy",
+      "title": "Uśmiechnięty samochód wyścigowy",
+      "description": "Kreskówkowy samochód wyścigowy z uśmiechniętą buzią pędzi po torze. To idealna, prosta kolorowanka dla najmłodszych miłośników szybkich aut."
+    },
+    {
+      "key": "rocket_blastoff",
+      "slug": "startujaca-rakieta",
+      "title": "Startująca rakieta",
+      "description": "Rakieta kosmiczna startuje, zostawiając za sobą chmurę dymu i ognia. Podróże kosmiczne fascynują ludzi od lat. Pokoloruj rakietę i płomienie na jaskrawe kolory."
+    },
+    {
+      "key": "sailboat_ocean",
+      "slug": "zaglowka-na-oceanie",
+      "title": "Żaglówka na oceanie",
+      "description": "Elegancka żaglówka płynie po oceanie, napędzana siłą wiatru. Żeglowanie to piękny sport i sposób na relaks. Użyj bieli do żagli i błękitu do wody."
+    },
+    {
+      "key": "schoolbus_kids",
+      "slug": "autobus-szkolny-z-dziecmi",
+      "title": "Autobus szkolny z dziećmi",
+      "description": "Żółty autobus szkolny pełen uśmiechniętych dzieci. W wielu krajach to właśnie takie autobusy wożą dzieci do szkoły. To radosny i pozytywny obrazek."
+    },
+    {
+      "key": "scooter_rider",
+      "slug": "skuter-z-kierowca",
+      "title": "Skuter z kierowcą",
+      "description": "Uśmiechnięty kierowca jedzie na swoim skuterze. Skutery to świetny środek transportu w zatłoczonym mieście. Możesz pokolorować go na dowolny, wesoły kolor."
+    },
+    {
+      "key": "skateboard_design",
+      "slug": "deskorolka-z-wzorkami",
+      "title": "Deskorolka z wzorkami",
+      "description": "Deskorolka z kolorowymi, abstrakcyjnymi wzorami na spodzie. Dzieci mogą zaprojektować własny, unikalny wzór, używając ulubionych kolorów."
+    },
+    {
+      "key": "spaceship_stars",
+      "slug": "statek-kosmiczny-wsrod-gwiazd",
+      "title": "Statek kosmiczny wśród gwiazd",
+      "description": "Futurystyczny statek kosmiczny leci przez galaktykę pełną gwiazd. To kolorowanka dla małych fanów science-fiction i kosmicznych przygód. Tło może mienić się różnymi kolorami."
+    },
+    {
+      "key": "submarine_sea",
+      "slug": "lodz-podwodna-pod-woda",
+      "title": "Łódź podwodna pod wodą",
+      "description": "Żółta łódź podwodna eksploruje dno oceanu. Dzięki niej można odkrywać tajemnice podwodnego świata. Otocz ją rybkami i roślinami morskimi."
+    },
+    {
+      "key": "tractor_field",
+      "slug": "traktor-na-polu",
+      "title": "Traktor na polu",
+      "description": "Czerwony traktor pracuje na polu, przygotowując ziemię pod zasiew. Traktory to niezbędne maszyny w rolnictwie. To świetna kolorowanka dla dzieci ciekawych wiejskiego życia."
+    },
+    {
+      "key": "train_engine",
+      "slug": "usmiechnieta-lokomotywa",
+      "title": "Uśmiechnięta lokomotywa",
+      "description": "Uśmiechnięta lokomotywa parowa ciągnie za sobą wagony. Pociągi to fascynujący środek transportu. Dzieci mogą pokolorować ją na wzór bohaterów z ulubionych bajek."
+    }
+  ]
+}

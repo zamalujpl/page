@@ -1,0 +1,157 @@
+{
+  "category_slug": "cyrk-i-karnawal",
+  "category_title": "Cyrk i karnawał",
+  "category_description": "Wejdź pod wielki namiot i odkryj magiczny świat cyrku i karnawału z naszą kolekcją kolorowanek! Przygotowaliśmy mnóstwo darmowych rysunków do druku, które przeniosą Cię w sam środek niezwykłego widowiska. Czekają na Ciebie uśmiechnięci klauni, zwinni akrobaci, potężni siłacze i egzotyczne zwierzęta. Znajdziesz tu także karuzele, diabelskie młyny i stragany z watą cukrową. Nasze kolorowanki to idealny sposób na poczucie atmosfery radosnej zabawy. To nie tylko rozrywka, ale też okazja do rozwijania wyobraźni i zdolności manualnych. Każdy obrazek to fragment niezwykłego świata, w którym śmiech miesza się z podziwem dla ludzkich i zwierzęcych umiejętności. Pobieraj, drukuj i twórz własne, kolorowe plakaty cyrkowe, które ozdobią Twój pokój i przypomną o beztroskiej zabawie.",
+  "images": [
+    {
+      "key": "acrobat_trapeze",
+      "slug": "akrobata-na-trapezie",
+      "title": "Akrobata na trapezie",
+      "description": "Zwinny akrobata wykonuje ewolucje wysoko pod kopułą cyrku na trapezie. To pokaz wielkiej odwagi i siły. Pokoloruj jego strój w błyszczące, jaskrawe barwy."
+    },
+    {
+      "key": "carousel_horse_decor",
+      "slug": "kon-z-karuzeli",
+      "title": "Koń z karuzeli",
+      "description": "Pięknie zdobiony konik z weneckiej karuzeli kręci się w rytm muzyki. Karuzele to jedna z ulubionych atrakcji wesołych miasteczek. Ozdób go złotem i klejnotami."
+    },
+    {
+      "key": "circus_tent_flags",
+      "slug": "namiot-cyrkowy-z-flagami",
+      "title": "Namiot cyrkowy z flagami",
+      "description": "Wielki, pasiasty namiot cyrkowy ozdobiony kolorowymi flagami. To pod nim odbywają się wszystkie niezwykłe przedstawienia. Pokoloruj go w klasyczne, czerwono-białe pasy."
+    },
+    {
+      "key": "clown_car_tiny",
+      "slug": "samochod-klauna",
+      "title": "Samochód klauna",
+      "description": "Z małego, kolorowego samochodu wysiada cała gromada klaunów. Jak oni się tam wszyscy zmieścili? To jedna z najśmieszniejszych cyrkowych sztuczek."
+    },
+    {
+      "key": "clown_juggling_balls",
+      "slug": "klaun-zonglujacy-pilkami",
+      "title": "Klaun żonglujący piłkami",
+      "description": "Uśmiechnięty klaun w wielkich butach i peruce żongluje trzema kolorowymi piłkami. Klauni potrafią rozśmieszyć każdą publiczność. Pokoloruj jego strój jak najweselej!"
+    },
+    {
+      "key": "cotton_candy_cart",
+      "slug": "wozek-z-wata-cukrowa",
+      "title": "Wózek z watą cukrową",
+      "description": "Wózek, w którym kręci się puszysta, różowa wata cukrowa. To najsłodszy smak karnawału i festynów. Aż ślinka cieknie na sam widok!"
+    },
+    {
+      "key": "dunk_tank_target",
+      "slug": "cel-do-zatapiania-w-beczce",
+      "title": "Cel do zatapiania w beczce",
+      "description": "Jedna z karnawałowych atrakcji - jeśli trafisz piłką w cel, osoba siedząca na desce wpadnie do beczki z wodą. To świetna, orzeźwiająca zabawa."
+    },
+    {
+      "key": "elephant_balance_ball",
+      "slug": "slon-balansujacy-na-pilce",
+      "title": "Słoń balansujący na piłce",
+      "description": "Wielki słoń cyrkowy z gracją balansuje na dużej piłce. To pokaz niesamowitej równowagi i siły. Pokoloruj piłkę w wesołe, cyrkowe wzory."
+    },
+    {
+      "key": "face_painting_station",
+      "slug": "stanowisko-do-malowania-twarzy",
+      "title": "Stanowisko do malowania twarzy",
+      "description": "Na stanowisku do malowania twarzy można zmienić się w tygrysa, motyla lub superbohatera. To jedna z ulubionych atrakcji dzieci na każdym festynie."
+    },
+    {
+      "key": "ferris_wheel_cabins",
+      "slug": "diabelski-mlyn-z-kabinami",
+      "title": "Diabelski młyn z kabinami",
+      "description": "Wielki diabelski młyn z mnóstwem kolorowych kabin wznosi się wysoko nad ziemię. Widok z samej góry jest niesamowity! Pokoloruj każdą kabinę na inny kolor."
+    },
+    {
+      "key": "fire_breather_perform",
+      "slug": "polykacz-ognia",
+      "title": "Połykacz ognia",
+      "description": "Artysta cyrkowy wykonuje niebezpieczny pokaz, ziejąc ogniem. To widowisko, które zapiera dech w piersiach. Użyj ognistych kolorów - czerwonego, pomarańczowego i żółtego."
+    },
+    {
+      "key": "game_booth_prizes",
+      "slug": "budka-z-grami-i-nagrodami",
+      "title": "Budka z grami i nagrodami",
+      "description": "Karnawałowa budka, w której można wygrać wspaniałe nagrody, np. wielkiego pluszowego misia. Spróbuj swojego szczęścia w rzucaniu do celu!"
+    },
+    {
+      "key": "juggler_clubs",
+      "slug": "zongler-z-maczugami",
+      "title": "Żongler z maczugami",
+      "description": "Zręczny żongler podrzuca w powietrze kilka kolorowych maczug naraz. To sztuka wymagająca niesamowitej koordynacji i skupienia. Pokoloruj maczugi na jaskrawe barwy."
+    },
+    {
+      "key": "magician_rabbit_hat",
+      "slug": "magik-z-krolikiem-w-kapeluszu",
+      "title": "Magik z królikiem w kapeluszu",
+      "description": "Słynny iluzjonista wyciąga białego królika ze swojego cylindra. To jedna z najbardziej znanych magicznych sztuczek. Jak on to zrobił?"
+    },
+    {
+      "key": "merry_go_round_lights",
+      "slug": "karuzela-ze-swiatlami",
+      "title": "Karuzela ze światłami",
+      "description": "Piękna, zdobiona karuzela ze świecącymi światełkami. Jazda na niej to czysta przyjemność dla dzieci i dorosłych. Włącz wyobraźnię i pokoloruj ją na bajeczne kolory."
+    },
+    {
+      "key": "mime_push_wall",
+      "slug": "mim-pchajacy-niewidzialna-sciane",
+      "title": "Mim pchający niewidzialną ścianę",
+      "description": "Artysta mim udaje, że pcha niewidzialną ścianę. Mimowie to aktorzy, którzy opowiadają historie bez użycia słów, tylko za pomocą gestów i mimiki."
+    },
+    {
+      "key": "parade_balloons",
+      "slug": "parada-balonow",
+      "title": "Parada balonów",
+      "description": "Wielkie, kolorowe balony w kształcie postaci z bajek unoszą się podczas parady. To niesamowity, radosny widok. Pokoloruj je na wszystkie kolory tęczy."
+    },
+    {
+      "key": "popcorn_stand_fair",
+      "slug": "stragan-z-popcornem",
+      "title": "Stragan z popcornem",
+      "description": "Stragan, w którym przygotowywany jest świeży, pachnący popcorn. Zapach prażonej kukurydzy to nieodłączny element każdego festynu i wizyty w kinie."
+    },
+    {
+      "key": "ring_of_fire_show",
+      "slug": "pokaz-z-plonaca-obreczą",
+      "title": "Pokaz z płonącą obręczą",
+      "description": "Na arenie cyrkowej odbywa się niebezpieczny pokaz skoków przez płonącą obręcz. To numer dla odważnych artystów i wytresowanych zwierząt, np. tygrysów."
+    },
+    {
+      "key": "ringmaster_hat",
+      "slug": "dyrektor-cyrku-w-cylindrze",
+      "title": "Dyrektor cyrku w cylindrze",
+      "description": "Dyrektor cyrku w eleganckim fraku i cylindrze zapowiada kolejny występ. To on jest gospodarzem całego przedstawienia. Pokoloruj jego strój na czerwono i złoto."
+    },
+    {
+      "key": "stilt_walker_tall",
+      "slug": "szczudlarz",
+      "title": "Szczudlarz",
+      "description": "Wysoki szczudlarz w kolorowym stroju góruje nad tłumem. Chodzenie na szczudłach to nie lada sztuka! To bardzo barwna i ciekawa postać."
+    },
+    {
+      "key": "strongman_barbell",
+      "slug": "silacz-ze-sztanga",
+      "title": "Siłacz ze sztangą",
+      "description": "Cyrkowy siłacz w pasiastym kostiumie z łatwością podnosi ciężką sztangę. Jego siła budzi podziw publiczności. Dorysuj mu wielkie wąsy!"
+    },
+    {
+      "key": "ticket_booth_sign",
+      "slug": "kasa-biletowa",
+      "title": "Kasa biletowa",
+      "description": "Ozdobna kasa biletowa, w której można kupić bilety na cyrkowe przedstawienie lub karnawałowe atrakcje. To tutaj zaczyna się cała przygoda!"
+    },
+    {
+      "key": "tightrope_walker_pole",
+      "slug": "linoskoczek-z-tyczka",
+      "title": "Linoskoczek z tyczką",
+      "description": "Linoskoczek idzie po cienkiej linie rozpiętej wysoko nad ziemią, utrzymując równowagę za pomocą długiej tyczki. To pokaz niesamowitej precyzji i koncentracji."
+    },
+    {
+      "key": "unicyclist_balance",
+      "slug": "rowerzysta-na-jednym-kolku",
+      "title": "Rowerzysta na jednym kółku",
+      "description": "Artysta cyrkowy balansuje na monocyklu, czyli rowerze z jednym kółkiem. Utrzymanie równowagi na takim pojeździe to wielkie wyzwanie. Pokoloruj go na wesołe barwy."
+    }
+  ]
+}

@@ -46,6 +46,14 @@ To preview the production build locally, run:
 npm run preview
 ```
 
+The output will be generated in the `./dist/` directory.
+
+## Testing
+
+*Note: The user prefers using `npm run preview` for local verification.*
+
+Use agent-browser to test the login flow. Run `agent-browser --help` to see available commands.
+
 ## Development Conventions
 
 ### Asset Management
