@@ -71,9 +71,14 @@ const description = image.description;
     >
       Drukuj obrazek
     </button>
+    {description && (
+      <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 mt-4 text-center px-4 sm:px-0">
+        <p>{description}</p>
+      </div>
+    )}
     <a
       href={`/${Astro.params.category_slug}/`}
-      class="text-primary hover:underline w-full sm:w-auto text-center sm:text-left"
+      class="text-primary hover:underline w-full sm:w-auto text-center sm:text-left mt-4"
       title={categoryDescription}
       aria-label={`Powrót do kategorii ${categoryTitle}`}
     >
