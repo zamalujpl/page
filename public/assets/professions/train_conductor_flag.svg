@@ -18,6 +18,6 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
     <path d="M7624 1661 c-61 -37 -102 -107 -136 -232 -20 -73 -22 -108 -23 -274&#xA;0 -171 2 -197 23 -264 50 -158 131 -223 220 -177 180 94 241 688 92 894 -51&#xA;71 -116 90 -176 53z m84 -106 c129 -108 118 -573 -18 -718 -29 -31 -41 -38&#xA;-58 -33 -55 18 -95 169 -95 361 0 188 34 337 89 392 29 29 45 29 82 -2z"/>
     <path d="M9433 6469 c-25 -9 -29 -20 -43 -124 -18 -144 -88 -1050 -97 -1271&#xA;l-6 -162 28 -18 c32 -21 527 -162 600 -170 41 -5 55 -3 74 13 24 20 25 25 37&#xA;259 14 250 22 354 54 719 11 121 20 243 20 271 0 28 3 54 6 57 4 4 36 -14 71&#xA;-39 l64 -46 -3 74 -3 73 -127 85 c-153 103 -319 187 -461 235 -126 42 -186 54&#xA;-214 44z m517 -354 c27 -13 51 -28 54 -33 6 -10 -26 -485 -49 -722 -33 -346&#xA;-46 -476 -50 -497 -5 -20 -12 -23 -50 -23 -24 0 -45 3 -48 8 -4 8 9 217 47&#xA;762 36 512 37 530 42 530 3 0 27 -11 54 -25z"/>
   </g>
-  <title>Train Conductor Flag</title>
-  <desc>Train Conductor Flag</desc>
+  <title>Konduktor pociągu z flagą</title>
+  <desc>Konduktor pociągu daje sygnał do odjazdu za pomocą flagi. Dba o to, by podróż pociągiem była bezpieczna i punktualna. Pokoloruj jego elegancki mundur.</desc>
 </svg>

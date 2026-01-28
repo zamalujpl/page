@@ -28,6 +28,6 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
     <path d="M4987 753 c-4 -3 -7 -16 -7 -28 0 -23 35 -45 73 -45 12 0 46 -11 75&#xA;-25 61 -28 97 -32 105 -11 17 43 -101 116 -189 116 -28 0 -54 -3 -57 -7z"/>
     <path d="M4500 676 c-44 -10 -55 -16 -55 -32 0 -18 9 -19 190 -20 139 0 212&#xA;-5 273 -18 79 -16 102 -15 102 4 0 16 -71 47 -147 64 -84 19 -278 20 -363 2z"/>
   </g>
-  <title>Magma Cube Big</title>
-  <desc>Magma Cube Big</desc>
+  <title>Duża kostka magmy</title>
+  <desc>Duża, skacząca kostka magmy z Netheru. Po pokonaniu rozpada się na mniejsze. Uważaj, bo jej dotyk parzy! Pokoloruj ją na ogniste barwy.</desc>
 </svg>
