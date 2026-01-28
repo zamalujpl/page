@@ -65,6 +65,8 @@ There are several scripts in the `scripts` directory to help with asset manageme
 -   `png-to-svg.sh`: Converts PNG files to SVG.
 -   `process_assets.js`: Processes and organizes assets.
 -   `orchestrate_assets.js`: Orchestrates the asset pipeline.
+-   `recreate_svg_title_description.cjs`: Updates the title and description of a single SVG file.
+-   `update_svg_titles_from_json.cjs`: Updates all SVG files based on the corresponding category JSON files.
 
 ### Styling
 
@@ -73,3 +75,10 @@ The project uses Tailwind CSS for utility-first styling and DaisyUI for pre-buil
 ### Page Structure
 
 The website's pages are located in `src/pages`. The main page is `src/pages/index.astro`, which uses `src/templates/IndexTemplate.astro` to render the main content. The overall layout is defined in `src/layouts/BaseLayout.astro`.
+
+## Agent Guidelines
+
+-   Always allow `agent-browser` to perform tests and interact with the browser.
+-   Store information about the application's running URL using the `save_memory` tool when it becomes available.
+-   Feel free to use `git`, `ls`, and `pwd` commands for repository management and basic file system operations.
+
