@@ -50,41 +50,16 @@ The output will be generated in the `./dist/` directory.
 
 ## Testing
 
+After a feature is completed and before committing, the following testing plan should be invoked across multiple resolutions: mobile (390x844), tablet (912x1368), and desktop (1920x1080).
+
+1.  **Check home page:** Take a screenshot of the home page for each resolution.
+2.  **Check random category:** Take a screenshot of a random category index page for each resolution.
+3.  **Check random image page:** Take a screenshot of a random image page for each resolution.
+4.  **Check random image print page:** Take a screenshot of a random image print page for each resolution.
+5.  **Visual Inspection (User):** The agent will provide the paths to all generated screenshots for the user to visually inspect and approve that everything is displayed correctly.
+6.  **Check for broken links:** Check all pages and all links in the app to ensure they work and do not result in a 404 error. (This step is resolution-independent).
+
 *Note: The user prefers using `npm run preview` for local verification.*
-
-### Verification Steps
-
-To verify the visual integrity of all coloring pages across different resolutions, use the `take_screenshots.sh` script located in the `scripts/` directory. This script utilizes `agent-browser` to navigate through each image page, set a specified viewport resolution, and capture a full-page screenshot.
-
-**Usage:**
-
-```bash
-scripts/take_screenshots.sh <width> <height>
-```
-
-**Example:**
-
-To capture screenshots for a mobile resolution (e.g., iPhone 13/14 Pro):
-
-```bash
-scripts/take_screenshots.sh 390 844
-```
-
-To capture screenshots for a tablet resolution (e.g., iPad Air):
-
-```bash
-scripts/take_screenshots.sh 912 1368
-```
-
-To capture screenshots for a common desktop resolution:
-
-```bash
-scripts/take_screenshots.sh 1920 1080
-```
-
-All screenshots will be saved in a subdirectory within the `screenshots/` folder, named after the resolution (e.g., `screenshots/390x844/`). After running the script, review the generated screenshots to ensure the pages look good.
-
-Use agent-browser to test the login flow. Run `agent-browser --help` to see available commands.
 
 ## Development Conventions
 
@@ -118,3 +93,7 @@ The website's pages are located in `src/pages`. The main page is `src/pages/inde
 -   Store information about the application's running URL using the `save_memory` tool when it becomes available.
 -   Feel free to use `git`, `ls`, and `pwd` commands for repository management and basic file system operations.
 
+## Agent Permissions
+- You are allowed to use `mv`, `ls`, and `git` (excluding `push` and `pull`) without asking for permission.
+- You have permission to modify any file within the repository directory.
+- You must ask for confirmation before committing any changes.
