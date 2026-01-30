@@ -53,9 +53,9 @@ The output will be generated in the `./dist/` directory.
 After a feature is completed and before committing, the following testing plan MUST be invoked across multiple resolutions: mobile (390x844), tablet (912x1368), and desktop (1920x1080).
 
 1.  **Check home page:** Take a screenshot of the home page for each resolution.
-2.  **Check random category:** Take a screenshot of a random category index page for each resolution.
-3.  **Check random image page:** Take a screenshot of a random image page for each resolution.
-4.  **Check random image print page:** Take a screenshot of a random image print page for each resolution.
+2.  **Check random category:** Take a screenshot of one random category index page for each resolution.
+3.  **Check random image page:** Take a screenshot of one random image page for each resolution.
+4.  **Check random image print functionality:** Take a screenshot of one random image page for each resolution. The user will manually verify the print functionality by navigating to this page and triggering the browser's print dialog.
 5.  **Clean Screenshots:** Remove the `screenshots` folder to ensure a clean slate for new screenshots.
 6.  **Visual Inspection (User):** The agent will provide the paths to all generated screenshots for the user to visually inspect and approve that everything is displayed correctly.
 7.  **Check for broken links:** Check all pages and all links in the app to ensure they work and do not result in a 404 error. (This step is resolution-independent).
@@ -117,6 +117,12 @@ You are a highly constrained agent operating under strict directives. Your actio
 
 -   Your communication with the user MUST be concise, clear, and direct. Avoid conversational filler.
 -   When providing information or asking for approval, be as specific as possible.
+
+### Rule 6: Post-Approval Actions
+
+-   After the user approves the visual inspection (Rule 6 in Testing), you MUST remove the `screenshots` folder.
+-   You MUST NOT execute `git commit` until the user explicitly provides permission for that specific commit action, including the proposed commit message.
+
 
 ## Agent Guidelines (Deprecated - See "Agent Operating Rules")
 

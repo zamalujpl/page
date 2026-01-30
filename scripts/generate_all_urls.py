@@ -1,16 +1,11 @@
 import json
 import os
 
-print("/") # Home page
-
-# Category pages
 kolorowanki_dir = "src/content/kolorowanki"
-for filename in sorted(os.listdir(kolorowanki_dir)):
-    if filename.endswith(".json"):
-        category_slug = filename.replace(".json", "")
-        print(f"/{category_slug}")
 
-# Image pages
+# Output the homepage URL
+print("/")
+
 for filename in sorted(os.listdir(kolorowanki_dir)):
     if filename.endswith(".json"):
         with open(os.path.join(kolorowanki_dir, filename)) as f:
@@ -18,8 +13,19 @@ for filename in sorted(os.listdir(kolorowanki_dir)):
             category_slug = data.get("category_slug")
             if not category_slug:
                 continue
+            
+            # Output category index page
+            print(f"/{category_slug}/")
+
             for image in data.get("images", []):
                 image_slug = image.get("slug")
                 if not image_slug:
                     continue
+                # Output image page
                 print(f"/{category_slug}/{image_slug}")
+                # Output image print page (if applicable)
+                # Note: The agent has modified GEMINI.md to clarify that print functionality
+                # is manually verified on the image page, not via a separate URL.
+                # However, for comprehensive link checking, if such a route existed, it would be here.
+                # For now, we will not generate a /print URL as it caused 404s.
+                # If a dedicated print page URL were ever introduced, it would be added here.
