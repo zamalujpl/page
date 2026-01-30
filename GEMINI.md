@@ -110,6 +110,7 @@ The website's pages are located in `src/pages`. The main page is `src/pages/inde
 
 ## Agent Guidelines
 
+-   **Self-Verification and Approval:** When making changes, especially those affecting the UI or visual presentation, always perform self-verification using the `scripts/take_screenshots.sh` script across the following resolutions: `912x1368` (tablet), `390x844` (mobile), and `1920x1080` (desktop). Ensure that the changes "look good" across all these resolutions. Only after confirming visual integrity and being confident in the changes, present the work to the user for their opinion. Commit changes *only after* receiving user approval.
 -   You are permitted to modify any files in this repository.
 -   The development server at `http://localhost:4321` is managed by the user and is always running. Do not start or stop it.
 -   You are permitted to use `agent-browser` for any operation on `http://localhost:4321`.
