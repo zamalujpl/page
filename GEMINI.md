@@ -52,6 +52,38 @@ The output will be generated in the `./dist/` directory.
 
 *Note: The user prefers using `npm run preview` for local verification.*
 
+### Verification Steps
+
+To verify the visual integrity of all coloring pages across different resolutions, use the `take_screenshots.sh` script located in the `scripts/` directory. This script utilizes `agent-browser` to navigate through each image page, set a specified viewport resolution, and capture a full-page screenshot.
+
+**Usage:**
+
+```bash
+scripts/take_screenshots.sh <width> <height>
+```
+
+**Example:**
+
+To capture screenshots for a mobile resolution (e.g., iPhone 13/14 Pro):
+
+```bash
+scripts/take_screenshots.sh 390 844
+```
+
+To capture screenshots for a tablet resolution (e.g., iPad Air):
+
+```bash
+scripts/take_screenshots.sh 912 1368
+```
+
+To capture screenshots for a common desktop resolution:
+
+```bash
+scripts/take_screenshots.sh 1920 1080
+```
+
+All screenshots will be saved in a subdirectory within the `screenshots/` folder, named after the resolution (e.g., `screenshots/390x844/`). After running the script, review the generated screenshots to ensure the pages look good.
+
 Use agent-browser to test the login flow. Run `agent-browser --help` to see available commands.
 
 ## Development Conventions
