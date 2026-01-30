@@ -78,7 +78,10 @@ The website's pages are located in `src/pages`. The main page is `src/pages/inde
 
 ## Agent Guidelines
 
--   Always allow `agent-browser` to perform tests and interact with the browser.
+-   You are permitted to modify any files in this repository.
+-   The development server at `http://localhost:4321` is managed by the user and is always running. Do not start or stop it.
+-   You are permitted to use `agent-browser` for any operation on `http://localhost:4321`.
+-   Each change that affects the UI or navigation must be validated using `agent-browser`.
 -   Store information about the application's running URL using the `save_memory` tool when it becomes available.
 -   Feel free to use `git`, `ls`, and `pwd` commands for repository management and basic file system operations.
 

@@ -4,12 +4,12 @@ import assets from "../../assets.json";
 import PrintFooter from "../../components/PrintFooter.astro";
 
 export async function getStaticPaths() {
-  const contentFiles = import.meta.glob('../../content/kolorowanki/*.json');
+  const contentFiles = import.meta.glob("../../content/kolorowanki/*.json");
   const paths = [];
   for (const path in contentFiles) {
     const categoryModule = await contentFiles[path]();
     const categoryContent = categoryModule.default;
-    const categoryKey = path.split('/').pop().replace('.json', '');
+    const categoryKey = path.split("/").pop().replace(".json", "");
 
     for (const image of categoryContent.images) {
       paths.push({
@@ -21,7 +21,7 @@ export async function getStaticPaths() {
           image,
           categoryKey,
           categoryTitle: categoryContent.category_title,
-          categoryDescription: categoryContent.category_description
+          categoryDescription: categoryContent.category_description,
         },
       });
     }
@@ -30,7 +30,9 @@ export async function getStaticPaths() {
 }
 
 const { image, categoryKey, categoryTitle, categoryDescription } = Astro.props;
-const assetItem = assets[categoryKey]?.items.find(item => item.key === image.key);
+const assetItem = assets[categoryKey]?.items.find(
+  (item) => item.key === image.key,
+);
 
 if (!assetItem) {
   return new Response(null, { status: 404 });
@@ -39,6 +41,7 @@ if (!assetItem) {
 const title = image.title;
 const description = image.description;
 ---
+
 <BaseLayout
   title={title}
   description={description}
@@ -71,11 +74,13 @@ const description = image.description;
     >
       Drukuj obrazek
     </button>
-    {description && (
-      <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 mt-4 text-center px-4 sm:px-0">
-        <p>{description}</p>
-      </div>
-    )}
+    {
+      description && (
+        <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 mt-4 text-center px-4 sm:px-0">
+          <p>{description}</p>
+        </div>
+      )
+    }
     <a
       href={`/${Astro.params.category_slug}/`}
       class="text-primary hover:underline w-full sm:w-auto text-center sm:text-left mt-4"

@@ -34,7 +34,7 @@ const items = Object.entries(contentFiles).map(([path, contentModule]) => {
     imgSrc: `/${randomAssetItem.file}`,
     imgAlt: randomImageContent.title,
     title: content.category_title,
-    buttonText: "Zobacz",
+    buttonText: content.category_title,
   };
 }).filter(Boolean); // Remove null entries
 ---
