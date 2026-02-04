@@ -31,10 +31,12 @@ const items = Object.entries(contentFiles).map(([path, contentModule]) => {
 
   return {
     href: `/${content.category_slug}/`,
-    imgSrc: `/${randomAssetItem.file}`,
+    imgSrc: randomAssetItem.webp_thumb, // Use webp_thumb for src
     imgAlt: randomImageContent.title,
     title: content.category_title,
     buttonText: content.category_title,
+    webpLarge: randomAssetItem.webp_large, // Pass large webp
+    webpThumb: randomAssetItem.webp_thumb, // Pass thumb webp
   };
 }).filter(Boolean); // Remove null entries
 ---

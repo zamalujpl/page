@@ -32,11 +32,13 @@ const items = content.images.map(image => {
     const assetItem = assetCategory.items.find(item => item.key === image.key);
     return {
         href: `/${content.category_slug}/${image.slug}`,
-        imgSrc: assetItem ? `/${assetItem.file}` : '',
+        imgSrc: assetItem ? assetItem.webp_thumb : '',
         imgAlt: image.title,
         title: image.title,
         buttonText: "Zobacz",
         description: image.description,
+        webpLarge: assetItem ? assetItem.webp_large : '',
+        webpThumb: assetItem ? assetItem.webp_thumb : '',
     };
 });
 

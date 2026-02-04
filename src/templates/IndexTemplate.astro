@@ -1,5 +1,5 @@
 ---
-/** @typedef {{ href: string; imgSrc: string; imgAlt: string; buttonText: string; title?: string; description?: string }} CardItem */
+/** @typedef {{ href: string; imgSrc: string; imgAlt: string; buttonText: string; title?: string; description?: string; webpLarge?: string; webpThumb?: string }} CardItem */
 const { items, headerImgSrc, headerImgAlt, headerTitle, headerDescription } = Astro.props;
 /** @type {CardItem[]} */
 const cardItems = /** @type {any} */ (items);
@@ -56,11 +56,13 @@ const imgAlt = headerImgAlt || "Nagłówek";
       >
         <figure class="px-2 pt-2 sm:px-3 sm:pt-3 flex items-center justify-center">
           <img
-            src={item.imgSrc}
+            src={`/${item.webpThumb}`}
             alt={item.imgAlt}
+            srcset={`/${item.webpThumb} 350w, /${item.webpLarge} 1200w`}
+            sizes="(max-width: 600px) 350px, 1200px"
             class="w-full max-w-[120px] sm:max-w-[140px] md:max-w-[160px] aspect-square object-contain rounded transition-transform duration-300 group-hover:scale-110"
-            width="180"
-            height="180"
+            width="350"
+            height="495"
             loading="lazy"
             decoding="async"
           />

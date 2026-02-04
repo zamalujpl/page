@@ -3,160 +3,238 @@
     "items": [
       {
         "key": "crocodile_river",
-        "file": "assets/animals/crocodile_river.svg"
+        "file": "assets/animals/crocodile_river.svg",
+        "webp_large": "assets/animals/crocodile_river-1200.webp",
+        "webp_thumb": "assets/animals/crocodile_river-350.webp"
       },
       {
         "key": "deer_look",
-        "file": "assets/animals/deer_look.svg"
+        "file": "assets/animals/deer_look.svg",
+        "webp_large": "assets/animals/deer_look-1200.webp",
+        "webp_thumb": "assets/animals/deer_look-350.webp"
       },
       {
         "key": "dolphin_jump",
-        "file": "assets/animals/dolphin_jump.svg"
+        "file": "assets/animals/dolphin_jump.svg",
+        "webp_large": "assets/animals/dolphin_jump-1200.webp",
+        "webp_thumb": "assets/animals/dolphin_jump-350.webp"
       },
       {
         "key": "duck_pond",
-        "file": "assets/animals/duck_pond.svg"
+        "file": "assets/animals/duck_pond.svg",
+        "webp_large": "assets/animals/duck_pond-1200.webp",
+        "webp_thumb": "assets/animals/duck_pond-350.webp"
       },
       {
         "key": "elephant_water",
-        "file": "assets/animals/elephant_water.svg"
+        "file": "assets/animals/elephant_water.svg",
+        "webp_large": "assets/animals/elephant_water-1200.webp",
+        "webp_thumb": "assets/animals/elephant_water-350.webp"
       },
       {
         "key": "flamingo_leg",
-        "file": "assets/animals/flamingo_leg.svg"
+        "file": "assets/animals/flamingo_leg.svg",
+        "webp_large": "assets/animals/flamingo_leg-1200.webp",
+        "webp_thumb": "assets/animals/flamingo_leg-350.webp"
       },
       {
         "key": "fox_sleep",
-        "file": "assets/animals/fox_sleep.svg"
+        "file": "assets/animals/fox_sleep.svg",
+        "webp_large": "assets/animals/fox_sleep-1200.webp",
+        "webp_thumb": "assets/animals/fox_sleep-350.webp"
       },
       {
         "key": "frog_lily",
-        "file": "assets/animals/frog_lily.svg"
+        "file": "assets/animals/frog_lily.svg",
+        "webp_large": "assets/animals/frog_lily-1200.webp",
+        "webp_thumb": "assets/animals/frog_lily-350.webp"
       },
       {
         "key": "giraffe_leaves",
-        "file": "assets/animals/giraffe_leaves.svg"
+        "file": "assets/animals/giraffe_leaves.svg",
+        "webp_large": "assets/animals/giraffe_leaves-1200.webp",
+        "webp_thumb": "assets/animals/giraffe_leaves-350.webp"
       },
       {
         "key": "hedgehog_feet",
-        "file": "assets/animals/hedgehog_feet.svg"
+        "file": "assets/animals/hedgehog_feet.svg",
+        "webp_large": "assets/animals/hedgehog_feet-1200.webp",
+        "webp_thumb": "assets/animals/hedgehog_feet-350.webp"
       },
       {
         "key": "hippo_yawn",
-        "file": "assets/animals/hippo_yawn.svg"
+        "file": "assets/animals/hippo_yawn.svg",
+        "webp_large": "assets/animals/hippo_yawn-1200.webp",
+        "webp_thumb": "assets/animals/hippo_yawn-350.webp"
       },
       {
         "key": "horse_meadow",
-        "file": "assets/animals/horse_meadow.svg"
+        "file": "assets/animals/horse_meadow.svg",
+        "webp_large": "assets/animals/horse_meadow-1200.webp",
+        "webp_thumb": "assets/animals/horse_meadow-350.webp"
       },
       {
         "key": "kangaroo_pouch",
-        "file": "assets/animals/kangaroo_pouch.svg"
+        "file": "assets/animals/kangaroo_pouch.svg",
+        "webp_large": "assets/animals/kangaroo_pouch-1200.webp",
+        "webp_thumb": "assets/animals/kangaroo_pouch-350.webp"
       },
       {
         "key": "kitten_yarn",
-        "file": "assets/animals/kitten_yarn.svg"
+        "file": "assets/animals/kitten_yarn.svg",
+        "webp_large": "assets/animals/kitten_yarn-1200.webp",
+        "webp_thumb": "assets/animals/kitten_yarn-350.webp"
       },
       {
         "key": "koala_tree",
-        "file": "assets/animals/koala_tree.svg"
+        "file": "assets/animals/koala_tree.svg",
+        "webp_large": "assets/animals/koala_tree-1200.webp",
+        "webp_thumb": "assets/animals/koala_tree-350.webp"
       },
       {
         "key": "ladybug_leaf",
-        "file": "assets/animals/ladybug_leaf.svg"
+        "file": "assets/animals/ladybug_leaf.svg",
+        "webp_large": "assets/animals/ladybug_leaf-1200.webp",
+        "webp_thumb": "assets/animals/ladybug_leaf-350.webp"
       },
       {
         "key": "lion_grass",
-        "file": "assets/animals/lion_grass.svg"
+        "file": "assets/animals/lion_grass.svg",
+        "webp_large": "assets/animals/lion_grass-1200.webp",
+        "webp_thumb": "assets/animals/lion_grass-350.webp"
       },
       {
         "key": "llama_fur",
-        "file": "assets/animals/llama_fur.svg"
+        "file": "assets/animals/llama_fur.svg",
+        "webp_large": "assets/animals/llama_fur-1200.webp",
+        "webp_thumb": "assets/animals/llama_fur-350.webp"
       },
       {
         "key": "monkey_tree",
-        "file": "assets/animals/monkey_tree.svg"
+        "file": "assets/animals/monkey_tree.svg",
+        "webp_large": "assets/animals/monkey_tree-1200.webp",
+        "webp_thumb": "assets/animals/monkey_tree-350.webp"
       },
       {
         "key": "moose_forest",
-        "file": "assets/animals/moose_forest.svg"
+        "file": "assets/animals/moose_forest.svg",
+        "webp_large": "assets/animals/moose_forest-1200.webp",
+        "webp_thumb": "assets/animals/moose_forest-350.webp"
       },
       {
         "key": "owl_stump",
-        "file": "assets/animals/owl_stump.svg"
+        "file": "assets/animals/owl_stump.svg",
+        "webp_large": "assets/animals/owl_stump-1200.webp",
+        "webp_thumb": "assets/animals/owl_stump-350.webp"
       },
       {
         "key": "panda_bamboo",
-        "file": "assets/animals/panda_bamboo.svg"
+        "file": "assets/animals/panda_bamboo.svg",
+        "webp_large": "assets/animals/panda_bamboo-1200.webp",
+        "webp_thumb": "assets/animals/panda_bamboo-350.webp"
       },
       {
         "key": "parrot_branch",
-        "file": "assets/animals/parrot_branch.svg"
+        "file": "assets/animals/parrot_branch.svg",
+        "webp_large": "assets/animals/parrot_branch-1200.webp",
+        "webp_thumb": "assets/animals/parrot_branch-350.webp"
       },
       {
         "key": "peacock_feathers",
-        "file": "assets/animals/peacock_feathers.svg"
+        "file": "assets/animals/peacock_feathers.svg",
+        "webp_large": "assets/animals/peacock_feathers-1200.webp",
+        "webp_thumb": "assets/animals/peacock_feathers-350.webp"
       },
       {
         "key": "penguin_ice",
-        "file": "assets/animals/penguin_ice.svg"
+        "file": "assets/animals/penguin_ice.svg",
+        "webp_large": "assets/animals/penguin_ice-1200.webp",
+        "webp_thumb": "assets/animals/penguin_ice-350.webp"
       },
       {
         "key": "puppy_tail",
-        "file": "assets/animals/puppy_tail.svg"
+        "file": "assets/animals/puppy_tail.svg",
+        "webp_large": "assets/animals/puppy_tail-1200.webp",
+        "webp_thumb": "assets/animals/puppy_tail-350.webp"
       },
       {
         "key": "raccoon_tail",
-        "file": "assets/animals/raccoon_tail.svg"
+        "file": "assets/animals/raccoon_tail.svg",
+        "webp_large": "assets/animals/raccoon_tail-1200.webp",
+        "webp_thumb": "assets/animals/raccoon_tail-350.webp"
       },
       {
         "key": "reindeer_antlers",
-        "file": "assets/animals/reindeer_antlers.svg"
+        "file": "assets/animals/reindeer_antlers.svg",
+        "webp_large": "assets/animals/reindeer_antlers-1200.webp",
+        "webp_thumb": "assets/animals/reindeer_antlers-350.webp"
       },
       {
         "key": "seal_flippers",
-        "file": "assets/animals/seal_flippers.svg"
+        "file": "assets/animals/seal_flippers.svg",
+        "webp_large": "assets/animals/seal_flippers-1200.webp",
+        "webp_thumb": "assets/animals/seal_flippers-350.webp"
       },
       {
         "key": "sheep_wool",
-        "file": "assets/animals/sheep_wool.svg"
+        "file": "assets/animals/sheep_wool.svg",
+        "webp_large": "assets/animals/sheep_wool-1200.webp",
+        "webp_thumb": "assets/animals/sheep_wool-350.webp"
       },
       {
         "key": "skunk_tail",
-        "file": "assets/animals/skunk_tail.svg"
+        "file": "assets/animals/skunk_tail.svg",
+        "webp_large": "assets/animals/skunk_tail-1200.webp",
+        "webp_thumb": "assets/animals/skunk_tail-350.webp"
       },
       {
         "key": "snail_shell",
-        "file": "assets/animals/snail_shell.svg"
+        "file": "assets/animals/snail_shell.svg",
+        "webp_large": "assets/animals/snail_shell-1200.webp",
+        "webp_thumb": "assets/animals/snail_shell-350.webp"
       },
       {
         "key": "snake_rock",
-        "file": "assets/animals/snake_rock.svg"
+        "file": "assets/animals/snake_rock.svg",
+        "webp_large": "assets/animals/snake_rock-1200.webp",
+        "webp_thumb": "assets/animals/snake_rock-350.webp"
       },
       {
         "key": "squirrel_acorn",
-        "file": "assets/animals/squirrel_acorn.svg"
+        "file": "assets/animals/squirrel_acorn.svg",
+        "webp_large": "assets/animals/squirrel_acorn-1200.webp",
+        "webp_thumb": "assets/animals/squirrel_acorn-350.webp"
       },
       {
         "key": "turtle_shell",
-        "file": "assets/animals/turtle_shell.svg"
+        "file": "assets/animals/turtle_shell.svg",
+        "webp_large": "assets/animals/turtle_shell-1200.webp",
+        "webp_thumb": "assets/animals/turtle_shell-350.webp"
       },
       {
         "key": "walrus_tusks",
-        "file": "assets/animals/walrus_tusks.svg"
+        "file": "assets/animals/walrus_tusks.svg",
+        "webp_large": "assets/animals/walrus_tusks-1200.webp",
+        "webp_thumb": "assets/animals/walrus_tusks-350.webp"
       },
       {
         "key": "wolf_moon",
-        "file": "assets/animals/wolf_moon.svg"
+        "file": "assets/animals/wolf_moon.svg",
+        "webp_large": "assets/animals/wolf_moon-1200.webp",
+        "webp_thumb": "assets/animals/wolf_moon-350.webp"
       },
       {
         "key": "zebra_savannah",
-        "file": "assets/animals/zebra_savannah.svg"
+        "file": "assets/animals/zebra_savannah.svg",
+        "webp_large": "assets/animals/zebra_savannah-1200.webp",
+        "webp_thumb": "assets/animals/zebra_savannah-350.webp"
       },
       {
         "key": "test_image",
         "file": "assets/animals/test_image.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/animals/test_image-1200.webp",
+        "webp_thumb": "assets/animals/test_image-350.webp"
       }
     ]
   },
@@ -164,103 +242,153 @@
     "items": [
       {
         "key": "cactus_desert",
-        "file": "assets/nature/cactus_desert.svg"
+        "file": "assets/nature/cactus_desert.svg",
+        "webp_large": "assets/nature/cactus_desert-1200.webp",
+        "webp_thumb": "assets/nature/cactus_desert-350.webp"
       },
       {
         "key": "palm_tree",
-        "file": "assets/nature/palm_tree.svg"
+        "file": "assets/nature/palm_tree.svg",
+        "webp_large": "assets/nature/palm_tree-1200.webp",
+        "webp_thumb": "assets/nature/palm_tree-350.webp"
       },
       {
         "key": "pine_tree",
-        "file": "assets/nature/pine_tree.svg"
+        "file": "assets/nature/pine_tree.svg",
+        "webp_large": "assets/nature/pine_tree-1200.webp",
+        "webp_thumb": "assets/nature/pine_tree-350.webp"
       },
       {
         "key": "pumpkin_stem",
-        "file": "assets/nature/pumpkin_stem.svg"
+        "file": "assets/nature/pumpkin_stem.svg",
+        "webp_large": "assets/nature/pumpkin_stem-1200.webp",
+        "webp_thumb": "assets/nature/pumpkin_stem-350.webp"
       },
       {
         "key": "rose_red",
-        "file": "assets/nature/rose_red.svg"
+        "file": "assets/nature/rose_red.svg",
+        "webp_large": "assets/nature/rose_red-1200.webp",
+        "webp_thumb": "assets/nature/rose_red-350.webp"
       },
       {
         "key": "strawberry_leaves",
-        "file": "assets/nature/strawberry_leaves.svg"
+        "file": "assets/nature/strawberry_leaves.svg",
+        "webp_large": "assets/nature/strawberry_leaves-1200.webp",
+        "webp_thumb": "assets/nature/strawberry_leaves-350.webp"
       },
       {
         "key": "sunflower_smile",
-        "file": "assets/nature/sunflower_smile.svg"
+        "file": "assets/nature/sunflower_smile.svg",
+        "webp_large": "assets/nature/sunflower_smile-1200.webp",
+        "webp_thumb": "assets/nature/sunflower_smile-350.webp"
       },
       {
         "key": "tulips_bunch",
-        "file": "assets/nature/tulips_bunch.svg"
+        "file": "assets/nature/tulips_bunch.svg",
+        "webp_large": "assets/nature/tulips_bunch-1200.webp",
+        "webp_thumb": "assets/nature/tulips_bunch-350.webp"
       },
       {
         "key": "watermelon_slice",
-        "file": "assets/nature/watermelon_slice.svg"
+        "file": "assets/nature/watermelon_slice.svg",
+        "webp_large": "assets/nature/watermelon_slice-1200.webp",
+        "webp_thumb": "assets/nature/watermelon_slice-350.webp"
       },
       {
         "key": "apple_branch",
-        "file": "assets/nature/apple_branch.svg"
+        "file": "assets/nature/apple_branch.svg",
+        "webp_large": "assets/nature/apple_branch-1200.webp",
+        "webp_thumb": "assets/nature/apple_branch-350.webp"
       },
       {
         "key": "banana_bunch",
-        "file": "assets/nature/banana_bunch.svg"
+        "file": "assets/nature/banana_bunch.svg",
+        "webp_large": "assets/nature/banana_bunch-1200.webp",
+        "webp_thumb": "assets/nature/banana_bunch-350.webp"
       },
       {
         "key": "bluebells_bunch",
-        "file": "assets/nature/bluebells_bunch.svg"
+        "file": "assets/nature/bluebells_bunch.svg",
+        "webp_large": "assets/nature/bluebells_bunch-1200.webp",
+        "webp_thumb": "assets/nature/bluebells_bunch-350.webp"
       },
       {
         "key": "broccoli_head",
-        "file": "assets/nature/broccoli_head.svg"
+        "file": "assets/nature/broccoli_head.svg",
+        "webp_large": "assets/nature/broccoli_head-1200.webp",
+        "webp_thumb": "assets/nature/broccoli_head-350.webp"
       },
       {
         "key": "carrot_leaves",
-        "file": "assets/nature/carrot_leaves.svg"
+        "file": "assets/nature/carrot_leaves.svg",
+        "webp_large": "assets/nature/carrot_leaves-1200.webp",
+        "webp_thumb": "assets/nature/carrot_leaves-350.webp"
       },
       {
         "key": "cherries_pair",
-        "file": "assets/nature/cherries_pair.svg"
+        "file": "assets/nature/cherries_pair.svg",
+        "webp_large": "assets/nature/cherries_pair-1200.webp",
+        "webp_thumb": "assets/nature/cherries_pair-350.webp"
       },
       {
         "key": "clover_fourleaves",
-        "file": "assets/nature/clover_fourleaves.svg"
+        "file": "assets/nature/clover_fourleaves.svg",
+        "webp_large": "assets/nature/clover_fourleaves-1200.webp",
+        "webp_thumb": "assets/nature/clover_fourleaves-350.webp"
       },
       {
         "key": "coconut_palmtree",
-        "file": "assets/nature/coconut_palmtree.svg"
+        "file": "assets/nature/coconut_palmtree.svg",
+        "webp_large": "assets/nature/coconut_palmtree-1200.webp",
+        "webp_thumb": "assets/nature/coconut_palmtree-350.webp"
       },
       {
         "key": "daisy_flower",
-        "file": "assets/nature/daisy_flower.svg"
+        "file": "assets/nature/daisy_flower.svg",
+        "webp_large": "assets/nature/daisy_flower-1200.webp",
+        "webp_thumb": "assets/nature/daisy_flower-350.webp"
       },
       {
         "key": "dandelion_puff",
-        "file": "assets/nature/dandelion_puff.svg"
+        "file": "assets/nature/dandelion_puff.svg",
+        "webp_large": "assets/nature/dandelion_puff-1200.webp",
+        "webp_thumb": "assets/nature/dandelion_puff-350.webp"
       },
       {
         "key": "fern_leaf",
-        "file": "assets/nature/fern_leaf.svg"
+        "file": "assets/nature/fern_leaf.svg",
+        "webp_large": "assets/nature/fern_leaf-1200.webp",
+        "webp_thumb": "assets/nature/fern_leaf-350.webp"
       },
       {
         "key": "grapes_vine",
-        "file": "assets/nature/grapes_vine.svg"
+        "file": "assets/nature/grapes_vine.svg",
+        "webp_large": "assets/nature/grapes_vine-1200.webp",
+        "webp_thumb": "assets/nature/grapes_vine-350.webp"
       },
       {
         "key": "lily_flower",
-        "file": "assets/nature/lily_flower.svg"
+        "file": "assets/nature/lily_flower.svg",
+        "webp_large": "assets/nature/lily_flower-1200.webp",
+        "webp_thumb": "assets/nature/lily_flower-350.webp"
       },
       {
         "key": "maple_leaf",
-        "file": "assets/nature/maple_leaf.svg"
+        "file": "assets/nature/maple_leaf.svg",
+        "webp_large": "assets/nature/maple_leaf-1200.webp",
+        "webp_thumb": "assets/nature/maple_leaf-350.webp"
       },
       {
         "key": "mushroom_spots",
-        "file": "assets/nature/mushroom_spots.svg"
+        "file": "assets/nature/mushroom_spots.svg",
+        "webp_large": "assets/nature/mushroom_spots-1200.webp",
+        "webp_thumb": "assets/nature/mushroom_spots-350.webp"
       },
       {
         "key": "sunflower_field",
-        "file": "assets/nature/sunflower_field.svg"
+        "file": "assets/nature/sunflower_field.svg",
+        "webp_large": "assets/nature/sunflower_field-1200.webp",
+        "webp_thumb": "assets/nature/sunflower_field-350.webp"
       }
     ]
   },
@@ -268,99 +396,147 @@
     "items": [
       {
         "key": "airplane_sky",
-        "file": "assets/vehicles/airplane_sky.svg"
+        "file": "assets/vehicles/airplane_sky.svg",
+        "webp_large": "assets/vehicles/airplane_sky-1200.webp",
+        "webp_thumb": "assets/vehicles/airplane_sky-350.webp"
       },
       {
         "key": "ambulance_siren",
-        "file": "assets/vehicles/ambulance_siren.svg"
+        "file": "assets/vehicles/ambulance_siren.svg",
+        "webp_large": "assets/vehicles/ambulance_siren-1200.webp",
+        "webp_thumb": "assets/vehicles/ambulance_siren-350.webp"
       },
       {
         "key": "bulldozer_dirt",
-        "file": "assets/vehicles/bulldozer_dirt.svg"
+        "file": "assets/vehicles/bulldozer_dirt.svg",
+        "webp_large": "assets/vehicles/bulldozer_dirt-1200.webp",
+        "webp_thumb": "assets/vehicles/bulldozer_dirt-350.webp"
       },
       {
         "key": "canoe_river",
-        "file": "assets/vehicles/canoe_river.svg"
+        "file": "assets/vehicles/canoe_river.svg",
+        "webp_large": "assets/vehicles/canoe_river-1200.webp",
+        "webp_thumb": "assets/vehicles/canoe_river-350.webp"
       },
       {
         "key": "convertible_roofdown",
-        "file": "assets/vehicles/convertible_roofdown.svg"
+        "file": "assets/vehicles/convertible_roofdown.svg",
+        "webp_large": "assets/vehicles/convertible_roofdown-1200.webp",
+        "webp_thumb": "assets/vehicles/convertible_roofdown-350.webp"
       },
       {
         "key": "crane_load",
-        "file": "assets/vehicles/crane_load.svg"
+        "file": "assets/vehicles/crane_load.svg",
+        "webp_large": "assets/vehicles/crane_load-1200.webp",
+        "webp_thumb": "assets/vehicles/crane_load-350.webp"
       },
       {
         "key": "dumptruck_sand",
-        "file": "assets/vehicles/dumptruck_sand.svg"
+        "file": "assets/vehicles/dumptruck_sand.svg",
+        "webp_large": "assets/vehicles/dumptruck_sand-1200.webp",
+        "webp_thumb": "assets/vehicles/dumptruck_sand-350.webp"
       },
       {
         "key": "firetruck_ladder",
-        "file": "assets/vehicles/firetruck_ladder.svg"
+        "file": "assets/vehicles/firetruck_ladder.svg",
+        "webp_large": "assets/vehicles/firetruck_ladder-1200.webp",
+        "webp_thumb": "assets/vehicles/firetruck_ladder-350.webp"
       },
       {
         "key": "helicopter_mountains",
-        "file": "assets/vehicles/helicopter_mountains.svg"
+        "file": "assets/vehicles/helicopter_mountains.svg",
+        "webp_large": "assets/vehicles/helicopter_mountains-1200.webp",
+        "webp_thumb": "assets/vehicles/helicopter_mountains-350.webp"
       },
       {
         "key": "hotairballoon_stripes",
-        "file": "assets/vehicles/hotairballoon_stripes.svg"
+        "file": "assets/vehicles/hotairballoon_stripes.svg",
+        "webp_large": "assets/vehicles/hotairballoon_stripes-1200.webp",
+        "webp_thumb": "assets/vehicles/hotairballoon_stripes-350.webp"
       },
       {
         "key": "hovercraft_water",
-        "file": "assets/vehicles/hovercraft_water.svg"
+        "file": "assets/vehicles/hovercraft_water.svg",
+        "webp_large": "assets/vehicles/hovercraft_water-1200.webp",
+        "webp_thumb": "assets/vehicles/hovercraft_water-350.webp"
       },
       {
         "key": "icecreamtruck_music",
-        "file": "assets/vehicles/icecreamtruck_music.svg"
+        "file": "assets/vehicles/icecreamtruck_music.svg",
+        "webp_large": "assets/vehicles/icecreamtruck_music-1200.webp",
+        "webp_thumb": "assets/vehicles/icecreamtruck_music-350.webp"
       },
       {
         "key": "monstertruck_wheels",
-        "file": "assets/vehicles/monstertruck_wheels.svg"
+        "file": "assets/vehicles/monstertruck_wheels.svg",
+        "webp_large": "assets/vehicles/monstertruck_wheels-1200.webp",
+        "webp_thumb": "assets/vehicles/monstertruck_wheels-350.webp"
       },
       {
         "key": "policecar_lights",
-        "file": "assets/vehicles/policecar_lights.svg"
+        "file": "assets/vehicles/policecar_lights.svg",
+        "webp_large": "assets/vehicles/policecar_lights-1200.webp",
+        "webp_thumb": "assets/vehicles/policecar_lights-350.webp"
       },
       {
         "key": "racecar_smile",
-        "file": "assets/vehicles/racecar_smile.svg"
+        "file": "assets/vehicles/racecar_smile.svg",
+        "webp_large": "assets/vehicles/racecar_smile-1200.webp",
+        "webp_thumb": "assets/vehicles/racecar_smile-350.webp"
       },
       {
         "key": "rocket_blastoff",
-        "file": "assets/vehicles/rocket_blastoff.svg"
+        "file": "assets/vehicles/rocket_blastoff.svg",
+        "webp_large": "assets/vehicles/rocket_blastoff-1200.webp",
+        "webp_thumb": "assets/vehicles/rocket_blastoff-350.webp"
       },
       {
         "key": "sailboat_ocean",
-        "file": "assets/vehicles/sailboat_ocean.svg"
+        "file": "assets/vehicles/sailboat_ocean.svg",
+        "webp_large": "assets/vehicles/sailboat_ocean-1200.webp",
+        "webp_thumb": "assets/vehicles/sailboat_ocean-350.webp"
       },
       {
         "key": "schoolbus_kids",
-        "file": "assets/vehicles/schoolbus_kids.svg"
+        "file": "assets/vehicles/schoolbus_kids.svg",
+        "webp_large": "assets/vehicles/schoolbus_kids-1200.webp",
+        "webp_thumb": "assets/vehicles/schoolbus_kids-350.webp"
       },
       {
         "key": "scooter_rider",
-        "file": "assets/vehicles/scooter_rider.svg"
+        "file": "assets/vehicles/scooter_rider.svg",
+        "webp_large": "assets/vehicles/scooter_rider-1200.webp",
+        "webp_thumb": "assets/vehicles/scooter_rider-350.webp"
       },
       {
         "key": "skateboard_design",
-        "file": "assets/vehicles/skateboard_design.svg"
+        "file": "assets/vehicles/skateboard_design.svg",
+        "webp_large": "assets/vehicles/skateboard_design-1200.webp",
+        "webp_thumb": "assets/vehicles/skateboard_design-350.webp"
       },
       {
         "key": "spaceship_stars",
-        "file": "assets/vehicles/spaceship_stars.svg"
+        "file": "assets/vehicles/spaceship_stars.svg",
+        "webp_large": "assets/vehicles/spaceship_stars-1200.webp",
+        "webp_thumb": "assets/vehicles/spaceship_stars-350.webp"
       },
       {
         "key": "submarine_sea",
-        "file": "assets/vehicles/submarine_sea.svg"
+        "file": "assets/vehicles/submarine_sea.svg",
+        "webp_large": "assets/vehicles/submarine_sea-1200.webp",
+        "webp_thumb": "assets/vehicles/submarine_sea-350.webp"
       },
       {
         "key": "tractor_field",
-        "file": "assets/vehicles/tractor_field.svg"
+        "file": "assets/vehicles/tractor_field.svg",
+        "webp_large": "assets/vehicles/tractor_field-1200.webp",
+        "webp_thumb": "assets/vehicles/tractor_field-350.webp"
       },
       {
         "key": "train_engine",
-        "file": "assets/vehicles/train_engine.svg"
+        "file": "assets/vehicles/train_engine.svg",
+        "webp_large": "assets/vehicles/train_engine-1200.webp",
+        "webp_thumb": "assets/vehicles/train_engine-350.webp"
       }
     ]
   },
@@ -368,103 +544,153 @@
     "items": [
       {
         "key": "bell_holly",
-        "file": "assets/christmas/bell_holly.svg"
+        "file": "assets/christmas/bell_holly.svg",
+        "webp_large": "assets/christmas/bell_holly-1200.webp",
+        "webp_thumb": "assets/christmas/bell_holly-350.webp"
       },
       {
         "key": "candycane_ribbon",
-        "file": "assets/christmas/candycane_ribbon.svg"
+        "file": "assets/christmas/candycane_ribbon.svg",
+        "webp_large": "assets/christmas/candycane_ribbon-1200.webp",
+        "webp_thumb": "assets/christmas/candycane_ribbon-350.webp"
       },
       {
         "key": "christmastrain_toys",
-        "file": "assets/christmas/christmastrain_toys.svg"
+        "file": "assets/christmas/christmastrain_toys.svg",
+        "webp_large": "assets/christmas/christmastrain_toys-1200.webp",
+        "webp_thumb": "assets/christmas/christmastrain_toys-350.webp"
       },
       {
         "key": "christmastree_presents",
-        "file": "assets/christmas/christmastree_presents.svg"
+        "file": "assets/christmas/christmastree_presents.svg",
+        "webp_large": "assets/christmas/christmastree_presents-1200.webp",
+        "webp_thumb": "assets/christmas/christmastree_presents-350.webp"
       },
       {
         "key": "elves_toyworkshop",
-        "file": "assets/christmas/elves_toyworkshop.svg"
+        "file": "assets/christmas/elves_toyworkshop.svg",
+        "webp_large": "assets/christmas/elves_toyworkshop-1200.webp",
+        "webp_thumb": "assets/christmas/elves_toyworkshop-350.webp"
       },
       {
         "key": "fireplace_stockings",
-        "file": "assets/christmas/fireplace_stockings.svg"
+        "file": "assets/christmas/fireplace_stockings.svg",
+        "webp_large": "assets/christmas/fireplace_stockings-1200.webp",
+        "webp_thumb": "assets/christmas/fireplace_stockings-350.webp"
       },
       {
         "key": "gingerbreadhouse_candy",
-        "file": "assets/christmas/gingerbreadhouse_candy.svg"
+        "file": "assets/christmas/gingerbreadhouse_candy.svg",
+        "webp_large": "assets/christmas/gingerbreadhouse_candy-1200.webp",
+        "webp_thumb": "assets/christmas/gingerbreadhouse_candy-350.webp"
       },
       {
         "key": "hotchocolate_marshmallows",
-        "file": "assets/christmas/hotchocolate_marshmallows.svg"
+        "file": "assets/christmas/hotchocolate_marshmallows.svg",
+        "webp_large": "assets/christmas/hotchocolate_marshmallows-1200.webp",
+        "webp_thumb": "assets/christmas/hotchocolate_marshmallows-350.webp"
       },
       {
         "key": "mailbox_letters",
-        "file": "assets/christmas/mailbox_letters.svg"
+        "file": "assets/christmas/mailbox_letters.svg",
+        "webp_large": "assets/christmas/mailbox_letters-1200.webp",
+        "webp_thumb": "assets/christmas/mailbox_letters-350.webp"
       },
       {
         "key": "northpole_sign",
-        "file": "assets/christmas/northpole_sign.svg"
+        "file": "assets/christmas/northpole_sign.svg",
+        "webp_large": "assets/christmas/northpole_sign-1200.webp",
+        "webp_thumb": "assets/christmas/northpole_sign-350.webp"
       },
       {
         "key": "nutcracker_soldier",
-        "file": "assets/christmas/nutcracker_soldier.svg"
+        "file": "assets/christmas/nutcracker_soldier.svg",
+        "webp_large": "assets/christmas/nutcracker_soldier-1200.webp",
+        "webp_thumb": "assets/christmas/nutcracker_soldier-350.webp"
       },
       {
         "key": "penguin_gift",
-        "file": "assets/christmas/penguin_gift.svg"
+        "file": "assets/christmas/penguin_gift.svg",
+        "webp_large": "assets/christmas/penguin_gift-1200.webp",
+        "webp_thumb": "assets/christmas/penguin_gift-350.webp"
       },
       {
         "key": "polarbear_scarf",
-        "file": "assets/christmas/polarbear_scarf.svg"
+        "file": "assets/christmas/polarbear_scarf.svg",
+        "webp_large": "assets/christmas/polarbear_scarf-1200.webp",
+        "webp_thumb": "assets/christmas/polarbear_scarf-350.webp"
       },
       {
         "key": "present_bow",
-        "file": "assets/christmas/present_bow.svg"
+        "file": "assets/christmas/present_bow.svg",
+        "webp_large": "assets/christmas/present_bow-1200.webp",
+        "webp_thumb": "assets/christmas/present_bow-350.webp"
       },
       {
         "key": "reindeer_rednose",
-        "file": "assets/christmas/reindeer_rednose.svg"
+        "file": "assets/christmas/reindeer_rednose.svg",
+        "webp_large": "assets/christmas/reindeer_rednose-1200.webp",
+        "webp_thumb": "assets/christmas/reindeer_rednose-350.webp"
       },
       {
         "key": "santa_sack",
-        "file": "assets/christmas/santa_sack.svg"
+        "file": "assets/christmas/santa_sack.svg",
+        "webp_large": "assets/christmas/santa_sack-1200.webp",
+        "webp_thumb": "assets/christmas/santa_sack-350.webp"
       },
       {
         "key": "sleigh_gifts",
-        "file": "assets/christmas/sleigh_gifts.svg"
+        "file": "assets/christmas/sleigh_gifts.svg",
+        "webp_large": "assets/christmas/sleigh_gifts-1200.webp",
+        "webp_thumb": "assets/christmas/sleigh_gifts-350.webp"
       },
       {
         "key": "sleigh_rooftops",
-        "file": "assets/christmas/sleigh_rooftops.svg"
+        "file": "assets/christmas/sleigh_rooftops.svg",
+        "webp_large": "assets/christmas/sleigh_rooftops-1200.webp",
+        "webp_thumb": "assets/christmas/sleigh_rooftops-350.webp"
       },
       {
         "key": "snowflakes_sky",
-        "file": "assets/christmas/snowflakes_sky.svg"
+        "file": "assets/christmas/snowflakes_sky.svg",
+        "webp_large": "assets/christmas/snowflakes_sky-1200.webp",
+        "webp_thumb": "assets/christmas/snowflakes_sky-350.webp"
       },
       {
         "key": "snowglobe_scene",
-        "file": "assets/christmas/snowglobe_scene.svg"
+        "file": "assets/christmas/snowglobe_scene.svg",
+        "webp_large": "assets/christmas/snowglobe_scene-1200.webp",
+        "webp_thumb": "assets/christmas/snowglobe_scene-350.webp"
       },
       {
         "key": "snowman_scarf",
-        "file": "assets/christmas/snowman_scarf.svg"
+        "file": "assets/christmas/snowman_scarf.svg",
+        "webp_large": "assets/christmas/snowman_scarf-1200.webp",
+        "webp_thumb": "assets/christmas/snowman_scarf-350.webp"
       },
       {
         "key": "snowy_village",
-        "file": "assets/christmas/snowy_village.svg"
+        "file": "assets/christmas/snowy_village.svg",
+        "webp_large": "assets/christmas/snowy_village-1200.webp",
+        "webp_thumb": "assets/christmas/snowy_village-350.webp"
       },
       {
         "key": "star_tree",
-        "file": "assets/christmas/star_tree.svg"
+        "file": "assets/christmas/star_tree.svg",
+        "webp_large": "assets/christmas/star_tree-1200.webp",
+        "webp_thumb": "assets/christmas/star_tree-350.webp"
       },
       {
         "key": "stocking_fireplace",
-        "file": "assets/christmas/stocking_fireplace.svg"
+        "file": "assets/christmas/stocking_fireplace.svg",
+        "webp_large": "assets/christmas/stocking_fireplace-1200.webp",
+        "webp_thumb": "assets/christmas/stocking_fireplace-350.webp"
       },
       {
         "key": "wreath_bells",
-        "file": "assets/christmas/wreath_bells.svg"
+        "file": "assets/christmas/wreath_bells.svg",
+        "webp_large": "assets/christmas/wreath_bells-1200.webp",
+        "webp_thumb": "assets/christmas/wreath_bells-350.webp"
       }
     ]
   },
@@ -472,87 +698,129 @@
     "items": [
       {
         "key": "basket_eastereggs",
-        "file": "assets/easter/basket_eastereggs.svg"
+        "file": "assets/easter/basket_eastereggs.svg",
+        "webp_large": "assets/easter/basket_eastereggs-1200.webp",
+        "webp_thumb": "assets/easter/basket_eastereggs-350.webp"
       },
       {
         "key": "bunny_bicycle_eggs",
-        "file": "assets/easter/bunny_bicycle_eggs.svg"
+        "file": "assets/easter/bunny_bicycle_eggs.svg",
+        "webp_large": "assets/easter/bunny_bicycle_eggs-1200.webp",
+        "webp_thumb": "assets/easter/bunny_bicycle_eggs-350.webp"
       },
       {
         "key": "bunny_carrotcar",
-        "file": "assets/easter/bunny_carrotcar.svg"
+        "file": "assets/easter/bunny_carrotcar.svg",
+        "webp_large": "assets/easter/bunny_carrotcar-1200.webp",
+        "webp_thumb": "assets/easter/bunny_carrotcar-350.webp"
       },
       {
         "key": "bunny_chick_play",
-        "file": "assets/easter/bunny_chick_play.svg"
+        "file": "assets/easter/bunny_chick_play.svg",
+        "webp_large": "assets/easter/bunny_chick_play-1200.webp",
+        "webp_thumb": "assets/easter/bunny_chick_play-350.webp"
       },
       {
         "key": "bunny_decoratedegg",
-        "file": "assets/easter/bunny_decoratedegg.svg"
+        "file": "assets/easter/bunny_decoratedegg.svg",
+        "webp_large": "assets/easter/bunny_decoratedegg-1200.webp",
+        "webp_thumb": "assets/easter/bunny_decoratedegg-350.webp"
       },
       {
         "key": "bunny_hidingeggs",
-        "file": "assets/easter/bunny_hidingeggs.svg"
+        "file": "assets/easter/bunny_hidingeggs.svg",
+        "webp_large": "assets/easter/bunny_hidingeggs-1200.webp",
+        "webp_thumb": "assets/easter/bunny_hidingeggs-350.webp"
       },
       {
         "key": "bunny_paintingegg",
-        "file": "assets/easter/bunny_paintingegg.svg"
+        "file": "assets/easter/bunny_paintingegg.svg",
+        "webp_large": "assets/easter/bunny_paintingegg-1200.webp",
+        "webp_thumb": "assets/easter/bunny_paintingegg-350.webp"
       },
       {
         "key": "bunny_sleeping_flowers",
-        "file": "assets/easter/bunny_sleeping_flowers.svg"
+        "file": "assets/easter/bunny_sleeping_flowers.svg",
+        "webp_large": "assets/easter/bunny_sleeping_flowers-1200.webp",
+        "webp_thumb": "assets/easter/bunny_sleeping_flowers-350.webp"
       },
       {
         "key": "bunnyfamily_picnic",
-        "file": "assets/easter/bunnyfamily_picnic.svg"
+        "file": "assets/easter/bunnyfamily_picnic.svg",
+        "webp_large": "assets/easter/bunnyfamily_picnic-1200.webp",
+        "webp_thumb": "assets/easter/bunnyfamily_picnic-350.webp"
       },
       {
         "key": "butterfly_flowers",
-        "file": "assets/easter/butterfly_flowers.svg"
+        "file": "assets/easter/butterfly_flowers.svg",
+        "webp_large": "assets/easter/butterfly_flowers-1200.webp",
+        "webp_thumb": "assets/easter/butterfly_flowers-350.webp"
       },
       {
         "key": "carrotpatch_bunny",
-        "file": "assets/easter/carrotpatch_bunny.svg"
+        "file": "assets/easter/carrotpatch_bunny.svg",
+        "webp_large": "assets/easter/carrotpatch_bunny-1200.webp",
+        "webp_thumb": "assets/easter/carrotpatch_bunny-350.webp"
       },
       {
         "key": "chick_basket",
-        "file": "assets/easter/chick_basket.svg"
+        "file": "assets/easter/chick_basket.svg",
+        "webp_large": "assets/easter/chick_basket-1200.webp",
+        "webp_thumb": "assets/easter/chick_basket-350.webp"
       },
       {
         "key": "chick_bunnyears",
-        "file": "assets/easter/chick_bunnyears.svg"
+        "file": "assets/easter/chick_bunnyears.svg",
+        "webp_large": "assets/easter/chick_bunnyears-1200.webp",
+        "webp_thumb": "assets/easter/chick_bunnyears-350.webp"
       },
       {
         "key": "chick_hatching",
-        "file": "assets/easter/chick_hatching.svg"
+        "file": "assets/easter/chick_hatching.svg",
+        "webp_large": "assets/easter/chick_hatching-1200.webp",
+        "webp_thumb": "assets/easter/chick_hatching-350.webp"
       },
       {
         "key": "chick_paintbrush",
-        "file": "assets/easter/chick_paintbrush.svg"
+        "file": "assets/easter/chick_paintbrush.svg",
+        "webp_large": "assets/easter/chick_paintbrush-1200.webp",
+        "webp_thumb": "assets/easter/chick_paintbrush-350.webp"
       },
       {
         "key": "chocolate_bunny",
-        "file": "assets/easter/chocolate_bunny.svg"
+        "file": "assets/easter/chocolate_bunny.svg",
+        "webp_large": "assets/easter/chocolate_bunny-1200.webp",
+        "webp_thumb": "assets/easter/chocolate_bunny-350.webp"
       },
       {
         "key": "easteregghunt_garden",
-        "file": "assets/easter/easteregghunt_garden.svg"
+        "file": "assets/easter/easteregghunt_garden.svg",
+        "webp_large": "assets/easter/easteregghunt_garden-1200.webp",
+        "webp_thumb": "assets/easter/easteregghunt_garden-350.webp"
       },
       {
         "key": "lamb_bow",
-        "file": "assets/easter/lamb_bow.svg"
+        "file": "assets/easter/lamb_bow.svg",
+        "webp_large": "assets/easter/lamb_bow-1200.webp",
+        "webp_thumb": "assets/easter/lamb_bow-350.webp"
       },
       {
         "key": "nest_coloredeggs",
-        "file": "assets/easter/nest_coloredeggs.svg"
+        "file": "assets/easter/nest_coloredeggs.svg",
+        "webp_large": "assets/easter/nest_coloredeggs-1200.webp",
+        "webp_thumb": "assets/easter/nest_coloredeggs-350.webp"
       },
       {
         "key": "painted_eastereggs",
-        "file": "assets/easter/painted_eastereggs.svg"
+        "file": "assets/easter/painted_eastereggs.svg",
+        "webp_large": "assets/easter/painted_eastereggs-1200.webp",
+        "webp_thumb": "assets/easter/painted_eastereggs-350.webp"
       },
       {
         "key": "picnic_easter",
-        "file": "assets/easter/picnic_easter.svg"
+        "file": "assets/easter/picnic_easter.svg",
+        "webp_large": "assets/easter/picnic_easter-1200.webp",
+        "webp_thumb": "assets/easter/picnic_easter-350.webp"
       }
     ]
   },
@@ -560,103 +828,153 @@
     "items": [
       {
         "key": "carriage_two_horses",
-        "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg"
+        "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg",
+        "webp_large": "assets/fantasy_fairy_tales/carriage_two_horses-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/carriage_two_horses-350.webp"
       },
       {
         "key": "dwarf_mining_gems",
-        "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg"
+        "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg",
+        "webp_large": "assets/fantasy_fairy_tales/dwarf_mining_gems-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/dwarf_mining_gems-350.webp"
       },
       {
         "key": "griffin_wings_spread",
-        "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg"
+        "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg",
+        "webp_large": "assets/fantasy_fairy_tales/griffin_wings_spread-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/griffin_wings_spread-350.webp"
       },
       {
         "key": "king_crown_cape",
-        "file": "assets/fantasy_fairy_tales/king_crown_cape.svg"
+        "file": "assets/fantasy_fairy_tales/king_crown_cape.svg",
+        "webp_large": "assets/fantasy_fairy_tales/king_crown_cape-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/king_crown_cape-350.webp"
       },
       {
         "key": "magic_mirror_stars",
-        "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg"
+        "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg",
+        "webp_large": "assets/fantasy_fairy_tales/magic_mirror_stars-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/magic_mirror_stars-350.webp"
       },
       {
         "key": "phoenix_embers",
-        "file": "assets/fantasy_fairy_tales/phoenix_embers.svg"
+        "file": "assets/fantasy_fairy_tales/phoenix_embers.svg",
+        "webp_large": "assets/fantasy_fairy_tales/phoenix_embers-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/phoenix_embers-350.webp"
       },
       {
         "key": "sorceress_staff_crystal",
-        "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg"
+        "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg",
+        "webp_large": "assets/fantasy_fairy_tales/sorceress_staff_crystal-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/sorceress_staff_crystal-350.webp"
       },
       {
         "key": "troll_stone_bridge",
-        "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg"
+        "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg",
+        "webp_large": "assets/fantasy_fairy_tales/troll_stone_bridge-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/troll_stone_bridge-350.webp"
       },
       {
         "key": "castle_hill",
-        "file": "assets/fantasy_fairy_tales/castle_hill.svg"
+        "file": "assets/fantasy_fairy_tales/castle_hill.svg",
+        "webp_large": "assets/fantasy_fairy_tales/castle_hill-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/castle_hill-350.webp"
       },
       {
         "key": "dragon_fire",
-        "file": "assets/fantasy_fairy_tales/dragon_fire.svg"
+        "file": "assets/fantasy_fairy_tales/dragon_fire.svg",
+        "webp_large": "assets/fantasy_fairy_tales/dragon_fire-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/dragon_fire-350.webp"
       },
       {
         "key": "fairy_wings",
-        "file": "assets/fantasy_fairy_tales/fairy_wings.svg"
+        "file": "assets/fantasy_fairy_tales/fairy_wings.svg",
+        "webp_large": "assets/fantasy_fairy_tales/fairy_wings-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/fairy_wings-350.webp"
       },
       {
         "key": "frogprince_crown",
-        "file": "assets/fantasy_fairy_tales/frogprince_crown.svg"
+        "file": "assets/fantasy_fairy_tales/frogprince_crown.svg",
+        "webp_large": "assets/fantasy_fairy_tales/frogprince_crown-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/frogprince_crown-350.webp"
       },
       {
         "key": "giant_club",
-        "file": "assets/fantasy_fairy_tales/giant_club.svg"
+        "file": "assets/fantasy_fairy_tales/giant_club.svg",
+        "webp_large": "assets/fantasy_fairy_tales/giant_club-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/giant_club-350.webp"
       },
       {
         "key": "knight_armor",
-        "file": "assets/fantasy_fairy_tales/knight_armor.svg"
+        "file": "assets/fantasy_fairy_tales/knight_armor.svg",
+        "webp_large": "assets/fantasy_fairy_tales/knight_armor-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/knight_armor-350.webp"
       },
       {
         "key": "magiclamp_smoke",
-        "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg"
+        "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg",
+        "webp_large": "assets/fantasy_fairy_tales/magiclamp_smoke-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/magiclamp_smoke-350.webp"
       },
       {
         "key": "mermaid_fish",
-        "file": "assets/fantasy_fairy_tales/mermaid_fish.svg"
+        "file": "assets/fantasy_fairy_tales/mermaid_fish.svg",
+        "webp_large": "assets/fantasy_fairy_tales/mermaid_fish-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/mermaid_fish-350.webp"
       },
       {
         "key": "princess_castle",
-        "file": "assets/fantasy_fairy_tales/princess_castle.svg"
+        "file": "assets/fantasy_fairy_tales/princess_castle.svg",
+        "webp_large": "assets/fantasy_fairy_tales/princess_castle-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/princess_castle-350.webp"
       },
       {
         "key": "treasure_gold",
-        "file": "assets/fantasy_fairy_tales/treasure_gold.svg"
+        "file": "assets/fantasy_fairy_tales/treasure_gold.svg",
+        "webp_large": "assets/fantasy_fairy_tales/treasure_gold-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/treasure_gold-350.webp"
       },
       {
         "key": "unicorn_rainbow",
-        "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg"
+        "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg",
+        "webp_large": "assets/fantasy_fairy_tales/unicorn_rainbow-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/unicorn_rainbow-350.webp"
       },
       {
         "key": "wizard_spell",
-        "file": "assets/fantasy_fairy_tales/wizard_spell.svg"
+        "file": "assets/fantasy_fairy_tales/wizard_spell.svg",
+        "webp_large": "assets/fantasy_fairy_tales/wizard_spell-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/wizard_spell-350.webp"
       },
       {
         "key": "castle_gate_towers",
-        "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg"
+        "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg",
+        "webp_large": "assets/fantasy_fairy_tales/castle_gate_towers-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/castle_gate_towers-350.webp"
       },
       {
         "key": "dragon_guarding_treasure",
-        "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg"
+        "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg",
+        "webp_large": "assets/fantasy_fairy_tales/dragon_guarding_treasure-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/dragon_guarding_treasure-350.webp"
       },
       {
         "key": "fairy_godmother_wand",
-        "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg"
+        "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg",
+        "webp_large": "assets/fantasy_fairy_tales/fairy_godmother_wand-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/fairy_godmother_wand-350.webp"
       },
       {
         "key": "knight_riding_horse",
-        "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg"
+        "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg",
+        "webp_large": "assets/fantasy_fairy_tales/knight_riding_horse-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/knight_riding_horse-350.webp"
       },
       {
         "key": "queen_gown_scepter",
-        "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg"
+        "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg",
+        "webp_large": "assets/fantasy_fairy_tales/queen_gown_scepter-1200.webp",
+        "webp_thumb": "assets/fantasy_fairy_tales/queen_gown_scepter-350.webp"
       }
     ]
   },
@@ -664,99 +982,147 @@
     "items": [
       {
         "key": "bat_cookie",
-        "file": "assets/halloween/bat_cookie.svg"
+        "file": "assets/halloween/bat_cookie.svg",
+        "webp_large": "assets/halloween/bat_cookie-1200.webp",
+        "webp_thumb": "assets/halloween/bat_cookie-350.webp"
       },
       {
         "key": "bat_moon",
-        "file": "assets/halloween/bat_moon.svg"
+        "file": "assets/halloween/bat_moon.svg",
+        "webp_large": "assets/halloween/bat_moon-1200.webp",
+        "webp_thumb": "assets/halloween/bat_moon-350.webp"
       },
       {
         "key": "blackcat_witchhat",
-        "file": "assets/halloween/blackcat_witchhat.svg"
+        "file": "assets/halloween/blackcat_witchhat.svg",
+        "webp_large": "assets/halloween/blackcat_witchhat-1200.webp",
+        "webp_thumb": "assets/halloween/blackcat_witchhat-350.webp"
       },
       {
         "key": "broom_pumpkin",
-        "file": "assets/halloween/broom_pumpkin.svg"
+        "file": "assets/halloween/broom_pumpkin.svg",
+        "webp_large": "assets/halloween/broom_pumpkin-1200.webp",
+        "webp_thumb": "assets/halloween/broom_pumpkin-350.webp"
       },
       {
         "key": "candybucket_sweets",
-        "file": "assets/halloween/candybucket_sweets.svg"
+        "file": "assets/halloween/candybucket_sweets.svg",
+        "webp_large": "assets/halloween/candybucket_sweets-1200.webp",
+        "webp_thumb": "assets/halloween/candybucket_sweets-350.webp"
       },
       {
         "key": "cauldron_bubbles",
-        "file": "assets/halloween/cauldron_bubbles.svg"
+        "file": "assets/halloween/cauldron_bubbles.svg",
+        "webp_large": "assets/halloween/cauldron_bubbles-1200.webp",
+        "webp_thumb": "assets/halloween/cauldron_bubbles-350.webp"
       },
       {
         "key": "ghost_candy",
-        "file": "assets/halloween/ghost_candy.svg"
+        "file": "assets/halloween/ghost_candy.svg",
+        "webp_large": "assets/halloween/ghost_candy-1200.webp",
+        "webp_thumb": "assets/halloween/ghost_candy-350.webp"
       },
       {
         "key": "ghost_graveyard",
-        "file": "assets/halloween/ghost_graveyard.svg"
+        "file": "assets/halloween/ghost_graveyard.svg",
+        "webp_large": "assets/halloween/ghost_graveyard-1200.webp",
+        "webp_thumb": "assets/halloween/ghost_graveyard-350.webp"
       },
       {
         "key": "gravestone_rip",
-        "file": "assets/halloween/gravestone_rip.svg"
+        "file": "assets/halloween/gravestone_rip.svg",
+        "webp_large": "assets/halloween/gravestone_rip-1200.webp",
+        "webp_thumb": "assets/halloween/gravestone_rip-350.webp"
       },
       {
         "key": "hauntedhouse_bats",
-        "file": "assets/halloween/hauntedhouse_bats.svg"
+        "file": "assets/halloween/hauntedhouse_bats.svg",
+        "webp_large": "assets/halloween/hauntedhouse_bats-1200.webp",
+        "webp_thumb": "assets/halloween/hauntedhouse_bats-350.webp"
       },
       {
         "key": "jackolantern_smile",
-        "file": "assets/halloween/jackolantern_smile.svg"
+        "file": "assets/halloween/jackolantern_smile.svg",
+        "webp_large": "assets/halloween/jackolantern_smile-1200.webp",
+        "webp_thumb": "assets/halloween/jackolantern_smile-350.webp"
       },
       {
         "key": "magicwand_sparkles",
-        "file": "assets/halloween/magicwand_sparkles.svg"
+        "file": "assets/halloween/magicwand_sparkles.svg",
+        "webp_large": "assets/halloween/magicwand_sparkles-1200.webp",
+        "webp_thumb": "assets/halloween/magicwand_sparkles-350.webp"
       },
       {
         "key": "moon_stars",
-        "file": "assets/halloween/moon_stars.svg"
+        "file": "assets/halloween/moon_stars.svg",
+        "webp_large": "assets/halloween/moon_stars-1200.webp",
+        "webp_thumb": "assets/halloween/moon_stars-350.webp"
       },
       {
         "key": "mummy_bandages",
-        "file": "assets/halloween/mummy_bandages.svg"
+        "file": "assets/halloween/mummy_bandages.svg",
+        "webp_large": "assets/halloween/mummy_bandages-1200.webp",
+        "webp_thumb": "assets/halloween/mummy_bandages-350.webp"
       },
       {
         "key": "pumpkin_carriage",
-        "file": "assets/halloween/pumpkin_carriage.svg"
+        "file": "assets/halloween/pumpkin_carriage.svg",
+        "webp_large": "assets/halloween/pumpkin_carriage-1200.webp",
+        "webp_thumb": "assets/halloween/pumpkin_carriage-350.webp"
       },
       {
         "key": "scarecrow_pumpkinfield",
-        "file": "assets/halloween/scarecrow_pumpkinfield.svg"
+        "file": "assets/halloween/scarecrow_pumpkinfield.svg",
+        "webp_large": "assets/halloween/scarecrow_pumpkinfield-1200.webp",
+        "webp_thumb": "assets/halloween/scarecrow_pumpkinfield-350.webp"
       },
       {
         "key": "skeleton_dance",
-        "file": "assets/halloween/skeleton_dance.svg"
+        "file": "assets/halloween/skeleton_dance.svg",
+        "webp_large": "assets/halloween/skeleton_dance-1200.webp",
+        "webp_thumb": "assets/halloween/skeleton_dance-350.webp"
       },
       {
         "key": "spellbook_magic",
-        "file": "assets/halloween/spellbook_magic.svg"
+        "file": "assets/halloween/spellbook_magic.svg",
+        "webp_large": "assets/halloween/spellbook_magic-1200.webp",
+        "webp_thumb": "assets/halloween/spellbook_magic-350.webp"
       },
       {
         "key": "spider_web",
-        "file": "assets/halloween/spider_web.svg"
+        "file": "assets/halloween/spider_web.svg",
+        "webp_large": "assets/halloween/spider_web-1200.webp",
+        "webp_thumb": "assets/halloween/spider_web-350.webp"
       },
       {
         "key": "trickortreat_bag",
-        "file": "assets/halloween/trickortreat_bag.svg"
+        "file": "assets/halloween/trickortreat_bag.svg",
+        "webp_large": "assets/halloween/trickortreat_bag-1200.webp",
+        "webp_thumb": "assets/halloween/trickortreat_bag-350.webp"
       },
       {
         "key": "vampire_smile",
-        "file": "assets/halloween/vampire_smile.svg"
+        "file": "assets/halloween/vampire_smile.svg",
+        "webp_large": "assets/halloween/vampire_smile-1200.webp",
+        "webp_thumb": "assets/halloween/vampire_smile-350.webp"
       },
       {
         "key": "werewolf_moon",
-        "file": "assets/halloween/werewolf_moon.svg"
+        "file": "assets/halloween/werewolf_moon.svg",
+        "webp_large": "assets/halloween/werewolf_moon-1200.webp",
+        "webp_thumb": "assets/halloween/werewolf_moon-350.webp"
       },
       {
         "key": "witch_broomstick",
-        "file": "assets/halloween/witch_broomstick.svg"
+        "file": "assets/halloween/witch_broomstick.svg",
+        "webp_large": "assets/halloween/witch_broomstick-1200.webp",
+        "webp_thumb": "assets/halloween/witch_broomstick-350.webp"
       },
       {
         "key": "witchhat_buckle",
-        "file": "assets/halloween/witchhat_buckle.svg"
+        "file": "assets/halloween/witchhat_buckle.svg",
+        "webp_large": "assets/halloween/witchhat_buckle-1200.webp",
+        "webp_thumb": "assets/halloween/witchhat_buckle-350.webp"
       }
     ]
   },
@@ -764,103 +1130,153 @@
     "items": [
       {
         "key": "astronaut_space",
-        "file": "assets/professions/astronaut_space.svg"
+        "file": "assets/professions/astronaut_space.svg",
+        "webp_large": "assets/professions/astronaut_space-1200.webp",
+        "webp_thumb": "assets/professions/astronaut_space-350.webp"
       },
       {
         "key": "baker_cupcakes",
-        "file": "assets/professions/baker_cupcakes.svg"
+        "file": "assets/professions/baker_cupcakes.svg",
+        "webp_large": "assets/professions/baker_cupcakes-1200.webp",
+        "webp_thumb": "assets/professions/baker_cupcakes-350.webp"
       },
       {
         "key": "basketball_player",
-        "file": "assets/professions/basketball_player.svg"
+        "file": "assets/professions/basketball_player.svg",
+        "webp_large": "assets/professions/basketball_player-1200.webp",
+        "webp_thumb": "assets/professions/basketball_player-350.webp"
       },
       {
         "key": "chef_cooking",
-        "file": "assets/professions/chef_cooking.svg"
+        "file": "assets/professions/chef_cooking.svg",
+        "webp_large": "assets/professions/chef_cooking-1200.webp",
+        "webp_thumb": "assets/professions/chef_cooking-350.webp"
       },
       {
         "key": "clown_juggling",
-        "file": "assets/professions/clown_juggling.svg"
+        "file": "assets/professions/clown_juggling.svg",
+        "webp_large": "assets/professions/clown_juggling-1200.webp",
+        "webp_thumb": "assets/professions/clown_juggling-350.webp"
       },
       {
         "key": "construction_hammer",
-        "file": "assets/professions/construction_hammer.svg"
+        "file": "assets/professions/construction_hammer.svg",
+        "webp_large": "assets/professions/construction_hammer-1200.webp",
+        "webp_thumb": "assets/professions/construction_hammer-350.webp"
       },
       {
         "key": "dancer_ballet",
-        "file": "assets/professions/dancer_ballet.svg"
+        "file": "assets/professions/dancer_ballet.svg",
+        "webp_large": "assets/professions/dancer_ballet-1200.webp",
+        "webp_thumb": "assets/professions/dancer_ballet-350.webp"
       },
       {
         "key": "doctor_stethoscope",
-        "file": "assets/professions/doctor_stethoscope.svg"
+        "file": "assets/professions/doctor_stethoscope.svg",
+        "webp_large": "assets/professions/doctor_stethoscope-1200.webp",
+        "webp_thumb": "assets/professions/doctor_stethoscope-350.webp"
       },
       {
         "key": "farmer_pitchfork",
-        "file": "assets/professions/farmer_pitchfork.svg"
+        "file": "assets/professions/farmer_pitchfork.svg",
+        "webp_large": "assets/professions/farmer_pitchfork-1200.webp",
+        "webp_thumb": "assets/professions/farmer_pitchfork-350.webp"
       },
       {
         "key": "firefighter_hose",
-        "file": "assets/professions/firefighter_hose.svg"
+        "file": "assets/professions/firefighter_hose.svg",
+        "webp_large": "assets/professions/firefighter_hose-1200.webp",
+        "webp_thumb": "assets/professions/firefighter_hose-350.webp"
       },
       {
         "key": "lifeguard_buoy",
-        "file": "assets/professions/lifeguard_buoy.svg"
+        "file": "assets/professions/lifeguard_buoy.svg",
+        "webp_large": "assets/professions/lifeguard_buoy-1200.webp",
+        "webp_thumb": "assets/professions/lifeguard_buoy-350.webp"
       },
       {
         "key": "magician_rabbit",
-        "file": "assets/professions/magician_rabbit.svg"
+        "file": "assets/professions/magician_rabbit.svg",
+        "webp_large": "assets/professions/magician_rabbit-1200.webp",
+        "webp_thumb": "assets/professions/magician_rabbit-350.webp"
       },
       {
         "key": "mechanic_car",
-        "file": "assets/professions/mechanic_car.svg"
+        "file": "assets/professions/mechanic_car.svg",
+        "webp_large": "assets/professions/mechanic_car-1200.webp",
+        "webp_thumb": "assets/professions/mechanic_car-350.webp"
       },
       {
         "key": "nurse_clipboard",
-        "file": "assets/professions/nurse_clipboard.svg"
+        "file": "assets/professions/nurse_clipboard.svg",
+        "webp_large": "assets/professions/nurse_clipboard-1200.webp",
+        "webp_thumb": "assets/professions/nurse_clipboard-350.webp"
       },
       {
         "key": "painter_palette",
-        "file": "assets/professions/painter_palette.svg"
+        "file": "assets/professions/painter_palette.svg",
+        "webp_large": "assets/professions/painter_palette-1200.webp",
+        "webp_thumb": "assets/professions/painter_palette-350.webp"
       },
       {
         "key": "photographer_camera",
-        "file": "assets/professions/photographer_camera.svg"
+        "file": "assets/professions/photographer_camera.svg",
+        "webp_large": "assets/professions/photographer_camera-1200.webp",
+        "webp_thumb": "assets/professions/photographer_camera-350.webp"
       },
       {
         "key": "pilot_cockpit",
-        "file": "assets/professions/pilot_cockpit.svg"
+        "file": "assets/professions/pilot_cockpit.svg",
+        "webp_large": "assets/professions/pilot_cockpit-1200.webp",
+        "webp_thumb": "assets/professions/pilot_cockpit-350.webp"
       },
       {
         "key": "police_officer_wave",
-        "file": "assets/professions/police_officer_wave.svg"
+        "file": "assets/professions/police_officer_wave.svg",
+        "webp_large": "assets/professions/police_officer_wave-1200.webp",
+        "webp_thumb": "assets/professions/police_officer_wave-350.webp"
       },
       {
         "key": "sailor_ship",
-        "file": "assets/professions/sailor_ship.svg"
+        "file": "assets/professions/sailor_ship.svg",
+        "webp_large": "assets/professions/sailor_ship-1200.webp",
+        "webp_thumb": "assets/professions/sailor_ship-350.webp"
       },
       {
         "key": "scientist_microscope",
-        "file": "assets/professions/scientist_microscope.svg"
+        "file": "assets/professions/scientist_microscope.svg",
+        "webp_large": "assets/professions/scientist_microscope-1200.webp",
+        "webp_thumb": "assets/professions/scientist_microscope-350.webp"
       },
       {
         "key": "singer_microphone",
-        "file": "assets/professions/singer_microphone.svg"
+        "file": "assets/professions/singer_microphone.svg",
+        "webp_large": "assets/professions/singer_microphone-1200.webp",
+        "webp_thumb": "assets/professions/singer_microphone-350.webp"
       },
       {
         "key": "soccer_player",
-        "file": "assets/professions/soccer_player.svg"
+        "file": "assets/professions/soccer_player.svg",
+        "webp_large": "assets/professions/soccer_player-1200.webp",
+        "webp_thumb": "assets/professions/soccer_player-350.webp"
       },
       {
         "key": "teacher_chalkboard",
-        "file": "assets/professions/teacher_chalkboard.svg"
+        "file": "assets/professions/teacher_chalkboard.svg",
+        "webp_large": "assets/professions/teacher_chalkboard-1200.webp",
+        "webp_thumb": "assets/professions/teacher_chalkboard-350.webp"
       },
       {
         "key": "train_conductor_flag",
-        "file": "assets/professions/train_conductor_flag.svg"
+        "file": "assets/professions/train_conductor_flag.svg",
+        "webp_large": "assets/professions/train_conductor_flag-1200.webp",
+        "webp_thumb": "assets/professions/train_conductor_flag-350.webp"
       },
       {
         "key": "veterinarian_puppy",
-        "file": "assets/professions/veterinarian_puppy.svg"
+        "file": "assets/professions/veterinarian_puppy.svg",
+        "webp_large": "assets/professions/veterinarian_puppy-1200.webp",
+        "webp_thumb": "assets/professions/veterinarian_puppy-350.webp"
       }
     ]
   },
@@ -868,103 +1284,153 @@
     "items": [
       {
         "key": "acrobat_trapeze",
-        "file": "assets/circus_carnival/acrobat_trapeze.svg"
+        "file": "assets/circus_carnival/acrobat_trapeze.svg",
+        "webp_large": "assets/circus_carnival/acrobat_trapeze-1200.webp",
+        "webp_thumb": "assets/circus_carnival/acrobat_trapeze-350.webp"
       },
       {
         "key": "carousel_horse_decor",
-        "file": "assets/circus_carnival/carousel_horse_decor.svg"
+        "file": "assets/circus_carnival/carousel_horse_decor.svg",
+        "webp_large": "assets/circus_carnival/carousel_horse_decor-1200.webp",
+        "webp_thumb": "assets/circus_carnival/carousel_horse_decor-350.webp"
       },
       {
         "key": "circus_tent_flags",
-        "file": "assets/circus_carnival/circus_tent_flags.svg"
+        "file": "assets/circus_carnival/circus_tent_flags.svg",
+        "webp_large": "assets/circus_carnival/circus_tent_flags-1200.webp",
+        "webp_thumb": "assets/circus_carnival/circus_tent_flags-350.webp"
       },
       {
         "key": "clown_car_tiny",
-        "file": "assets/circus_carnival/clown_car_tiny.svg"
+        "file": "assets/circus_carnival/clown_car_tiny.svg",
+        "webp_large": "assets/circus_carnival/clown_car_tiny-1200.webp",
+        "webp_thumb": "assets/circus_carnival/clown_car_tiny-350.webp"
       },
       {
         "key": "clown_juggling_balls",
-        "file": "assets/circus_carnival/clown_juggling_balls.svg"
+        "file": "assets/circus_carnival/clown_juggling_balls.svg",
+        "webp_large": "assets/circus_carnival/clown_juggling_balls-1200.webp",
+        "webp_thumb": "assets/circus_carnival/clown_juggling_balls-350.webp"
       },
       {
         "key": "cotton_candy_cart",
-        "file": "assets/circus_carnival/cotton_candy_cart.svg"
+        "file": "assets/circus_carnival/cotton_candy_cart.svg",
+        "webp_large": "assets/circus_carnival/cotton_candy_cart-1200.webp",
+        "webp_thumb": "assets/circus_carnival/cotton_candy_cart-350.webp"
       },
       {
         "key": "dunk_tank_target",
-        "file": "assets/circus_carnival/dunk_tank_target.svg"
+        "file": "assets/circus_carnival/dunk_tank_target.svg",
+        "webp_large": "assets/circus_carnival/dunk_tank_target-1200.webp",
+        "webp_thumb": "assets/circus_carnival/dunk_tank_target-350.webp"
       },
       {
         "key": "elephant_balance_ball",
-        "file": "assets/circus_carnival/elephant_balance_ball.svg"
+        "file": "assets/circus_carnival/elephant_balance_ball.svg",
+        "webp_large": "assets/circus_carnival/elephant_balance_ball-1200.webp",
+        "webp_thumb": "assets/circus_carnival/elephant_balance_ball-350.webp"
       },
       {
         "key": "face_painting_station",
-        "file": "assets/circus_carnival/face_painting_station.svg"
+        "file": "assets/circus_carnival/face_painting_station.svg",
+        "webp_large": "assets/circus_carnival/face_painting_station-1200.webp",
+        "webp_thumb": "assets/circus_carnival/face_painting_station-350.webp"
       },
       {
         "key": "ferris_wheel_cabins",
-        "file": "assets/circus_carnival/ferris_wheel_cabins.svg"
+        "file": "assets/circus_carnival/ferris_wheel_cabins.svg",
+        "webp_large": "assets/circus_carnival/ferris_wheel_cabins-1200.webp",
+        "webp_thumb": "assets/circus_carnival/ferris_wheel_cabins-350.webp"
       },
       {
         "key": "fire_breather_perform",
-        "file": "assets/circus_carnival/fire_breather_perform.svg"
+        "file": "assets/circus_carnival/fire_breather_perform.svg",
+        "webp_large": "assets/circus_carnival/fire_breather_perform-1200.webp",
+        "webp_thumb": "assets/circus_carnival/fire_breather_perform-350.webp"
       },
       {
         "key": "game_booth_prizes",
-        "file": "assets/circus_carnival/game_booth_prizes.svg"
+        "file": "assets/circus_carnival/game_booth_prizes.svg",
+        "webp_large": "assets/circus_carnival/game_booth_prizes-1200.webp",
+        "webp_thumb": "assets/circus_carnival/game_booth_prizes-350.webp"
       },
       {
         "key": "juggler_clubs",
-        "file": "assets/circus_carnival/juggler_clubs.svg"
+        "file": "assets/circus_carnival/juggler_clubs.svg",
+        "webp_large": "assets/circus_carnival/juggler_clubs-1200.webp",
+        "webp_thumb": "assets/circus_carnival/juggler_clubs-350.webp"
       },
       {
         "key": "magician_rabbit_hat",
-        "file": "assets/circus_carnival/magician_rabbit_hat.svg"
+        "file": "assets/circus_carnival/magician_rabbit_hat.svg",
+        "webp_large": "assets/circus_carnival/magician_rabbit_hat-1200.webp",
+        "webp_thumb": "assets/circus_carnival/magician_rabbit_hat-350.webp"
       },
       {
         "key": "merry_go_round_lights",
-        "file": "assets/circus_carnival/merry_go_round_lights.svg"
+        "file": "assets/circus_carnival/merry_go_round_lights.svg",
+        "webp_large": "assets/circus_carnival/merry_go_round_lights-1200.webp",
+        "webp_thumb": "assets/circus_carnival/merry_go_round_lights-350.webp"
       },
       {
         "key": "mime_push_wall",
-        "file": "assets/circus_carnival/mime_push_wall.svg"
+        "file": "assets/circus_carnival/mime_push_wall.svg",
+        "webp_large": "assets/circus_carnival/mime_push_wall-1200.webp",
+        "webp_thumb": "assets/circus_carnival/mime_push_wall-350.webp"
       },
       {
         "key": "parade_balloons",
-        "file": "assets/circus_carnival/parade_balloons.svg"
+        "file": "assets/circus_carnival/parade_balloons.svg",
+        "webp_large": "assets/circus_carnival/parade_balloons-1200.webp",
+        "webp_thumb": "assets/circus_carnival/parade_balloons-350.webp"
       },
       {
         "key": "popcorn_stand_fair",
-        "file": "assets/circus_carnival/popcorn_stand_fair.svg"
+        "file": "assets/circus_carnival/popcorn_stand_fair.svg",
+        "webp_large": "assets/circus_carnival/popcorn_stand_fair-1200.webp",
+        "webp_thumb": "assets/circus_carnival/popcorn_stand_fair-350.webp"
       },
       {
         "key": "ring_of_fire_show",
-        "file": "assets/circus_carnival/ring_of_fire_show.svg"
+        "file": "assets/circus_carnival/ring_of_fire_show.svg",
+        "webp_large": "assets/circus_carnival/ring_of_fire_show-1200.webp",
+        "webp_thumb": "assets/circus_carnival/ring_of_fire_show-350.webp"
       },
       {
         "key": "ringmaster_hat",
-        "file": "assets/circus_carnival/ringmaster_hat.svg"
+        "file": "assets/circus_carnival/ringmaster_hat.svg",
+        "webp_large": "assets/circus_carnival/ringmaster_hat-1200.webp",
+        "webp_thumb": "assets/circus_carnival/ringmaster_hat-350.webp"
       },
       {
         "key": "stilt_walker_tall",
-        "file": "assets/circus_carnival/stilt_walker_tall.svg"
+        "file": "assets/circus_carnival/stilt_walker_tall.svg",
+        "webp_large": "assets/circus_carnival/stilt_walker_tall-1200.webp",
+        "webp_thumb": "assets/circus_carnival/stilt_walker_tall-350.webp"
       },
       {
         "key": "strongman_barbell",
-        "file": "assets/circus_carnival/strongman_barbell.svg"
+        "file": "assets/circus_carnival/strongman_barbell.svg",
+        "webp_large": "assets/circus_carnival/strongman_barbell-1200.webp",
+        "webp_thumb": "assets/circus_carnival/strongman_barbell-350.webp"
       },
       {
         "key": "ticket_booth_sign",
-        "file": "assets/circus_carnival/ticket_booth_sign.svg"
+        "file": "assets/circus_carnival/ticket_booth_sign.svg",
+        "webp_large": "assets/circus_carnival/ticket_booth_sign-1200.webp",
+        "webp_thumb": "assets/circus_carnival/ticket_booth_sign-350.webp"
       },
       {
         "key": "tightrope_walker_pole",
-        "file": "assets/circus_carnival/tightrope_walker_pole.svg"
+        "file": "assets/circus_carnival/tightrope_walker_pole.svg",
+        "webp_large": "assets/circus_carnival/tightrope_walker_pole-1200.webp",
+        "webp_thumb": "assets/circus_carnival/tightrope_walker_pole-350.webp"
       },
       {
         "key": "unicyclist_balance",
-        "file": "assets/circus_carnival/unicyclist_balance.svg"
+        "file": "assets/circus_carnival/unicyclist_balance.svg",
+        "webp_large": "assets/circus_carnival/unicyclist_balance-1200.webp",
+        "webp_thumb": "assets/circus_carnival/unicyclist_balance-350.webp"
       }
     ]
   },
@@ -972,103 +1438,153 @@
     "items": [
       {
         "key": "ankylosaurus_club_tail",
-        "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg"
+        "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail-350.webp"
       },
       {
         "key": "archaeopteryx_feathers",
-        "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg"
+        "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/archaeopteryx_feathers-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/archaeopteryx_feathers-350.webp"
       },
       {
         "key": "brachiosaurus_eating_leaves",
-        "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg"
+        "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves-350.webp"
       },
       {
         "key": "carnotaurus_horns",
-        "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg"
+        "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/carnotaurus_horns-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/carnotaurus_horns-350.webp"
       },
       {
         "key": "compsognathus_bug",
-        "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg"
+        "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/compsognathus_bug-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/compsognathus_bug-350.webp"
       },
       {
         "key": "dimetrodon_sail",
-        "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg"
+        "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/dimetrodon_sail-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/dimetrodon_sail-350.webp"
       },
       {
         "key": "diplodocus_long_neck",
-        "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg"
+        "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/diplodocus_long_neck-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/diplodocus_long_neck-350.webp"
       },
       {
         "key": "gallimimus_sprint",
-        "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg"
+        "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/gallimimus_sprint-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/gallimimus_sprint-350.webp"
       },
       {
         "key": "iguanodon_thumb_spikes",
-        "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg"
+        "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes-350.webp"
       },
       {
         "key": "kentrosaurus_tail_spikes",
-        "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg"
+        "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes-350.webp"
       },
       {
         "key": "microraptor_glide",
-        "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg"
+        "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/microraptor_glide-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/microraptor_glide-350.webp"
       },
       {
         "key": "mosasaurus_swimming",
-        "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg"
+        "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/mosasaurus_swimming-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/mosasaurus_swimming-350.webp"
       },
       {
         "key": "oviraptor_eggs",
-        "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg"
+        "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/oviraptor_eggs-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/oviraptor_eggs-350.webp"
       },
       {
         "key": "pachycephalosaurus_dome_head",
-        "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg"
+        "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head-350.webp"
       },
       {
         "key": "parasaurolophus_crest",
-        "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg"
+        "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/parasaurolophus_crest-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/parasaurolophus_crest-350.webp"
       },
       {
         "key": "plesiosaur_long_neck",
-        "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg"
+        "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/plesiosaur_long_neck-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/plesiosaur_long_neck-350.webp"
       },
       {
         "key": "protoceratops_nest",
-        "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg"
+        "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/protoceratops_nest-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/protoceratops_nest-350.webp"
       },
       {
         "key": "pteranodon_perched",
-        "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg"
+        "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/pteranodon_perched-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/pteranodon_perched-350.webp"
       },
       {
         "key": "pterodactyl_gliding",
-        "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg"
+        "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/pterodactyl_gliding-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/pterodactyl_gliding-350.webp"
       },
       {
         "key": "spinosaurus_river",
-        "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg"
+        "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/spinosaurus_river-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/spinosaurus_river-350.webp"
       },
       {
         "key": "stegosaurus_spiky_plates",
-        "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg"
+        "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates-350.webp"
       },
       {
         "key": "styracosaurus_long_horns",
-        "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg"
+        "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/styracosaurus_long_horns-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/styracosaurus_long_horns-350.webp"
       },
       {
         "key": "trex_roar",
-        "file": "assets/dinosaurs_prehistoric/trex_roar.svg"
+        "file": "assets/dinosaurs_prehistoric/trex_roar.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/trex_roar-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/trex_roar-350.webp"
       },
       {
         "key": "triceratops_three_horns",
-        "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg"
+        "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/triceratops_three_horns-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/triceratops_three_horns-350.webp"
       },
       {
         "key": "velociraptor_running",
-        "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg"
+        "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg",
+        "webp_large": "assets/dinosaurs_prehistoric/velociraptor_running-1200.webp",
+        "webp_thumb": "assets/dinosaurs_prehistoric/velociraptor_running-350.webp"
       }
     ]
   },
@@ -1076,103 +1592,153 @@
     "items": [
       {
         "key": "banana_split_dessert",
-        "file": "assets/food_treats/banana_split_dessert.svg"
+        "file": "assets/food_treats/banana_split_dessert.svg",
+        "webp_large": "assets/food_treats/banana_split_dessert-1200.webp",
+        "webp_thumb": "assets/food_treats/banana_split_dessert-350.webp"
       },
       {
         "key": "birthday_cake_candles",
-        "file": "assets/food_treats/birthday_cake_candles.svg"
+        "file": "assets/food_treats/birthday_cake_candles.svg",
+        "webp_large": "assets/food_treats/birthday_cake_candles-1200.webp",
+        "webp_thumb": "assets/food_treats/birthday_cake_candles-350.webp"
       },
       {
         "key": "blueberry_muffin",
-        "file": "assets/food_treats/blueberry_muffin.svg"
+        "file": "assets/food_treats/blueberry_muffin.svg",
+        "webp_large": "assets/food_treats/blueberry_muffin-1200.webp",
+        "webp_thumb": "assets/food_treats/blueberry_muffin-350.webp"
       },
       {
         "key": "bowl_strawberries",
-        "file": "assets/food_treats/bowl_strawberries.svg"
+        "file": "assets/food_treats/bowl_strawberries.svg",
+        "webp_large": "assets/food_treats/bowl_strawberries-1200.webp",
+        "webp_thumb": "assets/food_treats/bowl_strawberries-350.webp"
       },
       {
         "key": "burger_fries_tray",
-        "file": "assets/food_treats/burger_fries_tray.svg"
+        "file": "assets/food_treats/burger_fries_tray.svg",
+        "webp_large": "assets/food_treats/burger_fries_tray-1200.webp",
+        "webp_thumb": "assets/food_treats/burger_fries_tray-350.webp"
       },
       {
         "key": "candy_cane_stripes",
-        "file": "assets/food_treats/candy_cane_stripes.svg"
+        "file": "assets/food_treats/candy_cane_stripes.svg",
+        "webp_large": "assets/food_treats/candy_cane_stripes-1200.webp",
+        "webp_thumb": "assets/food_treats/candy_cane_stripes-350.webp"
       },
       {
         "key": "cheese_wedge_crackers",
-        "file": "assets/food_treats/cheese_wedge_crackers.svg"
+        "file": "assets/food_treats/cheese_wedge_crackers.svg",
+        "webp_large": "assets/food_treats/cheese_wedge_crackers-1200.webp",
+        "webp_thumb": "assets/food_treats/cheese_wedge_crackers-350.webp"
       },
       {
         "key": "chocolate_bar_squares",
-        "file": "assets/food_treats/chocolate_bar_squares.svg"
+        "file": "assets/food_treats/chocolate_bar_squares.svg",
+        "webp_large": "assets/food_treats/chocolate_bar_squares-1200.webp",
+        "webp_thumb": "assets/food_treats/chocolate_bar_squares-350.webp"
       },
       {
         "key": "cupcake_fluffy_frosting",
-        "file": "assets/food_treats/cupcake_fluffy_frosting.svg"
+        "file": "assets/food_treats/cupcake_fluffy_frosting.svg",
+        "webp_large": "assets/food_treats/cupcake_fluffy_frosting-1200.webp",
+        "webp_thumb": "assets/food_treats/cupcake_fluffy_frosting-350.webp"
       },
       {
         "key": "donut_chocolate_glaze",
-        "file": "assets/food_treats/donut_chocolate_glaze.svg"
+        "file": "assets/food_treats/donut_chocolate_glaze.svg",
+        "webp_large": "assets/food_treats/donut_chocolate_glaze-1200.webp",
+        "webp_thumb": "assets/food_treats/donut_chocolate_glaze-350.webp"
       },
       {
         "key": "grapes_purple_bunch",
-        "file": "assets/food_treats/grapes_purple_bunch.svg"
+        "file": "assets/food_treats/grapes_purple_bunch.svg",
+        "webp_large": "assets/food_treats/grapes_purple_bunch-1200.webp",
+        "webp_thumb": "assets/food_treats/grapes_purple_bunch-350.webp"
       },
       {
         "key": "hot_dog_mustard",
-        "file": "assets/food_treats/hot_dog_mustard.svg"
+        "file": "assets/food_treats/hot_dog_mustard.svg",
+        "webp_large": "assets/food_treats/hot_dog_mustard-1200.webp",
+        "webp_thumb": "assets/food_treats/hot_dog_mustard-350.webp"
       },
       {
         "key": "ice_cream_sprinkles",
-        "file": "assets/food_treats/ice_cream_sprinkles.svg"
+        "file": "assets/food_treats/ice_cream_sprinkles.svg",
+        "webp_large": "assets/food_treats/ice_cream_sprinkles-1200.webp",
+        "webp_thumb": "assets/food_treats/ice_cream_sprinkles-350.webp"
       },
       {
         "key": "lollipop_swirly",
-        "file": "assets/food_treats/lollipop_swirly.svg"
+        "file": "assets/food_treats/lollipop_swirly.svg",
+        "webp_large": "assets/food_treats/lollipop_swirly-1200.webp",
+        "webp_thumb": "assets/food_treats/lollipop_swirly-350.webp"
       },
       {
         "key": "milkshake_with_straw",
-        "file": "assets/food_treats/milkshake_with_straw.svg"
+        "file": "assets/food_treats/milkshake_with_straw.svg",
+        "webp_large": "assets/food_treats/milkshake_with_straw-1200.webp",
+        "webp_thumb": "assets/food_treats/milkshake_with_straw-350.webp"
       },
       {
         "key": "pancake_butter_plate",
-        "file": "assets/food_treats/pancake_butter_plate.svg"
+        "file": "assets/food_treats/pancake_butter_plate.svg",
+        "webp_large": "assets/food_treats/pancake_butter_plate-1200.webp",
+        "webp_thumb": "assets/food_treats/pancake_butter_plate-350.webp"
       },
       {
         "key": "pancakes_stack_syrup",
-        "file": "assets/food_treats/pancakes_stack_syrup.svg"
+        "file": "assets/food_treats/pancakes_stack_syrup.svg",
+        "webp_large": "assets/food_treats/pancakes_stack_syrup-1200.webp",
+        "webp_thumb": "assets/food_treats/pancakes_stack_syrup-350.webp"
       },
       {
         "key": "pizza_extra_cheese",
-        "file": "assets/food_treats/pizza_extra_cheese.svg"
+        "file": "assets/food_treats/pizza_extra_cheese.svg",
+        "webp_large": "assets/food_treats/pizza_extra_cheese-1200.webp",
+        "webp_thumb": "assets/food_treats/pizza_extra_cheese-350.webp"
       },
       {
         "key": "popcorn_bucket_kernels",
-        "file": "assets/food_treats/popcorn_bucket_kernels.svg"
+        "file": "assets/food_treats/popcorn_bucket_kernels.svg",
+        "webp_large": "assets/food_treats/popcorn_bucket_kernels-1200.webp",
+        "webp_thumb": "assets/food_treats/popcorn_bucket_kernels-350.webp"
       },
       {
         "key": "pretzel_salt_crystals",
-        "file": "assets/food_treats/pretzel_salt_crystals.svg"
+        "file": "assets/food_treats/pretzel_salt_crystals.svg",
+        "webp_large": "assets/food_treats/pretzel_salt_crystals-1200.webp",
+        "webp_thumb": "assets/food_treats/pretzel_salt_crystals-350.webp"
       },
       {
         "key": "salad_bowl_colorful",
-        "file": "assets/food_treats/salad_bowl_colorful.svg"
+        "file": "assets/food_treats/salad_bowl_colorful.svg",
+        "webp_large": "assets/food_treats/salad_bowl_colorful-1200.webp",
+        "webp_thumb": "assets/food_treats/salad_bowl_colorful-350.webp"
       },
       {
         "key": "sandwich_lettuce_tomato",
-        "file": "assets/food_treats/sandwich_lettuce_tomato.svg"
+        "file": "assets/food_treats/sandwich_lettuce_tomato.svg",
+        "webp_large": "assets/food_treats/sandwich_lettuce_tomato-1200.webp",
+        "webp_thumb": "assets/food_treats/sandwich_lettuce_tomato-350.webp"
       },
       {
         "key": "taco_tasty_toppings",
-        "file": "assets/food_treats/taco_tasty_toppings.svg"
+        "file": "assets/food_treats/taco_tasty_toppings.svg",
+        "webp_large": "assets/food_treats/taco_tasty_toppings-1200.webp",
+        "webp_thumb": "assets/food_treats/taco_tasty_toppings-350.webp"
       },
       {
         "key": "watermelon_juicy_slice",
-        "file": "assets/food_treats/watermelon_juicy_slice.svg"
+        "file": "assets/food_treats/watermelon_juicy_slice.svg",
+        "webp_large": "assets/food_treats/watermelon_juicy_slice-1200.webp",
+        "webp_thumb": "assets/food_treats/watermelon_juicy_slice-350.webp"
       },
       {
         "key": "cinnamon_roll_warm",
-        "file": "assets/food_treats/cinnamon_roll_warm.svg"
+        "file": "assets/food_treats/cinnamon_roll_warm.svg",
+        "webp_large": "assets/food_treats/cinnamon_roll_warm-1200.webp",
+        "webp_thumb": "assets/food_treats/cinnamon_roll_warm-350.webp"
       }
     ]
   },
@@ -1180,91 +1746,135 @@
     "items": [
       {
         "key": "autumn_leaves_tree",
-        "file": "assets/seasons_weather/autumn_leaves_tree.svg"
+        "file": "assets/seasons_weather/autumn_leaves_tree.svg",
+        "webp_large": "assets/seasons_weather/autumn_leaves_tree-1200.webp",
+        "webp_thumb": "assets/seasons_weather/autumn_leaves_tree-350.webp"
       },
       {
         "key": "beach_sun_umbrella",
-        "file": "assets/seasons_weather/beach_sun_umbrella.svg"
+        "file": "assets/seasons_weather/beach_sun_umbrella.svg",
+        "webp_large": "assets/seasons_weather/beach_sun_umbrella-1200.webp",
+        "webp_thumb": "assets/seasons_weather/beach_sun_umbrella-350.webp"
       },
       {
         "key": "blooming_cherry_tree",
-        "file": "assets/seasons_weather/blooming_cherry_tree.svg"
+        "file": "assets/seasons_weather/blooming_cherry_tree.svg",
+        "webp_large": "assets/seasons_weather/blooming_cherry_tree-1200.webp",
+        "webp_thumb": "assets/seasons_weather/blooming_cherry_tree-350.webp"
       },
       {
         "key": "cozy_cabin_winter",
-        "file": "assets/seasons_weather/cozy_cabin_winter.svg"
+        "file": "assets/seasons_weather/cozy_cabin_winter.svg",
+        "webp_large": "assets/seasons_weather/cozy_cabin_winter-1200.webp",
+        "webp_thumb": "assets/seasons_weather/cozy_cabin_winter-350.webp"
       },
       {
         "key": "kid_puddles_boots",
-        "file": "assets/seasons_weather/kid_puddles_boots.svg"
+        "file": "assets/seasons_weather/kid_puddles_boots.svg",
+        "webp_large": "assets/seasons_weather/kid_puddles_boots-1200.webp",
+        "webp_thumb": "assets/seasons_weather/kid_puddles_boots-350.webp"
       },
       {
         "key": "kite_breezy_day",
-        "file": "assets/seasons_weather/kite_breezy_day.svg"
+        "file": "assets/seasons_weather/kite_breezy_day.svg",
+        "webp_large": "assets/seasons_weather/kite_breezy_day-1200.webp",
+        "webp_thumb": "assets/seasons_weather/kite_breezy_day-350.webp"
       },
       {
         "key": "picnic_bright_sun",
-        "file": "assets/seasons_weather/picnic_bright_sun.svg"
+        "file": "assets/seasons_weather/picnic_bright_sun.svg",
+        "webp_large": "assets/seasons_weather/picnic_bright_sun-1200.webp",
+        "webp_thumb": "assets/seasons_weather/picnic_bright_sun-350.webp"
       },
       {
         "key": "pinwheel_spinning_wind",
-        "file": "assets/seasons_weather/pinwheel_spinning_wind.svg"
+        "file": "assets/seasons_weather/pinwheel_spinning_wind.svg",
+        "webp_large": "assets/seasons_weather/pinwheel_spinning_wind-1200.webp",
+        "webp_thumb": "assets/seasons_weather/pinwheel_spinning_wind-350.webp"
       },
       {
         "key": "rain_cloud_raindrops",
-        "file": "assets/seasons_weather/rain_cloud_raindrops.svg"
+        "file": "assets/seasons_weather/rain_cloud_raindrops.svg",
+        "webp_large": "assets/seasons_weather/rain_cloud_raindrops-1200.webp",
+        "webp_thumb": "assets/seasons_weather/rain_cloud_raindrops-350.webp"
       },
       {
         "key": "rainbow_after_rain",
-        "file": "assets/seasons_weather/rainbow_after_rain.svg"
+        "file": "assets/seasons_weather/rainbow_after_rain.svg",
+        "webp_large": "assets/seasons_weather/rainbow_after_rain-1200.webp",
+        "webp_thumb": "assets/seasons_weather/rainbow_after_rain-350.webp"
       },
       {
         "key": "rainy_day_umbrella",
-        "file": "assets/seasons_weather/rainy_day_umbrella.svg"
+        "file": "assets/seasons_weather/rainy_day_umbrella.svg",
+        "webp_large": "assets/seasons_weather/rainy_day_umbrella-1200.webp",
+        "webp_thumb": "assets/seasons_weather/rainy_day_umbrella-350.webp"
       },
       {
         "key": "scarecrow_fall_field",
-        "file": "assets/seasons_weather/scarecrow_fall_field.svg"
+        "file": "assets/seasons_weather/scarecrow_fall_field.svg",
+        "webp_large": "assets/seasons_weather/scarecrow_fall_field-1200.webp",
+        "webp_thumb": "assets/seasons_weather/scarecrow_fall_field-350.webp"
       },
       {
         "key": "sled_down_hill",
-        "file": "assets/seasons_weather/sled_down_hill.svg"
+        "file": "assets/seasons_weather/sled_down_hill.svg",
+        "webp_large": "assets/seasons_weather/sled_down_hill-1200.webp",
+        "webp_thumb": "assets/seasons_weather/sled_down_hill-350.webp"
       },
       {
         "key": "snow_pine_tree",
-        "file": "assets/seasons_weather/snow_pine_tree.svg"
+        "file": "assets/seasons_weather/snow_pine_tree.svg",
+        "webp_large": "assets/seasons_weather/snow_pine_tree-1200.webp",
+        "webp_thumb": "assets/seasons_weather/snow_pine_tree-350.webp"
       },
       {
         "key": "snowflake_pattern",
-        "file": "assets/seasons_weather/snowflake_pattern.svg"
+        "file": "assets/seasons_weather/snowflake_pattern.svg",
+        "webp_large": "assets/seasons_weather/snowflake_pattern-1200.webp",
+        "webp_thumb": "assets/seasons_weather/snowflake_pattern-350.webp"
       },
       {
         "key": "spring_butterfly_garden",
-        "file": "assets/seasons_weather/spring_butterfly_garden.svg"
+        "file": "assets/seasons_weather/spring_butterfly_garden.svg",
+        "webp_large": "assets/seasons_weather/spring_butterfly_garden-1200.webp",
+        "webp_thumb": "assets/seasons_weather/spring_butterfly_garden-350.webp"
       },
       {
         "key": "spring_meadow_flowers",
-        "file": "assets/seasons_weather/spring_meadow_flowers.svg"
+        "file": "assets/seasons_weather/spring_meadow_flowers.svg",
+        "webp_large": "assets/seasons_weather/spring_meadow_flowers-1200.webp",
+        "webp_thumb": "assets/seasons_weather/spring_meadow_flowers-350.webp"
       },
       {
         "key": "sunflower_bright_sun",
-        "file": "assets/seasons_weather/sunflower_bright_sun.svg"
+        "file": "assets/seasons_weather/sunflower_bright_sun.svg",
+        "webp_large": "assets/seasons_weather/sunflower_bright_sun-1200.webp",
+        "webp_thumb": "assets/seasons_weather/sunflower_bright_sun-350.webp"
       },
       {
         "key": "sunny_smiling_sun",
-        "file": "assets/seasons_weather/sunny_smiling_sun.svg"
+        "file": "assets/seasons_weather/sunny_smiling_sun.svg",
+        "webp_large": "assets/seasons_weather/sunny_smiling_sun-1200.webp",
+        "webp_thumb": "assets/seasons_weather/sunny_smiling_sun-350.webp"
       },
       {
         "key": "thermometer_hot_day",
-        "file": "assets/seasons_weather/thermometer_hot_day.svg"
+        "file": "assets/seasons_weather/thermometer_hot_day.svg",
+        "webp_large": "assets/seasons_weather/thermometer_hot_day-1200.webp",
+        "webp_thumb": "assets/seasons_weather/thermometer_hot_day-350.webp"
       },
       {
         "key": "thundercloud_lightning",
-        "file": "assets/seasons_weather/thundercloud_lightning.svg"
+        "file": "assets/seasons_weather/thundercloud_lightning.svg",
+        "webp_large": "assets/seasons_weather/thundercloud_lightning-1200.webp",
+        "webp_thumb": "assets/seasons_weather/thundercloud_lightning-350.webp"
       },
       {
         "key": "windy_day_trees",
-        "file": "assets/seasons_weather/windy_day_trees.svg"
+        "file": "assets/seasons_weather/windy_day_trees.svg",
+        "webp_large": "assets/seasons_weather/windy_day_trees-1200.webp",
+        "webp_thumb": "assets/seasons_weather/windy_day_trees-350.webp"
       }
     ]
   },
@@ -1272,103 +1882,153 @@
     "items": [
       {
         "key": "alien_wave_hello",
-        "file": "assets/space_science/alien_wave_hello.svg"
+        "file": "assets/space_science/alien_wave_hello.svg",
+        "webp_large": "assets/space_science/alien_wave_hello-1200.webp",
+        "webp_thumb": "assets/space_science/alien_wave_hello-350.webp"
       },
       {
         "key": "asteroid_floating",
-        "file": "assets/space_science/asteroid_floating.svg"
+        "file": "assets/space_science/asteroid_floating.svg",
+        "webp_large": "assets/space_science/asteroid_floating-1200.webp",
+        "webp_thumb": "assets/space_science/asteroid_floating-350.webp"
       },
       {
         "key": "astronaut_flag_moon",
-        "file": "assets/space_science/astronaut_flag_moon.svg"
+        "file": "assets/space_science/astronaut_flag_moon.svg",
+        "webp_large": "assets/space_science/astronaut_flag_moon-1200.webp",
+        "webp_thumb": "assets/space_science/astronaut_flag_moon-350.webp"
       },
       {
         "key": "astronaut_tether",
-        "file": "assets/space_science/astronaut_tether.svg"
+        "file": "assets/space_science/astronaut_tether.svg",
+        "webp_large": "assets/space_science/astronaut_tether-1200.webp",
+        "webp_thumb": "assets/space_science/astronaut_tether-350.webp"
       },
       {
         "key": "black_hole_swirls",
-        "file": "assets/space_science/black_hole_swirls.svg"
+        "file": "assets/space_science/black_hole_swirls.svg",
+        "webp_large": "assets/space_science/black_hole_swirls-1200.webp",
+        "webp_thumb": "assets/space_science/black_hole_swirls-350.webp"
       },
       {
         "key": "bright_star_shining",
-        "file": "assets/space_science/bright_star_shining.svg"
+        "file": "assets/space_science/bright_star_shining.svg",
+        "webp_large": "assets/space_science/bright_star_shining-1200.webp",
+        "webp_thumb": "assets/space_science/bright_star_shining-350.webp"
       },
       {
         "key": "capsule_parachute",
-        "file": "assets/space_science/capsule_parachute.svg"
+        "file": "assets/space_science/capsule_parachute.svg",
+        "webp_large": "assets/space_science/capsule_parachute-1200.webp",
+        "webp_thumb": "assets/space_science/capsule_parachute-350.webp"
       },
       {
         "key": "comet_streak",
-        "file": "assets/space_science/comet_streak.svg"
+        "file": "assets/space_science/comet_streak.svg",
+        "webp_large": "assets/space_science/comet_streak-1200.webp",
+        "webp_thumb": "assets/space_science/comet_streak-350.webp"
       },
       {
         "key": "constellation_kite",
-        "file": "assets/space_science/constellation_kite.svg"
+        "file": "assets/space_science/constellation_kite.svg",
+        "webp_large": "assets/space_science/constellation_kite-1200.webp",
+        "webp_thumb": "assets/space_science/constellation_kite-350.webp"
       },
       {
         "key": "mars_rover_wheels",
-        "file": "assets/space_science/mars_rover_wheels.svg"
+        "file": "assets/space_science/mars_rover_wheels.svg",
+        "webp_large": "assets/space_science/mars_rover_wheels-1200.webp",
+        "webp_thumb": "assets/space_science/mars_rover_wheels-350.webp"
       },
       {
         "key": "meteor_shower_mountains",
-        "file": "assets/space_science/meteor_shower_mountains.svg"
+        "file": "assets/space_science/meteor_shower_mountains.svg",
+        "webp_large": "assets/space_science/meteor_shower_mountains-1200.webp",
+        "webp_thumb": "assets/space_science/meteor_shower_mountains-350.webp"
       },
       {
         "key": "moon_craters_close",
-        "file": "assets/space_science/moon_craters_close.svg"
+        "file": "assets/space_science/moon_craters_close.svg",
+        "webp_large": "assets/space_science/moon_craters_close-1200.webp",
+        "webp_thumb": "assets/space_science/moon_craters_close-350.webp"
       },
       {
         "key": "planet_many_moons",
-        "file": "assets/space_science/planet_many_moons.svg"
+        "file": "assets/space_science/planet_many_moons.svg",
+        "webp_large": "assets/space_science/planet_many_moons-1200.webp",
+        "webp_thumb": "assets/space_science/planet_many_moons-350.webp"
       },
       {
         "key": "ringed_planet_moons",
-        "file": "assets/space_science/ringed_planet_moons.svg"
+        "file": "assets/space_science/ringed_planet_moons.svg",
+        "webp_large": "assets/space_science/ringed_planet_moons-1200.webp",
+        "webp_thumb": "assets/space_science/ringed_planet_moons-350.webp"
       },
       {
         "key": "rocket_blastoff",
-        "file": "assets/space_science/rocket_blastoff.svg"
+        "file": "assets/space_science/rocket_blastoff.svg",
+        "webp_large": "assets/space_science/rocket_blastoff-1200.webp",
+        "webp_thumb": "assets/space_science/rocket_blastoff-350.webp"
       },
       {
         "key": "rocket_launch_pad",
-        "file": "assets/space_science/rocket_launch_pad.svg"
+        "file": "assets/space_science/rocket_launch_pad.svg",
+        "webp_large": "assets/space_science/rocket_launch_pad-1200.webp",
+        "webp_thumb": "assets/space_science/rocket_launch_pad-350.webp"
       },
       {
         "key": "satellite_orbit_earth",
-        "file": "assets/space_science/satellite_orbit_earth.svg"
+        "file": "assets/space_science/satellite_orbit_earth.svg",
+        "webp_large": "assets/space_science/satellite_orbit_earth-1200.webp",
+        "webp_thumb": "assets/space_science/satellite_orbit_earth-350.webp"
       },
       {
         "key": "scientist_star_charts",
-        "file": "assets/space_science/scientist_star_charts.svg"
+        "file": "assets/space_science/scientist_star_charts.svg",
+        "webp_large": "assets/space_science/scientist_star_charts-1200.webp",
+        "webp_thumb": "assets/space_science/scientist_star_charts-350.webp"
       },
       {
         "key": "solar_system_model",
-        "file": "assets/space_science/solar_system_model.svg"
+        "file": "assets/space_science/solar_system_model.svg",
+        "webp_large": "assets/space_science/solar_system_model-1200.webp",
+        "webp_thumb": "assets/space_science/solar_system_model-350.webp"
       },
       {
         "key": "space_shuttle_landing",
-        "file": "assets/space_science/space_shuttle_landing.svg"
+        "file": "assets/space_science/space_shuttle_landing.svg",
+        "webp_large": "assets/space_science/space_shuttle_landing-1200.webp",
+        "webp_thumb": "assets/space_science/space_shuttle_landing-350.webp"
       },
       {
         "key": "space_station_panels",
-        "file": "assets/space_science/space_station_panels.svg"
+        "file": "assets/space_science/space_station_panels.svg",
+        "webp_large": "assets/space_science/space_station_panels-1200.webp",
+        "webp_thumb": "assets/space_science/space_station_panels-350.webp"
       },
       {
         "key": "spaceship_among_planets",
-        "file": "assets/space_science/spaceship_among_planets.svg"
+        "file": "assets/space_science/spaceship_among_planets.svg",
+        "webp_large": "assets/space_science/spaceship_among_planets-1200.webp",
+        "webp_thumb": "assets/space_science/spaceship_among_planets-350.webp"
       },
       {
         "key": "spiral_galaxy",
-        "file": "assets/space_science/spiral_galaxy.svg"
+        "file": "assets/space_science/spiral_galaxy.svg",
+        "webp_large": "assets/space_science/spiral_galaxy-1200.webp",
+        "webp_thumb": "assets/space_science/spiral_galaxy-350.webp"
       },
       {
         "key": "telescope_twinkle_stars",
-        "file": "assets/space_science/telescope_twinkle_stars.svg"
+        "file": "assets/space_science/telescope_twinkle_stars.svg",
+        "webp_large": "assets/space_science/telescope_twinkle_stars-1200.webp",
+        "webp_thumb": "assets/space_science/telescope_twinkle_stars-350.webp"
       },
       {
         "key": "ufo_zooming",
-        "file": "assets/space_science/ufo_zooming.svg"
+        "file": "assets/space_science/ufo_zooming.svg",
+        "webp_large": "assets/space_science/ufo_zooming-1200.webp",
+        "webp_thumb": "assets/space_science/ufo_zooming-350.webp"
       }
     ]
   },
@@ -1376,103 +2036,153 @@
     "items": [
       {
         "key": "baseball_home_run",
-        "file": "assets/sports_activities/baseball_home_run.svg"
+        "file": "assets/sports_activities/baseball_home_run.svg",
+        "webp_large": "assets/sports_activities/baseball_home_run-1200.webp",
+        "webp_thumb": "assets/sports_activities/baseball_home_run-350.webp"
       },
       {
         "key": "basketball_slam_dunk",
-        "file": "assets/sports_activities/basketball_slam_dunk.svg"
+        "file": "assets/sports_activities/basketball_slam_dunk.svg",
+        "webp_large": "assets/sports_activities/basketball_slam_dunk-1200.webp",
+        "webp_thumb": "assets/sports_activities/basketball_slam_dunk-350.webp"
       },
       {
         "key": "bowler_rolling_strike",
-        "file": "assets/sports_activities/bowler_rolling_strike.svg"
+        "file": "assets/sports_activities/bowler_rolling_strike.svg",
+        "webp_large": "assets/sports_activities/bowler_rolling_strike-1200.webp",
+        "webp_thumb": "assets/sports_activities/bowler_rolling_strike-350.webp"
       },
       {
         "key": "boxer_throwing_jab",
-        "file": "assets/sports_activities/boxer_throwing_jab.svg"
+        "file": "assets/sports_activities/boxer_throwing_jab.svg",
+        "webp_large": "assets/sports_activities/boxer_throwing_jab-1200.webp",
+        "webp_thumb": "assets/sports_activities/boxer_throwing_jab-350.webp"
       },
       {
         "key": "climber_mountain_summit",
-        "file": "assets/sports_activities/climber_mountain_summit.svg"
+        "file": "assets/sports_activities/climber_mountain_summit.svg",
+        "webp_large": "assets/sports_activities/climber_mountain_summit-1200.webp",
+        "webp_thumb": "assets/sports_activities/climber_mountain_summit-350.webp"
       },
       {
         "key": "cyclist_uphill",
-        "file": "assets/sports_activities/cyclist_uphill.svg"
+        "file": "assets/sports_activities/cyclist_uphill.svg",
+        "webp_large": "assets/sports_activities/cyclist_uphill-1200.webp",
+        "webp_thumb": "assets/sports_activities/cyclist_uphill-350.webp"
       },
       {
         "key": "dancer_grand_jete",
-        "file": "assets/sports_activities/dancer_grand_jete.svg"
+        "file": "assets/sports_activities/dancer_grand_jete.svg",
+        "webp_large": "assets/sports_activities/dancer_grand_jete-1200.webp",
+        "webp_thumb": "assets/sports_activities/dancer_grand_jete-350.webp"
       },
       {
         "key": "fencer_lunge",
-        "file": "assets/sports_activities/fencer_lunge.svg"
+        "file": "assets/sports_activities/fencer_lunge.svg",
+        "webp_large": "assets/sports_activities/fencer_lunge-1200.webp",
+        "webp_thumb": "assets/sports_activities/fencer_lunge-350.webp"
       },
       {
         "key": "fishing_kid_fish",
-        "file": "assets/sports_activities/fishing_kid_fish.svg"
+        "file": "assets/sports_activities/fishing_kid_fish.svg",
+        "webp_large": "assets/sports_activities/fishing_kid_fish-1200.webp",
+        "webp_thumb": "assets/sports_activities/fishing_kid_fish-350.webp"
       },
       {
         "key": "golfer_swing_club",
-        "file": "assets/sports_activities/golfer_swing_club.svg"
+        "file": "assets/sports_activities/golfer_swing_club.svg",
+        "webp_large": "assets/sports_activities/golfer_swing_club-1200.webp",
+        "webp_thumb": "assets/sports_activities/golfer_swing_club-350.webp"
       },
       {
         "key": "gymnast_beam_split",
-        "file": "assets/sports_activities/gymnast_beam_split.svg"
+        "file": "assets/sports_activities/gymnast_beam_split.svg",
+        "webp_large": "assets/sports_activities/gymnast_beam_split-1200.webp",
+        "webp_thumb": "assets/sports_activities/gymnast_beam_split-350.webp"
       },
       {
         "key": "hockey_slapshot",
-        "file": "assets/sports_activities/hockey_slapshot.svg"
+        "file": "assets/sports_activities/hockey_slapshot.svg",
+        "webp_large": "assets/sports_activities/hockey_slapshot-1200.webp",
+        "webp_thumb": "assets/sports_activities/hockey_slapshot-350.webp"
       },
       {
         "key": "horse_rider_jump",
-        "file": "assets/sports_activities/horse_rider_jump.svg"
+        "file": "assets/sports_activities/horse_rider_jump.svg",
+        "webp_large": "assets/sports_activities/horse_rider_jump-1200.webp",
+        "webp_thumb": "assets/sports_activities/horse_rider_jump-350.webp"
       },
       {
         "key": "karate_high_kick",
-        "file": "assets/sports_activities/karate_high_kick.svg"
+        "file": "assets/sports_activities/karate_high_kick.svg",
+        "webp_large": "assets/sports_activities/karate_high_kick-1200.webp",
+        "webp_thumb": "assets/sports_activities/karate_high_kick-350.webp"
       },
       {
         "key": "rugby_runner_ball",
-        "file": "assets/sports_activities/rugby_runner_ball.svg"
+        "file": "assets/sports_activities/rugby_runner_ball.svg",
+        "webp_large": "assets/sports_activities/rugby_runner_ball-1200.webp",
+        "webp_thumb": "assets/sports_activities/rugby_runner_ball-350.webp"
       },
       {
         "key": "runner_finish_line",
-        "file": "assets/sports_activities/runner_finish_line.svg"
+        "file": "assets/sports_activities/runner_finish_line.svg",
+        "webp_large": "assets/sports_activities/runner_finish_line-1200.webp",
+        "webp_thumb": "assets/sports_activities/runner_finish_line-350.webp"
       },
       {
         "key": "skateboarder_kickflip",
-        "file": "assets/sports_activities/skateboarder_kickflip.svg"
+        "file": "assets/sports_activities/skateboarder_kickflip.svg",
+        "webp_large": "assets/sports_activities/skateboarder_kickflip-1200.webp",
+        "webp_thumb": "assets/sports_activities/skateboarder_kickflip-350.webp"
       },
       {
         "key": "skier_downhill_snow",
-        "file": "assets/sports_activities/skier_downhill_snow.svg"
+        "file": "assets/sports_activities/skier_downhill_snow.svg",
+        "webp_large": "assets/sports_activities/skier_downhill_snow-1200.webp",
+        "webp_thumb": "assets/sports_activities/skier_downhill_snow-350.webp"
       },
       {
         "key": "snowboarder_flip",
-        "file": "assets/sports_activities/snowboarder_flip.svg"
+        "file": "assets/sports_activities/snowboarder_flip.svg",
+        "webp_large": "assets/sports_activities/snowboarder_flip-1200.webp",
+        "webp_thumb": "assets/sports_activities/snowboarder_flip-350.webp"
       },
       {
         "key": "soccer_player_kick",
-        "file": "assets/sports_activities/soccer_player_kick.svg"
+        "file": "assets/sports_activities/soccer_player_kick.svg",
+        "webp_large": "assets/sports_activities/soccer_player_kick-1200.webp",
+        "webp_thumb": "assets/sports_activities/soccer_player_kick-350.webp"
       },
       {
         "key": "surfer_big_wave",
-        "file": "assets/sports_activities/surfer_big_wave.svg"
+        "file": "assets/sports_activities/surfer_big_wave.svg",
+        "webp_large": "assets/sports_activities/surfer_big_wave-1200.webp",
+        "webp_thumb": "assets/sports_activities/surfer_big_wave-350.webp"
       },
       {
         "key": "swimmer_butterfly_stroke",
-        "file": "assets/sports_activities/swimmer_butterfly_stroke.svg"
+        "file": "assets/sports_activities/swimmer_butterfly_stroke.svg",
+        "webp_large": "assets/sports_activities/swimmer_butterfly_stroke-1200.webp",
+        "webp_thumb": "assets/sports_activities/swimmer_butterfly_stroke-350.webp"
       },
       {
         "key": "tennis_serve_ball",
-        "file": "assets/sports_activities/tennis_serve_ball.svg"
+        "file": "assets/sports_activities/tennis_serve_ball.svg",
+        "webp_large": "assets/sports_activities/tennis_serve_ball-1200.webp",
+        "webp_thumb": "assets/sports_activities/tennis_serve_ball-350.webp"
       },
       {
         "key": "volleyball_spike",
-        "file": "assets/sports_activities/volleyball_spike.svg"
+        "file": "assets/sports_activities/volleyball_spike.svg",
+        "webp_large": "assets/sports_activities/volleyball_spike-1200.webp",
+        "webp_thumb": "assets/sports_activities/volleyball_spike-350.webp"
       },
       {
         "key": "weightlifter_barbell",
-        "file": "assets/sports_activities/weightlifter_barbell.svg"
+        "file": "assets/sports_activities/weightlifter_barbell.svg",
+        "webp_large": "assets/sports_activities/weightlifter_barbell-1200.webp",
+        "webp_thumb": "assets/sports_activities/weightlifter_barbell-350.webp"
       }
     ]
   },
@@ -1480,103 +2190,153 @@
     "items": [
       {
         "key": "beach_bucket_shells",
-        "file": "assets/underwater_world/beach_bucket_shells.svg"
+        "file": "assets/underwater_world/beach_bucket_shells.svg",
+        "webp_large": "assets/underwater_world/beach_bucket_shells-1200.webp",
+        "webp_thumb": "assets/underwater_world/beach_bucket_shells-350.webp"
       },
       {
         "key": "clam_with_pearl",
-        "file": "assets/underwater_world/clam_with_pearl.svg"
+        "file": "assets/underwater_world/clam_with_pearl.svg",
+        "webp_large": "assets/underwater_world/clam_with_pearl-1200.webp",
+        "webp_thumb": "assets/underwater_world/clam_with_pearl-350.webp"
       },
       {
         "key": "coral_reef_shapes",
-        "file": "assets/underwater_world/coral_reef_shapes.svg"
+        "file": "assets/underwater_world/coral_reef_shapes.svg",
+        "webp_large": "assets/underwater_world/coral_reef_shapes-1200.webp",
+        "webp_thumb": "assets/underwater_world/coral_reef_shapes-350.webp"
       },
       {
         "key": "crab_sandy_bed",
-        "file": "assets/underwater_world/crab_sandy_bed.svg"
+        "file": "assets/underwater_world/crab_sandy_bed.svg",
+        "webp_large": "assets/underwater_world/crab_sandy_bed-1200.webp",
+        "webp_thumb": "assets/underwater_world/crab_sandy_bed-350.webp"
       },
       {
         "key": "diver_thumbs_up",
-        "file": "assets/underwater_world/diver_thumbs_up.svg"
+        "file": "assets/underwater_world/diver_thumbs_up.svg",
+        "webp_large": "assets/underwater_world/diver_thumbs_up-1200.webp",
+        "webp_thumb": "assets/underwater_world/diver_thumbs_up-350.webp"
       },
       {
         "key": "dolphin_jump_waves",
-        "file": "assets/underwater_world/dolphin_jump_waves.svg"
+        "file": "assets/underwater_world/dolphin_jump_waves.svg",
+        "webp_large": "assets/underwater_world/dolphin_jump_waves-1200.webp",
+        "webp_thumb": "assets/underwater_world/dolphin_jump_waves-350.webp"
       },
       {
         "key": "fish_school_heart",
-        "file": "assets/underwater_world/fish_school_heart.svg"
+        "file": "assets/underwater_world/fish_school_heart.svg",
+        "webp_large": "assets/underwater_world/fish_school_heart-1200.webp",
+        "webp_thumb": "assets/underwater_world/fish_school_heart-350.webp"
       },
       {
         "key": "hermit_crab_swirl_shell",
-        "file": "assets/underwater_world/hermit_crab_swirl_shell.svg"
+        "file": "assets/underwater_world/hermit_crab_swirl_shell.svg",
+        "webp_large": "assets/underwater_world/hermit_crab_swirl_shell-1200.webp",
+        "webp_thumb": "assets/underwater_world/hermit_crab_swirl_shell-350.webp"
       },
       {
         "key": "jellyfish_floating",
-        "file": "assets/underwater_world/jellyfish_floating.svg"
+        "file": "assets/underwater_world/jellyfish_floating.svg",
+        "webp_large": "assets/underwater_world/jellyfish_floating-1200.webp",
+        "webp_thumb": "assets/underwater_world/jellyfish_floating-350.webp"
       },
       {
         "key": "kelp_forest_fish",
-        "file": "assets/underwater_world/kelp_forest_fish.svg"
+        "file": "assets/underwater_world/kelp_forest_fish.svg",
+        "webp_large": "assets/underwater_world/kelp_forest_fish-1200.webp",
+        "webp_thumb": "assets/underwater_world/kelp_forest_fish-350.webp"
       },
       {
         "key": "lighthouse_ocean",
-        "file": "assets/underwater_world/lighthouse_ocean.svg"
+        "file": "assets/underwater_world/lighthouse_ocean.svg",
+        "webp_large": "assets/underwater_world/lighthouse_ocean-1200.webp",
+        "webp_thumb": "assets/underwater_world/lighthouse_ocean-350.webp"
       },
       {
         "key": "lobster_waving_claw",
-        "file": "assets/underwater_world/lobster_waving_claw.svg"
+        "file": "assets/underwater_world/lobster_waving_claw.svg",
+        "webp_large": "assets/underwater_world/lobster_waving_claw-1200.webp",
+        "webp_thumb": "assets/underwater_world/lobster_waving_claw-350.webp"
       },
       {
         "key": "manta_ray_glide",
-        "file": "assets/underwater_world/manta_ray_glide.svg"
+        "file": "assets/underwater_world/manta_ray_glide.svg",
+        "webp_large": "assets/underwater_world/manta_ray_glide-1200.webp",
+        "webp_thumb": "assets/underwater_world/manta_ray_glide-350.webp"
       },
       {
         "key": "mermaid_tail_splash",
-        "file": "assets/underwater_world/mermaid_tail_splash.svg"
+        "file": "assets/underwater_world/mermaid_tail_splash.svg",
+        "webp_large": "assets/underwater_world/mermaid_tail_splash-1200.webp",
+        "webp_thumb": "assets/underwater_world/mermaid_tail_splash-350.webp"
       },
       {
         "key": "octopus_waving",
-        "file": "assets/underwater_world/octopus_waving.svg"
+        "file": "assets/underwater_world/octopus_waving.svg",
+        "webp_large": "assets/underwater_world/octopus_waving-1200.webp",
+        "webp_thumb": "assets/underwater_world/octopus_waving-350.webp"
       },
       {
         "key": "otter_holding_shell",
-        "file": "assets/underwater_world/otter_holding_shell.svg"
+        "file": "assets/underwater_world/otter_holding_shell.svg",
+        "webp_large": "assets/underwater_world/otter_holding_shell-1200.webp",
+        "webp_thumb": "assets/underwater_world/otter_holding_shell-350.webp"
       },
       {
         "key": "pirate_treasure_undersea",
-        "file": "assets/underwater_world/pirate_treasure_undersea.svg"
+        "file": "assets/underwater_world/pirate_treasure_undersea.svg",
+        "webp_large": "assets/underwater_world/pirate_treasure_undersea-1200.webp",
+        "webp_thumb": "assets/underwater_world/pirate_treasure_undersea-350.webp"
       },
       {
         "key": "pufferfish_puffed",
-        "file": "assets/underwater_world/pufferfish_puffed.svg"
+        "file": "assets/underwater_world/pufferfish_puffed.svg",
+        "webp_large": "assets/underwater_world/pufferfish_puffed-1200.webp",
+        "webp_thumb": "assets/underwater_world/pufferfish_puffed-350.webp"
       },
       {
         "key": "sea_lion_clap",
-        "file": "assets/underwater_world/sea_lion_clap.svg"
+        "file": "assets/underwater_world/sea_lion_clap.svg",
+        "webp_large": "assets/underwater_world/sea_lion_clap-1200.webp",
+        "webp_thumb": "assets/underwater_world/sea_lion_clap-350.webp"
       },
       {
         "key": "sea_turtle_coral",
-        "file": "assets/underwater_world/sea_turtle_coral.svg"
+        "file": "assets/underwater_world/sea_turtle_coral.svg",
+        "webp_large": "assets/underwater_world/sea_turtle_coral-1200.webp",
+        "webp_thumb": "assets/underwater_world/sea_turtle_coral-350.webp"
       },
       {
         "key": "seahorse_seaweed",
-        "file": "assets/underwater_world/seahorse_seaweed.svg"
+        "file": "assets/underwater_world/seahorse_seaweed.svg",
+        "webp_large": "assets/underwater_world/seahorse_seaweed-1200.webp",
+        "webp_thumb": "assets/underwater_world/seahorse_seaweed-350.webp"
       },
       {
         "key": "shark_smile",
-        "file": "assets/underwater_world/shark_smile.svg"
+        "file": "assets/underwater_world/shark_smile.svg",
+        "webp_large": "assets/underwater_world/shark_smile-1200.webp",
+        "webp_thumb": "assets/underwater_world/shark_smile-350.webp"
       },
       {
         "key": "starfish_on_rock",
-        "file": "assets/underwater_world/starfish_on_rock.svg"
+        "file": "assets/underwater_world/starfish_on_rock.svg",
+        "webp_large": "assets/underwater_world/starfish_on_rock-1200.webp",
+        "webp_thumb": "assets/underwater_world/starfish_on_rock-350.webp"
       },
       {
         "key": "submarine_round_windows",
-        "file": "assets/underwater_world/submarine_round_windows.svg"
+        "file": "assets/underwater_world/submarine_round_windows.svg",
+        "webp_large": "assets/underwater_world/submarine_round_windows-1200.webp",
+        "webp_thumb": "assets/underwater_world/submarine_round_windows-350.webp"
       },
       {
         "key": "whale_spout_water",
-        "file": "assets/underwater_world/whale_spout_water.svg"
+        "file": "assets/underwater_world/whale_spout_water.svg",
+        "webp_large": "assets/underwater_world/whale_spout_water-1200.webp",
+        "webp_thumb": "assets/underwater_world/whale_spout_water-350.webp"
       }
     ]
   },
@@ -1585,457 +2345,639 @@
       {
         "key": "allay",
         "file": "assets/minecraft/allay.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/allay-1200.webp",
+        "webp_thumb": "assets/minecraft/allay-350.webp"
       },
       {
         "key": "axolotl",
         "file": "assets/minecraft/axolotl.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/axolotl-1200.webp",
+        "webp_thumb": "assets/minecraft/axolotl-350.webp"
       },
       {
         "key": "baby_goat",
         "file": "assets/minecraft/baby_goat.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_goat-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_goat-350.webp"
       },
       {
         "key": "baby_pig",
         "file": "assets/minecraft/baby_pig.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_pig-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_pig-350.webp"
       },
       {
         "key": "baby_sniffer",
         "file": "assets/minecraft/baby_sniffer.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_sniffer-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_sniffer-350.webp"
       },
       {
         "key": "baby_turtle",
         "file": "assets/minecraft/baby_turtle.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_turtle-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_turtle-350.webp"
       },
       {
         "key": "baby_villager",
         "file": "assets/minecraft/baby_villager.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_villager-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_villager-350.webp"
       },
       {
         "key": "baby_zombie",
         "file": "assets/minecraft/baby_zombie.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/baby_zombie-1200.webp",
+        "webp_thumb": "assets/minecraft/baby_zombie-350.webp"
       },
       {
         "key": "bat",
         "file": "assets/minecraft/bat.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/bat-1200.webp",
+        "webp_thumb": "assets/minecraft/bat-350.webp"
       },
       {
         "key": "bee",
         "file": "assets/minecraft/bee.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/bee-1200.webp",
+        "webp_thumb": "assets/minecraft/bee-350.webp"
       },
       {
         "key": "blaze",
         "file": "assets/minecraft/blaze.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/blaze-1200.webp",
+        "webp_thumb": "assets/minecraft/blaze-350.webp"
       },
       {
         "key": "camel",
         "file": "assets/minecraft/camel.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/camel-1200.webp",
+        "webp_thumb": "assets/minecraft/camel-350.webp"
       },
       {
         "key": "cat",
         "file": "assets/minecraft/cat.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/cat-1200.webp",
+        "webp_thumb": "assets/minecraft/cat-350.webp"
       },
       {
         "key": "chicken",
         "file": "assets/minecraft/chicken.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/chicken-1200.webp",
+        "webp_thumb": "assets/minecraft/chicken-350.webp"
       },
       {
         "key": "chicken_jockey",
         "file": "assets/minecraft/chicken_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/chicken_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/chicken_jockey-350.webp"
       },
       {
         "key": "cod",
         "file": "assets/minecraft/cod.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/cod-1200.webp",
+        "webp_thumb": "assets/minecraft/cod-350.webp"
       },
       {
         "key": "cow",
         "file": "assets/minecraft/cow.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/cow-1200.webp",
+        "webp_thumb": "assets/minecraft/cow-350.webp"
       },
       {
         "key": "creeper",
         "file": "assets/minecraft/creeper.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/creeper-1200.webp",
+        "webp_thumb": "assets/minecraft/creeper-350.webp"
       },
       {
         "key": "dancing_parrot",
         "file": "assets/minecraft/dancing_parrot.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/dancing_parrot-1200.webp",
+        "webp_thumb": "assets/minecraft/dancing_parrot-350.webp"
       },
       {
         "key": "dolphin",
         "file": "assets/minecraft/dolphin.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/dolphin-1200.webp",
+        "webp_thumb": "assets/minecraft/dolphin-350.webp"
       },
       {
         "key": "drowned",
         "file": "assets/minecraft/drowned.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/drowned-1200.webp",
+        "webp_thumb": "assets/minecraft/drowned-350.webp"
       },
       {
         "key": "elder_guardian",
         "file": "assets/minecraft/elder_guardian.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/elder_guardian-1200.webp",
+        "webp_thumb": "assets/minecraft/elder_guardian-350.webp"
       },
       {
         "key": "end_crystal",
         "file": "assets/minecraft/end_crystal.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/end_crystal-1200.webp",
+        "webp_thumb": "assets/minecraft/end_crystal-350.webp"
       },
       {
         "key": "ender_dragon",
         "file": "assets/minecraft/ender_dragon.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/ender_dragon-1200.webp",
+        "webp_thumb": "assets/minecraft/ender_dragon-350.webp"
       },
       {
         "key": "enderman",
         "file": "assets/minecraft/enderman.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/enderman-1200.webp",
+        "webp_thumb": "assets/minecraft/enderman-350.webp"
       },
       {
         "key": "endermite",
         "file": "assets/minecraft/endermite.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/endermite-1200.webp",
+        "webp_thumb": "assets/minecraft/endermite-350.webp"
       },
       {
         "key": "evoker",
         "file": "assets/minecraft/evoker.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/evoker-1200.webp",
+        "webp_thumb": "assets/minecraft/evoker-350.webp"
       },
       {
         "key": "flying_bee",
         "file": "assets/minecraft/flying_bee.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/flying_bee-1200.webp",
+        "webp_thumb": "assets/minecraft/flying_bee-350.webp"
       },
       {
         "key": "fox",
         "file": "assets/minecraft/fox.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/fox-1200.webp",
+        "webp_thumb": "assets/minecraft/fox-350.webp"
       },
       {
         "key": "frog",
         "file": "assets/minecraft/frog.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/frog-1200.webp",
+        "webp_thumb": "assets/minecraft/frog-350.webp"
       },
       {
         "key": "ghast",
         "file": "assets/minecraft/ghast.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/ghast-1200.webp",
+        "webp_thumb": "assets/minecraft/ghast-350.webp"
       },
       {
         "key": "glow_squid",
         "file": "assets/minecraft/glow_squid.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/glow_squid-1200.webp",
+        "webp_thumb": "assets/minecraft/glow_squid-350.webp"
       },
       {
         "key": "goat",
         "file": "assets/minecraft/goat.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/goat-1200.webp",
+        "webp_thumb": "assets/minecraft/goat-350.webp"
       },
       {
         "key": "guardian",
         "file": "assets/minecraft/guardian.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/guardian-1200.webp",
+        "webp_thumb": "assets/minecraft/guardian-350.webp"
       },
       {
         "key": "hoglin",
         "file": "assets/minecraft/hoglin.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/hoglin-1200.webp",
+        "webp_thumb": "assets/minecraft/hoglin-350.webp"
       },
       {
         "key": "horse",
         "file": "assets/minecraft/horse.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/horse-1200.webp",
+        "webp_thumb": "assets/minecraft/horse-350.webp"
       },
       {
         "key": "husk",
         "file": "assets/minecraft/husk.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/husk-1200.webp",
+        "webp_thumb": "assets/minecraft/husk-350.webp"
       },
       {
         "key": "iron_golem",
         "file": "assets/minecraft/iron_golem.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/iron_golem-1200.webp",
+        "webp_thumb": "assets/minecraft/iron_golem-350.webp"
       },
       {
         "key": "llama",
         "file": "assets/minecraft/llama.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/llama-1200.webp",
+        "webp_thumb": "assets/minecraft/llama-350.webp"
       },
       {
         "key": "magma_cube_big",
         "file": "assets/minecraft/magma_cube_big.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/magma_cube_big-1200.webp",
+        "webp_thumb": "assets/minecraft/magma_cube_big-350.webp"
       },
       {
         "key": "magma_cube_small",
         "file": "assets/minecraft/magma_cube_small.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/magma_cube_small-1200.webp",
+        "webp_thumb": "assets/minecraft/magma_cube_small-350.webp"
       },
       {
         "key": "mooshroom",
         "file": "assets/minecraft/mooshroom.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/mooshroom-1200.webp",
+        "webp_thumb": "assets/minecraft/mooshroom-350.webp"
       },
       {
         "key": "ocelot",
         "file": "assets/minecraft/ocelot.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/ocelot-1200.webp",
+        "webp_thumb": "assets/minecraft/ocelot-350.webp"
       },
       {
         "key": "panda",
         "file": "assets/minecraft/panda.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/panda-1200.webp",
+        "webp_thumb": "assets/minecraft/panda-350.webp"
       },
       {
         "key": "parrot",
         "file": "assets/minecraft/parrot.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/parrot-1200.webp",
+        "webp_thumb": "assets/minecraft/parrot-350.webp"
       },
       {
         "key": "phantom",
         "file": "assets/minecraft/phantom.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/phantom-1200.webp",
+        "webp_thumb": "assets/minecraft/phantom-350.webp"
       },
       {
         "key": "pig",
         "file": "assets/minecraft/pig.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/pig-1200.webp",
+        "webp_thumb": "assets/minecraft/pig-350.webp"
       },
       {
         "key": "piglin",
         "file": "assets/minecraft/piglin.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/piglin-1200.webp",
+        "webp_thumb": "assets/minecraft/piglin-350.webp"
       },
       {
         "key": "piglin_brute",
         "file": "assets/minecraft/piglin_brute.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/piglin_brute-1200.webp",
+        "webp_thumb": "assets/minecraft/piglin_brute-350.webp"
       },
       {
         "key": "pillager",
         "file": "assets/minecraft/pillager.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/pillager-1200.webp",
+        "webp_thumb": "assets/minecraft/pillager-350.webp"
       },
       {
         "key": "polar_bear",
         "file": "assets/minecraft/polar_bear.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/polar_bear-1200.webp",
+        "webp_thumb": "assets/minecraft/polar_bear-350.webp"
       },
       {
         "key": "pufferfish",
         "file": "assets/minecraft/pufferfish.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/pufferfish-1200.webp",
+        "webp_thumb": "assets/minecraft/pufferfish-350.webp"
       },
       {
         "key": "rabbit",
         "file": "assets/minecraft/rabbit.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/rabbit-1200.webp",
+        "webp_thumb": "assets/minecraft/rabbit-350.webp"
       },
       {
         "key": "ravager",
         "file": "assets/minecraft/ravager.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/ravager-1200.webp",
+        "webp_thumb": "assets/minecraft/ravager-350.webp"
       },
       {
         "key": "resting_camel",
         "file": "assets/minecraft/resting_camel.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/resting_camel-1200.webp",
+        "webp_thumb": "assets/minecraft/resting_camel-350.webp"
       },
       {
         "key": "salmon",
         "file": "assets/minecraft/salmon.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/salmon-1200.webp",
+        "webp_thumb": "assets/minecraft/salmon-350.webp"
       },
       {
         "key": "sheep",
         "file": "assets/minecraft/sheep.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/sheep-1200.webp",
+        "webp_thumb": "assets/minecraft/sheep-350.webp"
       },
       {
         "key": "shulker",
         "file": "assets/minecraft/shulker.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/shulker-1200.webp",
+        "webp_thumb": "assets/minecraft/shulker-350.webp"
       },
       {
         "key": "silver_axolotl",
         "file": "assets/minecraft/silver_axolotl.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/silver_axolotl-1200.webp",
+        "webp_thumb": "assets/minecraft/silver_axolotl-350.webp"
       },
       {
         "key": "silverfish",
         "file": "assets/minecraft/silverfish.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/silverfish-1200.webp",
+        "webp_thumb": "assets/minecraft/silverfish-350.webp"
       },
       {
         "key": "skeleton",
         "file": "assets/minecraft/skeleton.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/skeleton-1200.webp",
+        "webp_thumb": "assets/minecraft/skeleton-350.webp"
       },
       {
         "key": "skeleton_chicken_jockey",
         "file": "assets/minecraft/skeleton_chicken_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/skeleton_chicken_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/skeleton_chicken_jockey-350.webp"
       },
       {
         "key": "skeleton_horse",
         "file": "assets/minecraft/skeleton_horse.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/skeleton_horse-1200.webp",
+        "webp_thumb": "assets/minecraft/skeleton_horse-350.webp"
       },
       {
         "key": "slime",
         "file": "assets/minecraft/slime.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/slime-1200.webp",
+        "webp_thumb": "assets/minecraft/slime-350.webp"
       },
       {
         "key": "sniffer",
         "file": "assets/minecraft/sniffer.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/sniffer-1200.webp",
+        "webp_thumb": "assets/minecraft/sniffer-350.webp"
       },
       {
         "key": "snow_fox",
         "file": "assets/minecraft/snow_fox.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/snow_fox-1200.webp",
+        "webp_thumb": "assets/minecraft/snow_fox-350.webp"
       },
       {
         "key": "snow_golem",
         "file": "assets/minecraft/snow_golem.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/snow_golem-1200.webp",
+        "webp_thumb": "assets/minecraft/snow_golem-350.webp"
       },
       {
         "key": "spider",
         "file": "assets/minecraft/spider.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/spider-1200.webp",
+        "webp_thumb": "assets/minecraft/spider-350.webp"
       },
       {
         "key": "spider_jockey",
         "file": "assets/minecraft/spider_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/spider_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/spider_jockey-350.webp"
       },
       {
         "key": "squid",
         "file": "assets/minecraft/squid.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/squid-1200.webp",
+        "webp_thumb": "assets/minecraft/squid-350.webp"
       },
       {
         "key": "stray",
         "file": "assets/minecraft/stray.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/stray-1200.webp",
+        "webp_thumb": "assets/minecraft/stray-350.webp"
       },
       {
         "key": "stray_spider_jockey",
         "file": "assets/minecraft/stray_spider_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/stray_spider_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/stray_spider_jockey-350.webp"
       },
       {
         "key": "strider",
         "file": "assets/minecraft/strider.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/strider-1200.webp",
+        "webp_thumb": "assets/minecraft/strider-350.webp"
       },
       {
         "key": "tropical_fish",
         "file": "assets/minecraft/tropical_fish.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/tropical_fish-1200.webp",
+        "webp_thumb": "assets/minecraft/tropical_fish-350.webp"
       },
       {
         "key": "turtle",
         "file": "assets/minecraft/turtle.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/turtle-1200.webp",
+        "webp_thumb": "assets/minecraft/turtle-350.webp"
       },
       {
         "key": "vex",
         "file": "assets/minecraft/vex.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/vex-1200.webp",
+        "webp_thumb": "assets/minecraft/vex-350.webp"
       },
       {
         "key": "villager",
         "file": "assets/minecraft/villager.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/villager-1200.webp",
+        "webp_thumb": "assets/minecraft/villager-350.webp"
       },
       {
         "key": "vindicator",
         "file": "assets/minecraft/vindicator.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/vindicator-1200.webp",
+        "webp_thumb": "assets/minecraft/vindicator-350.webp"
       },
       {
         "key": "wandering_trader",
         "file": "assets/minecraft/wandering_trader.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/wandering_trader-1200.webp",
+        "webp_thumb": "assets/minecraft/wandering_trader-350.webp"
       },
       {
         "key": "witch",
         "file": "assets/minecraft/witch.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/witch-1200.webp",
+        "webp_thumb": "assets/minecraft/witch-350.webp"
       },
       {
         "key": "wither",
         "file": "assets/minecraft/wither.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/wither-1200.webp",
+        "webp_thumb": "assets/minecraft/wither-350.webp"
       },
       {
         "key": "wither_skeleton",
         "file": "assets/minecraft/wither_skeleton.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/wither_skeleton-1200.webp",
+        "webp_thumb": "assets/minecraft/wither_skeleton-350.webp"
       },
       {
         "key": "wither_spider_jockey",
         "file": "assets/minecraft/wither_spider_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/wither_spider_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/wither_spider_jockey-350.webp"
       },
       {
         "key": "wolf",
         "file": "assets/minecraft/wolf.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/wolf-1200.webp",
+        "webp_thumb": "assets/minecraft/wolf-350.webp"
       },
       {
         "key": "zombie",
         "file": "assets/minecraft/zombie.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie-350.webp"
       },
       {
         "key": "zombie_chicken_jockey",
         "file": "assets/minecraft/zombie_chicken_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie_chicken_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie_chicken_jockey-350.webp"
       },
       {
         "key": "zombie_horse",
         "file": "assets/minecraft/zombie_horse.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie_horse-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie_horse-350.webp"
       },
       {
         "key": "zombie_pig_jockey",
         "file": "assets/minecraft/zombie_pig_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie_pig_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie_pig_jockey-350.webp"
       },
       {
         "key": "zombie_sheep_jockey",
         "file": "assets/minecraft/zombie_sheep_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie_sheep_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie_sheep_jockey-350.webp"
       },
       {
         "key": "zombie_wolf_jockey",
         "file": "assets/minecraft/zombie_wolf_jockey.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombie_wolf_jockey-1200.webp",
+        "webp_thumb": "assets/minecraft/zombie_wolf_jockey-350.webp"
       },
       {
         "key": "zombified_piglin",
         "file": "assets/minecraft/zombified_piglin.svg",
-        "description": ""
+        "description": "",
+        "webp_large": "assets/minecraft/zombified_piglin-1200.webp",
+        "webp_thumb": "assets/minecraft/zombified_piglin-350.webp"
       }
     ]
   },
@@ -2047,117 +2989,163 @@
       {
         "key": "elves_baking_cookies",
         "file": "assets/Christmas/elves_baking_cookies.svg",
-        "description": "elves baking gingerbread cookies in a warm kitchen"
+        "description": "elves baking gingerbread cookies in a warm kitchen",
+        "webp_large": "assets/Christmas/elves_baking_cookies-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_baking_cookies-350.webp"
       },
       {
         "key": "elves_candy_cane_sorting",
         "file": "assets/Christmas/elves_candy_cane_sorting.svg",
-        "description": "elves organizing candy canes into colorful patterns"
+        "description": "elves organizing candy canes into colorful patterns",
+        "webp_large": "assets/Christmas/elves_candy_cane_sorting-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_candy_cane_sorting-350.webp"
       },
       {
         "key": "elves_caroling_lanterns",
         "file": "assets/Christmas/elves_caroling_lanterns.svg",
-        "description": "elves singing carols while holding glowing lanterns"
+        "description": "elves singing carols while holding glowing lanterns",
+        "webp_large": "assets/Christmas/elves_caroling_lanterns-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_caroling_lanterns-350.webp"
       },
       {
         "key": "elves_gingerbread_house",
         "file": "assets/Christmas/elves_gingerbread_house.svg",
-        "description": "three elves decorating a giant gingerbread house"
+        "description": "three elves decorating a giant gingerbread house",
+        "webp_large": "assets/Christmas/elves_gingerbread_house-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_gingerbread_house-350.webp"
       },
       {
         "key": "elves_mini_village",
         "file": "assets/Christmas/elves_mini_village.svg",
-        "description": "two elves building a miniature christmas village"
+        "description": "two elves building a miniature christmas village",
+        "webp_large": "assets/Christmas/elves_mini_village-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_mini_village-350.webp"
       },
       {
         "key": "elves_wrapping_presents",
         "file": "assets/Christmas/elves_wrapping_presents.svg",
-        "description": "two elves wrapping presents in santa's workshop"
+        "description": "two elves wrapping presents in santa's workshop",
+        "webp_large": "assets/Christmas/elves_wrapping_presents-1200.webp",
+        "webp_thumb": "assets/Christmas/elves_wrapping_presents-350.webp"
       },
       {
         "key": "fox_decorates_tree",
         "file": "assets/Christmas/fox_decorates_tree.svg",
-        "description": "a fox decorating a small tree with shiny ornaments"
+        "description": "a fox decorating a small tree with shiny ornaments",
+        "webp_large": "assets/Christmas/fox_decorates_tree-1200.webp",
+        "webp_thumb": "assets/Christmas/fox_decorates_tree-350.webp"
       },
       {
         "key": "gingerbread_family_tree",
         "file": "assets/Christmas/gingerbread_family_tree.svg",
-        "description": "a gingerbread family decorating a cookie christmas tree"
+        "description": "a gingerbread family decorating a cookie christmas tree",
+        "webp_large": "assets/Christmas/gingerbread_family_tree-1200.webp",
+        "webp_thumb": "assets/Christmas/gingerbread_family_tree-350.webp"
       },
       {
         "key": "gingerbread_sledding",
         "file": "assets/Christmas/gingerbread_sledding.svg",
-        "description": "a gingerbread man sledding down a frosting hill"
+        "description": "a gingerbread man sledding down a frosting hill",
+        "webp_large": "assets/Christmas/gingerbread_sledding-1200.webp",
+        "webp_thumb": "assets/Christmas/gingerbread_sledding-350.webp"
       },
       {
         "key": "hanging_stockings_full",
         "file": "assets/Christmas/hanging_stockings_full.svg",
-        "description": "a row of hanging stockings filled with candies and small toys"
+        "description": "a row of hanging stockings filled with candies and small toys",
+        "webp_large": "assets/Christmas/hanging_stockings_full-1200.webp",
+        "webp_thumb": "assets/Christmas/hanging_stockings_full-350.webp"
       },
       {
         "key": "large_christmas_wreath",
         "file": "assets/Christmas/large_christmas_wreath.svg",
-        "description": "a large wreath decorated with ribbons, bells, and holly"
+        "description": "a large wreath decorated with ribbons, bells, and holly",
+        "webp_large": "assets/Christmas/large_christmas_wreath-1200.webp",
+        "webp_thumb": "assets/Christmas/large_christmas_wreath-350.webp"
       },
       {
         "key": "moose_lights_antlers",
         "file": "assets/Christmas/moose_lights_antlers.svg",
-        "description": "a moose wearing christmas lights tangled in its antlers"
+        "description": "a moose wearing christmas lights tangled in its antlers",
+        "webp_large": "assets/Christmas/moose_lights_antlers-1200.webp",
+        "webp_thumb": "assets/Christmas/moose_lights_antlers-350.webp"
       },
       {
         "key": "penguin_hot_cocoa",
         "file": "assets/Christmas/penguin_hot_cocoa.svg",
-        "description": "a penguin holding a cup of hot cocoa by a snowy lantern"
+        "description": "a penguin holding a cup of hot cocoa by a snowy lantern",
+        "webp_large": "assets/Christmas/penguin_hot_cocoa-1200.webp",
+        "webp_thumb": "assets/Christmas/penguin_hot_cocoa-350.webp"
       },
       {
         "key": "penguins_icy_tree",
         "file": "assets/Christmas/penguins_icy_tree.svg",
-        "description": "a family of penguins decorating an icy christmas tree"
+        "description": "a family of penguins decorating an icy christmas tree",
+        "webp_large": "assets/Christmas/penguins_icy_tree-1200.webp",
+        "webp_thumb": "assets/Christmas/penguins_icy_tree-350.webp"
       },
       {
         "key": "polar_bear_scarf_walk",
         "file": "assets/Christmas/polar_bear_scarf_walk.svg",
-        "description": "a polar bear cub wearing a festive scarf walking through snow"
+        "description": "a polar bear cub wearing a festive scarf walking through snow",
+        "webp_large": "assets/Christmas/polar_bear_scarf_walk-1200.webp",
+        "webp_thumb": "assets/Christmas/polar_bear_scarf_walk-350.webp"
       },
       {
         "key": "reindeer_mailbox_decor",
         "file": "assets/Christmas/reindeer_mailbox_decor.svg",
-        "description": "a reindeer decorating a mailbox with holly and ribbons"
+        "description": "a reindeer decorating a mailbox with holly and ribbons",
+        "webp_large": "assets/Christmas/reindeer_mailbox_decor-1200.webp",
+        "webp_thumb": "assets/Christmas/reindeer_mailbox_decor-350.webp"
       },
       {
         "key": "reindeer_penguin_snow_angels",
         "file": "assets/Christmas/reindeer_penguin_snow_angels.svg",
-        "description": "a reindeer and penguin making snow angels together"
+        "description": "a reindeer and penguin making snow angels together",
+        "webp_large": "assets/Christmas/reindeer_penguin_snow_angels-1200.webp",
+        "webp_thumb": "assets/Christmas/reindeer_penguin_snow_angels-350.webp"
       },
       {
         "key": "santa_checking_list",
         "file": "assets/Christmas/santa_checking_list.svg",
-        "description": "santa checking his list beside a pile of wrapped gifts"
+        "description": "santa checking his list beside a pile of wrapped gifts",
+        "webp_large": "assets/Christmas/santa_checking_list-1200.webp",
+        "webp_thumb": "assets/Christmas/santa_checking_list-350.webp"
       },
       {
         "key": "santa_reading_letters",
         "file": "assets/Christmas/santa_reading_letters.svg",
-        "description": "santa reading letters from children by the fireplace"
+        "description": "santa reading letters from children by the fireplace",
+        "webp_large": "assets/Christmas/santa_reading_letters-1200.webp",
+        "webp_thumb": "assets/Christmas/santa_reading_letters-350.webp"
       },
       {
         "key": "santa_sleigh_village",
         "file": "assets/Christmas/santa_sleigh_village.svg",
-        "description": "santa flying over a snowy village in his sleigh"
+        "description": "santa flying over a snowy village in his sleigh",
+        "webp_large": "assets/Christmas/santa_sleigh_village-1200.webp",
+        "webp_thumb": "assets/Christmas/santa_sleigh_village-350.webp"
       },
       {
         "key": "snowflake_fairy_sparkle",
         "file": "assets/Christmas/snowflake_fairy_sparkle.svg",
-        "description": "a snowflake fairy sprinkling shimmering snow over a village"
+        "description": "a snowflake fairy sprinkling shimmering snow over a village",
+        "webp_large": "assets/Christmas/snowflake_fairy_sparkle-1200.webp",
+        "webp_thumb": "assets/Christmas/snowflake_fairy_sparkle-350.webp"
       },
       {
         "key": "snowflakes_winter_star",
         "file": "assets/Christmas/snowflakes_winter_star.svg",
-        "description": "a group of snowflakes swirling around a bright winter star"
+        "description": "a group of snowflakes swirling around a bright winter star",
+        "webp_large": "assets/Christmas/snowflakes_winter_star-1200.webp",
+        "webp_thumb": "assets/Christmas/snowflakes_winter_star-350.webp"
       },
       {
         "key": "snowman_family_building",
         "file": "assets/Christmas/snowman_family_building.svg",
-        "description": "a snowman family building another snowman together"
+        "description": "a snowman family building another snowman together",
+        "webp_large": "assets/Christmas/snowman_family_building-1200.webp",
+        "webp_thumb": "assets/Christmas/snowman_family_building-350.webp"
       }
     ]
   }
