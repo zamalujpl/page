@@ -1,9 +1,7 @@
 /**
- * Orchestrate asset ingestion:
- * 1) Move PNG files matching "*__*.png" from ~/Downloads to private/assets/to_process
- * 2) Convert all PNGs in to_process to SVG (uses scripts/png_to_svg.sh)
- * 3) Convert all created SVGs to black & white (uses scripts/svg_tools/black_white_svg.js)
- * 4) Move SVGs to public/assets/{category}/{filename}.svg and update src/assets.json entries to point to SVGs
+ * 4) Move SVGs to public/assets/{category}/{filename}.svg and update src/assets.json
+ * 5) Convert each new SVG to a PDF with a footer (uses scripts/svg_to_pdf.js)
+ * 6) Convert each new SVG to a WEBP for web use (uses scripts/svg_to_webp.js)
  *
  * Assumptions:
  * - Filenames follow pattern: {category}__{key}.png (letters, numbers, underscores)
@@ -136,7 +134,8 @@ async function step3_blackAndWhiteSvgsInToProcess() {
   if (stdout.trim()) console.log(stdout.trim());
 }
 
-async function step4_moveSvgsAndUpdateAssetsJson() {
+async function step4_processAndMoveSvgs() {
+  console.log("Step 4: Moving SVGs, updating assets.json, and creating derivatives (PDF, WEBP)...");
   await ensureDir(publicAssetsDir);
   const descriptions = await readJsonIfExists(descriptionsJsonPath, []);
   const assets = await readJsonIfExists(assetsJsonPath, {});
@@ -151,12 +150,11 @@ async function step4_moveSvgsAndUpdateAssetsJson() {
     });
 
   if (svgNames.length === 0) {
-    console.log("Step 4: No SVGs to move/update.");
+    console.log("Step 4: No SVGs to process.");
     return;
   }
 
-  let movedCount = 0;
-  let updatedCount = 0;
+  let processedCount = 0;
 
   for (const svgName of svgNames) {
     const basePng = svgName.replace(/\.svg$/i, ".png");
@@ -170,7 +168,23 @@ async function step4_moveSvgsAndUpdateAssetsJson() {
     const categoryDir = path.join(publicAssetsDir, category);
     const destSvgPath = path.join(categoryDir, `${key}.svg`);
     await moveFileRobust(srcSvgPath, destSvgPath);
-    movedCount++;
+    processedCount++;
+
+    // --- Step 5 (integrated): Convert this SVG to PDF ---
+    console.log(`  - Converting ${path.relative(projectRoot, destSvgPath)} to PDF...`);
+    try {
+        await runCmd('npm', ['run', 'svg-to-pdf', destSvgPath], { cwd: projectRoot });
+    } catch (pdfErr) {
+        console.error(`  - FAILED to convert ${svgName} to PDF. Continuing...`, pdfErr.message);
+    }
+    
+    // --- Step 6 (integrated): Convert this SVG to WEBP ---
+    console.log(`  - Converting ${path.relative(projectRoot, destSvgPath)} to WEBP...`);
+    try {
+        await runCmd('npm', ['run', 'svg-to-webp', destSvgPath], { cwd: projectRoot });
+    } catch (webpErr) {
+        console.error(`  - FAILED to convert ${svgName} to WEBP. Continuing...`, webpErr.message);
+    }
 
     // Update assets.json
     if (!assets[category]) {
@@ -184,10 +198,18 @@ async function step4_moveSvgsAndUpdateAssetsJson() {
     const items = assets[category].items || [];
     let item = items.find((it) => it.key === key);
     if (!item) {
-      item = { key, file: `assets/${category}/${key}.svg`, description: "" };
+      item = { 
+        key, 
+        file: `assets/${category}/${key}.svg`, 
+        description: "",
+        webp_large: `assets/${category}/${key}-1200.webp`,
+        webp_thumb: `assets/${category}/${key}-350.webp`,
+      };
       items.push(item);
     } else {
       item.file = `assets/${category}/${key}.svg`;
+      item.webp_large = `assets/${category}/${key}-1200.webp`;
+      item.webp_thumb = `assets/${category}/${key}-350.webp`;
     }
     // Apply description if available and not already present
     if (!item.description) {
@@ -198,12 +220,8 @@ async function step4_moveSvgsAndUpdateAssetsJson() {
 
   await fsp.writeFile(assetsJsonPath, JSON.stringify(assets, null, 2), "utf8");
   console.log(
-    `Step 4: Moved ${movedCount} SVG(s) to public/assets and updated assets.json (categories affected: ${
-      Object.keys(assets).length
-    }).`,
+    `Step 4, 5, & 6: Processed ${processedCount} SVG(s) (moved, created PDFs & WEBPs, and updated assets.json).`,
   );
-  updatedCount = movedCount;
-  return { movedCount, updatedCount };
 }
 
 async function main() {
@@ -214,7 +232,7 @@ async function main() {
     // Proceed regardless of whether step1 found files, to handle existing to_process content
     await step2_convertPngToSvg();
     await step3_blackAndWhiteSvgsInToProcess();
-    await step4_moveSvgsAndUpdateAssetsJson();
+    await step4_processAndMoveSvgs();
 
     console.log("All steps completed successfully.");
   } catch (err) {

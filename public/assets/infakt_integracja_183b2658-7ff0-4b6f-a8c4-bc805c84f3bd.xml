@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthTokenRequest xmlns="http://ksef.mf.gov.pl/auth/token/2.0">
+  <Challenge>20260204-CR-281DD5C000-3EBC021C2E-C1</Challenge>
+  <ContextIdentifier>
+    <Nip>5492326039</Nip>
+  </ContextIdentifier>
+  <SubjectIdentifierType>certificateSubject</SubjectIdentifierType>
+</AuthTokenRequest>

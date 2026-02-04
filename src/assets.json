@@ -1,536 +1,2164 @@
 {
   "animals": {
     "items": [
-      { "key": "crocodile_river", "file": "assets/animals/crocodile_river.svg" },
-      { "key": "deer_look", "file": "assets/animals/deer_look.svg" },
-      { "key": "dolphin_jump", "file": "assets/animals/dolphin_jump.svg" },
-      { "key": "duck_pond", "file": "assets/animals/duck_pond.svg" },
-      { "key": "elephant_water", "file": "assets/animals/elephant_water.svg" },
-      { "key": "flamingo_leg", "file": "assets/animals/flamingo_leg.svg" },
-      { "key": "fox_sleep", "file": "assets/animals/fox_sleep.svg" },
-      { "key": "frog_lily", "file": "assets/animals/frog_lily.svg" },
-      { "key": "giraffe_leaves", "file": "assets/animals/giraffe_leaves.svg" },
-      { "key": "hedgehog_feet", "file": "assets/animals/hedgehog_feet.svg" },
-      { "key": "hippo_yawn", "file": "assets/animals/hippo_yawn.svg" },
-      { "key": "horse_meadow", "file": "assets/animals/horse_meadow.svg" },
-      { "key": "kangaroo_pouch", "file": "assets/animals/kangaroo_pouch.svg" },
-      { "key": "kitten_yarn", "file": "assets/animals/kitten_yarn.svg" },
-      { "key": "koala_tree", "file": "assets/animals/koala_tree.svg" },
-      { "key": "ladybug_leaf", "file": "assets/animals/ladybug_leaf.svg" },
-      { "key": "lion_grass", "file": "assets/animals/lion_grass.svg" },
-      { "key": "llama_fur", "file": "assets/animals/llama_fur.svg" },
-      { "key": "monkey_tree", "file": "assets/animals/monkey_tree.svg" },
-      { "key": "moose_forest", "file": "assets/animals/moose_forest.svg" },
-      { "key": "owl_stump", "file": "assets/animals/owl_stump.svg" },
-      { "key": "panda_bamboo", "file": "assets/animals/panda_bamboo.svg" },
-      { "key": "parrot_branch", "file": "assets/animals/parrot_branch.svg" },
-      { "key": "peacock_feathers", "file": "assets/animals/peacock_feathers.svg" },
-      { "key": "penguin_ice", "file": "assets/animals/penguin_ice.svg" },
-      { "key": "puppy_tail", "file": "assets/animals/puppy_tail.svg" },
-      { "key": "raccoon_tail", "file": "assets/animals/raccoon_tail.svg" },
-      { "key": "reindeer_antlers", "file": "assets/animals/reindeer_antlers.svg" },
-      { "key": "seal_flippers", "file": "assets/animals/seal_flippers.svg" },
-      { "key": "sheep_wool", "file": "assets/animals/sheep_wool.svg" },
-      { "key": "skunk_tail", "file": "assets/animals/skunk_tail.svg" },
-      { "key": "snail_shell", "file": "assets/animals/snail_shell.svg" },
-      { "key": "snake_rock", "file": "assets/animals/snake_rock.svg" },
-      { "key": "squirrel_acorn", "file": "assets/animals/squirrel_acorn.svg" },
-      { "key": "turtle_shell", "file": "assets/animals/turtle_shell.svg" },
-      { "key": "walrus_tusks", "file": "assets/animals/walrus_tusks.svg" },
-      { "key": "wolf_moon", "file": "assets/animals/wolf_moon.svg" },
-      { "key": "zebra_savannah", "file": "assets/animals/zebra_savannah.svg" }
+      {
+        "key": "crocodile_river",
+        "file": "assets/animals/crocodile_river.svg"
+      },
+      {
+        "key": "deer_look",
+        "file": "assets/animals/deer_look.svg"
+      },
+      {
+        "key": "dolphin_jump",
+        "file": "assets/animals/dolphin_jump.svg"
+      },
+      {
+        "key": "duck_pond",
+        "file": "assets/animals/duck_pond.svg"
+      },
+      {
+        "key": "elephant_water",
+        "file": "assets/animals/elephant_water.svg"
+      },
+      {
+        "key": "flamingo_leg",
+        "file": "assets/animals/flamingo_leg.svg"
+      },
+      {
+        "key": "fox_sleep",
+        "file": "assets/animals/fox_sleep.svg"
+      },
+      {
+        "key": "frog_lily",
+        "file": "assets/animals/frog_lily.svg"
+      },
+      {
+        "key": "giraffe_leaves",
+        "file": "assets/animals/giraffe_leaves.svg"
+      },
+      {
+        "key": "hedgehog_feet",
+        "file": "assets/animals/hedgehog_feet.svg"
+      },
+      {
+        "key": "hippo_yawn",
+        "file": "assets/animals/hippo_yawn.svg"
+      },
+      {
+        "key": "horse_meadow",
+        "file": "assets/animals/horse_meadow.svg"
+      },
+      {
+        "key": "kangaroo_pouch",
+        "file": "assets/animals/kangaroo_pouch.svg"
+      },
+      {
+        "key": "kitten_yarn",
+        "file": "assets/animals/kitten_yarn.svg"
+      },
+      {
+        "key": "koala_tree",
+        "file": "assets/animals/koala_tree.svg"
+      },
+      {
+        "key": "ladybug_leaf",
+        "file": "assets/animals/ladybug_leaf.svg"
+      },
+      {
+        "key": "lion_grass",
+        "file": "assets/animals/lion_grass.svg"
+      },
+      {
+        "key": "llama_fur",
+        "file": "assets/animals/llama_fur.svg"
+      },
+      {
+        "key": "monkey_tree",
+        "file": "assets/animals/monkey_tree.svg"
+      },
+      {
+        "key": "moose_forest",
+        "file": "assets/animals/moose_forest.svg"
+      },
+      {
+        "key": "owl_stump",
+        "file": "assets/animals/owl_stump.svg"
+      },
+      {
+        "key": "panda_bamboo",
+        "file": "assets/animals/panda_bamboo.svg"
+      },
+      {
+        "key": "parrot_branch",
+        "file": "assets/animals/parrot_branch.svg"
+      },
+      {
+        "key": "peacock_feathers",
+        "file": "assets/animals/peacock_feathers.svg"
+      },
+      {
+        "key": "penguin_ice",
+        "file": "assets/animals/penguin_ice.svg"
+      },
+      {
+        "key": "puppy_tail",
+        "file": "assets/animals/puppy_tail.svg"
+      },
+      {
+        "key": "raccoon_tail",
+        "file": "assets/animals/raccoon_tail.svg"
+      },
+      {
+        "key": "reindeer_antlers",
+        "file": "assets/animals/reindeer_antlers.svg"
+      },
+      {
+        "key": "seal_flippers",
+        "file": "assets/animals/seal_flippers.svg"
+      },
+      {
+        "key": "sheep_wool",
+        "file": "assets/animals/sheep_wool.svg"
+      },
+      {
+        "key": "skunk_tail",
+        "file": "assets/animals/skunk_tail.svg"
+      },
+      {
+        "key": "snail_shell",
+        "file": "assets/animals/snail_shell.svg"
+      },
+      {
+        "key": "snake_rock",
+        "file": "assets/animals/snake_rock.svg"
+      },
+      {
+        "key": "squirrel_acorn",
+        "file": "assets/animals/squirrel_acorn.svg"
+      },
+      {
+        "key": "turtle_shell",
+        "file": "assets/animals/turtle_shell.svg"
+      },
+      {
+        "key": "walrus_tusks",
+        "file": "assets/animals/walrus_tusks.svg"
+      },
+      {
+        "key": "wolf_moon",
+        "file": "assets/animals/wolf_moon.svg"
+      },
+      {
+        "key": "zebra_savannah",
+        "file": "assets/animals/zebra_savannah.svg"
+      },
+      {
+        "key": "test_image",
+        "file": "assets/animals/test_image.svg",
+        "description": ""
+      }
     ]
   },
   "nature": {
     "items": [
-      { "key": "cactus_desert", "file": "assets/nature/cactus_desert.svg" },
-      { "key": "palm_tree", "file": "assets/nature/palm_tree.svg" },
-      { "key": "pine_tree", "file": "assets/nature/pine_tree.svg" },
-      { "key": "pumpkin_stem", "file": "assets/nature/pumpkin_stem.svg" },
-      { "key": "rose_red", "file": "assets/nature/rose_red.svg" },
-      { "key": "strawberry_leaves", "file": "assets/nature/strawberry_leaves.svg" },
-      { "key": "sunflower_smile", "file": "assets/nature/sunflower_smile.svg" },
-      { "key": "tulips_bunch", "file": "assets/nature/tulips_bunch.svg" },
-      { "key": "watermelon_slice", "file": "assets/nature/watermelon_slice.svg" },
-      { "key": "apple_branch", "file": "assets/nature/apple_branch.svg" },
-      { "key": "banana_bunch", "file": "assets/nature/banana_bunch.svg" },
-      { "key": "bluebells_bunch", "file": "assets/nature/bluebells_bunch.svg" },
-      { "key": "broccoli_head", "file": "assets/nature/broccoli_head.svg" },
-      { "key": "carrot_leaves", "file": "assets/nature/carrot_leaves.svg" },
-      { "key": "cherries_pair", "file": "assets/nature/cherries_pair.svg" },
-      { "key": "clover_fourleaves", "file": "assets/nature/clover_fourleaves.svg" },
-      { "key": "coconut_palmtree", "file": "assets/nature/coconut_palmtree.svg" },
-      { "key": "daisy_flower", "file": "assets/nature/daisy_flower.svg" },
-      { "key": "dandelion_puff", "file": "assets/nature/dandelion_puff.svg" },
-      { "key": "fern_leaf", "file": "assets/nature/fern_leaf.svg" },
-      { "key": "grapes_vine", "file": "assets/nature/grapes_vine.svg" },
-      { "key": "lily_flower", "file": "assets/nature/lily_flower.svg" },
-      { "key": "maple_leaf", "file": "assets/nature/maple_leaf.svg" },
-      { "key": "mushroom_spots", "file": "assets/nature/mushroom_spots.svg" },
-      { "key": "sunflower_field", "file": "assets/nature/sunflower_field.svg" }
+      {
+        "key": "cactus_desert",
+        "file": "assets/nature/cactus_desert.svg"
+      },
+      {
+        "key": "palm_tree",
+        "file": "assets/nature/palm_tree.svg"
+      },
+      {
+        "key": "pine_tree",
+        "file": "assets/nature/pine_tree.svg"
+      },
+      {
+        "key": "pumpkin_stem",
+        "file": "assets/nature/pumpkin_stem.svg"
+      },
+      {
+        "key": "rose_red",
+        "file": "assets/nature/rose_red.svg"
+      },
+      {
+        "key": "strawberry_leaves",
+        "file": "assets/nature/strawberry_leaves.svg"
+      },
+      {
+        "key": "sunflower_smile",
+        "file": "assets/nature/sunflower_smile.svg"
+      },
+      {
+        "key": "tulips_bunch",
+        "file": "assets/nature/tulips_bunch.svg"
+      },
+      {
+        "key": "watermelon_slice",
+        "file": "assets/nature/watermelon_slice.svg"
+      },
+      {
+        "key": "apple_branch",
+        "file": "assets/nature/apple_branch.svg"
+      },
+      {
+        "key": "banana_bunch",
+        "file": "assets/nature/banana_bunch.svg"
+      },
+      {
+        "key": "bluebells_bunch",
+        "file": "assets/nature/bluebells_bunch.svg"
+      },
+      {
+        "key": "broccoli_head",
+        "file": "assets/nature/broccoli_head.svg"
+      },
+      {
+        "key": "carrot_leaves",
+        "file": "assets/nature/carrot_leaves.svg"
+      },
+      {
+        "key": "cherries_pair",
+        "file": "assets/nature/cherries_pair.svg"
+      },
+      {
+        "key": "clover_fourleaves",
+        "file": "assets/nature/clover_fourleaves.svg"
+      },
+      {
+        "key": "coconut_palmtree",
+        "file": "assets/nature/coconut_palmtree.svg"
+      },
+      {
+        "key": "daisy_flower",
+        "file": "assets/nature/daisy_flower.svg"
+      },
+      {
+        "key": "dandelion_puff",
+        "file": "assets/nature/dandelion_puff.svg"
+      },
+      {
+        "key": "fern_leaf",
+        "file": "assets/nature/fern_leaf.svg"
+      },
+      {
+        "key": "grapes_vine",
+        "file": "assets/nature/grapes_vine.svg"
+      },
+      {
+        "key": "lily_flower",
+        "file": "assets/nature/lily_flower.svg"
+      },
+      {
+        "key": "maple_leaf",
+        "file": "assets/nature/maple_leaf.svg"
+      },
+      {
+        "key": "mushroom_spots",
+        "file": "assets/nature/mushroom_spots.svg"
+      },
+      {
+        "key": "sunflower_field",
+        "file": "assets/nature/sunflower_field.svg"
+      }
     ]
   },
   "vehicles": {
     "items": [
-      { "key": "airplane_sky", "file": "assets/vehicles/airplane_sky.svg" },
-      { "key": "ambulance_siren", "file": "assets/vehicles/ambulance_siren.svg" },
-      { "key": "bulldozer_dirt", "file": "assets/vehicles/bulldozer_dirt.svg" },
-      { "key": "canoe_river", "file": "assets/vehicles/canoe_river.svg" },
-      { "key": "convertible_roofdown", "file": "assets/vehicles/convertible_roofdown.svg" },
-      { "key": "crane_load", "file": "assets/vehicles/crane_load.svg" },
-      { "key": "dumptruck_sand", "file": "assets/vehicles/dumptruck_sand.svg" },
-      { "key": "firetruck_ladder", "file": "assets/vehicles/firetruck_ladder.svg" },
-      { "key": "helicopter_mountains", "file": "assets/vehicles/helicopter_mountains.svg" },
-      { "key": "hotairballoon_stripes", "file": "assets/vehicles/hotairballoon_stripes.svg" },
-      { "key": "hovercraft_water", "file": "assets/vehicles/hovercraft_water.svg" },
-      { "key": "icecreamtruck_music", "file": "assets/vehicles/icecreamtruck_music.svg" },
-      { "key": "monstertruck_wheels", "file": "assets/vehicles/monstertruck_wheels.svg" },
-      { "key": "policecar_lights", "file": "assets/vehicles/policecar_lights.svg" },
-      { "key": "racecar_smile", "file": "assets/vehicles/racecar_smile.svg" },
-      { "key": "rocket_blastoff", "file": "assets/vehicles/rocket_blastoff.svg" },
-      { "key": "sailboat_ocean", "file": "assets/vehicles/sailboat_ocean.svg" },
-      { "key": "schoolbus_kids", "file": "assets/vehicles/schoolbus_kids.svg" },
-      { "key": "scooter_rider", "file": "assets/vehicles/scooter_rider.svg" },
-      { "key": "skateboard_design", "file": "assets/vehicles/skateboard_design.svg" },
-      { "key": "spaceship_stars", "file": "assets/vehicles/spaceship_stars.svg" },
-      { "key": "submarine_sea", "file": "assets/vehicles/submarine_sea.svg" },
-      { "key": "tractor_field", "file": "assets/vehicles/tractor_field.svg" },
-      { "key": "train_engine", "file": "assets/vehicles/train_engine.svg" }
+      {
+        "key": "airplane_sky",
+        "file": "assets/vehicles/airplane_sky.svg"
+      },
+      {
+        "key": "ambulance_siren",
+        "file": "assets/vehicles/ambulance_siren.svg"
+      },
+      {
+        "key": "bulldozer_dirt",
+        "file": "assets/vehicles/bulldozer_dirt.svg"
+      },
+      {
+        "key": "canoe_river",
+        "file": "assets/vehicles/canoe_river.svg"
+      },
+      {
+        "key": "convertible_roofdown",
+        "file": "assets/vehicles/convertible_roofdown.svg"
+      },
+      {
+        "key": "crane_load",
+        "file": "assets/vehicles/crane_load.svg"
+      },
+      {
+        "key": "dumptruck_sand",
+        "file": "assets/vehicles/dumptruck_sand.svg"
+      },
+      {
+        "key": "firetruck_ladder",
+        "file": "assets/vehicles/firetruck_ladder.svg"
+      },
+      {
+        "key": "helicopter_mountains",
+        "file": "assets/vehicles/helicopter_mountains.svg"
+      },
+      {
+        "key": "hotairballoon_stripes",
+        "file": "assets/vehicles/hotairballoon_stripes.svg"
+      },
+      {
+        "key": "hovercraft_water",
+        "file": "assets/vehicles/hovercraft_water.svg"
+      },
+      {
+        "key": "icecreamtruck_music",
+        "file": "assets/vehicles/icecreamtruck_music.svg"
+      },
+      {
+        "key": "monstertruck_wheels",
+        "file": "assets/vehicles/monstertruck_wheels.svg"
+      },
+      {
+        "key": "policecar_lights",
+        "file": "assets/vehicles/policecar_lights.svg"
+      },
+      {
+        "key": "racecar_smile",
+        "file": "assets/vehicles/racecar_smile.svg"
+      },
+      {
+        "key": "rocket_blastoff",
+        "file": "assets/vehicles/rocket_blastoff.svg"
+      },
+      {
+        "key": "sailboat_ocean",
+        "file": "assets/vehicles/sailboat_ocean.svg"
+      },
+      {
+        "key": "schoolbus_kids",
+        "file": "assets/vehicles/schoolbus_kids.svg"
+      },
+      {
+        "key": "scooter_rider",
+        "file": "assets/vehicles/scooter_rider.svg"
+      },
+      {
+        "key": "skateboard_design",
+        "file": "assets/vehicles/skateboard_design.svg"
+      },
+      {
+        "key": "spaceship_stars",
+        "file": "assets/vehicles/spaceship_stars.svg"
+      },
+      {
+        "key": "submarine_sea",
+        "file": "assets/vehicles/submarine_sea.svg"
+      },
+      {
+        "key": "tractor_field",
+        "file": "assets/vehicles/tractor_field.svg"
+      },
+      {
+        "key": "train_engine",
+        "file": "assets/vehicles/train_engine.svg"
+      }
     ]
   },
   "christmas": {
     "items": [
-      { "key": "bell_holly", "file": "assets/christmas/bell_holly.svg" },
-      { "key": "candycane_ribbon", "file": "assets/christmas/candycane_ribbon.svg" },
-      { "key": "christmastrain_toys", "file": "assets/christmas/christmastrain_toys.svg" },
-      { "key": "christmastree_presents", "file": "assets/christmas/christmastree_presents.svg" },
-      { "key": "elves_toyworkshop", "file": "assets/christmas/elves_toyworkshop.svg" },
-      { "key": "fireplace_stockings", "file": "assets/christmas/fireplace_stockings.svg" },
-      { "key": "gingerbreadhouse_candy", "file": "assets/christmas/gingerbreadhouse_candy.svg" },
-      { "key": "hotchocolate_marshmallows", "file": "assets/christmas/hotchocolate_marshmallows.svg" },
-      { "key": "mailbox_letters", "file": "assets/christmas/mailbox_letters.svg" },
-      { "key": "northpole_sign", "file": "assets/christmas/northpole_sign.svg" },
-      { "key": "nutcracker_soldier", "file": "assets/christmas/nutcracker_soldier.svg" },
-      { "key": "penguin_gift", "file": "assets/christmas/penguin_gift.svg" },
-      { "key": "polarbear_scarf", "file": "assets/christmas/polarbear_scarf.svg" },
-      { "key": "present_bow", "file": "assets/christmas/present_bow.svg" },
-      { "key": "reindeer_rednose", "file": "assets/christmas/reindeer_rednose.svg" },
-      { "key": "santa_sack", "file": "assets/christmas/santa_sack.svg" },
-      { "key": "sleigh_gifts", "file": "assets/christmas/sleigh_gifts.svg" },
-      { "key": "sleigh_rooftops", "file": "assets/christmas/sleigh_rooftops.svg" },
-      { "key": "snowflakes_sky", "file": "assets/christmas/snowflakes_sky.svg" },
-      { "key": "snowglobe_scene", "file": "assets/christmas/snowglobe_scene.svg" },
-      { "key": "snowman_scarf", "file": "assets/christmas/snowman_scarf.svg" },
-      { "key": "snowy_village", "file": "assets/christmas/snowy_village.svg" },
-      { "key": "star_tree", "file": "assets/christmas/star_tree.svg" },
-      { "key": "stocking_fireplace", "file": "assets/christmas/stocking_fireplace.svg" },
-      { "key": "wreath_bells", "file": "assets/christmas/wreath_bells.svg" }
+      {
+        "key": "bell_holly",
+        "file": "assets/christmas/bell_holly.svg"
+      },
+      {
+        "key": "candycane_ribbon",
+        "file": "assets/christmas/candycane_ribbon.svg"
+      },
+      {
+        "key": "christmastrain_toys",
+        "file": "assets/christmas/christmastrain_toys.svg"
+      },
+      {
+        "key": "christmastree_presents",
+        "file": "assets/christmas/christmastree_presents.svg"
+      },
+      {
+        "key": "elves_toyworkshop",
+        "file": "assets/christmas/elves_toyworkshop.svg"
+      },
+      {
+        "key": "fireplace_stockings",
+        "file": "assets/christmas/fireplace_stockings.svg"
+      },
+      {
+        "key": "gingerbreadhouse_candy",
+        "file": "assets/christmas/gingerbreadhouse_candy.svg"
+      },
+      {
+        "key": "hotchocolate_marshmallows",
+        "file": "assets/christmas/hotchocolate_marshmallows.svg"
+      },
+      {
+        "key": "mailbox_letters",
+        "file": "assets/christmas/mailbox_letters.svg"
+      },
+      {
+        "key": "northpole_sign",
+        "file": "assets/christmas/northpole_sign.svg"
+      },
+      {
+        "key": "nutcracker_soldier",
+        "file": "assets/christmas/nutcracker_soldier.svg"
+      },
+      {
+        "key": "penguin_gift",
+        "file": "assets/christmas/penguin_gift.svg"
+      },
+      {
+        "key": "polarbear_scarf",
+        "file": "assets/christmas/polarbear_scarf.svg"
+      },
+      {
+        "key": "present_bow",
+        "file": "assets/christmas/present_bow.svg"
+      },
+      {
+        "key": "reindeer_rednose",
+        "file": "assets/christmas/reindeer_rednose.svg"
+      },
+      {
+        "key": "santa_sack",
+        "file": "assets/christmas/santa_sack.svg"
+      },
+      {
+        "key": "sleigh_gifts",
+        "file": "assets/christmas/sleigh_gifts.svg"
+      },
+      {
+        "key": "sleigh_rooftops",
+        "file": "assets/christmas/sleigh_rooftops.svg"
+      },
+      {
+        "key": "snowflakes_sky",
+        "file": "assets/christmas/snowflakes_sky.svg"
+      },
+      {
+        "key": "snowglobe_scene",
+        "file": "assets/christmas/snowglobe_scene.svg"
+      },
+      {
+        "key": "snowman_scarf",
+        "file": "assets/christmas/snowman_scarf.svg"
+      },
+      {
+        "key": "snowy_village",
+        "file": "assets/christmas/snowy_village.svg"
+      },
+      {
+        "key": "star_tree",
+        "file": "assets/christmas/star_tree.svg"
+      },
+      {
+        "key": "stocking_fireplace",
+        "file": "assets/christmas/stocking_fireplace.svg"
+      },
+      {
+        "key": "wreath_bells",
+        "file": "assets/christmas/wreath_bells.svg"
+      }
     ]
   },
   "easter": {
     "items": [
-      { "key": "basket_eastereggs", "file": "assets/easter/basket_eastereggs.svg" },
-      { "key": "bunny_bicycle_eggs", "file": "assets/easter/bunny_bicycle_eggs.svg" },
-      { "key": "bunny_carrotcar", "file": "assets/easter/bunny_carrotcar.svg" },
-      { "key": "bunny_chick_play", "file": "assets/easter/bunny_chick_play.svg" },
-      { "key": "bunny_decoratedegg", "file": "assets/easter/bunny_decoratedegg.svg" },
-      { "key": "bunny_hidingeggs", "file": "assets/easter/bunny_hidingeggs.svg" },
-      { "key": "bunny_paintingegg", "file": "assets/easter/bunny_paintingegg.svg" },
-      { "key": "bunny_sleeping_flowers", "file": "assets/easter/bunny_sleeping_flowers.svg" },
-      { "key": "bunnyfamily_picnic", "file": "assets/easter/bunnyfamily_picnic.svg" },
-      { "key": "butterfly_flowers", "file": "assets/easter/butterfly_flowers.svg" },
-      { "key": "carrotpatch_bunny", "file": "assets/easter/carrotpatch_bunny.svg" },
-      { "key": "chick_basket", "file": "assets/easter/chick_basket.svg" },
-      { "key": "chick_bunnyears", "file": "assets/easter/chick_bunnyears.svg" },
-      { "key": "chick_hatching", "file": "assets/easter/chick_hatching.svg" },
-      { "key": "chick_paintbrush", "file": "assets/easter/chick_paintbrush.svg" },
-      { "key": "chocolate_bunny", "file": "assets/easter/chocolate_bunny.svg" },
-      { "key": "easteregghunt_garden", "file": "assets/easter/easteregghunt_garden.svg" },
-      { "key": "lamb_bow", "file": "assets/easter/lamb_bow.svg" },
-      { "key": "nest_coloredeggs", "file": "assets/easter/nest_coloredeggs.svg" },
-      { "key": "painted_eastereggs", "file": "assets/easter/painted_eastereggs.svg" },
-      { "key": "picnic_easter", "file": "assets/easter/picnic_easter.svg" }
+      {
+        "key": "basket_eastereggs",
+        "file": "assets/easter/basket_eastereggs.svg"
+      },
+      {
+        "key": "bunny_bicycle_eggs",
+        "file": "assets/easter/bunny_bicycle_eggs.svg"
+      },
+      {
+        "key": "bunny_carrotcar",
+        "file": "assets/easter/bunny_carrotcar.svg"
+      },
+      {
+        "key": "bunny_chick_play",
+        "file": "assets/easter/bunny_chick_play.svg"
+      },
+      {
+        "key": "bunny_decoratedegg",
+        "file": "assets/easter/bunny_decoratedegg.svg"
+      },
+      {
+        "key": "bunny_hidingeggs",
+        "file": "assets/easter/bunny_hidingeggs.svg"
+      },
+      {
+        "key": "bunny_paintingegg",
+        "file": "assets/easter/bunny_paintingegg.svg"
+      },
+      {
+        "key": "bunny_sleeping_flowers",
+        "file": "assets/easter/bunny_sleeping_flowers.svg"
+      },
+      {
+        "key": "bunnyfamily_picnic",
+        "file": "assets/easter/bunnyfamily_picnic.svg"
+      },
+      {
+        "key": "butterfly_flowers",
+        "file": "assets/easter/butterfly_flowers.svg"
+      },
+      {
+        "key": "carrotpatch_bunny",
+        "file": "assets/easter/carrotpatch_bunny.svg"
+      },
+      {
+        "key": "chick_basket",
+        "file": "assets/easter/chick_basket.svg"
+      },
+      {
+        "key": "chick_bunnyears",
+        "file": "assets/easter/chick_bunnyears.svg"
+      },
+      {
+        "key": "chick_hatching",
+        "file": "assets/easter/chick_hatching.svg"
+      },
+      {
+        "key": "chick_paintbrush",
+        "file": "assets/easter/chick_paintbrush.svg"
+      },
+      {
+        "key": "chocolate_bunny",
+        "file": "assets/easter/chocolate_bunny.svg"
+      },
+      {
+        "key": "easteregghunt_garden",
+        "file": "assets/easter/easteregghunt_garden.svg"
+      },
+      {
+        "key": "lamb_bow",
+        "file": "assets/easter/lamb_bow.svg"
+      },
+      {
+        "key": "nest_coloredeggs",
+        "file": "assets/easter/nest_coloredeggs.svg"
+      },
+      {
+        "key": "painted_eastereggs",
+        "file": "assets/easter/painted_eastereggs.svg"
+      },
+      {
+        "key": "picnic_easter",
+        "file": "assets/easter/picnic_easter.svg"
+      }
     ]
   },
   "fantasy_fairy_tales": {
     "items": [
-      { "key": "carriage_two_horses", "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg" },
-      { "key": "dwarf_mining_gems", "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg" },
-      { "key": "griffin_wings_spread", "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg" },
-      { "key": "king_crown_cape", "file": "assets/fantasy_fairy_tales/king_crown_cape.svg" },
-      { "key": "magic_mirror_stars", "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg" },
-      { "key": "phoenix_embers", "file": "assets/fantasy_fairy_tales/phoenix_embers.svg" },
-      { "key": "sorceress_staff_crystal", "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg" },
-      { "key": "troll_stone_bridge", "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg" },
-      { "key": "castle_hill", "file": "assets/fantasy_fairy_tales/castle_hill.svg" },
-      { "key": "dragon_fire", "file": "assets/fantasy_fairy_tales/dragon_fire.svg" },
-      { "key": "fairy_wings", "file": "assets/fantasy_fairy_tales/fairy_wings.svg" },
-      { "key": "frogprince_crown", "file": "assets/fantasy_fairy_tales/frogprince_crown.svg" },
-      { "key": "giant_club", "file": "assets/fantasy_fairy_tales/giant_club.svg" },
-      { "key": "knight_armor", "file": "assets/fantasy_fairy_tales/knight_armor.svg" },
-      { "key": "magiclamp_smoke", "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg" },
-      { "key": "mermaid_fish", "file": "assets/fantasy_fairy_tales/mermaid_fish.svg" },
-      { "key": "princess_castle", "file": "assets/fantasy_fairy_tales/princess_castle.svg" },
-      { "key": "treasure_gold", "file": "assets/fantasy_fairy_tales/treasure_gold.svg" },
-      { "key": "unicorn_rainbow", "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg" },
-      { "key": "wizard_spell", "file": "assets/fantasy_fairy_tales/wizard_spell.svg" },
-      { "key": "castle_gate_towers", "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg" },
-      { "key": "dragon_guarding_treasure", "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg" },
-      { "key": "fairy_godmother_wand", "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg" },
-      { "key": "knight_riding_horse", "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg" },
-      { "key": "queen_gown_scepter", "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg" }
+      {
+        "key": "carriage_two_horses",
+        "file": "assets/fantasy_fairy_tales/carriage_two_horses.svg"
+      },
+      {
+        "key": "dwarf_mining_gems",
+        "file": "assets/fantasy_fairy_tales/dwarf_mining_gems.svg"
+      },
+      {
+        "key": "griffin_wings_spread",
+        "file": "assets/fantasy_fairy_tales/griffin_wings_spread.svg"
+      },
+      {
+        "key": "king_crown_cape",
+        "file": "assets/fantasy_fairy_tales/king_crown_cape.svg"
+      },
+      {
+        "key": "magic_mirror_stars",
+        "file": "assets/fantasy_fairy_tales/magic_mirror_stars.svg"
+      },
+      {
+        "key": "phoenix_embers",
+        "file": "assets/fantasy_fairy_tales/phoenix_embers.svg"
+      },
+      {
+        "key": "sorceress_staff_crystal",
+        "file": "assets/fantasy_fairy_tales/sorceress_staff_crystal.svg"
+      },
+      {
+        "key": "troll_stone_bridge",
+        "file": "assets/fantasy_fairy_tales/troll_stone_bridge.svg"
+      },
+      {
+        "key": "castle_hill",
+        "file": "assets/fantasy_fairy_tales/castle_hill.svg"
+      },
+      {
+        "key": "dragon_fire",
+        "file": "assets/fantasy_fairy_tales/dragon_fire.svg"
+      },
+      {
+        "key": "fairy_wings",
+        "file": "assets/fantasy_fairy_tales/fairy_wings.svg"
+      },
+      {
+        "key": "frogprince_crown",
+        "file": "assets/fantasy_fairy_tales/frogprince_crown.svg"
+      },
+      {
+        "key": "giant_club",
+        "file": "assets/fantasy_fairy_tales/giant_club.svg"
+      },
+      {
+        "key": "knight_armor",
+        "file": "assets/fantasy_fairy_tales/knight_armor.svg"
+      },
+      {
+        "key": "magiclamp_smoke",
+        "file": "assets/fantasy_fairy_tales/magiclamp_smoke.svg"
+      },
+      {
+        "key": "mermaid_fish",
+        "file": "assets/fantasy_fairy_tales/mermaid_fish.svg"
+      },
+      {
+        "key": "princess_castle",
+        "file": "assets/fantasy_fairy_tales/princess_castle.svg"
+      },
+      {
+        "key": "treasure_gold",
+        "file": "assets/fantasy_fairy_tales/treasure_gold.svg"
+      },
+      {
+        "key": "unicorn_rainbow",
+        "file": "assets/fantasy_fairy_tales/unicorn_rainbow.svg"
+      },
+      {
+        "key": "wizard_spell",
+        "file": "assets/fantasy_fairy_tales/wizard_spell.svg"
+      },
+      {
+        "key": "castle_gate_towers",
+        "file": "assets/fantasy_fairy_tales/castle_gate_towers.svg"
+      },
+      {
+        "key": "dragon_guarding_treasure",
+        "file": "assets/fantasy_fairy_tales/dragon_guarding_treasure.svg"
+      },
+      {
+        "key": "fairy_godmother_wand",
+        "file": "assets/fantasy_fairy_tales/fairy_godmother_wand.svg"
+      },
+      {
+        "key": "knight_riding_horse",
+        "file": "assets/fantasy_fairy_tales/knight_riding_horse.svg"
+      },
+      {
+        "key": "queen_gown_scepter",
+        "file": "assets/fantasy_fairy_tales/queen_gown_scepter.svg"
+      }
     ]
   },
   "halloween": {
     "items": [
-      { "key": "bat_cookie", "file": "assets/halloween/bat_cookie.svg" },
-      { "key": "bat_moon", "file": "assets/halloween/bat_moon.svg" },
-      { "key": "blackcat_witchhat", "file": "assets/halloween/blackcat_witchhat.svg" },
-      { "key": "broom_pumpkin", "file": "assets/halloween/broom_pumpkin.svg" },
-      { "key": "candybucket_sweets", "file": "assets/halloween/candybucket_sweets.svg" },
-      { "key": "cauldron_bubbles", "file": "assets/halloween/cauldron_bubbles.svg" },
-      { "key": "ghost_candy", "file": "assets/halloween/ghost_candy.svg" },
-      { "key": "ghost_graveyard", "file": "assets/halloween/ghost_graveyard.svg" },
-      { "key": "gravestone_rip", "file": "assets/halloween/gravestone_rip.svg" },
-      { "key": "hauntedhouse_bats", "file": "assets/halloween/hauntedhouse_bats.svg" },
-      { "key": "jackolantern_smile", "file": "assets/halloween/jackolantern_smile.svg" },
-      { "key": "magicwand_sparkles", "file": "assets/halloween/magicwand_sparkles.svg" },
-      { "key": "moon_stars", "file": "assets/halloween/moon_stars.svg" },
-      { "key": "mummy_bandages", "file": "assets/halloween/mummy_bandages.svg" },
-      { "key": "pumpkin_carriage", "file": "assets/halloween/pumpkin_carriage.svg" },
-      { "key": "scarecrow_pumpkinfield", "file": "assets/halloween/scarecrow_pumpkinfield.svg" },
-      { "key": "skeleton_dance", "file": "assets/halloween/skeleton_dance.svg" },
-      { "key": "spellbook_magic", "file": "assets/halloween/spellbook_magic.svg" },
-      { "key": "spider_web", "file": "assets/halloween/spider_web.svg" },
-      { "key": "trickortreat_bag", "file": "assets/halloween/trickortreat_bag.svg" },
-      { "key": "vampire_smile", "file": "assets/halloween/vampire_smile.svg" },
-      { "key": "werewolf_moon", "file": "assets/halloween/werewolf_moon.svg" },
-      { "key": "witch_broomstick", "file": "assets/halloween/witch_broomstick.svg" },
-      { "key": "witchhat_buckle", "file": "assets/halloween/witchhat_buckle.svg" }
+      {
+        "key": "bat_cookie",
+        "file": "assets/halloween/bat_cookie.svg"
+      },
+      {
+        "key": "bat_moon",
+        "file": "assets/halloween/bat_moon.svg"
+      },
+      {
+        "key": "blackcat_witchhat",
+        "file": "assets/halloween/blackcat_witchhat.svg"
+      },
+      {
+        "key": "broom_pumpkin",
+        "file": "assets/halloween/broom_pumpkin.svg"
+      },
+      {
+        "key": "candybucket_sweets",
+        "file": "assets/halloween/candybucket_sweets.svg"
+      },
+      {
+        "key": "cauldron_bubbles",
+        "file": "assets/halloween/cauldron_bubbles.svg"
+      },
+      {
+        "key": "ghost_candy",
+        "file": "assets/halloween/ghost_candy.svg"
+      },
+      {
+        "key": "ghost_graveyard",
+        "file": "assets/halloween/ghost_graveyard.svg"
+      },
+      {
+        "key": "gravestone_rip",
+        "file": "assets/halloween/gravestone_rip.svg"
+      },
+      {
+        "key": "hauntedhouse_bats",
+        "file": "assets/halloween/hauntedhouse_bats.svg"
+      },
+      {
+        "key": "jackolantern_smile",
+        "file": "assets/halloween/jackolantern_smile.svg"
+      },
+      {
+        "key": "magicwand_sparkles",
+        "file": "assets/halloween/magicwand_sparkles.svg"
+      },
+      {
+        "key": "moon_stars",
+        "file": "assets/halloween/moon_stars.svg"
+      },
+      {
+        "key": "mummy_bandages",
+        "file": "assets/halloween/mummy_bandages.svg"
+      },
+      {
+        "key": "pumpkin_carriage",
+        "file": "assets/halloween/pumpkin_carriage.svg"
+      },
+      {
+        "key": "scarecrow_pumpkinfield",
+        "file": "assets/halloween/scarecrow_pumpkinfield.svg"
+      },
+      {
+        "key": "skeleton_dance",
+        "file": "assets/halloween/skeleton_dance.svg"
+      },
+      {
+        "key": "spellbook_magic",
+        "file": "assets/halloween/spellbook_magic.svg"
+      },
+      {
+        "key": "spider_web",
+        "file": "assets/halloween/spider_web.svg"
+      },
+      {
+        "key": "trickortreat_bag",
+        "file": "assets/halloween/trickortreat_bag.svg"
+      },
+      {
+        "key": "vampire_smile",
+        "file": "assets/halloween/vampire_smile.svg"
+      },
+      {
+        "key": "werewolf_moon",
+        "file": "assets/halloween/werewolf_moon.svg"
+      },
+      {
+        "key": "witch_broomstick",
+        "file": "assets/halloween/witch_broomstick.svg"
+      },
+      {
+        "key": "witchhat_buckle",
+        "file": "assets/halloween/witchhat_buckle.svg"
+      }
     ]
   },
   "professions": {
     "items": [
-      { "key": "astronaut_space", "file": "assets/professions/astronaut_space.svg" },
-      { "key": "baker_cupcakes", "file": "assets/professions/baker_cupcakes.svg" },
-      { "key": "basketball_player", "file": "assets/professions/basketball_player.svg" },
-      { "key": "chef_cooking", "file": "assets/professions/chef_cooking.svg" },
-      { "key": "clown_juggling", "file": "assets/professions/clown_juggling.svg" },
-      { "key": "construction_hammer", "file": "assets/professions/construction_hammer.svg" },
-      { "key": "dancer_ballet", "file": "assets/professions/dancer_ballet.svg" },
-      { "key": "doctor_stethoscope", "file": "assets/professions/doctor_stethoscope.svg" },
-      { "key": "farmer_pitchfork", "file": "assets/professions/farmer_pitchfork.svg" },
-      { "key": "firefighter_hose", "file": "assets/professions/firefighter_hose.svg" },
-      { "key": "lifeguard_buoy", "file": "assets/professions/lifeguard_buoy.svg" },
-      { "key": "magician_rabbit", "file": "assets/professions/magician_rabbit.svg" },
-      { "key": "mechanic_car", "file": "assets/professions/mechanic_car.svg" },
-      { "key": "nurse_clipboard", "file": "assets/professions/nurse_clipboard.svg" },
-      { "key": "painter_palette", "file": "assets/professions/painter_palette.svg" },
-      { "key": "photographer_camera", "file": "assets/professions/photographer_camera.svg" },
-      { "key": "pilot_cockpit", "file": "assets/professions/pilot_cockpit.svg" },
-      { "key": "police_officer_wave", "file": "assets/professions/police_officer_wave.svg" },
-      { "key": "sailor_ship", "file": "assets/professions/sailor_ship.svg" },
-      { "key": "scientist_microscope", "file": "assets/professions/scientist_microscope.svg" },
-      { "key": "singer_microphone", "file": "assets/professions/singer_microphone.svg" },
-      { "key": "soccer_player", "file": "assets/professions/soccer_player.svg" },
-      { "key": "teacher_chalkboard", "file": "assets/professions/teacher_chalkboard.svg" },
-      { "key": "train_conductor_flag", "file": "assets/professions/train_conductor_flag.svg" },
-      { "key": "veterinarian_puppy", "file": "assets/professions/veterinarian_puppy.svg" }
+      {
+        "key": "astronaut_space",
+        "file": "assets/professions/astronaut_space.svg"
+      },
+      {
+        "key": "baker_cupcakes",
+        "file": "assets/professions/baker_cupcakes.svg"
+      },
+      {
+        "key": "basketball_player",
+        "file": "assets/professions/basketball_player.svg"
+      },
+      {
+        "key": "chef_cooking",
+        "file": "assets/professions/chef_cooking.svg"
+      },
+      {
+        "key": "clown_juggling",
+        "file": "assets/professions/clown_juggling.svg"
+      },
+      {
+        "key": "construction_hammer",
+        "file": "assets/professions/construction_hammer.svg"
+      },
+      {
+        "key": "dancer_ballet",
+        "file": "assets/professions/dancer_ballet.svg"
+      },
+      {
+        "key": "doctor_stethoscope",
+        "file": "assets/professions/doctor_stethoscope.svg"
+      },
+      {
+        "key": "farmer_pitchfork",
+        "file": "assets/professions/farmer_pitchfork.svg"
+      },
+      {
+        "key": "firefighter_hose",
+        "file": "assets/professions/firefighter_hose.svg"
+      },
+      {
+        "key": "lifeguard_buoy",
+        "file": "assets/professions/lifeguard_buoy.svg"
+      },
+      {
+        "key": "magician_rabbit",
+        "file": "assets/professions/magician_rabbit.svg"
+      },
+      {
+        "key": "mechanic_car",
+        "file": "assets/professions/mechanic_car.svg"
+      },
+      {
+        "key": "nurse_clipboard",
+        "file": "assets/professions/nurse_clipboard.svg"
+      },
+      {
+        "key": "painter_palette",
+        "file": "assets/professions/painter_palette.svg"
+      },
+      {
+        "key": "photographer_camera",
+        "file": "assets/professions/photographer_camera.svg"
+      },
+      {
+        "key": "pilot_cockpit",
+        "file": "assets/professions/pilot_cockpit.svg"
+      },
+      {
+        "key": "police_officer_wave",
+        "file": "assets/professions/police_officer_wave.svg"
+      },
+      {
+        "key": "sailor_ship",
+        "file": "assets/professions/sailor_ship.svg"
+      },
+      {
+        "key": "scientist_microscope",
+        "file": "assets/professions/scientist_microscope.svg"
+      },
+      {
+        "key": "singer_microphone",
+        "file": "assets/professions/singer_microphone.svg"
+      },
+      {
+        "key": "soccer_player",
+        "file": "assets/professions/soccer_player.svg"
+      },
+      {
+        "key": "teacher_chalkboard",
+        "file": "assets/professions/teacher_chalkboard.svg"
+      },
+      {
+        "key": "train_conductor_flag",
+        "file": "assets/professions/train_conductor_flag.svg"
+      },
+      {
+        "key": "veterinarian_puppy",
+        "file": "assets/professions/veterinarian_puppy.svg"
+      }
     ]
   },
   "circus_carnival": {
     "items": [
-      { "key": "acrobat_trapeze", "file": "assets/circus_carnival/acrobat_trapeze.svg" },
-      { "key": "carousel_horse_decor", "file": "assets/circus_carnival/carousel_horse_decor.svg" },
-      { "key": "circus_tent_flags", "file": "assets/circus_carnival/circus_tent_flags.svg" },
-      { "key": "clown_car_tiny", "file": "assets/circus_carnival/clown_car_tiny.svg" },
-      { "key": "clown_juggling_balls", "file": "assets/circus_carnival/clown_juggling_balls.svg" },
-      { "key": "cotton_candy_cart", "file": "assets/circus_carnival/cotton_candy_cart.svg" },
-      { "key": "dunk_tank_target", "file": "assets/circus_carnival/dunk_tank_target.svg" },
-      { "key": "elephant_balance_ball", "file": "assets/circus_carnival/elephant_balance_ball.svg" },
-      { "key": "face_painting_station", "file": "assets/circus_carnival/face_painting_station.svg" },
-      { "key": "ferris_wheel_cabins", "file": "assets/circus_carnival/ferris_wheel_cabins.svg" },
-      { "key": "fire_breather_perform", "file": "assets/circus_carnival/fire_breather_perform.svg" },
-      { "key": "game_booth_prizes", "file": "assets/circus_carnival/game_booth_prizes.svg" },
-      { "key": "juggler_clubs", "file": "assets/circus_carnival/juggler_clubs.svg" },
-      { "key": "magician_rabbit_hat", "file": "assets/circus_carnival/magician_rabbit_hat.svg" },
-      { "key": "merry_go_round_lights", "file": "assets/circus_carnival/merry_go_round_lights.svg" },
-      { "key": "mime_push_wall", "file": "assets/circus_carnival/mime_push_wall.svg" },
-      { "key": "parade_balloons", "file": "assets/circus_carnival/parade_balloons.svg" },
-      { "key": "popcorn_stand_fair", "file": "assets/circus_carnival/popcorn_stand_fair.svg" },
-      { "key": "ring_of_fire_show", "file": "assets/circus_carnival/ring_of_fire_show.svg" },
-      { "key": "ringmaster_hat", "file": "assets/circus_carnival/ringmaster_hat.svg" },
-      { "key": "stilt_walker_tall", "file": "assets/circus_carnival/stilt_walker_tall.svg" },
-      { "key": "strongman_barbell", "file": "assets/circus_carnival/strongman_barbell.svg" },
-      { "key": "ticket_booth_sign", "file": "assets/circus_carnival/ticket_booth_sign.svg" },
-      { "key": "tightrope_walker_pole", "file": "assets/circus_carnival/tightrope_walker_pole.svg" },
-      { "key": "unicyclist_balance", "file": "assets/circus_carnival/unicyclist_balance.svg" }
+      {
+        "key": "acrobat_trapeze",
+        "file": "assets/circus_carnival/acrobat_trapeze.svg"
+      },
+      {
+        "key": "carousel_horse_decor",
+        "file": "assets/circus_carnival/carousel_horse_decor.svg"
+      },
+      {
+        "key": "circus_tent_flags",
+        "file": "assets/circus_carnival/circus_tent_flags.svg"
+      },
+      {
+        "key": "clown_car_tiny",
+        "file": "assets/circus_carnival/clown_car_tiny.svg"
+      },
+      {
+        "key": "clown_juggling_balls",
+        "file": "assets/circus_carnival/clown_juggling_balls.svg"
+      },
+      {
+        "key": "cotton_candy_cart",
+        "file": "assets/circus_carnival/cotton_candy_cart.svg"
+      },
+      {
+        "key": "dunk_tank_target",
+        "file": "assets/circus_carnival/dunk_tank_target.svg"
+      },
+      {
+        "key": "elephant_balance_ball",
+        "file": "assets/circus_carnival/elephant_balance_ball.svg"
+      },
+      {
+        "key": "face_painting_station",
+        "file": "assets/circus_carnival/face_painting_station.svg"
+      },
+      {
+        "key": "ferris_wheel_cabins",
+        "file": "assets/circus_carnival/ferris_wheel_cabins.svg"
+      },
+      {
+        "key": "fire_breather_perform",
+        "file": "assets/circus_carnival/fire_breather_perform.svg"
+      },
+      {
+        "key": "game_booth_prizes",
+        "file": "assets/circus_carnival/game_booth_prizes.svg"
+      },
+      {
+        "key": "juggler_clubs",
+        "file": "assets/circus_carnival/juggler_clubs.svg"
+      },
+      {
+        "key": "magician_rabbit_hat",
+        "file": "assets/circus_carnival/magician_rabbit_hat.svg"
+      },
+      {
+        "key": "merry_go_round_lights",
+        "file": "assets/circus_carnival/merry_go_round_lights.svg"
+      },
+      {
+        "key": "mime_push_wall",
+        "file": "assets/circus_carnival/mime_push_wall.svg"
+      },
+      {
+        "key": "parade_balloons",
+        "file": "assets/circus_carnival/parade_balloons.svg"
+      },
+      {
+        "key": "popcorn_stand_fair",
+        "file": "assets/circus_carnival/popcorn_stand_fair.svg"
+      },
+      {
+        "key": "ring_of_fire_show",
+        "file": "assets/circus_carnival/ring_of_fire_show.svg"
+      },
+      {
+        "key": "ringmaster_hat",
+        "file": "assets/circus_carnival/ringmaster_hat.svg"
+      },
+      {
+        "key": "stilt_walker_tall",
+        "file": "assets/circus_carnival/stilt_walker_tall.svg"
+      },
+      {
+        "key": "strongman_barbell",
+        "file": "assets/circus_carnival/strongman_barbell.svg"
+      },
+      {
+        "key": "ticket_booth_sign",
+        "file": "assets/circus_carnival/ticket_booth_sign.svg"
+      },
+      {
+        "key": "tightrope_walker_pole",
+        "file": "assets/circus_carnival/tightrope_walker_pole.svg"
+      },
+      {
+        "key": "unicyclist_balance",
+        "file": "assets/circus_carnival/unicyclist_balance.svg"
+      }
     ]
   },
   "dinosaurs_prehistoric": {
     "items": [
-      { "key": "ankylosaurus_club_tail", "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg" },
-      { "key": "archaeopteryx_feathers", "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg" },
-      { "key": "brachiosaurus_eating_leaves", "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg" },
-      { "key": "carnotaurus_horns", "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg" },
-      { "key": "compsognathus_bug", "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg" },
-      { "key": "dimetrodon_sail", "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg" },
-      { "key": "diplodocus_long_neck", "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg" },
-      { "key": "gallimimus_sprint", "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg" },
-      { "key": "iguanodon_thumb_spikes", "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg" },
-      { "key": "kentrosaurus_tail_spikes", "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg" },
-      { "key": "microraptor_glide", "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg" },
-      { "key": "mosasaurus_swimming", "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg" },
-      { "key": "oviraptor_eggs", "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg" },
-      { "key": "pachycephalosaurus_dome_head", "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg" },
-      { "key": "parasaurolophus_crest", "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg" },
-      { "key": "plesiosaur_long_neck", "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg" },
-      { "key": "protoceratops_nest", "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg" },
-      { "key": "pteranodon_perched", "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg" },
-      { "key": "pterodactyl_gliding", "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg" },
-      { "key": "spinosaurus_river", "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg" },
-      { "key": "stegosaurus_spiky_plates", "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg" },
-      { "key": "styracosaurus_long_horns", "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg" },
-      { "key": "trex_roar", "file": "assets/dinosaurs_prehistoric/trex_roar.svg" },
-      { "key": "triceratops_three_horns", "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg" },
-      { "key": "velociraptor_running", "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg" }
+      {
+        "key": "ankylosaurus_club_tail",
+        "file": "assets/dinosaurs_prehistoric/ankylosaurus_club_tail.svg"
+      },
+      {
+        "key": "archaeopteryx_feathers",
+        "file": "assets/dinosaurs_prehistoric/archaeopteryx_feathers.svg"
+      },
+      {
+        "key": "brachiosaurus_eating_leaves",
+        "file": "assets/dinosaurs_prehistoric/brachiosaurus_eating_leaves.svg"
+      },
+      {
+        "key": "carnotaurus_horns",
+        "file": "assets/dinosaurs_prehistoric/carnotaurus_horns.svg"
+      },
+      {
+        "key": "compsognathus_bug",
+        "file": "assets/dinosaurs_prehistoric/compsognathus_bug.svg"
+      },
+      {
+        "key": "dimetrodon_sail",
+        "file": "assets/dinosaurs_prehistoric/dimetrodon_sail.svg"
+      },
+      {
+        "key": "diplodocus_long_neck",
+        "file": "assets/dinosaurs_prehistoric/diplodocus_long_neck.svg"
+      },
+      {
+        "key": "gallimimus_sprint",
+        "file": "assets/dinosaurs_prehistoric/gallimimus_sprint.svg"
+      },
+      {
+        "key": "iguanodon_thumb_spikes",
+        "file": "assets/dinosaurs_prehistoric/iguanodon_thumb_spikes.svg"
+      },
+      {
+        "key": "kentrosaurus_tail_spikes",
+        "file": "assets/dinosaurs_prehistoric/kentrosaurus_tail_spikes.svg"
+      },
+      {
+        "key": "microraptor_glide",
+        "file": "assets/dinosaurs_prehistoric/microraptor_glide.svg"
+      },
+      {
+        "key": "mosasaurus_swimming",
+        "file": "assets/dinosaurs_prehistoric/mosasaurus_swimming.svg"
+      },
+      {
+        "key": "oviraptor_eggs",
+        "file": "assets/dinosaurs_prehistoric/oviraptor_eggs.svg"
+      },
+      {
+        "key": "pachycephalosaurus_dome_head",
+        "file": "assets/dinosaurs_prehistoric/pachycephalosaurus_dome_head.svg"
+      },
+      {
+        "key": "parasaurolophus_crest",
+        "file": "assets/dinosaurs_prehistoric/parasaurolophus_crest.svg"
+      },
+      {
+        "key": "plesiosaur_long_neck",
+        "file": "assets/dinosaurs_prehistoric/plesiosaur_long_neck.svg"
+      },
+      {
+        "key": "protoceratops_nest",
+        "file": "assets/dinosaurs_prehistoric/protoceratops_nest.svg"
+      },
+      {
+        "key": "pteranodon_perched",
+        "file": "assets/dinosaurs_prehistoric/pteranodon_perched.svg"
+      },
+      {
+        "key": "pterodactyl_gliding",
+        "file": "assets/dinosaurs_prehistoric/pterodactyl_gliding.svg"
+      },
+      {
+        "key": "spinosaurus_river",
+        "file": "assets/dinosaurs_prehistoric/spinosaurus_river.svg"
+      },
+      {
+        "key": "stegosaurus_spiky_plates",
+        "file": "assets/dinosaurs_prehistoric/stegosaurus_spiky_plates.svg"
+      },
+      {
+        "key": "styracosaurus_long_horns",
+        "file": "assets/dinosaurs_prehistoric/styracosaurus_long_horns.svg"
+      },
+      {
+        "key": "trex_roar",
+        "file": "assets/dinosaurs_prehistoric/trex_roar.svg"
+      },
+      {
+        "key": "triceratops_three_horns",
+        "file": "assets/dinosaurs_prehistoric/triceratops_three_horns.svg"
+      },
+      {
+        "key": "velociraptor_running",
+        "file": "assets/dinosaurs_prehistoric/velociraptor_running.svg"
+      }
     ]
   },
   "food_treats": {
     "items": [
-      { "key": "banana_split_dessert", "file": "assets/food_treats/banana_split_dessert.svg" },
-      { "key": "birthday_cake_candles", "file": "assets/food_treats/birthday_cake_candles.svg" },
-      { "key": "blueberry_muffin", "file": "assets/food_treats/blueberry_muffin.svg" },
-      { "key": "bowl_strawberries", "file": "assets/food_treats/bowl_strawberries.svg" },
-      { "key": "burger_fries_tray", "file": "assets/food_treats/burger_fries_tray.svg" },
-      { "key": "candy_cane_stripes", "file": "assets/food_treats/candy_cane_stripes.svg" },
-      { "key": "cheese_wedge_crackers", "file": "assets/food_treats/cheese_wedge_crackers.svg" },
-      { "key": "chocolate_bar_squares", "file": "assets/food_treats/chocolate_bar_squares.svg" },
-      { "key": "cupcake_fluffy_frosting", "file": "assets/food_treats/cupcake_fluffy_frosting.svg" },
-      { "key": "donut_chocolate_glaze", "file": "assets/food_treats/donut_chocolate_glaze.svg" },
-      { "key": "grapes_purple_bunch", "file": "assets/food_treats/grapes_purple_bunch.svg" },
-      { "key": "hot_dog_mustard", "file": "assets/food_treats/hot_dog_mustard.svg" },
-      { "key": "ice_cream_sprinkles", "file": "assets/food_treats/ice_cream_sprinkles.svg" },
-      { "key": "lollipop_swirly", "file": "assets/food_treats/lollipop_swirly.svg" },
-      { "key": "milkshake_with_straw", "file": "assets/food_treats/milkshake_with_straw.svg" },
-      { "key": "pancake_butter_plate", "file": "assets/food_treats/pancake_butter_plate.svg" },
-      { "key": "pancakes_stack_syrup", "file": "assets/food_treats/pancakes_stack_syrup.svg" },
-      { "key": "pizza_extra_cheese", "file": "assets/food_treats/pizza_extra_cheese.svg" },
-      { "key": "popcorn_bucket_kernels", "file": "assets/food_treats/popcorn_bucket_kernels.svg" },
-      { "key": "pretzel_salt_crystals", "file": "assets/food_treats/pretzel_salt_crystals.svg" },
-      { "key": "salad_bowl_colorful", "file": "assets/food_treats/salad_bowl_colorful.svg" },
-      { "key": "sandwich_lettuce_tomato", "file": "assets/food_treats/sandwich_lettuce_tomato.svg" },
-      { "key": "taco_tasty_toppings", "file": "assets/food_treats/taco_tasty_toppings.svg" },
-      { "key": "watermelon_juicy_slice", "file": "assets/food_treats/watermelon_juicy_slice.svg" },
-      { "key": "cinnamon_roll_warm", "file": "assets/food_treats/cinnamon_roll_warm.svg" }
+      {
+        "key": "banana_split_dessert",
+        "file": "assets/food_treats/banana_split_dessert.svg"
+      },
+      {
+        "key": "birthday_cake_candles",
+        "file": "assets/food_treats/birthday_cake_candles.svg"
+      },
+      {
+        "key": "blueberry_muffin",
+        "file": "assets/food_treats/blueberry_muffin.svg"
+      },
+      {
+        "key": "bowl_strawberries",
+        "file": "assets/food_treats/bowl_strawberries.svg"
+      },
+      {
+        "key": "burger_fries_tray",
+        "file": "assets/food_treats/burger_fries_tray.svg"
+      },
+      {
+        "key": "candy_cane_stripes",
+        "file": "assets/food_treats/candy_cane_stripes.svg"
+      },
+      {
+        "key": "cheese_wedge_crackers",
+        "file": "assets/food_treats/cheese_wedge_crackers.svg"
+      },
+      {
+        "key": "chocolate_bar_squares",
+        "file": "assets/food_treats/chocolate_bar_squares.svg"
+      },
+      {
+        "key": "cupcake_fluffy_frosting",
+        "file": "assets/food_treats/cupcake_fluffy_frosting.svg"
+      },
+      {
+        "key": "donut_chocolate_glaze",
+        "file": "assets/food_treats/donut_chocolate_glaze.svg"
+      },
+      {
+        "key": "grapes_purple_bunch",
+        "file": "assets/food_treats/grapes_purple_bunch.svg"
+      },
+      {
+        "key": "hot_dog_mustard",
+        "file": "assets/food_treats/hot_dog_mustard.svg"
+      },
+      {
+        "key": "ice_cream_sprinkles",
+        "file": "assets/food_treats/ice_cream_sprinkles.svg"
+      },
+      {
+        "key": "lollipop_swirly",
+        "file": "assets/food_treats/lollipop_swirly.svg"
+      },
+      {
+        "key": "milkshake_with_straw",
+        "file": "assets/food_treats/milkshake_with_straw.svg"
+      },
+      {
+        "key": "pancake_butter_plate",
+        "file": "assets/food_treats/pancake_butter_plate.svg"
+      },
+      {
+        "key": "pancakes_stack_syrup",
+        "file": "assets/food_treats/pancakes_stack_syrup.svg"
+      },
+      {
+        "key": "pizza_extra_cheese",
+        "file": "assets/food_treats/pizza_extra_cheese.svg"
+      },
+      {
+        "key": "popcorn_bucket_kernels",
+        "file": "assets/food_treats/popcorn_bucket_kernels.svg"
+      },
+      {
+        "key": "pretzel_salt_crystals",
+        "file": "assets/food_treats/pretzel_salt_crystals.svg"
+      },
+      {
+        "key": "salad_bowl_colorful",
+        "file": "assets/food_treats/salad_bowl_colorful.svg"
+      },
+      {
+        "key": "sandwich_lettuce_tomato",
+        "file": "assets/food_treats/sandwich_lettuce_tomato.svg"
+      },
+      {
+        "key": "taco_tasty_toppings",
+        "file": "assets/food_treats/taco_tasty_toppings.svg"
+      },
+      {
+        "key": "watermelon_juicy_slice",
+        "file": "assets/food_treats/watermelon_juicy_slice.svg"
+      },
+      {
+        "key": "cinnamon_roll_warm",
+        "file": "assets/food_treats/cinnamon_roll_warm.svg"
+      }
     ]
   },
   "seasons_weather": {
     "items": [
-      { "key": "autumn_leaves_tree", "file": "assets/seasons_weather/autumn_leaves_tree.svg" },
-      { "key": "beach_sun_umbrella", "file": "assets/seasons_weather/beach_sun_umbrella.svg" },
-      { "key": "blooming_cherry_tree", "file": "assets/seasons_weather/blooming_cherry_tree.svg" },
-      { "key": "cozy_cabin_winter", "file": "assets/seasons_weather/cozy_cabin_winter.svg" },
-      { "key": "kid_puddles_boots", "file": "assets/seasons_weather/kid_puddles_boots.svg" },
-      { "key": "kite_breezy_day", "file": "assets/seasons_weather/kite_breezy_day.svg" },
-      { "key": "picnic_bright_sun", "file": "assets/seasons_weather/picnic_bright_sun.svg" },
-      { "key": "pinwheel_spinning_wind", "file": "assets/seasons_weather/pinwheel_spinning_wind.svg" },
-      { "key": "rain_cloud_raindrops", "file": "assets/seasons_weather/rain_cloud_raindrops.svg" },
-      { "key": "rainbow_after_rain", "file": "assets/seasons_weather/rainbow_after_rain.svg" },
-      { "key": "rainy_day_umbrella", "file": "assets/seasons_weather/rainy_day_umbrella.svg" },
-      { "key": "scarecrow_fall_field", "file": "assets/seasons_weather/scarecrow_fall_field.svg" },
-      { "key": "sled_down_hill", "file": "assets/seasons_weather/sled_down_hill.svg" },
-      { "key": "snow_pine_tree", "file": "assets/seasons_weather/snow_pine_tree.svg" },
-      { "key": "snowflake_pattern", "file": "assets/seasons_weather/snowflake_pattern.svg" },
-      { "key": "spring_butterfly_garden", "file": "assets/seasons_weather/spring_butterfly_garden.svg" },
-      { "key": "spring_meadow_flowers", "file": "assets/seasons_weather/spring_meadow_flowers.svg" },
-      { "key": "sunflower_bright_sun", "file": "assets/seasons_weather/sunflower_bright_sun.svg" },
-      { "key": "sunny_smiling_sun", "file": "assets/seasons_weather/sunny_smiling_sun.svg" },
-      { "key": "thermometer_hot_day", "file": "assets/seasons_weather/thermometer_hot_day.svg" },
-      { "key": "thundercloud_lightning", "file": "assets/seasons_weather/thundercloud_lightning.svg" },
-      { "key": "windy_day_trees", "file": "assets/seasons_weather/windy_day_trees.svg" }
+      {
+        "key": "autumn_leaves_tree",
+        "file": "assets/seasons_weather/autumn_leaves_tree.svg"
+      },
+      {
+        "key": "beach_sun_umbrella",
+        "file": "assets/seasons_weather/beach_sun_umbrella.svg"
+      },
+      {
+        "key": "blooming_cherry_tree",
+        "file": "assets/seasons_weather/blooming_cherry_tree.svg"
+      },
+      {
+        "key": "cozy_cabin_winter",
+        "file": "assets/seasons_weather/cozy_cabin_winter.svg"
+      },
+      {
+        "key": "kid_puddles_boots",
+        "file": "assets/seasons_weather/kid_puddles_boots.svg"
+      },
+      {
+        "key": "kite_breezy_day",
+        "file": "assets/seasons_weather/kite_breezy_day.svg"
+      },
+      {
+        "key": "picnic_bright_sun",
+        "file": "assets/seasons_weather/picnic_bright_sun.svg"
+      },
+      {
+        "key": "pinwheel_spinning_wind",
+        "file": "assets/seasons_weather/pinwheel_spinning_wind.svg"
+      },
+      {
+        "key": "rain_cloud_raindrops",
+        "file": "assets/seasons_weather/rain_cloud_raindrops.svg"
+      },
+      {
+        "key": "rainbow_after_rain",
+        "file": "assets/seasons_weather/rainbow_after_rain.svg"
+      },
+      {
+        "key": "rainy_day_umbrella",
+        "file": "assets/seasons_weather/rainy_day_umbrella.svg"
+      },
+      {
+        "key": "scarecrow_fall_field",
+        "file": "assets/seasons_weather/scarecrow_fall_field.svg"
+      },
+      {
+        "key": "sled_down_hill",
+        "file": "assets/seasons_weather/sled_down_hill.svg"
+      },
+      {
+        "key": "snow_pine_tree",
+        "file": "assets/seasons_weather/snow_pine_tree.svg"
+      },
+      {
+        "key": "snowflake_pattern",
+        "file": "assets/seasons_weather/snowflake_pattern.svg"
+      },
+      {
+        "key": "spring_butterfly_garden",
+        "file": "assets/seasons_weather/spring_butterfly_garden.svg"
+      },
+      {
+        "key": "spring_meadow_flowers",
+        "file": "assets/seasons_weather/spring_meadow_flowers.svg"
+      },
+      {
+        "key": "sunflower_bright_sun",
+        "file": "assets/seasons_weather/sunflower_bright_sun.svg"
+      },
+      {
+        "key": "sunny_smiling_sun",
+        "file": "assets/seasons_weather/sunny_smiling_sun.svg"
+      },
+      {
+        "key": "thermometer_hot_day",
+        "file": "assets/seasons_weather/thermometer_hot_day.svg"
+      },
+      {
+        "key": "thundercloud_lightning",
+        "file": "assets/seasons_weather/thundercloud_lightning.svg"
+      },
+      {
+        "key": "windy_day_trees",
+        "file": "assets/seasons_weather/windy_day_trees.svg"
+      }
     ]
   },
   "space_science": {
     "items": [
-      { "key": "alien_wave_hello", "file": "assets/space_science/alien_wave_hello.svg" },
-      { "key": "asteroid_floating", "file": "assets/space_science/asteroid_floating.svg" },
-      { "key": "astronaut_flag_moon", "file": "assets/space_science/astronaut_flag_moon.svg" },
-      { "key": "astronaut_tether", "file": "assets/space_science/astronaut_tether.svg" },
-      { "key": "black_hole_swirls", "file": "assets/space_science/black_hole_swirls.svg" },
-      { "key": "bright_star_shining", "file": "assets/space_science/bright_star_shining.svg" },
-      { "key": "capsule_parachute", "file": "assets/space_science/capsule_parachute.svg" },
-      { "key": "comet_streak", "file": "assets/space_science/comet_streak.svg" },
-      { "key": "constellation_kite", "file": "assets/space_science/constellation_kite.svg" },
-      { "key": "mars_rover_wheels", "file": "assets/space_science/mars_rover_wheels.svg" },
-      { "key": "meteor_shower_mountains", "file": "assets/space_science/meteor_shower_mountains.svg" },
-      { "key": "moon_craters_close", "file": "assets/space_science/moon_craters_close.svg" },
-      { "key": "planet_many_moons", "file": "assets/space_science/planet_many_moons.svg" },
-      { "key": "ringed_planet_moons", "file": "assets/space_science/ringed_planet_moons.svg" },
-      { "key": "rocket_blastoff", "file": "assets/space_science/rocket_blastoff.svg" },
-      { "key": "rocket_launch_pad", "file": "assets/space_science/rocket_launch_pad.svg" },
-      { "key": "satellite_orbit_earth", "file": "assets/space_science/satellite_orbit_earth.svg" },
-      { "key": "scientist_star_charts", "file": "assets/space_science/scientist_star_charts.svg" },
-      { "key": "solar_system_model", "file": "assets/space_science/solar_system_model.svg" },
-      { "key": "space_shuttle_landing", "file": "assets/space_science/space_shuttle_landing.svg" },
-      { "key": "space_station_panels", "file": "assets/space_science/space_station_panels.svg" },
-      { "key": "spaceship_among_planets", "file": "assets/space_science/spaceship_among_planets.svg" },
-      { "key": "spiral_galaxy", "file": "assets/space_science/spiral_galaxy.svg" },
-      { "key": "telescope_twinkle_stars", "file": "assets/space_science/telescope_twinkle_stars.svg" },
-      { "key": "ufo_zooming", "file": "assets/space_science/ufo_zooming.svg" }
+      {
+        "key": "alien_wave_hello",
+        "file": "assets/space_science/alien_wave_hello.svg"
+      },
+      {
+        "key": "asteroid_floating",
+        "file": "assets/space_science/asteroid_floating.svg"
+      },
+      {
+        "key": "astronaut_flag_moon",
+        "file": "assets/space_science/astronaut_flag_moon.svg"
+      },
+      {
+        "key": "astronaut_tether",
+        "file": "assets/space_science/astronaut_tether.svg"
+      },
+      {
+        "key": "black_hole_swirls",
+        "file": "assets/space_science/black_hole_swirls.svg"
+      },
+      {
+        "key": "bright_star_shining",
+        "file": "assets/space_science/bright_star_shining.svg"
+      },
+      {
+        "key": "capsule_parachute",
+        "file": "assets/space_science/capsule_parachute.svg"
+      },
+      {
+        "key": "comet_streak",
+        "file": "assets/space_science/comet_streak.svg"
+      },
+      {
+        "key": "constellation_kite",
+        "file": "assets/space_science/constellation_kite.svg"
+      },
+      {
+        "key": "mars_rover_wheels",
+        "file": "assets/space_science/mars_rover_wheels.svg"
+      },
+      {
+        "key": "meteor_shower_mountains",
+        "file": "assets/space_science/meteor_shower_mountains.svg"
+      },
+      {
+        "key": "moon_craters_close",
+        "file": "assets/space_science/moon_craters_close.svg"
+      },
+      {
+        "key": "planet_many_moons",
+        "file": "assets/space_science/planet_many_moons.svg"
+      },
+      {
+        "key": "ringed_planet_moons",
+        "file": "assets/space_science/ringed_planet_moons.svg"
+      },
+      {
+        "key": "rocket_blastoff",
+        "file": "assets/space_science/rocket_blastoff.svg"
+      },
+      {
+        "key": "rocket_launch_pad",
+        "file": "assets/space_science/rocket_launch_pad.svg"
+      },
+      {
+        "key": "satellite_orbit_earth",
+        "file": "assets/space_science/satellite_orbit_earth.svg"
+      },
+      {
+        "key": "scientist_star_charts",
+        "file": "assets/space_science/scientist_star_charts.svg"
+      },
+      {
+        "key": "solar_system_model",
+        "file": "assets/space_science/solar_system_model.svg"
+      },
+      {
+        "key": "space_shuttle_landing",
+        "file": "assets/space_science/space_shuttle_landing.svg"
+      },
+      {
+        "key": "space_station_panels",
+        "file": "assets/space_science/space_station_panels.svg"
+      },
+      {
+        "key": "spaceship_among_planets",
+        "file": "assets/space_science/spaceship_among_planets.svg"
+      },
+      {
+        "key": "spiral_galaxy",
+        "file": "assets/space_science/spiral_galaxy.svg"
+      },
+      {
+        "key": "telescope_twinkle_stars",
+        "file": "assets/space_science/telescope_twinkle_stars.svg"
+      },
+      {
+        "key": "ufo_zooming",
+        "file": "assets/space_science/ufo_zooming.svg"
+      }
     ]
   },
   "sports_activities": {
     "items": [
-      { "key": "baseball_home_run", "file": "assets/sports_activities/baseball_home_run.svg" },
-      { "key": "basketball_slam_dunk", "file": "assets/sports_activities/basketball_slam_dunk.svg" },
-      { "key": "bowler_rolling_strike", "file": "assets/sports_activities/bowler_rolling_strike.svg" },
-      { "key": "boxer_throwing_jab", "file": "assets/sports_activities/boxer_throwing_jab.svg" },
-      { "key": "climber_mountain_summit", "file": "assets/sports_activities/climber_mountain_summit.svg" },
-      { "key": "cyclist_uphill", "file": "assets/sports_activities/cyclist_uphill.svg" },
-      { "key": "dancer_grand_jete", "file": "assets/sports_activities/dancer_grand_jete.svg" },
-      { "key": "fencer_lunge", "file": "assets/sports_activities/fencer_lunge.svg" },
-      { "key": "fishing_kid_fish", "file": "assets/sports_activities/fishing_kid_fish.svg" },
-      { "key": "golfer_swing_club", "file": "assets/sports_activities/golfer_swing_club.svg" },
-      { "key": "gymnast_beam_split", "file": "assets/sports_activities/gymnast_beam_split.svg" },
-      { "key": "hockey_slapshot", "file": "assets/sports_activities/hockey_slapshot.svg" },
-      { "key": "horse_rider_jump", "file": "assets/sports_activities/horse_rider_jump.svg" },
-      { "key": "karate_high_kick", "file": "assets/sports_activities/karate_high_kick.svg" },
-      { "key": "rugby_runner_ball", "file": "assets/sports_activities/rugby_runner_ball.svg" },
-      { "key": "runner_finish_line", "file": "assets/sports_activities/runner_finish_line.svg" },
-      { "key": "skateboarder_kickflip", "file": "assets/sports_activities/skateboarder_kickflip.svg" },
-      { "key": "skier_downhill_snow", "file": "assets/sports_activities/skier_downhill_snow.svg" },
-      { "key": "snowboarder_flip", "file": "assets/sports_activities/snowboarder_flip.svg" },
-      { "key": "soccer_player_kick", "file": "assets/sports_activities/soccer_player_kick.svg" },
-      { "key": "surfer_big_wave", "file": "assets/sports_activities/surfer_big_wave.svg" },
-      { "key": "swimmer_butterfly_stroke", "file": "assets/sports_activities/swimmer_butterfly_stroke.svg" },
-      { "key": "tennis_serve_ball", "file": "assets/sports_activities/tennis_serve_ball.svg" },
-      { "key": "volleyball_spike", "file": "assets/sports_activities/volleyball_spike.svg" },
-      { "key": "weightlifter_barbell", "file": "assets/sports_activities/weightlifter_barbell.svg" }
+      {
+        "key": "baseball_home_run",
+        "file": "assets/sports_activities/baseball_home_run.svg"
+      },
+      {
+        "key": "basketball_slam_dunk",
+        "file": "assets/sports_activities/basketball_slam_dunk.svg"
+      },
+      {
+        "key": "bowler_rolling_strike",
+        "file": "assets/sports_activities/bowler_rolling_strike.svg"
+      },
+      {
+        "key": "boxer_throwing_jab",
+        "file": "assets/sports_activities/boxer_throwing_jab.svg"
+      },
+      {
+        "key": "climber_mountain_summit",
+        "file": "assets/sports_activities/climber_mountain_summit.svg"
+      },
+      {
+        "key": "cyclist_uphill",
+        "file": "assets/sports_activities/cyclist_uphill.svg"
+      },
+      {
+        "key": "dancer_grand_jete",
+        "file": "assets/sports_activities/dancer_grand_jete.svg"
+      },
+      {
+        "key": "fencer_lunge",
+        "file": "assets/sports_activities/fencer_lunge.svg"
+      },
+      {
+        "key": "fishing_kid_fish",
+        "file": "assets/sports_activities/fishing_kid_fish.svg"
+      },
+      {
+        "key": "golfer_swing_club",
+        "file": "assets/sports_activities/golfer_swing_club.svg"
+      },
+      {
+        "key": "gymnast_beam_split",
+        "file": "assets/sports_activities/gymnast_beam_split.svg"
+      },
+      {
+        "key": "hockey_slapshot",
+        "file": "assets/sports_activities/hockey_slapshot.svg"
+      },
+      {
+        "key": "horse_rider_jump",
+        "file": "assets/sports_activities/horse_rider_jump.svg"
+      },
+      {
+        "key": "karate_high_kick",
+        "file": "assets/sports_activities/karate_high_kick.svg"
+      },
+      {
+        "key": "rugby_runner_ball",
+        "file": "assets/sports_activities/rugby_runner_ball.svg"
+      },
+      {
+        "key": "runner_finish_line",
+        "file": "assets/sports_activities/runner_finish_line.svg"
+      },
+      {
+        "key": "skateboarder_kickflip",
+        "file": "assets/sports_activities/skateboarder_kickflip.svg"
+      },
+      {
+        "key": "skier_downhill_snow",
+        "file": "assets/sports_activities/skier_downhill_snow.svg"
+      },
+      {
+        "key": "snowboarder_flip",
+        "file": "assets/sports_activities/snowboarder_flip.svg"
+      },
+      {
+        "key": "soccer_player_kick",
+        "file": "assets/sports_activities/soccer_player_kick.svg"
+      },
+      {
+        "key": "surfer_big_wave",
+        "file": "assets/sports_activities/surfer_big_wave.svg"
+      },
+      {
+        "key": "swimmer_butterfly_stroke",
+        "file": "assets/sports_activities/swimmer_butterfly_stroke.svg"
+      },
+      {
+        "key": "tennis_serve_ball",
+        "file": "assets/sports_activities/tennis_serve_ball.svg"
+      },
+      {
+        "key": "volleyball_spike",
+        "file": "assets/sports_activities/volleyball_spike.svg"
+      },
+      {
+        "key": "weightlifter_barbell",
+        "file": "assets/sports_activities/weightlifter_barbell.svg"
+      }
     ]
   },
   "underwater_world": {
     "items": [
-      { "key": "beach_bucket_shells", "file": "assets/underwater_world/beach_bucket_shells.svg" },
-      { "key": "clam_with_pearl", "file": "assets/underwater_world/clam_with_pearl.svg" },
-      { "key": "coral_reef_shapes", "file": "assets/underwater_world/coral_reef_shapes.svg" },
-      { "key": "crab_sandy_bed", "file": "assets/underwater_world/crab_sandy_bed.svg" },
-      { "key": "diver_thumbs_up", "file": "assets/underwater_world/diver_thumbs_up.svg" },
-      { "key": "dolphin_jump_waves", "file": "assets/underwater_world/dolphin_jump_waves.svg" },
-      { "key": "fish_school_heart", "file": "assets/underwater_world/fish_school_heart.svg" },
-      { "key": "hermit_crab_swirl_shell", "file": "assets/underwater_world/hermit_crab_swirl_shell.svg" },
-      { "key": "jellyfish_floating", "file": "assets/underwater_world/jellyfish_floating.svg" },
-      { "key": "kelp_forest_fish", "file": "assets/underwater_world/kelp_forest_fish.svg" },
-      { "key": "lighthouse_ocean", "file": "assets/underwater_world/lighthouse_ocean.svg" },
-      { "key": "lobster_waving_claw", "file": "assets/underwater_world/lobster_waving_claw.svg" },
-      { "key": "manta_ray_glide", "file": "assets/underwater_world/manta_ray_glide.svg" },
-      { "key": "mermaid_tail_splash", "file": "assets/underwater_world/mermaid_tail_splash.svg" },
-      { "key": "octopus_waving", "file": "assets/underwater_world/octopus_waving.svg" },
-      { "key": "otter_holding_shell", "file": "assets/underwater_world/otter_holding_shell.svg" },
-      { "key": "pirate_treasure_undersea", "file": "assets/underwater_world/pirate_treasure_undersea.svg" },
-      { "key": "pufferfish_puffed", "file": "assets/underwater_world/pufferfish_puffed.svg" },
-      { "key": "sea_lion_clap", "file": "assets/underwater_world/sea_lion_clap.svg" },
-      { "key": "sea_turtle_coral", "file": "assets/underwater_world/sea_turtle_coral.svg" },
-      { "key": "seahorse_seaweed", "file": "assets/underwater_world/seahorse_seaweed.svg" },
-      { "key": "shark_smile", "file": "assets/underwater_world/shark_smile.svg" },
-      { "key": "starfish_on_rock", "file": "assets/underwater_world/starfish_on_rock.svg" },
-      { "key": "submarine_round_windows", "file": "assets/underwater_world/submarine_round_windows.svg" },
-      { "key": "whale_spout_water", "file": "assets/underwater_world/whale_spout_water.svg" }
+      {
+        "key": "beach_bucket_shells",
+        "file": "assets/underwater_world/beach_bucket_shells.svg"
+      },
+      {
+        "key": "clam_with_pearl",
+        "file": "assets/underwater_world/clam_with_pearl.svg"
+      },
+      {
+        "key": "coral_reef_shapes",
+        "file": "assets/underwater_world/coral_reef_shapes.svg"
+      },
+      {
+        "key": "crab_sandy_bed",
+        "file": "assets/underwater_world/crab_sandy_bed.svg"
+      },
+      {
+        "key": "diver_thumbs_up",
+        "file": "assets/underwater_world/diver_thumbs_up.svg"
+      },
+      {
+        "key": "dolphin_jump_waves",
+        "file": "assets/underwater_world/dolphin_jump_waves.svg"
+      },
+      {
+        "key": "fish_school_heart",
+        "file": "assets/underwater_world/fish_school_heart.svg"
+      },
+      {
+        "key": "hermit_crab_swirl_shell",
+        "file": "assets/underwater_world/hermit_crab_swirl_shell.svg"
+      },
+      {
+        "key": "jellyfish_floating",
+        "file": "assets/underwater_world/jellyfish_floating.svg"
+      },
+      {
+        "key": "kelp_forest_fish",
+        "file": "assets/underwater_world/kelp_forest_fish.svg"
+      },
+      {
+        "key": "lighthouse_ocean",
+        "file": "assets/underwater_world/lighthouse_ocean.svg"
+      },
+      {
+        "key": "lobster_waving_claw",
+        "file": "assets/underwater_world/lobster_waving_claw.svg"
+      },
+      {
+        "key": "manta_ray_glide",
+        "file": "assets/underwater_world/manta_ray_glide.svg"
+      },
+      {
+        "key": "mermaid_tail_splash",
+        "file": "assets/underwater_world/mermaid_tail_splash.svg"
+      },
+      {
+        "key": "octopus_waving",
+        "file": "assets/underwater_world/octopus_waving.svg"
+      },
+      {
+        "key": "otter_holding_shell",
+        "file": "assets/underwater_world/otter_holding_shell.svg"
+      },
+      {
+        "key": "pirate_treasure_undersea",
+        "file": "assets/underwater_world/pirate_treasure_undersea.svg"
+      },
+      {
+        "key": "pufferfish_puffed",
+        "file": "assets/underwater_world/pufferfish_puffed.svg"
+      },
+      {
+        "key": "sea_lion_clap",
+        "file": "assets/underwater_world/sea_lion_clap.svg"
+      },
+      {
+        "key": "sea_turtle_coral",
+        "file": "assets/underwater_world/sea_turtle_coral.svg"
+      },
+      {
+        "key": "seahorse_seaweed",
+        "file": "assets/underwater_world/seahorse_seaweed.svg"
+      },
+      {
+        "key": "shark_smile",
+        "file": "assets/underwater_world/shark_smile.svg"
+      },
+      {
+        "key": "starfish_on_rock",
+        "file": "assets/underwater_world/starfish_on_rock.svg"
+      },
+      {
+        "key": "submarine_round_windows",
+        "file": "assets/underwater_world/submarine_round_windows.svg"
+      },
+      {
+        "key": "whale_spout_water",
+        "file": "assets/underwater_world/whale_spout_water.svg"
+      }
     ]
   },
   "minecraft": {
     "items": [
-      { "key": "allay", "file": "assets/minecraft/allay.svg" },
-      { "key": "axolotl", "file": "assets/minecraft/axolotl.svg" },
-      { "key": "baby_goat", "file": "assets/minecraft/baby_goat.svg" },
-      { "key": "baby_pig", "file": "assets/minecraft/baby_pig.svg" },
-      { "key": "baby_sniffer", "file": "assets/minecraft/baby_sniffer.svg" },
-      { "key": "baby_turtle", "file": "assets/minecraft/baby_turtle.svg" },
-      { "key": "baby_villager", "file": "assets/minecraft/baby_villager.svg" },
-      { "key": "baby_zombie", "file": "assets/minecraft/baby_zombie.svg" },
-      { "key": "bat", "file": "assets/minecraft/bat.svg" },
-      { "key": "bee", "file": "assets/minecraft/bee.svg" },
-      { "key": "blaze", "file": "assets/minecraft/blaze.svg" },
-      { "key": "camel", "file": "assets/minecraft/camel.svg" },
-      { "key": "cat", "file": "assets/minecraft/cat.svg" },
-      { "key": "chicken", "file": "assets/minecraft/chicken.svg" },
-      { "key": "chicken_jockey", "file": "assets/minecraft/chicken_jockey.svg" },
-      { "key": "cod", "file": "assets/minecraft/cod.svg" },
-      { "key": "cow", "file": "assets/minecraft/cow.svg" },
-      { "key": "creeper", "file": "assets/minecraft/creeper.svg" },
-      { "key": "dancing_parrot", "file": "assets/minecraft/dancing_parrot.svg" },
-      { "key": "dolphin", "file": "assets/minecraft/dolphin.svg" },
-      { "key": "drowned", "file": "assets/minecraft/drowned.svg" },
-      { "key": "elder_guardian", "file": "assets/minecraft/elder_guardian.svg" },
-      { "key": "end_crystal", "file": "assets/minecraft/end_crystal.svg" },
-      { "key": "ender_dragon", "file": "assets/minecraft/ender_dragon.svg" },
-      { "key": "enderman", "file": "assets/minecraft/enderman.svg" },
-      { "key": "endermite", "file": "assets/minecraft/endermite.svg" },
-      { "key": "evoker", "file": "assets/minecraft/evoker.svg" },
-      { "key": "flying_bee", "file": "assets/minecraft/flying_bee.svg" },
-      { "key": "fox", "file": "assets/minecraft/fox.svg" },
-      { "key": "frog", "file": "assets/minecraft/frog.svg" },
-      { "key": "ghast", "file": "assets/minecraft/ghast.svg" },
-      { "key": "glow_squid", "file": "assets/minecraft/glow_squid.svg" },
-      { "key": "goat", "file": "assets/minecraft/goat.svg" },
-      { "key": "guardian", "file": "assets/minecraft/guardian.svg" },
-      { "key": "hoglin", "file": "assets/minecraft/hoglin.svg" },
-      { "key": "horse", "file": "assets/minecraft/horse.svg" },
-      { "key": "husk", "file": "assets/minecraft/husk.svg" },
-      { "key": "iron_golem", "file": "assets/minecraft/iron_golem.svg" },
-      { "key": "llama", "file": "assets/minecraft/llama.svg" },
-      { "key": "magma_cube_big", "file": "assets/minecraft/magma_cube_big.svg" },
-      { "key": "magma_cube_small", "file": "assets/minecraft/magma_cube_small.svg" },
-      { "key": "mooshroom", "file": "assets/minecraft/mooshroom.svg" },
-      { "key": "ocelot", "file": "assets/minecraft/ocelot.svg" },
-      { "key": "panda", "file": "assets/minecraft/panda.svg" },
-      { "key": "parrot", "file": "assets/minecraft/parrot.svg" },
-      { "key": "phantom", "file": "assets/minecraft/phantom.svg" },
-      { "key": "pig", "file": "assets/minecraft/pig.svg" },
-      { "key": "piglin", "file": "assets/minecraft/piglin.svg" },
-      { "key": "piglin_brute", "file": "assets/minecraft/piglin_brute.svg" },
-      { "key": "pillager", "file": "assets/minecraft/pillager.svg" },
-      { "key": "polar_bear", "file": "assets/minecraft/polar_bear.svg" },
-      { "key": "pufferfish", "file": "assets/minecraft/pufferfish.svg" },
-      { "key": "rabbit", "file": "assets/minecraft/rabbit.svg" },
-      { "key": "ravager", "file": "assets/minecraft/ravager.svg" },
-      { "key": "resting_camel", "file": "assets/minecraft/resting_camel.svg" },
-      { "key": "salmon", "file": "assets/minecraft/salmon.svg" },
-      { "key": "sheep", "file": "assets/minecraft/sheep.svg" },
-      { "key": "shulker", "file": "assets/minecraft/shulker.svg" },
-      { "key": "silver_axolotl", "file": "assets/minecraft/silver_axolotl.svg" },
-      { "key": "silverfish", "file": "assets/minecraft/silverfish.svg" },
-      { "key": "skeleton", "file": "assets/minecraft/skeleton.svg" },
-      { "key": "skeleton_chicken_jockey", "file": "assets/minecraft/skeleton_chicken_jockey.svg" },
-      { "key": "skeleton_horse", "file": "assets/minecraft/skeleton_horse.svg" },
-      { "key": "slime", "file": "assets/minecraft/slime.svg" },
-      { "key": "sniffer", "file": "assets/minecraft/sniffer.svg" },
-      { "key": "snow_fox", "file": "assets/minecraft/snow_fox.svg" },
-      { "key": "snow_golem", "file": "assets/minecraft/snow_golem.svg" },
-      { "key": "spider", "file": "assets/minecraft/spider.svg" },
-      { "key": "spider_jockey", "file": "assets/minecraft/spider_jockey.svg" },
-      { "key": "squid", "file": "assets/minecraft/squid.svg" },
-      { "key": "stray", "file": "assets/minecraft/stray.svg" },
-      { "key": "stray_spider_jockey", "file": "assets/minecraft/stray_spider_jockey.svg" },
-      { "key": "strider", "file": "assets/minecraft/strider.svg" },
-      { "key": "tropical_fish", "file": "assets/minecraft/tropical_fish.svg" },
-      { "key": "turtle", "file": "assets/minecraft/turtle.svg" },
-      { "key": "vex", "file": "assets/minecraft/vex.svg" },
-      { "key": "villager", "file": "assets/minecraft/villager.svg" },
-      { "key": "vindicator", "file": "assets/minecraft/vindicator.svg" },
-      { "key": "wandering_trader", "file": "assets/minecraft/wandering_trader.svg" },
-      { "key": "witch", "file": "assets/minecraft/witch.svg" },
-      { "key": "wither", "file": "assets/minecraft/wither.svg" },
-      { "key": "wither_skeleton", "file": "assets/minecraft/wither_skeleton.svg" },
-      { "key": "wither_spider_jockey", "file": "assets/minecraft/wither_spider_jockey.svg" },
-      { "key": "wolf", "file": "assets/minecraft/wolf.svg" },
-      { "key": "zombie", "file": "assets/minecraft/zombie.svg" },
-      { "key": "zombie_chicken_jockey", "file": "assets/minecraft/zombie_chicken_jockey.svg" },
-      { "key": "zombie_horse", "file": "assets/minecraft/zombie_horse.svg" },
-      { "key": "zombie_pig_jockey", "file": "assets/minecraft/zombie_pig_jockey.svg" },
-      { "key": "zombie_sheep_jockey", "file": "assets/minecraft/zombie_sheep_jockey.svg" },
-      { "key": "zombie_wolf_jockey", "file": "assets/minecraft/zombie_wolf_jockey.svg" },
-      { "key": "zombified_piglin", "file": "assets/minecraft/zombified_piglin.svg" }
+      {
+        "key": "allay",
+        "file": "assets/minecraft/allay.svg",
+        "description": ""
+      },
+      {
+        "key": "axolotl",
+        "file": "assets/minecraft/axolotl.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_goat",
+        "file": "assets/minecraft/baby_goat.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_pig",
+        "file": "assets/minecraft/baby_pig.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_sniffer",
+        "file": "assets/minecraft/baby_sniffer.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_turtle",
+        "file": "assets/minecraft/baby_turtle.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_villager",
+        "file": "assets/minecraft/baby_villager.svg",
+        "description": ""
+      },
+      {
+        "key": "baby_zombie",
+        "file": "assets/minecraft/baby_zombie.svg",
+        "description": ""
+      },
+      {
+        "key": "bat",
+        "file": "assets/minecraft/bat.svg",
+        "description": ""
+      },
+      {
+        "key": "bee",
+        "file": "assets/minecraft/bee.svg",
+        "description": ""
+      },
+      {
+        "key": "blaze",
+        "file": "assets/minecraft/blaze.svg",
+        "description": ""
+      },
+      {
+        "key": "camel",
+        "file": "assets/minecraft/camel.svg",
+        "description": ""
+      },
+      {
+        "key": "cat",
+        "file": "assets/minecraft/cat.svg",
+        "description": ""
+      },
+      {
+        "key": "chicken",
+        "file": "assets/minecraft/chicken.svg",
+        "description": ""
+      },
+      {
+        "key": "chicken_jockey",
+        "file": "assets/minecraft/chicken_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "cod",
+        "file": "assets/minecraft/cod.svg",
+        "description": ""
+      },
+      {
+        "key": "cow",
+        "file": "assets/minecraft/cow.svg",
+        "description": ""
+      },
+      {
+        "key": "creeper",
+        "file": "assets/minecraft/creeper.svg",
+        "description": ""
+      },
+      {
+        "key": "dancing_parrot",
+        "file": "assets/minecraft/dancing_parrot.svg",
+        "description": ""
+      },
+      {
+        "key": "dolphin",
+        "file": "assets/minecraft/dolphin.svg",
+        "description": ""
+      },
+      {
+        "key": "drowned",
+        "file": "assets/minecraft/drowned.svg",
+        "description": ""
+      },
+      {
+        "key": "elder_guardian",
+        "file": "assets/minecraft/elder_guardian.svg",
+        "description": ""
+      },
+      {
+        "key": "end_crystal",
+        "file": "assets/minecraft/end_crystal.svg",
+        "description": ""
+      },
+      {
+        "key": "ender_dragon",
+        "file": "assets/minecraft/ender_dragon.svg",
+        "description": ""
+      },
+      {
+        "key": "enderman",
+        "file": "assets/minecraft/enderman.svg",
+        "description": ""
+      },
+      {
+        "key": "endermite",
+        "file": "assets/minecraft/endermite.svg",
+        "description": ""
+      },
+      {
+        "key": "evoker",
+        "file": "assets/minecraft/evoker.svg",
+        "description": ""
+      },
+      {
+        "key": "flying_bee",
+        "file": "assets/minecraft/flying_bee.svg",
+        "description": ""
+      },
+      {
+        "key": "fox",
+        "file": "assets/minecraft/fox.svg",
+        "description": ""
+      },
+      {
+        "key": "frog",
+        "file": "assets/minecraft/frog.svg",
+        "description": ""
+      },
+      {
+        "key": "ghast",
+        "file": "assets/minecraft/ghast.svg",
+        "description": ""
+      },
+      {
+        "key": "glow_squid",
+        "file": "assets/minecraft/glow_squid.svg",
+        "description": ""
+      },
+      {
+        "key": "goat",
+        "file": "assets/minecraft/goat.svg",
+        "description": ""
+      },
+      {
+        "key": "guardian",
+        "file": "assets/minecraft/guardian.svg",
+        "description": ""
+      },
+      {
+        "key": "hoglin",
+        "file": "assets/minecraft/hoglin.svg",
+        "description": ""
+      },
+      {
+        "key": "horse",
+        "file": "assets/minecraft/horse.svg",
+        "description": ""
+      },
+      {
+        "key": "husk",
+        "file": "assets/minecraft/husk.svg",
+        "description": ""
+      },
+      {
+        "key": "iron_golem",
+        "file": "assets/minecraft/iron_golem.svg",
+        "description": ""
+      },
+      {
+        "key": "llama",
+        "file": "assets/minecraft/llama.svg",
+        "description": ""
+      },
+      {
+        "key": "magma_cube_big",
+        "file": "assets/minecraft/magma_cube_big.svg",
+        "description": ""
+      },
+      {
+        "key": "magma_cube_small",
+        "file": "assets/minecraft/magma_cube_small.svg",
+        "description": ""
+      },
+      {
+        "key": "mooshroom",
+        "file": "assets/minecraft/mooshroom.svg",
+        "description": ""
+      },
+      {
+        "key": "ocelot",
+        "file": "assets/minecraft/ocelot.svg",
+        "description": ""
+      },
+      {
+        "key": "panda",
+        "file": "assets/minecraft/panda.svg",
+        "description": ""
+      },
+      {
+        "key": "parrot",
+        "file": "assets/minecraft/parrot.svg",
+        "description": ""
+      },
+      {
+        "key": "phantom",
+        "file": "assets/minecraft/phantom.svg",
+        "description": ""
+      },
+      {
+        "key": "pig",
+        "file": "assets/minecraft/pig.svg",
+        "description": ""
+      },
+      {
+        "key": "piglin",
+        "file": "assets/minecraft/piglin.svg",
+        "description": ""
+      },
+      {
+        "key": "piglin_brute",
+        "file": "assets/minecraft/piglin_brute.svg",
+        "description": ""
+      },
+      {
+        "key": "pillager",
+        "file": "assets/minecraft/pillager.svg",
+        "description": ""
+      },
+      {
+        "key": "polar_bear",
+        "file": "assets/minecraft/polar_bear.svg",
+        "description": ""
+      },
+      {
+        "key": "pufferfish",
+        "file": "assets/minecraft/pufferfish.svg",
+        "description": ""
+      },
+      {
+        "key": "rabbit",
+        "file": "assets/minecraft/rabbit.svg",
+        "description": ""
+      },
+      {
+        "key": "ravager",
+        "file": "assets/minecraft/ravager.svg",
+        "description": ""
+      },
+      {
+        "key": "resting_camel",
+        "file": "assets/minecraft/resting_camel.svg",
+        "description": ""
+      },
+      {
+        "key": "salmon",
+        "file": "assets/minecraft/salmon.svg",
+        "description": ""
+      },
+      {
+        "key": "sheep",
+        "file": "assets/minecraft/sheep.svg",
+        "description": ""
+      },
+      {
+        "key": "shulker",
+        "file": "assets/minecraft/shulker.svg",
+        "description": ""
+      },
+      {
+        "key": "silver_axolotl",
+        "file": "assets/minecraft/silver_axolotl.svg",
+        "description": ""
+      },
+      {
+        "key": "silverfish",
+        "file": "assets/minecraft/silverfish.svg",
+        "description": ""
+      },
+      {
+        "key": "skeleton",
+        "file": "assets/minecraft/skeleton.svg",
+        "description": ""
+      },
+      {
+        "key": "skeleton_chicken_jockey",
+        "file": "assets/minecraft/skeleton_chicken_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "skeleton_horse",
+        "file": "assets/minecraft/skeleton_horse.svg",
+        "description": ""
+      },
+      {
+        "key": "slime",
+        "file": "assets/minecraft/slime.svg",
+        "description": ""
+      },
+      {
+        "key": "sniffer",
+        "file": "assets/minecraft/sniffer.svg",
+        "description": ""
+      },
+      {
+        "key": "snow_fox",
+        "file": "assets/minecraft/snow_fox.svg",
+        "description": ""
+      },
+      {
+        "key": "snow_golem",
+        "file": "assets/minecraft/snow_golem.svg",
+        "description": ""
+      },
+      {
+        "key": "spider",
+        "file": "assets/minecraft/spider.svg",
+        "description": ""
+      },
+      {
+        "key": "spider_jockey",
+        "file": "assets/minecraft/spider_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "squid",
+        "file": "assets/minecraft/squid.svg",
+        "description": ""
+      },
+      {
+        "key": "stray",
+        "file": "assets/minecraft/stray.svg",
+        "description": ""
+      },
+      {
+        "key": "stray_spider_jockey",
+        "file": "assets/minecraft/stray_spider_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "strider",
+        "file": "assets/minecraft/strider.svg",
+        "description": ""
+      },
+      {
+        "key": "tropical_fish",
+        "file": "assets/minecraft/tropical_fish.svg",
+        "description": ""
+      },
+      {
+        "key": "turtle",
+        "file": "assets/minecraft/turtle.svg",
+        "description": ""
+      },
+      {
+        "key": "vex",
+        "file": "assets/minecraft/vex.svg",
+        "description": ""
+      },
+      {
+        "key": "villager",
+        "file": "assets/minecraft/villager.svg",
+        "description": ""
+      },
+      {
+        "key": "vindicator",
+        "file": "assets/minecraft/vindicator.svg",
+        "description": ""
+      },
+      {
+        "key": "wandering_trader",
+        "file": "assets/minecraft/wandering_trader.svg",
+        "description": ""
+      },
+      {
+        "key": "witch",
+        "file": "assets/minecraft/witch.svg",
+        "description": ""
+      },
+      {
+        "key": "wither",
+        "file": "assets/minecraft/wither.svg",
+        "description": ""
+      },
+      {
+        "key": "wither_skeleton",
+        "file": "assets/minecraft/wither_skeleton.svg",
+        "description": ""
+      },
+      {
+        "key": "wither_spider_jockey",
+        "file": "assets/minecraft/wither_spider_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "wolf",
+        "file": "assets/minecraft/wolf.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie",
+        "file": "assets/minecraft/zombie.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_chicken_jockey",
+        "file": "assets/minecraft/zombie_chicken_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_horse",
+        "file": "assets/minecraft/zombie_horse.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_pig_jockey",
+        "file": "assets/minecraft/zombie_pig_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_sheep_jockey",
+        "file": "assets/minecraft/zombie_sheep_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "zombie_wolf_jockey",
+        "file": "assets/minecraft/zombie_wolf_jockey.svg",
+        "description": ""
+      },
+      {
+        "key": "zombified_piglin",
+        "file": "assets/minecraft/zombified_piglin.svg",
+        "description": ""
+      }
+    ]
+  },
+  "Christmas": {
+    "title_key": "Christmas",
+    "description": "",
+    "header": "",
+    "items": [
+      {
+        "key": "elves_baking_cookies",
+        "file": "assets/Christmas/elves_baking_cookies.svg",
+        "description": "elves baking gingerbread cookies in a warm kitchen"
+      },
+      {
+        "key": "elves_candy_cane_sorting",
+        "file": "assets/Christmas/elves_candy_cane_sorting.svg",
+        "description": "elves organizing candy canes into colorful patterns"
+      },
+      {
+        "key": "elves_caroling_lanterns",
+        "file": "assets/Christmas/elves_caroling_lanterns.svg",
+        "description": "elves singing carols while holding glowing lanterns"
+      },
+      {
+        "key": "elves_gingerbread_house",
+        "file": "assets/Christmas/elves_gingerbread_house.svg",
+        "description": "three elves decorating a giant gingerbread house"
+      },
+      {
+        "key": "elves_mini_village",
+        "file": "assets/Christmas/elves_mini_village.svg",
+        "description": "two elves building a miniature christmas village"
+      },
+      {
+        "key": "elves_wrapping_presents",
+        "file": "assets/Christmas/elves_wrapping_presents.svg",
+        "description": "two elves wrapping presents in santa's workshop"
+      },
+      {
+        "key": "fox_decorates_tree",
+        "file": "assets/Christmas/fox_decorates_tree.svg",
+        "description": "a fox decorating a small tree with shiny ornaments"
+      },
+      {
+        "key": "gingerbread_family_tree",
+        "file": "assets/Christmas/gingerbread_family_tree.svg",
+        "description": "a gingerbread family decorating a cookie christmas tree"
+      },
+      {
+        "key": "gingerbread_sledding",
+        "file": "assets/Christmas/gingerbread_sledding.svg",
+        "description": "a gingerbread man sledding down a frosting hill"
+      },
+      {
+        "key": "hanging_stockings_full",
+        "file": "assets/Christmas/hanging_stockings_full.svg",
+        "description": "a row of hanging stockings filled with candies and small toys"
+      },
+      {
+        "key": "large_christmas_wreath",
+        "file": "assets/Christmas/large_christmas_wreath.svg",
+        "description": "a large wreath decorated with ribbons, bells, and holly"
+      },
+      {
+        "key": "moose_lights_antlers",
+        "file": "assets/Christmas/moose_lights_antlers.svg",
+        "description": "a moose wearing christmas lights tangled in its antlers"
+      },
+      {
+        "key": "penguin_hot_cocoa",
+        "file": "assets/Christmas/penguin_hot_cocoa.svg",
+        "description": "a penguin holding a cup of hot cocoa by a snowy lantern"
+      },
+      {
+        "key": "penguins_icy_tree",
+        "file": "assets/Christmas/penguins_icy_tree.svg",
+        "description": "a family of penguins decorating an icy christmas tree"
+      },
+      {
+        "key": "polar_bear_scarf_walk",
+        "file": "assets/Christmas/polar_bear_scarf_walk.svg",
+        "description": "a polar bear cub wearing a festive scarf walking through snow"
+      },
+      {
+        "key": "reindeer_mailbox_decor",
+        "file": "assets/Christmas/reindeer_mailbox_decor.svg",
+        "description": "a reindeer decorating a mailbox with holly and ribbons"
+      },
+      {
+        "key": "reindeer_penguin_snow_angels",
+        "file": "assets/Christmas/reindeer_penguin_snow_angels.svg",
+        "description": "a reindeer and penguin making snow angels together"
+      },
+      {
+        "key": "santa_checking_list",
+        "file": "assets/Christmas/santa_checking_list.svg",
+        "description": "santa checking his list beside a pile of wrapped gifts"
+      },
+      {
+        "key": "santa_reading_letters",
+        "file": "assets/Christmas/santa_reading_letters.svg",
+        "description": "santa reading letters from children by the fireplace"
+      },
+      {
+        "key": "santa_sleigh_village",
+        "file": "assets/Christmas/santa_sleigh_village.svg",
+        "description": "santa flying over a snowy village in his sleigh"
+      },
+      {
+        "key": "snowflake_fairy_sparkle",
+        "file": "assets/Christmas/snowflake_fairy_sparkle.svg",
+        "description": "a snowflake fairy sprinkling shimmering snow over a village"
+      },
+      {
+        "key": "snowflakes_winter_star",
+        "file": "assets/Christmas/snowflakes_winter_star.svg",
+        "description": "a group of snowflakes swirling around a bright winter star"
+      },
+      {
+        "key": "snowman_family_building",
+        "file": "assets/Christmas/snowman_family_building.svg",
+        "description": "a snowman family building another snowman together"
+      }
     ]
   }
 }
