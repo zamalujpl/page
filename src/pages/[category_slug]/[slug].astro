@@ -53,12 +53,14 @@ const description = image.description;
     class="w-full max-w-2xl flex flex-col items-center bg-base-100 px-2 sm:px-4 pt-4 sm:pt-6 mt-2 sm:mt-4"
   >
     <img
-      src={`/${assetItem.file}`}
+      src={`/${assetItem.webp_large}`}
       alt={title}
       id="main-image"
       class="w-full h-auto max-w-full object-contain mb-4 md:mb-6 min-h-0"
-      width={800}
-      height={600}
+      srcset={`/${assetItem.webp_thumb} 350w, /${assetItem.webp_large} 1200w`}
+      sizes="(max-width: 600px) 350px, 1200px"
+      width={1200}
+      height={1697}
       title={title}
       loading="eager"
       decoding="async"
