@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import assets from "../../assets.json";
-import PrintFooter from "../../components/PrintFooter.astro";
 
 export async function getStaticPaths() {
   const contentFiles = import.meta.glob("../../content/kolorowanki/*.json");
@@ -49,7 +48,6 @@ const description = image.description;
   showSidebar={true}
 >
   <div
-    id="print-area"
     class="w-full max-w-2xl flex flex-col items-center bg-base-100 px-2 sm:px-4 pt-4 sm:pt-6 mt-2 sm:mt-4"
   >
     <img
@@ -65,13 +63,12 @@ const description = image.description;
       loading="eager"
       decoding="async"
     />
-    <PrintFooter />
   </div>
   <div
     class="no-print flex flex-col gap-3 items-center justify-center mt-2 mb-6 md:mb-8 w-full max-w-2xl px-2 sm:px-4"
   >
     <button
-      onclick="window.print();"
+      onclick={`printPdf(this, '/${assetItem.pdf_file}')`}
       class="btn btn-primary btn-md md:btn-sm w-full sm:w-auto px-6"
     >
       Drukuj obrazek
@@ -92,12 +89,40 @@ const description = image.description;
       Powrót do kategorii: {categoryTitle}
     </a>
   </div>
-  <script>
+  <script is:inline>
+    function printPdf(button, pdfUrl) {
+      // Disable button and show spinner
+      button.disabled = true;
+      const originalContent = button.innerHTML;
+      button.innerHTML = '<span class="loading loading-spinner"></span> Czekaj...';
+
+      const printFrame = document.createElement('iframe');
+      printFrame.style.display = 'none';
+      printFrame.src = pdfUrl;
+      document.body.appendChild(printFrame);
+
+      // Give the PDF time to load, then try to print.
+      setTimeout(function() {
+        try {
+          printFrame.contentWindow.focus();
+          printFrame.contentWindow.print();
+        } catch (e) {
+          console.error("Failed to print PDF via iframe:", e);
+          // Fallback for browsers that block cross-frame printing
+          alert("Nie udało się automatycznie otworzyć okna drukowania. PDF otworzy się w nowej karcie, gdzie można go wydrukować ręcznie.");
+          window.open(pdfUrl, '_blank');
+        } finally {
+          // Restore button state immediately so the user can try again if needed.
+          button.disabled = false;
+          button.innerHTML = originalContent;
+        }
+        // NOTE: The iframe is intentionally NOT removed. It stays hidden and will be
+        // gone on the next page navigation, but it must persist for the print dialog.
+      }, 1000);
+    }
+
     window.addEventListener("analyticsLoaded", ({ detail: trackEvent }) => {
       trackEvent();
-      window.addEventListener("beforeprint", () => {
-        trackEvent("print");
-      });
     });
   </script>
 </BaseLayout>
