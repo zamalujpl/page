@@ -39,6 +39,23 @@ if (!assetItem) {
 
 const title = image.title;
 const description = image.description;
+
+// Schema.org for Google Images
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "name": title,
+  "description": description,
+  "contentUrl": new URL(assetItem.webp_large, Astro.site).href,
+  "thumbnailUrl": new URL(assetItem.webp_thumb, Astro.site).href,
+  "width": 1200,
+  "height": 1697,
+  "license": new URL('/polityka-prywatnosci', Astro.site).href,
+  "author": {
+    "@type": "Organization",
+    "name": "Zamaluj.pl"
+  }
+};
 ---
 
 <BaseLayout
@@ -47,6 +64,7 @@ const description = image.description;
   bodyClass="bg-base-100"
   showSidebar={true}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <div
     class="w-full max-w-2xl flex flex-col items-center bg-base-100 px-2 sm:px-4 pt-4 sm:pt-6 mt-2 sm:mt-4"
   >
