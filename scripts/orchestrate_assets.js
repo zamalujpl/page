@@ -204,12 +204,14 @@ async function step4_processAndMoveSvgs() {
         description: "",
         webp_large: `assets/${category}/${key}-1200.webp`,
         webp_thumb: `assets/${category}/${key}-350.webp`,
+        pdf_file: `assets/${category}/${key}.pdf`,
       };
       items.push(item);
     } else {
       item.file = `assets/${category}/${key}.svg`;
       item.webp_large = `assets/${category}/${key}-1200.webp`;
       item.webp_thumb = `assets/${category}/${key}-350.webp`;
+      item.pdf_file = `assets/${category}/${key}.pdf`;
     }
     // Apply description if available and not already present
     if (!item.description) {
