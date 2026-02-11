@@ -1,4 +1,4 @@
-{
+export default {
   "bucket_a": [
     "Pobierz darmową kolorowankę przedstawiającą motyw: [NAZWA].",
     "Szukasz kreatywnego zajęcia? Oto gotowy do druku rysunek: [NAZWA].",
@@ -34,4 +34,4 @@
     " - Obrazek do wydruku",
     " - Darmowa kolorowanka"
   ]
-}
+};
