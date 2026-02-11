@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import assets from "../../assets.json";
+import crypto from "crypto";
 
 export async function getStaticPaths() {
   const contentFiles = import.meta.glob("../../content/kolorowanki/*.json");
@@ -11,6 +12,10 @@ export async function getStaticPaths() {
     const categoryKey = path.split("/").pop().replace(".json", "");
 
     for (const image of categoryContent.images) {
+      const idString = `${categoryKey}__${image.key}`;
+      const hash = crypto.createHash('sha256').update(idString).digest('hex');
+      const imageId = parseInt(hash.substring(0, 8), 16);
+
       paths.push({
         params: {
           category_slug: categoryContent.category_slug,
@@ -18,6 +23,7 @@ export async function getStaticPaths() {
         },
         props: {
           image,
+          imageId,
           categoryKey,
           categoryTitle: categoryContent.category_title,
           categoryDescription: categoryContent.category_description,
@@ -28,7 +34,9 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { image, categoryKey, categoryTitle, categoryDescription } = Astro.props;
+const { image, imageId, categoryKey, categoryTitle, categoryDescription } = Astro.props;
+import templates from "../../content/description_templates.json";
+
 const assetItem = assets[categoryKey]?.items.find(
   (item) => item.key === image.key,
 );
@@ -37,8 +45,20 @@ if (!assetItem) {
   return new Response(null, { status: 404 });
 }
 
-const title = image.title;
-const description = image.description;
+const worek_a_index = imageId % templates.bucket_a.length;
+const worek_b_index = imageId % templates.bucket_b.length;
+const worek_c_index = imageId % templates.bucket_c.length;
+
+const generatedDescription = [
+  templates.bucket_a[worek_a_index].replaceAll('[NAZWA]', image.title).replaceAll('[KATEGORIA]', categoryTitle),
+  templates.bucket_b[worek_b_index],
+  templates.bucket_c[worek_c_index].replaceAll('[NAZWA]', image.title)
+].join(' ');
+
+const description = image.description ? `${image.description} ${generatedDescription}` : generatedDescription;
+
+const title_suffix_index = imageId % templates.title_suffixes.length;
+const title = `${image.title}${templates.title_suffixes[title_suffix_index]}`;
 
 // Schema.org for Google Images
 const schema = {
