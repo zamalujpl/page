@@ -151,7 +151,8 @@ const schema = {
 
       const ua = navigator.userAgent;
       const isMobile = /Mobi|Android|iPhone/i.test(ua);
-      const isSafari = /^((?!chrome|android).)*safari/i.test(ua);
+      const isChromeOnIos = /CriOS/i.test(ua);
+      const isSafari = /^((?!chrome|android|crios).)*safari/i.test(ua);
 
       if (isMobile && !isSafari) {
         window.open(pdfUrl, '_blank');
