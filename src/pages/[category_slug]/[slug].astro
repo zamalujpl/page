@@ -149,6 +149,17 @@ const schema = {
       const originalContent = button.innerHTML;
       button.innerHTML = '<span class="loading loading-spinner"></span> Czekaj...';
 
+      const ua = navigator.userAgent;
+      const isMobile = /Mobi|Android|iPhone/i.test(ua);
+      const isSafari = /^((?!chrome|android).)*safari/i.test(ua);
+
+      if (isMobile && !isSafari) {
+        window.open(pdfUrl, '_blank');
+        button.disabled = false;
+        button.innerHTML = originalContent;
+        return;
+      }
+
       const printFrame = document.createElement('iframe');
       printFrame.style.display = 'none';
       printFrame.src = pdfUrl;
