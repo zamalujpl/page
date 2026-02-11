@@ -1,6 +1,7 @@
 ---
 /** @typedef {{ href: string; imgSrc: string; imgAlt: string; buttonText: string; title?: string; description?: string; webpLarge?: string; webpThumb?: string }} CardItem */
-const { items, headerImgSrc, headerImgAlt, headerTitle, headerDescription } = Astro.props;
+const { items, headerImgSrc, headerImgAlt, headerTitle, headerDescription } =
+  Astro.props;
 /** @type {CardItem[]} */
 const cardItems = /** @type {any} */ (items);
 const fallbackImgSrc = "/assets/default-header.png";
@@ -10,9 +11,9 @@ const imgAlt = headerImgAlt || "Nagłówek";
 
 <!-- Hero header with integrated description -->
 <section
-  class="hero bg-base-100 rounded-box mb-8 sm:mb-10 shadow-sm border border-base-200/60"
+  class="hero bg-base-100 rounded-box shadow-sm border border-base-200/60 mb-4"
 >
-  <div class="hero-content flex-col gap-6 lg:gap-10 w-full">
+  <div class="hero-content flex-col w-full">
     <div class="w-full">
       <figure
         class="w-full max-h-[400px] flex items-center justify-center overflow-hidden rounded-lg"
@@ -27,10 +28,12 @@ const imgAlt = headerImgAlt || "Nagłówek";
           decoding="async"
         />
       </figure>
-      <div class="border-b border-base-content/10 mb-4 md:mb-6"></div>
     </div>
-    <div class="w-full text-center">
-      <h1 class="text-2xl sm:text-3xl font-bold tracking-tight mb-4 text-base-content">
+    <div class="divider my-0 py-0"></div>
+    <div class="w-full text-center my-0 py-0">
+      <h1
+        class="text-2xl sm:text-3xl font-bold tracking-tight text-base-content"
+      >
         {headerTitle}
       </h1>
     </div>
@@ -39,48 +42,48 @@ const imgAlt = headerImgAlt || "Nagłówek";
 
 <!-- Cards grid -->
 <>
-<div
-  class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 w-full px-1 sm:px-0"
->
-  {
-    cardItems.map((/** @type {CardItem} */ item) => (
-      <a
-        href={item.href}
-        aria-label={item.buttonText}
-        class="card group bg-base-100 border border-base-200 shadow-md hover:shadow-xl transition duration-200 hover:-translate-y-1 focus-visible:-translate-y-1 focus-visible:outline focus-visible:outline-primary focus-visible:shadow-xl"
-      >
-        <figure class="px-2 pt-2 sm:px-3 sm:pt-3 flex items-center justify-center">
-          <img
-            src={`/${item.webpThumb}`}
-            alt={item.imgAlt}
-            srcset={`/${item.webpThumb} 350w, /${item.webpLarge} 1200w`}
-            sizes="(max-width: 600px) 350px, 1200px"
-            class="w-full max-w-[120px] sm:max-w-[140px] md:max-w-[160px] aspect-square object-contain rounded transition-transform duration-300 group-hover:scale-110"
-            width="350"
-            height="495"
-            loading="lazy"
-            decoding="async"
-          />
-        </figure>
-        <div class="card-body items-center text-center p-3 sm:p-4">
-          <div class="card-actions">
-            <span class="btn btn-outline btn-primary btn-xs sm:btn-sm mt-1 sm:mt-2">
-              {item.buttonText}
-            </span>
+  <div
+    class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 w-full px-1 sm:px-0"
+  >
+    {
+      cardItems.map((/** @type {CardItem} */ item) => (
+        <a
+          href={item.href}
+          aria-label={item.buttonText}
+          class="card group bg-base-100 border border-base-200 shadow-md hover:shadow-xl transition duration-200 hover:-translate-y-1 focus-visible:-translate-y-1 focus-visible:outline focus-visible:outline-primary focus-visible:shadow-xl"
+        >
+          <figure class="px-2 pt-2 sm:px-3 sm:pt-3 flex items-center justify-center">
+            <img
+              src={`/${item.webpThumb}`}
+              alt={item.imgAlt}
+              srcset={`/${item.webpThumb} 350w, /${item.webpLarge} 1200w`}
+              sizes="(max-width: 600px) 350px, 1200px"
+              class="w-full max-w-[120px] sm:max-w-[140px] md:max-w-[160px] aspect-square object-contain rounded transition-transform duration-300 group-hover:scale-110"
+              width="350"
+              height="495"
+              loading="lazy"
+              decoding="async"
+            />
+          </figure>
+          <div class="card-body items-center text-center p-3 sm:p-4">
+            <div class="card-actions">
+              <span class="btn btn-outline btn-primary btn-xs sm:btn-sm mt-1 sm:mt-2">
+                {item.buttonText}
+              </span>
+            </div>
           </div>
-        </div>
-      </a>
-    ))
-  }
-</div>
+        </a>
+      ))
+    }
+  </div>
 
-{
-  headerDescription && (
-    <section class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 sm:mt-10 mb-8">
-      <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 text-center">
-        <p>{headerDescription}</p>
-      </div>
-    </section>
-  )
-}
+  {
+    headerDescription && (
+      <section class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 sm:mt-10 mb-8">
+        <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 text-center">
+          <p>{headerDescription}</p>
+        </div>
+      </section>
+    )
+  }
 </>
