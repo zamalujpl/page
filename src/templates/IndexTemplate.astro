@@ -28,22 +28,16 @@ const imgAlt = headerImgAlt || "Nagłówek";
         />
       </figure>
     </div>
-    {
-      headerDescription && (
-        <div class="w-full text-center">
-          <h1 class="text-2xl sm:text-3xl font-bold tracking-tight mb-4 text-base-content">
-            {headerTitle}
-          </h1>
-          <p class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80">
-            {headerDescription}
-          </p>
-        </div>
-      )
-    }
+    <div class="w-full text-center">
+      <h1 class="text-2xl sm:text-3xl font-bold tracking-tight mb-4 text-base-content">
+        {headerTitle}
+      </h1>
+    </div>
   </div>
 </section>
 
 <!-- Cards grid -->
+<>
 <div
   class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4 w-full px-1 sm:px-0"
 >
@@ -78,3 +72,14 @@ const imgAlt = headerImgAlt || "Nagłówek";
     ))
   }
 </div>
+
+{
+  headerDescription && (
+    <section class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 sm:mt-10 mb-8">
+      <div class="prose max-w-none text-base sm:text-lg leading-relaxed text-base-content/80 text-center">
+        <p>{headerDescription}</p>
+      </div>
+    </section>
+  )
+}
+</>
