@@ -149,12 +149,9 @@ const schema = {
       const originalContent = button.innerHTML;
       button.innerHTML = '<span class="loading loading-spinner"></span> Czekaj...';
 
-      const ua = navigator.userAgent;
-      const isMobile = /Mobi|Android|iPhone/i.test(ua);
-      const isChromeOnIos = /CriOS/i.test(ua);
-      const isSafari = /^((?!chrome|android|crios).)*safari/i.test(ua);
+      const isMobile = /Mobi|Android|iPhone/i.test(navigator.userAgent);
 
-      if (isMobile && !isSafari) {
+      if (isMobile) {
         window.open(pdfUrl, '_blank');
         button.disabled = false;
         button.innerHTML = originalContent;
