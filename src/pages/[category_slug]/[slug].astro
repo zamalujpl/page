@@ -69,6 +69,13 @@ const schema = {
   showSidebar={true}
 >
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <nav class="text-sm breadcrumbs w-full max-w-2xl px-2 sm:px-4 mt-4">
+    <ul>
+      <li><a href="/">Zamaluj.pl</a></li>
+      <li><a href={`/${Astro.params.category_slug}/`}>{categoryTitle}</a></li>
+      <li>{image.title}</li>
+    </ul>
+  </nav>
   <div
     class="w-full max-w-2xl flex flex-col items-center bg-base-100 px-2 sm:px-4 pt-4 sm:pt-6 mt-2 sm:mt-4"
   >
