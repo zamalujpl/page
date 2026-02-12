@@ -44,10 +44,19 @@ if (!assetItem) {
 
 const title = pageTitle;
 
+const keywords = [
+    ...image.title.split(' '),
+    categoryTitle,
+    'kolorowanka',
+    'do druku',
+    'darmowe',
+    'pdf',
+].join(', ');
+
 // Schema.org for Google Images
 const schema = {
   "@context": "https://schema.org",
-  "@type": "ImageObject",
+  "@type": ["ImageObject", "CreativeWork"],
   "name": title,
   "description": description,
   "contentUrl": new URL(assetItem.webp_large, Astro.site).href,
@@ -57,8 +66,11 @@ const schema = {
   "license": new URL('/polityka-prywatnosci', Astro.site).href,
   "author": {
     "@type": "Organization",
-    "name": "Zamaluj.pl"
-  }
+    "name": "Zamaluj.pl",
+    "url": Astro.site,
+  },
+  "keywords": keywords,
+  "isFamilyFriendly": "true",
 };
 ---
 
