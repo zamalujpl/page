@@ -1,10 +1,12 @@
 ---
-const { title } = Astro.props;
+const { title, description } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const metaDescription = description || "Pobierz darmowe kolorowanki do druku (PDF) dla dzieci. Setki wzorów: Zwierzęta, Bajki, Auta, Jednorożce. Gotowe do wydruku na A4. Bez opłat i logowania.";
 ---
 
 <head>
   <meta name="google-adsense-account" content="ca-pub-6966466136420493" />
-  <link rel="canonical" href={Astro.url.href} />
+  <link rel="canonical" href={canonicalURL} />
   <link rel="sitemap" href="/sitemap-index.xml" />
   <title>Zamaluj.pl - {title}</title>
   <link
@@ -17,7 +19,7 @@ const { title } = Astro.props;
   <meta name="viewport" content="width=device-width" />
   <meta
     name="description"
-    content="Pobierz darmowe kolorowanki do druku (PDF) dla dzieci. Setki wzorów: Zwierzęta, Bajki, Auta, Jednorożce. Gotowe do wydruku na A4. Bez opłat i logowania."
+    content={metaDescription}
   />
   <script src="../js/protection.js"></script>
   <script src="../js/analytics.js"></script>

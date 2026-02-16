@@ -22,7 +22,7 @@ for filename in sorted(os.listdir(kolorowanki_dir)):
             for image in data.get("images", []):
                 image_slug = image.get("slug")
                 if image_slug:
-                    all_image_urls.append(f"/{category_slug}/{image_slug}")
+                    all_image_urls.append(f"/{category_slug}/{image_slug}/")
 
 # Select one random category index page
 if all_category_data:

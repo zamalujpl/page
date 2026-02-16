@@ -32,7 +32,7 @@ const assetCategory = assets[assetKey];
 const items = content.images.map(image => {
     const assetItem = assetCategory.items.find(item => item.key === image.key);
     return {
-        href: `/${content.category_slug}/${image.slug}`,
+        href: `/${content.category_slug}/${image.slug}/`,
         imgSrc: assetItem ? assetItem.webp_thumb : '',
         imgAlt: image.title,
         title: image.title,

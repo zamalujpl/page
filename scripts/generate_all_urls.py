@@ -6,6 +6,11 @@ kolorowanki_dir = "src/content/kolorowanki"
 # Output the homepage URL
 print("/")
 
+# Output static pages
+print("/o-mnie/")
+print("/kontakt/")
+print("/polityka-prywatnosci/")
+
 for filename in sorted(os.listdir(kolorowanki_dir)):
     if filename.endswith(".json"):
         with open(os.path.join(kolorowanki_dir, filename)) as f:
@@ -22,7 +27,7 @@ for filename in sorted(os.listdir(kolorowanki_dir)):
                 if not image_slug:
                     continue
                 # Output image page
-                print(f"/{category_slug}/{image_slug}")
+                print(f"/{category_slug}/{image_slug}/")
                 # Output image print page (if applicable)
                 # Note: The agent has modified GEMINI.md to clarify that print functionality
                 # is manually verified on the image page, not via a separate URL.
