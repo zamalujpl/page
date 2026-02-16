@@ -100,3 +100,25 @@ Once the image queue is empty and the script prints the `extractedImageUrls` JSO
 ## Step 5: Next Steps (Processing Images)
 
 Once all images are downloaded, you will need to move them to the correct `public/assets/<category_name>/` directories and process them (e.g., convert to SVG, WebP, PDF) using the project's scripts.
+
+## Step 6: Generating Category Header Assets
+
+Each category needs a `header.png` generated from three source images: `outline.png` (the original B&W), `pencil.png`, and `paint.png`. Use the following prompts with Gemini by uploading the `outline.png` file first.
+
+### Prompt for `pencil.png`:
+> Based on the attached black-and-white coloring page, generate a high-quality image showing it partially colored with colored pencils. The colors should have a clear pencil texture with visible shading and hatching. Include a **drawn** yellow pencil with a pink eraser lying on top of the image. The pencil must be entirely within the image boundaries and must not extend outside the paper edges. Maintain the exact character and line work from the original image.
+
+### Prompt for `paint.png`:
+> Based on the attached black-and-white coloring page, generate a high-quality image showing it partially painted with watercolors. The colors should be vibrant with visible brush strokes and paint texture. Crucially, ensure the original outlines of the drawing remain clearly visible. Include a **drawn** yellow paintbrush lying on top of the image. The brush must be entirely within the image boundaries and must not extend outside the paper edges. Maintain the exact character and line work from the original image.
+
+### Finalizing the Header:
+1. Save the generated images as `pencil.png` and `paint.png` in `public/assets/<category_slug>/`.
+2. Ensure the original B&W image is saved as `outline.png` in the same folder.
+3. Run the header assembly script:
+   ```bash
+   python3 scripts/chars_to_header.py
+   ```
+4. Optimize the result:
+   ```bash
+   bash convert_all_headers.sh
+   ```

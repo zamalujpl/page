@@ -26,7 +26,8 @@ if (!content) {
     return new Response(null, { status: 404 });
 }
 
-const assetCategory = assets[categoryKey];
+const assetKey = content.asset_key || categoryKey;
+const assetCategory = assets[assetKey];
 
 const items = content.images.map(image => {
     const assetItem = assetCategory.items.find(item => item.key === image.key);
@@ -48,7 +49,7 @@ const { category_title, category_description } = content;
   <main class="flex-1 flex flex-col pt-0 bg-base-200 min-h-0">
     <IndexTemplate
       items={items}
-      headerImgSrc={`/assets/${categoryKey}/header.png`}
+      headerImgSrc={`/assets/${assetKey}/header.webp`}
       headerImgAlt={category_title}
       headerTitle={category_title}
       headerDescription={category_description}

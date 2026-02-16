@@ -20,6 +20,7 @@ export async function getStaticPaths() {
         props: {
           image,
           categoryKey,
+          assetKey: categoryContent.asset_key || categoryKey,
           categoryTitle: categoryContent.category_title,
           categoryDescription: categoryContent.category_description,
           categoryImages: categoryContent.images,
@@ -30,11 +31,11 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { image, categoryKey, categoryTitle, categoryDescription, categoryImages } = Astro.props;
+const { image, categoryKey, assetKey, categoryTitle, categoryDescription, categoryImages } = Astro.props;
 
 const { description, pageTitle, seeAlsoImages } = getPageData(image, categoryKey, categoryTitle, categoryImages);
 
-const assetItem = assets[categoryKey]?.items.find(
+const assetItem = assets[assetKey]?.items.find(
   (item) => item.key === image.key,
 );
 
@@ -71,6 +72,13 @@ const schema = {
   },
   "keywords": keywords,
   "isFamilyFriendly": "true",
+  "creator": {
+    "@type": "Organization",
+    "name": "Zamaluj.pl"
+  },
+  "creditText": "Zamaluj.pl",
+  "copyrightNotice": `© ${new Date().getFullYear()} Zamaluj.pl. Wszelkie prawa zastrzeżone.`,
+  "acquireLicensePage": new URL('/polityka-prywatnosci', Astro.site).href,
 };
 ---
 
@@ -131,7 +139,7 @@ const schema = {
           {seeAlsoImages.map((img) => (
             <a href={`/${Astro.params.category_slug}/${img.slug}/`} class="block">
               <img
-                src={`/assets/${categoryKey}/${img.key}-350.webp`}
+                src={`/assets/${assetKey}/${img.key}-350.webp`}
                 alt={img.title}
                 class="w-full h-auto object-cover rounded-lg shadow-md"
                 loading="lazy"

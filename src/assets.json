@@ -3642,5 +3642,404 @@
         "pdf_file": "assets/Christmas/snowman_family_building.pdf"
       }
     ]
+  },
+  "valentines_day": {
+    "title_key": "Valentines_day",
+    "description": "",
+    "header": "",
+    "items": [
+      {
+        "key": "ant_parade_hearts",
+        "file": "assets/valentines_day/ant_parade_hearts.svg",
+        "description": "Rząd mrówek niosących małe okruszki w kształcie serca",
+        "webp_large": "assets/valentines_day/ant_parade_hearts-1200.webp",
+        "webp_thumb": "assets/valentines_day/ant_parade_hearts-350.webp",
+        "pdf_file": "assets/valentines_day/ant_parade_hearts.pdf"
+      },
+      {
+        "key": "artist_bear",
+        "file": "assets/valentines_day/artist_bear.svg",
+        "description": "Pluszowy miś malujący duże serce na płótnie",
+        "webp_large": "assets/valentines_day/artist_bear-1200.webp",
+        "webp_thumb": "assets/valentines_day/artist_bear-350.webp",
+        "pdf_file": "assets/valentines_day/artist_bear.pdf"
+      },
+      {
+        "key": "beach_sand_heart",
+        "file": "assets/valentines_day/beach_sand_heart.svg",
+        "description": "Ręka rysująca serce na piasku na plaży",
+        "webp_large": "assets/valentines_day/beach_sand_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/beach_sand_heart-350.webp",
+        "pdf_file": "assets/valentines_day/beach_sand_heart.pdf"
+      },
+      {
+        "key": "bear_tea_party",
+        "file": "assets/valentines_day/bear_tea_party.svg",
+        "description": "Pluszowy miś siedzący przy stole z herbatą i ciasteczkami w kształcie serc",
+        "webp_large": "assets/valentines_day/bear_tea_party-1200.webp",
+        "webp_thumb": "assets/valentines_day/bear_tea_party-350.webp",
+        "pdf_file": "assets/valentines_day/bear_tea_party.pdf"
+      },
+      {
+        "key": "bunny_carrot_heart",
+        "file": "assets/valentines_day/bunny_carrot_heart.svg",
+        "description": "Uroczy króliczek trzymający gigantyczną marchewkę wyrzeźbioną w kształcie serca",
+        "webp_large": "assets/valentines_day/bunny_carrot_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/bunny_carrot_heart-350.webp",
+        "pdf_file": "assets/valentines_day/bunny_carrot_heart.pdf"
+      },
+      {
+        "key": "candle_dinner",
+        "file": "assets/valentines_day/candle_dinner.svg",
+        "description": "Romantyczna kolacja przy świecach dla dwojga z różami",
+        "webp_large": "assets/valentines_day/candle_dinner-1200.webp",
+        "webp_thumb": "assets/valentines_day/candle_dinner-350.webp",
+        "pdf_file": "assets/valentines_day/candle_dinner.pdf"
+      },
+      {
+        "key": "candy_heart_jar",
+        "file": "assets/valentines_day/candy_heart_jar.svg",
+        "description": "Szklany słoik wypełniony cukierkami w kształcie serca z napisem 'Bądź mój'",
+        "webp_large": "assets/valentines_day/candy_heart_jar-1200.webp",
+        "webp_thumb": "assets/valentines_day/candy_heart_jar-350.webp",
+        "pdf_file": "assets/valentines_day/candy_heart_jar.pdf"
+      },
+      {
+        "key": "chocolate_box",
+        "file": "assets/valentines_day/chocolate_box.svg",
+        "description": "Pudełko czekoladek o różnych kształtach i wzorach",
+        "webp_large": "assets/valentines_day/chocolate_box-1200.webp",
+        "webp_thumb": "assets/valentines_day/chocolate_box-350.webp",
+        "pdf_file": "assets/valentines_day/chocolate_box.pdf"
+      },
+      {
+        "key": "cupid_gold_bow",
+        "file": "assets/valentines_day/cupid_gold_bow.svg",
+        "description": "Klasyczny kupidyn ze skrzydłami, trzymający złoty łuk i strzałę",
+        "webp_large": "assets/valentines_day/cupid_gold_bow-1200.webp",
+        "webp_thumb": "assets/valentines_day/cupid_gold_bow-350.webp",
+        "pdf_file": "assets/valentines_day/cupid_gold_bow.pdf"
+      },
+      {
+        "key": "dolphin_heart_splash",
+        "file": "assets/valentines_day/dolphin_heart_splash.svg",
+        "description": "Zabawny delfin wyskakujący przez rozprysk wody w kształcie serca",
+        "webp_large": "assets/valentines_day/dolphin_heart_splash-1200.webp",
+        "webp_thumb": "assets/valentines_day/dolphin_heart_splash-350.webp",
+        "pdf_file": "assets/valentines_day/dolphin_heart_splash.pdf"
+      },
+      {
+        "key": "elephant_love",
+        "file": "assets/valentines_day/elephant_love.svg",
+        "description": "Dwa słonie ze splecionymi trąbami w kształcie serca",
+        "webp_large": "assets/valentines_day/elephant_love-1200.webp",
+        "webp_thumb": "assets/valentines_day/elephant_love-350.webp",
+        "pdf_file": "assets/valentines_day/elephant_love.pdf"
+      },
+      {
+        "key": "fireplace_romance",
+        "file": "assets/valentines_day/fireplace_romance.svg",
+        "description": "Przytulne palenisko z sercowymi skarpetami wiszącymi na kominku",
+        "webp_large": "assets/valentines_day/fireplace_romance-1200.webp",
+        "webp_thumb": "assets/valentines_day/fireplace_romance-350.webp",
+        "pdf_file": "assets/valentines_day/fireplace_romance.pdf"
+      },
+      {
+        "key": "floating_heart_balloons",
+        "file": "assets/valentines_day/floating_heart_balloons.svg",
+        "description": "Kolekcja unoszących się balonów w różnych wzorach serc",
+        "webp_large": "assets/valentines_day/floating_heart_balloons-1200.webp",
+        "webp_thumb": "assets/valentines_day/floating_heart_balloons-350.webp",
+        "pdf_file": "assets/valentines_day/floating_heart_balloons.pdf"
+      },
+      {
+        "key": "fox_cuddle",
+        "file": "assets/valentines_day/fox_cuddle.svg",
+        "description": "Dwa lisy zwinięte razem w przytulnej leśnej norze",
+        "webp_large": "assets/valentines_day/fox_cuddle-1200.webp",
+        "webp_thumb": "assets/valentines_day/fox_cuddle-350.webp",
+        "pdf_file": "assets/valentines_day/fox_cuddle.pdf"
+      },
+      {
+        "key": "giraffe_heart",
+        "file": "assets/valentines_day/giraffe_heart.svg",
+        "description": "Dwie żyrafy krzyżujące szyje, tworząc kształt serca",
+        "webp_large": "assets/valentines_day/giraffe_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/giraffe_heart-350.webp",
+        "pdf_file": "assets/valentines_day/giraffe_heart.pdf"
+      },
+      {
+        "key": "gnome_love_sign",
+        "file": "assets/valentines_day/gnome_love_sign.svg",
+        "description": "Ogrodowy gnom trzymający tabliczkę z napisem 'Kocham Cię'",
+        "webp_large": "assets/valentines_day/gnome_love_sign-1200.webp",
+        "webp_thumb": "assets/valentines_day/gnome_love_sign-350.webp",
+        "pdf_file": "assets/valentines_day/gnome_love_sign.pdf"
+      },
+      {
+        "key": "heart_bubbles",
+        "file": "assets/valentines_day/heart_bubbles.svg",
+        "description": "Mała dziewczynka puszczająca bańki mydlane w kształcie serc",
+        "webp_large": "assets/valentines_day/heart_bubbles-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_bubbles-350.webp",
+        "pdf_file": "assets/valentines_day/heart_bubbles.pdf"
+      },
+      {
+        "key": "heart_butterfly",
+        "file": "assets/valentines_day/heart_butterfly.svg",
+        "description": "Motyl z wzorami serc na skrzydłach",
+        "webp_large": "assets/valentines_day/heart_butterfly-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_butterfly-350.webp",
+        "pdf_file": "assets/valentines_day/heart_butterfly.pdf"
+      },
+      {
+        "key": "heart_hot_air_balloon",
+        "file": "assets/valentines_day/heart_hot_air_balloon.svg",
+        "description": "Balon na gorące powietrze w kształcie serca unoszący się nad chmurami",
+        "webp_large": "assets/valentines_day/heart_hot_air_balloon-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_hot_air_balloon-350.webp",
+        "pdf_file": "assets/valentines_day/heart_hot_air_balloon.pdf"
+      },
+      {
+        "key": "heart_leaf_tree",
+        "file": "assets/valentines_day/heart_leaf_tree.svg",
+        "description": "Drzewo, którego liście są sercami o różnych rozmiarach",
+        "webp_large": "assets/valentines_day/heart_leaf_tree-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_leaf_tree-350.webp",
+        "pdf_file": "assets/valentines_day/heart_leaf_tree.pdf"
+      },
+      {
+        "key": "heart_lock_key",
+        "file": "assets/valentines_day/heart_lock_key.svg",
+        "description": "Kłódka w kształcie serca z pasującym ozdobnym kluczem",
+        "webp_large": "assets/valentines_day/heart_lock_key-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_lock_key-350.webp",
+        "pdf_file": "assets/valentines_day/heart_lock_key.pdf"
+      },
+      {
+        "key": "heart_locket",
+        "file": "assets/valentines_day/heart_locket.svg",
+        "description": "Ozdobny medalion w kształcie serca z delikatnym grawerem kwiatowym",
+        "webp_large": "assets/valentines_day/heart_locket-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_locket-350.webp",
+        "pdf_file": "assets/valentines_day/heart_locket.pdf"
+      },
+      {
+        "key": "heart_mandala",
+        "file": "assets/valentines_day/heart_mandala.svg",
+        "description": "Misterny wzór mandali zbudowany w dużej ramie w kształcie serca",
+        "webp_large": "assets/valentines_day/heart_mandala-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_mandala-350.webp",
+        "pdf_file": "assets/valentines_day/heart_mandala.pdf"
+      },
+      {
+        "key": "heart_pizza",
+        "file": "assets/valentines_day/heart_pizza.svg",
+        "description": "Pizza w kształcie serca z pepperoni w kształcie serc",
+        "webp_large": "assets/valentines_day/heart_pizza-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_pizza-350.webp",
+        "pdf_file": "assets/valentines_day/heart_pizza.pdf"
+      },
+      {
+        "key": "heart_rain",
+        "file": "assets/valentines_day/heart_rain.svg",
+        "description": "Chmura deszcząca drobne serca nad małym parasolem",
+        "webp_large": "assets/valentines_day/heart_rain-1200.webp",
+        "webp_thumb": "assets/valentines_day/heart_rain-350.webp",
+        "pdf_file": "assets/valentines_day/heart_rain.pdf"
+      },
+      {
+        "key": "kittens_bowties",
+        "file": "assets/valentines_day/kittens_bowties.svg",
+        "description": "Koszyk kociąt w małych czerwonych muszkach",
+        "webp_large": "assets/valentines_day/kittens_bowties-1200.webp",
+        "webp_thumb": "assets/valentines_day/kittens_bowties-350.webp",
+        "pdf_file": "assets/valentines_day/kittens_bowties.pdf"
+      },
+      {
+        "key": "kittens_yarn_heart",
+        "file": "assets/valentines_day/kittens_yarn_heart.svg",
+        "description": "Dwa kocięta bawiące się kłębkiem czerwonej włóczki w kształcie serca",
+        "webp_large": "assets/valentines_day/kittens_yarn_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/kittens_yarn_heart-350.webp",
+        "pdf_file": "assets/valentines_day/kittens_yarn_heart.pdf"
+      },
+      {
+        "key": "koala_hug",
+        "file": "assets/valentines_day/koala_hug.svg",
+        "description": "Koala przytulający pień drzewa z liściem w kształcie serca",
+        "webp_large": "assets/valentines_day/koala_hug-1200.webp",
+        "webp_thumb": "assets/valentines_day/koala_hug-350.webp",
+        "pdf_file": "assets/valentines_day/koala_hug.pdf"
+      },
+      {
+        "key": "lion_love",
+        "file": "assets/valentines_day/lion_love.svg",
+        "description": "Lew i lwica ocierające się o siebie na sawannie",
+        "webp_large": "assets/valentines_day/lion_love-1200.webp",
+        "webp_thumb": "assets/valentines_day/lion_love-350.webp",
+        "pdf_file": "assets/valentines_day/lion_love.pdf"
+      },
+      {
+        "key": "love_letter_mailbox",
+        "file": "assets/valentines_day/love_letter_mailbox.svg",
+        "description": "Ozdobna skrzynka pocztowa wypełniona walentynkami i różami",
+        "webp_large": "assets/valentines_day/love_letter_mailbox-1200.webp",
+        "webp_thumb": "assets/valentines_day/love_letter_mailbox-350.webp",
+        "pdf_file": "assets/valentines_day/love_letter_mailbox.pdf"
+      },
+      {
+        "key": "love_potion_bottle",
+        "file": "assets/valentines_day/love_potion_bottle.svg",
+        "description": "Magiczna butelka z eliksirem z bąbelkami w kształcie serca",
+        "webp_large": "assets/valentines_day/love_potion_bottle-1200.webp",
+        "webp_thumb": "assets/valentines_day/love_potion_bottle-350.webp",
+        "pdf_file": "assets/valentines_day/love_potion_bottle.pdf"
+      },
+      {
+        "key": "lovebirds_blossom",
+        "file": "assets/valentines_day/lovebirds_blossom.svg",
+        "description": "Para nierozłączek siedzących na gałęzi drzewa z kwiatami",
+        "webp_large": "assets/valentines_day/lovebirds_blossom-1200.webp",
+        "webp_thumb": "assets/valentines_day/lovebirds_blossom-350.webp",
+        "pdf_file": "assets/valentines_day/lovebirds_blossom.pdf"
+      },
+      {
+        "key": "mitten_love",
+        "file": "assets/valentines_day/mitten_love.svg",
+        "description": "Para pasujących rękawiczek trzymających się za ręce",
+        "webp_large": "assets/valentines_day/mitten_love-1200.webp",
+        "webp_thumb": "assets/valentines_day/mitten_love-350.webp",
+        "pdf_file": "assets/valentines_day/mitten_love.pdf"
+      },
+      {
+        "key": "panda_bamboo_heart",
+        "file": "assets/valentines_day/panda_bamboo_heart.svg",
+        "description": "Dwie pandy dzielące kawałek bambusa w kształcie serca",
+        "webp_large": "assets/valentines_day/panda_bamboo_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/panda_bamboo_heart-350.webp",
+        "pdf_file": "assets/valentines_day/panda_bamboo_heart.pdf"
+      },
+      {
+        "key": "penguins_love",
+        "file": "assets/valentines_day/penguins_love.svg",
+        "description": "Dwa pingwiny stojące razem na lodzie z sercem między nimi",
+        "webp_large": "assets/valentines_day/penguins_love-1200.webp",
+        "webp_thumb": "assets/valentines_day/penguins_love-350.webp",
+        "pdf_file": "assets/valentines_day/penguins_love.pdf"
+      },
+      {
+        "key": "puppy_gift_box",
+        "file": "assets/valentines_day/puppy_gift_box.svg",
+        "description": "Szczeniak siedzący w pudełku prezentowym otoczony papierowymi sercami",
+        "webp_large": "assets/valentines_day/puppy_gift_box-1200.webp",
+        "webp_thumb": "assets/valentines_day/puppy_gift_box-350.webp",
+        "pdf_file": "assets/valentines_day/puppy_gift_box.pdf"
+      },
+      {
+        "key": "rose_bouquet",
+        "file": "assets/valentines_day/rose_bouquet.svg",
+        "description": "Bukiet realistycznych róż przewiązany dużą jedwabną wstążką",
+        "webp_large": "assets/valentines_day/rose_bouquet-1200.webp",
+        "webp_thumb": "assets/valentines_day/rose_bouquet-350.webp",
+        "pdf_file": "assets/valentines_day/rose_bouquet.pdf"
+      },
+      {
+        "key": "seahorse_romance",
+        "file": "assets/valentines_day/seahorse_romance.svg",
+        "description": "Dwa koniki morskie zwrócone do siebie w oceanie",
+        "webp_large": "assets/valentines_day/seahorse_romance-1200.webp",
+        "webp_thumb": "assets/valentines_day/seahorse_romance-350.webp",
+        "pdf_file": "assets/valentines_day/seahorse_romance.pdf"
+      },
+      {
+        "key": "single_rose_detail",
+        "file": "assets/valentines_day/single_rose_detail.svg",
+        "description": "Szczegółowy kwiat róży z kroplami rosy na płatkach",
+        "webp_large": "assets/valentines_day/single_rose_detail-1200.webp",
+        "webp_thumb": "assets/valentines_day/single_rose_detail-350.webp",
+        "pdf_file": "assets/valentines_day/single_rose_detail.pdf"
+      },
+      {
+        "key": "squirrel_acorn",
+        "file": "assets/valentines_day/squirrel_acorn.svg",
+        "description": "Wiewiórka trzymająca żołądź w kształcie serca",
+        "webp_large": "assets/valentines_day/squirrel_acorn-1200.webp",
+        "webp_thumb": "assets/valentines_day/squirrel_acorn-350.webp",
+        "pdf_file": "assets/valentines_day/squirrel_acorn.pdf"
+      },
+      {
+        "key": "strawberry_cupcake",
+        "file": "assets/valentines_day/strawberry_cupcake.svg",
+        "description": "Babeczka z dużą truskawką w kształcie serca na wierzchu",
+        "webp_large": "assets/valentines_day/strawberry_cupcake-1200.webp",
+        "webp_thumb": "assets/valentines_day/strawberry_cupcake-350.webp",
+        "pdf_file": "assets/valentines_day/strawberry_cupcake.pdf"
+      },
+      {
+        "key": "sunny_valentine",
+        "file": "assets/valentines_day/sunny_valentine.svg",
+        "description": "Uśmiechnięte słońce w okularach przeciwsłonecznych w kształcie serc",
+        "webp_large": "assets/valentines_day/sunny_valentine-1200.webp",
+        "webp_thumb": "assets/valentines_day/sunny_valentine-350.webp",
+        "pdf_file": "assets/valentines_day/sunny_valentine.pdf"
+      },
+      {
+        "key": "swan_lake_heart",
+        "file": "assets/valentines_day/swan_lake_heart.svg",
+        "description": "Dwa łabędzie na stawie tworzące serce swoimi długimi szyjami",
+        "webp_large": "assets/valentines_day/swan_lake_heart-1200.webp",
+        "webp_thumb": "assets/valentines_day/swan_lake_heart-350.webp",
+        "pdf_file": "assets/valentines_day/swan_lake_heart.pdf"
+      },
+      {
+        "key": "typewriter_love_note",
+        "file": "assets/valentines_day/typewriter_love_note.svg",
+        "description": "Stara maszyna do pisania z kartką pokazującą 'Kocham Cię'",
+        "webp_large": "assets/valentines_day/typewriter_love_note-1200.webp",
+        "webp_thumb": "assets/valentines_day/typewriter_love_note-350.webp",
+        "pdf_file": "assets/valentines_day/typewriter_love_note.pdf"
+      },
+      {
+        "key": "valentine_bicycle",
+        "file": "assets/valentines_day/valentine_bicycle.svg",
+        "description": "Rower z przednim koszykiem pełnym świeżych kwiatów",
+        "webp_large": "assets/valentines_day/valentine_bicycle-1200.webp",
+        "webp_thumb": "assets/valentines_day/valentine_bicycle-350.webp",
+        "pdf_file": "assets/valentines_day/valentine_bicycle.pdf"
+      },
+      {
+        "key": "valentine_cake",
+        "file": "assets/valentines_day/valentine_cake.svg",
+        "description": "Wielopoziomowy tort walentynkowy udekorowany sercami i zakrętasami z lukru",
+        "webp_large": "assets/valentines_day/valentine_cake-1200.webp",
+        "webp_thumb": "assets/valentines_day/valentine_cake-350.webp",
+        "pdf_file": "assets/valentines_day/valentine_cake.pdf"
+      },
+      {
+        "key": "valentine_fairy",
+        "file": "assets/valentines_day/valentine_fairy.svg",
+        "description": "Wróżka ze skrzydłami w kształcie serca sypiąca pył miłości",
+        "webp_large": "assets/valentines_day/valentine_fairy-1200.webp",
+        "webp_thumb": "assets/valentines_day/valentine_fairy-350.webp",
+        "pdf_file": "assets/valentines_day/valentine_fairy.pdf"
+      },
+      {
+        "key": "valentine_owls",
+        "file": "assets/valentines_day/valentine_owls.svg",
+        "description": "Dwie sowy huczące na gałęzi pod półksiężycem z gwiazdami",
+        "webp_large": "assets/valentines_day/valentine_owls-1200.webp",
+        "webp_thumb": "assets/valentines_day/valentine_owls-350.webp",
+        "pdf_file": "assets/valentines_day/valentine_owls.pdf"
+      },
+      {
+        "key": "valentine_wreath",
+        "file": "assets/valentines_day/valentine_wreath.svg",
+        "description": "Ozdobny wieniec wykonany z małych serc i wstążek",
+        "webp_large": "assets/valentines_day/valentine_wreath-1200.webp",
+        "webp_thumb": "assets/valentines_day/valentine_wreath-350.webp",
+        "pdf_file": "assets/valentines_day/valentine_wreath.pdf"
+      }
+    ]
   }
 }

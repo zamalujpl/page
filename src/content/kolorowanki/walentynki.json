@@ -1,0 +1,302 @@
+{
+  "category_slug": "walentynki",
+  "category_title": "Walentynki",
+  "category_description": "Zanurz się w świecie miłości i czułości z naszą kolekcją walentynkowych kolorowanek. Odkryj urocze misie, romantyczne serca, aniołki i wiele innych wzorów, które rozgrzeją serce każdego. Idealne do dzielenia się uczuciami i kreatywnego spędzania czasu.",
+  "asset_key": "valentines_day",
+  "images": [
+    {
+      "key": "penguins_love",
+      "slug": "dwa-pingwiny-stojace-razem-na-lodzie-z-sercem-miedzy-nimi",
+      "title": "Dwa pingwiny stojące razem na lodzie z sercem między nimi",
+      "description": "Urocza para pingwinów cieszy się wspólną chwilą na lodowej krze, a między nimi widnieje symbol miłości – wielkie serce. Pokoloruj pingwiny na klasyczną czerń i biel, a serce na intensywną czerwień, by wyróżniało się na tle błękitnego lodu."
+    },
+    {
+      "key": "cupid_gold_bow",
+      "slug": "klasyczny-kupidyn-ze-skrzydlami-trzymajacy-zloty-luk-i-strzale",
+      "title": "Klasyczny kupidyn ze skrzydłami, trzymający złoty łuk i strzałę",
+      "description": "Klasyczny, uskrzydlony Kupidyn jest gotowy, by posłać strzałę miłości ze swojego złotego łuku. Nadaj jego skrzydełkom delikatny, błękitny odcień, a łuk i strzałę pokoloruj na błyszczący złoty kolor."
+    },
+    {
+      "key": "valentine_cake",
+      "slug": "wielopoziomowy-tort-walentynkowy-udekorowany-sercami-i-zakretasami-z-lukru",
+      "title": "Wielopoziomowy tort walentynkowy udekorowany sercami i zakrętasami z lukru",
+      "description": "Piętrowy tort walentynkowy to prawdziwa uczta dla oczu, ozdobiony lukrowymi sercami i ozdobnymi zawijasami. Użyj odcieni różu, czerwieni i bieli, aby ten deser wyglądał niesamowicie słodko i apetycznie."
+    },
+    {
+      "key": "kittens_yarn_heart",
+      "slug": "dwa-kocieta-bawiace-sie-klebkiem-czerwonej-wloczki-w-ksztalcie-serca",
+      "title": "Dwa kocięta bawiące się kłębkiem czerwonej włóczki w kształcie serca",
+      "description": "Dwa małe, puszyste kotki bawiące się kłębkiem wełny, który zaplątał się w kształto serca. To obrazek pełen radości i uroku – pokoloruj futerka kotków na szaro lub rudy, a włóczkę na żywy, czerwony kolor."
+    },
+    {
+      "key": "love_letter_mailbox",
+      "slug": "ozdobna-skrzynka-pocztowa-wypelniona-walentynkami-i-rozami",
+      "title": "Ozdobna skrzynka pocztowa wypełniona walentynkami i różami",
+      "description": "Starodawna skrzynka pocztowa jest po brzegi wypełniona miłosnymi listami i pięknymi różami. Pokoloruj skrzynkę na metaliczny kolor, a wystające z niej kwiaty na różne odcienie czerwieni i amarantu."
+    },
+    {
+      "key": "rose_bouquet",
+      "slug": "bukiet-realistycznych-roz-przewiazany-duza-jedwabna-wstazka",
+      "title": "Bukiet realistycznych róż przewiązany dużą jedwabną wstążką",
+      "description": "Ten realistyczny bukiet róż to idealny prezent walentynkowy, przewiązany elegancką, szeroką wstążką. Każdy płatek róży możesz wycieniować różnymi odcieniami czerwieni, a wstążkę pozostawić w kontrastującym kolorze."
+    },
+    {
+      "key": "lovebirds_blossom",
+      "slug": "para-nierozlaczek-siedzacych-na-galezi-drzewa-z-kwiatami",
+      "title": "Para nierozłączek siedzących na gałęzi drzewa z kwiatami",
+      "description": "Para zakochanych ptaszków, znanych jako nierozłączki, odpoczywa na ukwieconej gałęzi drzewa. Nadaj ptaszkom egzotyczne barwy, a kwiaty wokół nich pokoloruj na delikatne pastele, by oddać wiosenny nastrój."
+    },
+    {
+      "key": "heart_locket",
+      "slug": "ozdobny-medalion-w-ksztalcie-serca-z-delikatnym-grawerem-kwiatowym",
+      "title": "Ozdobny medalion w kształcie serca z delikatnym grawerem kwiatowym",
+      "description": "Piękny, starannie wykonany medalion w kształcie serca z wygrawerowanym motywem roślinnym czeka na Twoje kolory. Użyj złotej lub srebrnej kredki dla metalu, a detale kwiatowe podkreśl mocniejszym akcentem kolorystycznym."
+    },
+    {
+      "key": "puppy_gift_box",
+      "slug": "szczeniak-siedzacy-w-pudelku-prezentowym-otoczony-papierowymi-sercami",
+      "title": "Szczeniak siedzący w pudełku prezentowym otoczony papierowymi sercami",
+      "description": "Mały szczeniaczek wyskakuje z pudełka prezentowego, otoczony mnóstwem papierowych serduszek. Pokoloruj pieska na brązowo lub łaciato, a pudełko ozdób w swoje ulubione, radosne wzory."
+    },
+    {
+      "key": "elephant_love",
+      "slug": "dwa-slonie-ze-splecionymi-trabami-w-ksztalcie-serca",
+      "title": "Dwa słonie ze splecionymi trąbami w kształcie serca",
+      "description": "Dwa potężne słonie splatają swoje trąby w taki sposób, że tworzą one kształt wielkiego serca. To symbol silnej więzi – pokoloruj słonie na szaro, a tło wypełnij ciepłymi barwami zachodzącego słońca."
+    },
+    {
+      "key": "chocolate_box",
+      "slug": "pudelko-czekoladek-o-roznych-ksztaltach-i-wzorach",
+      "title": "Pudełko czekoladek o różnych kształtach i wzorach",
+      "description": "Pyszne czekoladki o różnych kształtach i nadzieniach kuszą z ozdobnego pudełka. Każda pralinka może mieć inny smak i kolor – od mlecznej czekolady po białą, z owocowymi dodatkami."
+    },
+    {
+      "key": "heart_hot_air_balloon",
+      "slug": "balon-na-gorace-powietrze-w-ksztalcie-serca-unoszacy-sie-nad-chmurami",
+      "title": "Balon na gorące powietrze w kształcie serca unoszący się nad chmurami",
+      "description": "Wyjątkowy balon w kształcie serca unosi się wysoko nad puszystymi chmurami w blasku słońca. Niebo pokoloruj na błękitno lub fioletowo, a sam balon na jaskrawe, wesołe kolory, które będą widoczne z daleka."
+    },
+    {
+      "key": "bunny_carrot_heart",
+      "slug": "uroczy-kroliczek-trzymajacy-gigantyczna-marchewke-wyrzezbiona-w-ksztalcie-serca",
+      "title": "Uroczy króliczek trzymający gigantyczną marchewkę wyrzeźbioną w kształcie serca",
+      "description": "Uroczy króliczek trzymający gigantyczną marchewkę wyrzeźbioną w kształcie serca. To zabawny i miły obrazek – nadaj zajączkowi miękkie, szare futerko, a marchewce intensywny, pomarańczowy kolor."
+    },
+    {
+      "key": "candy_heart_jar",
+      "slug": "szklany-sloik-wypelniony-cukierkami-w-ksztalcie-serca-z-napisem-badz-moj",
+      "title": "Szklany słoik wypełniony cukierkami w kształcie serca z napisem 'Bądź mój'",
+      "description": "Szklany słoik wypełniony cukierkami w kształcie serca z napisem 'Bądź mój' to marzenie każdego łasucha. Każdy cukierek może mieć inny pastelowy kolor – od miętowego po jagodowy."
+    },
+    {
+      "key": "swan_lake_heart",
+      "slug": "dwa-labedzie-na-stawie-tworzace-serce-swoimi-dlugimi-szyjami",
+      "title": "Dwa łabędzie na stawie tworzące serce swoimi długimi szyjami",
+      "description": "Dwa eleganckie łabędzie płyną po spokojnym jeziorze, a ich długie szyje tworzą piękny zarys serca. Zachowaj biel łabędzi, dodając im tylko pomarańczowe dzioby, a wodę wokół nich wycieniuj błękitem i granatem."
+    },
+    {
+      "key": "valentine_wreath",
+      "slug": "ozdobny-wieniec-wykonany-z-malych-serc-i-wstazek",
+      "title": "Ozdobny wieniec wykonany z małych serc i wstążek",
+      "description": "Ten ozdobny wieniec składa się z mnóstwa małych serduszek i dekoracyjnych kokardek. To świetna okazja, by poćwiczyć precyzyjne kolorowanie wieloma odcieniami czerwieni i różu na jednym obrazku."
+    },
+    {
+      "key": "heart_bubbles",
+      "slug": "mala-dziewczynka-puszczajaca-banki-mydlane-w-ksztalcie-serc",
+      "title": "Mała dziewczynka puszczająca bańki mydlane w kształcie serc",
+      "description": "Mała dziewczynka z uśmiechem puszcza bańki mydlane, które zamiast okrągłych, mają kształty serc. Użyj delikatnych, tęczowych kolorów dla baniek, aby wyglądały na lekkie i pełne blasku."
+    },
+    {
+      "key": "bear_tea_party",
+      "slug": "pluszowy-mis-siedzacy-przy-stole-z-herbata-i-ciasteczkami-w-ksztalcie-serc",
+      "title": "Pluszowy miś siedzący przy stole z herbatą i ciasteczkami w kształcie serc",
+      "description": "Pluszowy miś siedzący przy stole z herbatą i ciasteczkami w kształcie serc przy pięknie nakrytym stole. Pokoloruj obrus w wesołą kratkę, a misia na ciepły, miodowy brąz."
+    },
+    {
+      "key": "heart_lock_key",
+      "slug": "klodka-w-ksztalcie-serca-z-pasujacym-ozdobnym-kluczem",
+      "title": "Kłódka w kształcie serca z pasującym ozdobnym kluczem",
+      "description": "Solidna kłódka w kształcie serca i ozdobny klucz to symbole tajemnicy i miłości. Użyj ciemniejszych, metalicznych barw dla kłódki, a klucz pokoloruj na złoto, by nadać mu magicznego wyglądu."
+    },
+    {
+      "key": "valentine_owls",
+      "slug": "dwie-sowy-huczace-na-galezi-pod-polksiezycem-z-gwiazdami",
+      "title": "Dwie sowy huczące na gałęzi pod półksiężycem z gwiazdami",
+      "description": "Dwie mądre sowy tulą się do siebie na gałęzi drzewa, a w tle świeci księżyc i gwiazdy. To nocna scena pełna spokoju – pokoloruj niebo na ciemny granat, a sowy na różne odcienie brązu i beżu."
+    },
+    {
+      "key": "floating_heart_balloons",
+      "slug": "kolekcja-unoszacych-sie-balonow-w-roznych-wzorach-serc",
+      "title": "Kolekcja unoszących się balonów w różnych wzorach serc",
+      "description": "Cały pęk kolorowych balonów w kształcie serc unosi się swobodnie w powietrzu. Każdy balon może mieć inny wzór – kropki, paski lub mniejsze serduszka – co czyni ten obrazek bardzo radosnym."
+    },
+    {
+      "key": "gnome_love_sign",
+      "slug": "ogrodowy-gnom-trzymajacy-tabliczke-z-napisem-kocham-cie",
+      "title": "Ogrodowy gnom trzymający tabliczkę z napisem 'Kocham Cię'",
+      "description": "Sympatyczny skrzat ogrodowy trzyma tabliczkę z wyznaniem miłości. Pokoloruj jego charakterystyczną czapkę na czerwono, a brodę na biało, tworząc postać jak z bajki."
+    },
+    {
+      "key": "single_rose_detail",
+      "slug": "szczegolowy-kwiat-rozy-z-kroplami-rosy-na-platkach",
+      "title": "Szczegółowy kwiat róży z kroplami rosy na płatkach",
+      "description": "Pojedynczy, rozkwitający kwiat róży z kroplami rosy na delikatnych płatkach to szczyt elegancji. Skup się na cieniowaniu płatków, aby nadać im głębi i sprawić, by róża wyglądała jak prawdziwa."
+    },
+    {
+      "key": "fox_cuddle",
+      "slug": "dwa-lisy-zwiniete-razem-w-przytulnej-lesnej-norze",
+      "title": "Dwa lisy zwinięte razem w przytulnej leśnej norze",
+      "description": "Para lisków śpi zwinięta w kłębek w swojej bezpiecznej norce, ogrzewając się nawzajem. Użyj ciepłego, pomarańczowego koloru dla lisków, a ich norkę wyściel brązami i szarościami."
+    },
+    {
+      "key": "strawberry_cupcake",
+      "slug": "babeczka-z-duza-truskawka-w-ksztalcie-serca-na-wierzchu",
+      "title": "Babeczka z dużą truskawką w kształcie serca na wierzchu",
+      "description": "Słodka babeczka z apetycznym kremem i wielką truskawką na samym czubku. To pyszna kolorowanka – pokoloruj krem na różowo, a truskawkę na intensywną czerwień z drobnymi pestkami."
+    },
+    {
+      "key": "heart_leaf_tree",
+      "slug": "drzewo-ktorego-liscie-sa-sercami-o-roznych-rozmiarach",
+      "title": "Drzewo, którego liście są sercami o różnych rozmiarach",
+      "description": "To magiczne drzewo zamiast zwykłych liści ma setki małych i dużych serduszek. To doskonała okazja do stworzenia \"drzewa miłości\" przy użyciu całej palety ciepłych barw."
+    },
+    {
+      "key": "love_potion_bottle",
+      "slug": "magiczna-butelka-z-eliksirem-z-babelkami-w-ksztalcie-serca",
+      "title": "Magiczna butelka z eliksirem z bąbelkami w kształcie serca",
+      "description": "Ozdobna buteleczka zawiera magiczny eliksir miłości, z którego ulatniają się bąbelki w kształcie serc. Pokoloruj płyn w środku na tajemniczy fiolet lub neonowy róż, by podkreślić jego niezwykłe właściwości."
+    },
+    {
+      "key": "giraffe_heart",
+      "slug": "dwie-zyrafy-krzyzujace-szyje-tworzac-ksztalt-serca",
+      "title": "Dwie żyrafy krzyżujące szyje, tworząc kształt serca",
+      "description": "Dwie wysokie żyrafy splatają swoje długie szyje, tworząc przy tym piękny, symetryczny kształt serca. Pokoloruj ich charakterystyczne łaty na brązowo, a tło wypełnij słoneczną żółcią sawanny."
+    },
+    {
+      "key": "sunny_valentine",
+      "slug": "usmiechniete-slonce-w-okularach-przeciwslonecznych-w-ksztalcie-serc",
+      "title": "Uśmiechnięte słońce w okularach przeciwsłonecznych w kształcie serc",
+      "description": "Nawet słońce świętuje walentynki, nosząc stylowe okulary w kształcie serduszek. Użyj najjaśniejszej żółci dla promieni słońca, a oprawki okularów pomaluj na kontrastujący, mocny kolor."
+    },
+    {
+      "key": "kittens_bowties",
+      "slug": "koszyk-kociat-w-malych-czerwonych-muszkach",
+      "title": "Koszyk kociąt w małych czerwonych muszkach",
+      "description": "Grupa uroczych kociąt siedzi w koszyku, a każde z nich ma na szyi elegancką, czerwoną muszkę. To bardzo słodki widok – pokoloruj koszyk na słomkowy kolor, a każde kociątko na inny odcień."
+    },
+    {
+      "key": "heart_mandala",
+      "slug": "misterny-wzor-mandali-zbudowany-w-duzej-ramie-w-ksztalcie-serca",
+      "title": "Misterny wzór mandali zbudowany w dużej ramie w kształcie serca",
+      "description": "Skomplikowany wzór mandali zamknięty w ramie serca to wyzwanie dla cierpliwych kolorystów. Użyj wielu cienkich kredek i stwórz własną, kolorową symfonię barw wewnątrz tych geometrycznych kształtów."
+    },
+    {
+      "key": "squirrel_acorn",
+      "slug": "wiewiorka-trzymajaca-zoladz-w-ksztalcie-serca",
+      "title": "Wiewiórka trzymająca żołądź w kształcie serca",
+      "description": "Mała wiewiórka znalazła wyjątkowy skarb – żołądź, który ma kształt serca. Pokoloruj puszysty ogon wiewiórki na rudo, a jej znalezisko na klasyczne brązy dębu."
+    },
+    {
+      "key": "candle_dinner",
+      "slug": "romantyczna-kolacja-przy-swiecach-dla-dwojga-z-rozami",
+      "title": "Romantyczna kolacja przy świecach dla dwojga z różami",
+      "description": "Elegancki stół przygotowany na romantyczną kolację przy świecach, z kwiatami i piękną zastawą. Stwórz nastrojową atmosferę, używając ciepłych barw dla płomieni świec i głębokich kolorów dla obrusu."
+    },
+    {
+      "key": "dolphin_heart_splash",
+      "slug": "zabawny-delfin-wyskakujacy-przez-rozprysk-wody-w-ksztalcie-serca",
+      "title": "Zabawny delfin wyskakujący przez rozprysk wody w kształcie serca",
+      "description": "Radosny delfin wyskakujący z oceanu, a rozpryskująca się wokół niego woda przybiera kształt serca. To dynamiczny obrazek – pokoloruj delfina na szaro-niebiesko, a wodę na wiele odcieni turkusu."
+    },
+    {
+      "key": "panda_bamboo_heart",
+      "slug": "dwie-pandy-dzielace-kawalek-bambusa-w-ksztalcie-serca",
+      "title": "Dwie pandy dzielące kawałek bambusa w kształcie serca",
+      "description": "Dwie pandy dzielące się gałązką bambusa, która wygięła się w kształt serca. Zachowaj charakterystyczne czarno-białe łaty pand, a bambus pokoloruj na soczystą, świeżą zieleń."
+    },
+    {
+      "key": "typewriter_love_note",
+      "slug": "stara-maszyna-do-pisania-z-kartka-pokazujaca-kocham-cie",
+      "title": "Stara maszyna do pisania z kartką pokazującą 'Kocham Cię'",
+      "description": "Stara, klasyczna maszyna do pisania, z której wysuwa się kartka z miłosnym wyznaniem. To obrazek w stylu retro – pokoloruj maszynę na czarno lub ciemną zieleń, aby wyglądała na zabytkową."
+    },
+    {
+      "key": "mitten_love",
+      "slug": "para-pasujacych-rekawiczek-trzymajacych-sie-za-rece",
+      "title": "Para pasujących rękawiczek trzymających się za ręce",
+      "description": "Para zimowych rękawiczek \"trzyma się\" za ręce, co symbolizuje ciepło i bliskość nawet w mroźne dni. Pokoloruj rękawiczki w tradycyjne, zimowe wzory, używając wełnianych odcieni niebieskiego i czerwieni."
+    },
+    {
+      "key": "heart_butterfly",
+      "slug": "motyl-z-wzorami-serc-na-skrzydlach",
+      "title": "Motyl z wzorami serc na skrzydłach",
+      "description": "Piękny motyl, którego skrzydła ozdobione są naturalnymi wzorami w kształcie serc. To pole do popisu dla Twojej wyobraźni – motyl może mieć wszystkie kolory tęczy!"
+    },
+    {
+      "key": "koala_hug",
+      "slug": "koala-przytulajacy-pien-drzewa-z-lisciem-w-ksztalcie-serca",
+      "title": "Koala przytulający pień drzewa z liściem w kształcie serca",
+      "description": "Urocza koala mocno przytula się do pnia eukaliptusa, na którym rośnie liść w kształcie serca. Pokoloruj koalę na miękki, jasny szary, a liście drzewa na stonowaną zieleń."
+    },
+    {
+      "key": "valentine_fairy",
+      "slug": "wrozka-ze-skrzydlami-w-ksztalcie-serca-sypiaca-pyl-milosci",
+      "title": "Wróżka ze skrzydłami w kształcie serca sypiąca pył miłości",
+      "description": "Mała wróżka o skrzydełkach jak serca unosi się w powietrzu, rozsypując wokół siebie magiczny pył miłości. Użyj brokatowych kredek lub jasnych, perłowych kolorów, aby nadać tej scenie magii."
+    },
+    {
+      "key": "ant_parade_hearts",
+      "slug": "rzad-mrowek-niosacych-male-okruszki-w-ksztalcie-serca",
+      "title": "Rząd mrówek niosących małe okruszki w kształcie serca",
+      "description": "Nawet pracowite mrówki świętują, niosąc w długim rzędzie drobne okruszki, które mają kształty serduszek. To zabawna scena – pokoloruj mrówki na brązowo lub czarno, a ich niesione skarby na czerwono."
+    },
+    {
+      "key": "seahorse_romance",
+      "slug": "dwa-koniki-morskie-zwrocone-do-siebie-w-oceanie",
+      "title": "Dwa koniki morskie zwrócone do siebie w oceanie",
+      "description": "Dwa koniki morskie unoszą się w morskiej toni, patrząc na siebie z czułością wśród wodorostów. Nadaj im fantazyjne, podwodne kolory i dodaj bąbelki powietrza wokół nich."
+    },
+    {
+      "key": "heart_pizza",
+      "slug": "pizza-w-ksztalcie-serca-z-pepperoni-w-ksztalcie-serc",
+      "title": "Pizza w kształcie serca z pepperoni w kształcie serc",
+      "description": "Pyszna pizza w kształcie serca, na której dodatki, jak pepperoni, również mają romantyczne kształty. To najsmaczniejsza walentynkowa kolorowanka – pokoloruj ciasto na złoty brąz, a sos na czerwono."
+    },
+    {
+      "key": "lion_love",
+      "slug": "lew-i-lwica-ocierajace-sie-o-siebie-na-sawannie",
+      "title": "Lew i lwica ocierające się o siebie na sawannie",
+      "description": "Potężny lew i lwica okazują sobie czułość na rozległej afrykańskiej sawannie. Użyj piaskowych i miodowych odcieni dla ich futra, a tło wypełnij kolorami ciepłej Afryki."
+    },
+    {
+      "key": "valentine_bicycle",
+      "slug": "rower-z-przednim-koszykiem-pelnym-swiezych-kwiatow",
+      "title": "Rower z przednim koszykiem pełnym świeżych kwiatów",
+      "description": "Miejski rower z wiklinowym koszykiem wypełnionym po brzegi świeżymi, walentynkowymi kwiatami. Pokoloruj ramę roweru na swój ulubiony kolor, a kwiaty na najpiękniejsze barwy ogrodu."
+    },
+    {
+      "key": "fireplace_romance",
+      "slug": "przytulne-palenisko-z-sercowymi-skarpetami-wiszacymi-na-kominku",
+      "title": "Przytulne palenisko z sercowymi skarpetami wiszącymi na kominku",
+      "description": "W przytulnym salonie płonie ogień w kominku, a na gzymsie wiszą ozdobne skarpety z motywem serc. Użyj ciepłych brązów dla drewna i jasnych żółci oraz pomarańczy dla tańczących płomieni."
+    },
+    {
+      "key": "artist_bear",
+      "slug": "pluszowy-mis-malujacy-duze-serce-na-plotnie",
+      "title": "Pluszowy miś malujący duże serce na płótnie",
+      "description": "Miś artysta z pasją maluje na płótnie wielkie, czerwone serce, trzymając w łapce pędzel. Pokoloruj plamy farby na jego ubraniu i palecie, aby pokazać, jak bardzo zaangażował się w swoją pracę."
+    },
+    {
+      "key": "heart_rain",
+      "slug": "chmura-deszczaca-drobne-serca-nad-malym-parasolem",
+      "title": "Chmura deszcząca drobne serca nad małym parasolem",
+      "description": "Z puszystej chmurki zamiast kropel wody pada deszcz małych, kolorowych serduszek prosto na otwarty parasol. Pokoloruj parasol w kolorowe paski, a serduszka na wszystkie możliwe odcienie różu."
+    },
+    {
+      "key": "beach_sand_heart",
+      "slug": "reka-rysujaca-serce-na-piasku-na-plazy",
+      "title": "Ręka rysująca serce na piasku na plaży",
+      "description": "Na piaszczystej plaży ktoś narysował wielkie serce, które zaraz może zmyć morska fala. Pokoloruj piasek na beżowo, a wodę na błękitno, tworząc spokojny, nadmorski krajobraz."
+    }
+  ]
+}
