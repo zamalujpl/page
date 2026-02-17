@@ -19,7 +19,7 @@
       "key": "bulldozer_dirt",
       "slug": "spychacz-przesuwajacy-ziemie",
       "title": "Spychacz przesuwający ziemię",
-      "description": "Wielki spychacz pcha przed sobą ogromną hałdę ziemi. Maszyny budowlane są bardzo silne. Ta kolorowanka spodoba się każdemu fanowi placu budowy. Pokoloruj go na żółto!"
+      "description": "Wielki spychacz pcha przed sobą ogromną hałdę ziemi.  Maszyny budowlane są bardzo silne."
     },
     {
       "key": "canoe_river",
@@ -49,7 +49,7 @@
       "key": "firetruck_ladder",
       "slug": "woz-strazacki-z-drabina",
       "title": "Wóz strażacki z drabiną",
-      "description": "Czerwony wóz strażacki z długą, rozkładaną drabiną. Strażacy to bohaterowie, którzy gaszą pożary. Nie zapomnij o drabinie i wężu strażackim!"
+      "description": "Czerwony wóz strażacki z długą, rozkładaną drabiną.  Strażacy to bohaterowie, którzy gaszą pożary."
     },
     {
       "key": "helicopter_mountains",
@@ -147,5 +147,6 @@
       "title": "Uśmiechnięta lokomotywa",
       "description": "Uśmiechnięta lokomotywa parowa ciągnie za sobą wagony. Pociągi to fascynujący środek transportu. Dzieci mogą pokolorować ją na wzór bohaterów z ulubionych bajek."
     }
-  ]
+  ],
+  "asset_key": "vehicles"
 }

@@ -13,7 +13,7 @@
       "key": "basketball_slam_dunk",
       "slug": "koszykarz-robiacy-wsad",
       "title": "Koszykarz robiący wsad",
-      "description": "Wysoki koszykarz z wyskokiem pakuje piłkę do kosza. To jeden z najbardziej widowiskowych rzutów w koszykówce. Poczuj te sportowe emocje!"
+      "description": "Wysoki koszykarz z wyskokiem pakuje piłkę do kosza.  To jeden z najbardziej widowiskowych rzutów w koszykówce."
     },
     {
       "key": "bowler_rolling_strike",
@@ -37,7 +37,7 @@
       "key": "cyclist_uphill",
       "slug": "kolarz-jadacy-pod-gore",
       "title": "Kolarz jadący pod górę",
-      "description": "Kolarz w profesjonalnym stroju i kasku wspina się na strome wzniesienie. Kolarstwo to sport dla wytrwałych. Poczuj ten wysiłek i satysfakcję!"
+      "description": "Kolarz w profesjonalnym stroju i kasku wspina się na strome wzniesienie.  Kolarstwo to sport dla wytrwałych."
     },
     {
       "key": "dancer_grand_jete",
@@ -65,7 +65,7 @@
     },
     {
       "key": "gymnast_beam_split",
-      "slug": "gimnastyczka-robiaca-szpagat-na-rownowni",
+      "slug": "gimnastyczka-robiaca-szpagat-na-rownowazni",
       "title": "Gimnastyczka robiąca szpagat na równoważni",
       "description": "Gibka gimnastyczka wykonuje szpagat na wąskiej równoważni. Gimnastyka artystyczna to połączenie siły, gracji i odwagi. Pokoloruj jej błyszczący strój."
     },
@@ -77,7 +77,7 @@
     },
     {
       "key": "horse_rider_jump",
-      "slug": "jezdiec-na-koniu-skaczacy-przez-przeszkode",
+      "slug": "jezdziec-na-koniu-skaczacy-przez-przeszkode",
       "title": "Jeździec na koniu skaczący przez przeszkodę",
       "description": "Jeździec i jego koń w idealnej harmonii przeskakują przez przeszkodę. Jeździectwo to piękny sport, który buduje więź między człowiekiem a zwierzęciem."
     },
@@ -91,7 +91,7 @@
       "key": "rugby_runner_ball",
       "slug": "rugbista-biegnacy-z-pilka",
       "title": "Rugbista biegnący z piłką",
-      "description": "Zawodnik rugby biegnie z owalną piłką, próbując uniknąć przeciwników. Rugby to sport dla prawdziwych twardzieli. Poczuj dynamikę tego sportu!"
+      "description": "Zawodnik rugby biegnie z owalną piłką, próbując uniknąć przeciwników.  Rugby to sport dla prawdziwych twardzieli."
     },
     {
       "key": "runner_finish_line",
@@ -109,7 +109,7 @@
       "key": "skier_downhill_snow",
       "slug": "narciarz-zjezdzajacy-ze-stoku",
       "title": "Narciarz zjeżdżający ze stoku",
-      "description": "Narciarz w kasku i goglach zjeżdża z dużą prędkością po ośnieżonym stoku. Narciarstwo to jedna z najpopularniejszych zimowych aktywności. Poczuj pęd wiatru!"
+      "description": "Narciarz w kasku i goglach zjeżdża z dużą prędkością po ośnieżonym stoku.  Narciarstwo to jedna z najpopularniejszych zimowych aktywności."
     },
     {
       "key": "snowboarder_flip",
@@ -121,13 +121,13 @@
       "key": "soccer_player_kick",
       "slug": "pilkarz-strzelajacy-gola",
       "title": "Piłkarz strzelający gola",
-      "description": "Piłkarz nożny oddaje potężny strzał na bramkę. Czy padnie gol? Piłka nożna to sport, który łączy miliony ludzi na całym świecie. Pokoloruj jego strój w barwy narodowe."
+      "description": "Piłkarz nożny oddaje potężny strzał na bramkę.  Czy padnie gol?"
     },
     {
       "key": "surfer_big_wave",
       "slug": "surfer-na-wielkiej-fali",
       "title": "Surfer na wielkiej fali",
-      "description": "Odważny surfer płynie na desce po grzbiecie ogromnej fali. Surfing to sport wymagający odwagi i doskonałej równowagi. Poczuj siłę oceanu!"
+      "description": "Odważny surfer płynie na desce po grzbiecie ogromnej fali.  Surfing to sport wymagający odwagi i doskonałej równowagi."
     },
     {
       "key": "swimmer_butterfly_stroke",
@@ -151,7 +151,8 @@
       "key": "weightlifter_barbell",
       "slug": "sztangista-podnoszacy-sztange",
       "title": "Sztangista podnoszący sztangę",
-      "description": "Siłacz podnosi z ziemi ciężką sztangę. Podnoszenie ciężarów to sport wymagający ogromnej siły i techniki. Poczuj tę moc!"
+      "description": "Siłacz podnosi z ziemi ciężką sztangę.  Podnoszenie ciężarów to sport wymagający ogromnej siły i techniki."
     }
-  ]
+  ],
+  "asset_key": "sports_activities"
 }

@@ -7,7 +7,7 @@
       "key": "carriage_two_horses",
       "slug": "kareta-ciagnieta-przez-konie",
       "title": "Kareta ciągnięta przez konie",
-      "description": "Królewska, bogato zdobiona kareta ciągnięta przez dwa dostojne konie. Dokąd jedzie? Może wiezie księżniczkę na bal? To idealna kolorowanka dla fanów bajek o królestwach."
+      "description": "Królewska, bogato zdobiona kareta ciągnięta przez dwa dostojne konie.  Dokąd jedzie?"
     },
     {
       "key": "dwarf_mining_gems",
@@ -31,7 +31,7 @@
       "key": "magic_mirror_stars",
       "slug": "magiczne-lustro-z-gwiazdami",
       "title": "Magiczne lustro z gwiazdami",
-      "description": "Tajemnicze, magiczne lustro, które potrafi mówić prawdę i pokazywać przyszłość. Jego rama ozdobiona jest gwiazdami. Co zobaczysz w jego tafli? Użyj wyobraźni!"
+      "description": "Tajemnicze, magiczne lustro, które potrafi mówić prawdę i pokazywać przyszłość.  Jego rama ozdobiona jest gwiazdami."
     },
     {
       "key": "phoenix_embers",
@@ -67,13 +67,13 @@
       "key": "fairy_wings",
       "slug": "wrozka-ze-skrzydlami",
       "title": "Wróżka ze skrzydłami",
-      "description": "Delikatna wróżka z błyszczącymi skrzydłami unosi się wśród kwiatów. Wróżki znają sekrety natury i potrafią czarować. Jej skrzydełka mogą być tęczowe!"
+      "description": "Delikatna wróżka z błyszczącymi skrzydłami unosi się wśród kwiatów.  Wróżki znają sekrety natury i potrafią czarować."
     },
     {
       "key": "frogprince_crown",
       "slug": "zabi-ksiaze-w-koronie",
       "title": "Żabi książę w koronie",
-      "description": "Uśmiechnięta żabka w małej, złotej koronie siedzi na liściu lilii. Czy to książę zaklęty przez złą czarownicę? Pocałunek może zdjąć czar!"
+      "description": "Uśmiechnięta żabka w małej, złotej koronie siedzi na liściu lilii.  Czy to książę zaklęty przez złą czarownicę?"
     },
     {
       "key": "giant_club",
@@ -133,7 +133,7 @@
       "key": "dragon_guarding_treasure",
       "slug": "smok-pilnujacy-skarbu",
       "title": "Smok pilnujący skarbu",
-      "description": "Ogromny smok leży na górze złota i klejnotów, pilnując swojego skarbu. Smoki z legend uwielbiają błyskotki. Nikt nie odważy się go okraść!"
+      "description": "Ogromny smok leży na górze złota i klejnotów, pilnując swojego skarbu.  Smoki z legend uwielbiają błyskotki."
     },
     {
       "key": "fairy_godmother_wand",
@@ -153,5 +153,6 @@
       "title": "Królowa w sukni z berłem",
       "description": "Majestatyczna królowa w pięknej, królewskiej sukni, trzymająca w dłoni berło. Rządzi mądrze i sprawiedliwie. Jej strój i korona mogą lśnić od klejnotów."
     }
-  ]
+  ],
+  "asset_key": "fantasy_fairy_tales"
 }

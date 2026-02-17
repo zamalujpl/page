@@ -35,7 +35,7 @@
     },
     {
       "key": "strawberry_leaves",
-      "slug": "truskawka-z-lismi",
+      "slug": "truskawka-z-liscmi",
       "title": "Truskawka z liśćmi",
       "description": "Soczysta truskawka z zielonymi listkami wygląda bardzo apetycznie. Truskawki to jedne z ulubionych letnich owoców. Ten prosty rysunek jest idealny dla małych dzieci."
     },
@@ -115,7 +115,7 @@
       "key": "dandelion_puff",
       "slug": "dmuchawiec",
       "title": "Dmuchawiec",
-      "description": "Dmuchawiec, z którego wiatr rozwiewa nasiona. Każde dziecko uwielbia dmuchać na te puszyste kule. Pokoloruj go, zanim wszystkie nasionka odlecą!"
+      "description": "Dmuchawiec, z którego wiatr rozwiewa nasiona.  Każde dziecko uwielbia dmuchać na te puszyste kule."
     },
     {
       "key": "fern_leaf",
@@ -153,5 +153,6 @@
       "title": "Pole słoneczników",
       "description": "Pole pełne słoneczników zwróconych w stronę słońca. Taki widok napawa optymizmem i radością. To piękny, letni krajobraz do pokolorowania."
     }
-  ]
+  ],
+  "asset_key": "nature"
 }

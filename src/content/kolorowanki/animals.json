@@ -83,7 +83,7 @@
     },
     {
       "key": "kitten_yarn",
-      "slug": "kotek-bawacy-sie-welna",
+      "slug": "kotek-bawiacy-sie-wloczka",
       "title": "Kotek bawiący się włóczką",
       "description": "Słodki kotek bawi się kłębkiem włóczki. To klasyczna scena, którą uwielbiają wszyscy miłośnicy kotów. Pozwól dziecku wybrać kolor kotka i włóczki."
     },
@@ -103,7 +103,7 @@
       "key": "lion_grass",
       "slug": "lew-na-trawie",
       "title": "Lew na trawie",
-      "description": "Uśmiechnięty król dżungli, lew, odpoczywa na trawie. Jego bujna grzywa czeka na pokolorowanie. Czy wiesz, że tylko samce lwów mają grzywę? To świetny rysunek dla fanów dzikich kotów."
+      "description": "Uśmiechnięty król dżungli, lew, odpoczywa na trawie.  Jego bujna grzywa czeka na pokolorowanie."
     },
     {
       "key": "llama_fur",
@@ -125,7 +125,7 @@
     },
     {
       "key": "owl_stump",
-      "slug": "sowa-na-pieńku",
+      "slug": "sowa-na-pienku",
       "title": "Sowa na pieńku",
       "description": "Mądra sowa siedzi na pieńku drzewa, obserwując otoczenie swoimi wielkimi oczami. Sowy to nocne ptaki, więc możesz dodać tło z księżycem i gwiazdami."
     },
@@ -231,5 +231,6 @@
       "title": "Zebra na sawannie",
       "description": "Zebra w charakterystyczne czarno-białe pasy biegnie po afrykańskiej sawannie. Czy wiesz, że układ pasów każdej zebry jest unikalny, jak linie papilarne u człowieka?"
     }
-  ]
+  ],
+  "asset_key": "animals"
 }

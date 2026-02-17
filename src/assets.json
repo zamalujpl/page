@@ -266,14 +266,6 @@
         "webp_large": "assets/animals/zebra_savannah-1200.webp",
         "webp_thumb": "assets/animals/zebra_savannah-350.webp",
         "pdf_file": "assets/animals/zebra_savannah.pdf"
-      },
-      {
-        "key": "test_image",
-        "file": "assets/animals/test_image.svg",
-        "description": "",
-        "webp_large": "assets/animals/test_image-1200.webp",
-        "webp_thumb": "assets/animals/test_image-350.webp",
-        "pdf_file": "assets/animals/test_image.pdf"
       }
     ]
   },
@@ -804,6 +796,190 @@
         "webp_large": "assets/christmas/wreath_bells-1200.webp",
         "webp_thumb": "assets/christmas/wreath_bells-350.webp",
         "pdf_file": "assets/christmas/wreath_bells.pdf"
+      },
+      {
+        "key": "elves_baking_cookies",
+        "file": "assets/christmas/elves_baking_cookies.svg",
+        "description": "elves baking gingerbread cookies in a warm kitchen",
+        "webp_large": "assets/christmas/elves_baking_cookies-1200.webp",
+        "webp_thumb": "assets/christmas/elves_baking_cookies-350.webp",
+        "pdf_file": "assets/christmas/elves_baking_cookies.pdf"
+      },
+      {
+        "key": "elves_candy_cane_sorting",
+        "file": "assets/christmas/elves_candy_cane_sorting.svg",
+        "description": "elves organizing candy canes into colorful patterns",
+        "webp_large": "assets/christmas/elves_candy_cane_sorting-1200.webp",
+        "webp_thumb": "assets/christmas/elves_candy_cane_sorting-350.webp",
+        "pdf_file": "assets/christmas/elves_candy_cane_sorting.pdf"
+      },
+      {
+        "key": "elves_caroling_lanterns",
+        "file": "assets/christmas/elves_caroling_lanterns.svg",
+        "description": "elves singing carols while holding glowing lanterns",
+        "webp_large": "assets/christmas/elves_caroling_lanterns-1200.webp",
+        "webp_thumb": "assets/christmas/elves_caroling_lanterns-350.webp",
+        "pdf_file": "assets/christmas/elves_caroling_lanterns.pdf"
+      },
+      {
+        "key": "elves_gingerbread_house",
+        "file": "assets/christmas/elves_gingerbread_house.svg",
+        "description": "three elves decorating a giant gingerbread house",
+        "webp_large": "assets/christmas/elves_gingerbread_house-1200.webp",
+        "webp_thumb": "assets/christmas/elves_gingerbread_house-350.webp",
+        "pdf_file": "assets/christmas/elves_gingerbread_house.pdf"
+      },
+      {
+        "key": "elves_mini_village",
+        "file": "assets/christmas/elves_mini_village.svg",
+        "description": "two elves building a miniature christmas village",
+        "webp_large": "assets/christmas/elves_mini_village-1200.webp",
+        "webp_thumb": "assets/christmas/elves_mini_village-350.webp",
+        "pdf_file": "assets/christmas/elves_mini_village.pdf"
+      },
+      {
+        "key": "elves_wrapping_presents",
+        "file": "assets/christmas/elves_wrapping_presents.svg",
+        "description": "two elves wrapping presents in santa's workshop",
+        "webp_large": "assets/christmas/elves_wrapping_presents-1200.webp",
+        "webp_thumb": "assets/christmas/elves_wrapping_presents-350.webp",
+        "pdf_file": "assets/christmas/elves_wrapping_presents.pdf"
+      },
+      {
+        "key": "fox_decorates_tree",
+        "file": "assets/christmas/fox_decorates_tree.svg",
+        "description": "a fox decorating a small tree with shiny ornaments",
+        "webp_large": "assets/christmas/fox_decorates_tree-1200.webp",
+        "webp_thumb": "assets/christmas/fox_decorates_tree-350.webp",
+        "pdf_file": "assets/christmas/fox_decorates_tree.pdf"
+      },
+      {
+        "key": "gingerbread_family_tree",
+        "file": "assets/christmas/gingerbread_family_tree.svg",
+        "description": "a gingerbread family decorating a cookie christmas tree",
+        "webp_large": "assets/christmas/gingerbread_family_tree-1200.webp",
+        "webp_thumb": "assets/christmas/gingerbread_family_tree-350.webp",
+        "pdf_file": "assets/christmas/gingerbread_family_tree.pdf"
+      },
+      {
+        "key": "gingerbread_sledding",
+        "file": "assets/christmas/gingerbread_sledding.svg",
+        "description": "a gingerbread man sledding down a frosting hill",
+        "webp_large": "assets/christmas/gingerbread_sledding-1200.webp",
+        "webp_thumb": "assets/christmas/gingerbread_sledding-350.webp",
+        "pdf_file": "assets/christmas/gingerbread_sledding.pdf"
+      },
+      {
+        "key": "hanging_stockings_full",
+        "file": "assets/christmas/hanging_stockings_full.svg",
+        "description": "a row of hanging stockings filled with candies and small toys",
+        "webp_large": "assets/christmas/hanging_stockings_full-1200.webp",
+        "webp_thumb": "assets/christmas/hanging_stockings_full-350.webp",
+        "pdf_file": "assets/christmas/hanging_stockings_full.pdf"
+      },
+      {
+        "key": "large_christmas_wreath",
+        "file": "assets/christmas/large_christmas_wreath.svg",
+        "description": "a large wreath decorated with ribbons, bells, and holly",
+        "webp_large": "assets/christmas/large_christmas_wreath-1200.webp",
+        "webp_thumb": "assets/christmas/large_christmas_wreath-350.webp",
+        "pdf_file": "assets/christmas/large_christmas_wreath.pdf"
+      },
+      {
+        "key": "moose_lights_antlers",
+        "file": "assets/christmas/moose_lights_antlers.svg",
+        "description": "a moose wearing christmas lights tangled in its antlers",
+        "webp_large": "assets/christmas/moose_lights_antlers-1200.webp",
+        "webp_thumb": "assets/christmas/moose_lights_antlers-350.webp",
+        "pdf_file": "assets/christmas/moose_lights_antlers.pdf"
+      },
+      {
+        "key": "penguin_hot_cocoa",
+        "file": "assets/christmas/penguin_hot_cocoa.svg",
+        "description": "a penguin holding a cup of hot cocoa by a snowy lantern",
+        "webp_large": "assets/christmas/penguin_hot_cocoa-1200.webp",
+        "webp_thumb": "assets/christmas/penguin_hot_cocoa-350.webp",
+        "pdf_file": "assets/christmas/penguin_hot_cocoa.pdf"
+      },
+      {
+        "key": "penguins_icy_tree",
+        "file": "assets/christmas/penguins_icy_tree.svg",
+        "description": "a family of penguins decorating an icy christmas tree",
+        "webp_large": "assets/christmas/penguins_icy_tree-1200.webp",
+        "webp_thumb": "assets/christmas/penguins_icy_tree-350.webp",
+        "pdf_file": "assets/christmas/penguins_icy_tree.pdf"
+      },
+      {
+        "key": "polar_bear_scarf_walk",
+        "file": "assets/christmas/polar_bear_scarf_walk.svg",
+        "description": "a polar bear cub wearing a festive scarf walking through snow",
+        "webp_large": "assets/christmas/polar_bear_scarf_walk-1200.webp",
+        "webp_thumb": "assets/christmas/polar_bear_scarf_walk-350.webp",
+        "pdf_file": "assets/christmas/polar_bear_scarf_walk.pdf"
+      },
+      {
+        "key": "reindeer_mailbox_decor",
+        "file": "assets/christmas/reindeer_mailbox_decor.svg",
+        "description": "a reindeer decorating a mailbox with holly and ribbons",
+        "webp_large": "assets/christmas/reindeer_mailbox_decor-1200.webp",
+        "webp_thumb": "assets/christmas/reindeer_mailbox_decor-350.webp",
+        "pdf_file": "assets/christmas/reindeer_mailbox_decor.pdf"
+      },
+      {
+        "key": "reindeer_penguin_snow_angels",
+        "file": "assets/christmas/reindeer_penguin_snow_angels.svg",
+        "description": "a reindeer and penguin making snow angels together",
+        "webp_large": "assets/christmas/reindeer_penguin_snow_angels-1200.webp",
+        "webp_thumb": "assets/christmas/reindeer_penguin_snow_angels-350.webp",
+        "pdf_file": "assets/christmas/reindeer_penguin_snow_angels.pdf"
+      },
+      {
+        "key": "santa_checking_list",
+        "file": "assets/christmas/santa_checking_list.svg",
+        "description": "santa checking his list beside a pile of wrapped gifts",
+        "webp_large": "assets/christmas/santa_checking_list-1200.webp",
+        "webp_thumb": "assets/christmas/santa_checking_list-350.webp",
+        "pdf_file": "assets/christmas/santa_checking_list.pdf"
+      },
+      {
+        "key": "santa_reading_letters",
+        "file": "assets/christmas/santa_reading_letters.svg",
+        "description": "santa reading letters from children by the fireplace",
+        "webp_large": "assets/christmas/santa_reading_letters-1200.webp",
+        "webp_thumb": "assets/christmas/santa_reading_letters-350.webp",
+        "pdf_file": "assets/christmas/santa_reading_letters.pdf"
+      },
+      {
+        "key": "santa_sleigh_village",
+        "file": "assets/christmas/santa_sleigh_village.svg",
+        "description": "santa flying over a snowy village in his sleigh",
+        "webp_large": "assets/christmas/santa_sleigh_village-1200.webp",
+        "webp_thumb": "assets/christmas/santa_sleigh_village-350.webp",
+        "pdf_file": "assets/christmas/santa_sleigh_village.pdf"
+      },
+      {
+        "key": "snowflake_fairy_sparkle",
+        "file": "assets/christmas/snowflake_fairy_sparkle.svg",
+        "description": "a snowflake fairy sprinkling shimmering snow over a village",
+        "webp_large": "assets/christmas/snowflake_fairy_sparkle-1200.webp",
+        "webp_thumb": "assets/christmas/snowflake_fairy_sparkle-350.webp",
+        "pdf_file": "assets/christmas/snowflake_fairy_sparkle.pdf"
+      },
+      {
+        "key": "snowflakes_winter_star",
+        "file": "assets/christmas/snowflakes_winter_star.svg",
+        "description": "a group of snowflakes swirling around a bright winter star",
+        "webp_large": "assets/christmas/snowflakes_winter_star-1200.webp",
+        "webp_thumb": "assets/christmas/snowflakes_winter_star-350.webp",
+        "pdf_file": "assets/christmas/snowflakes_winter_star.pdf"
+      },
+      {
+        "key": "snowman_family_building",
+        "file": "assets/christmas/snowman_family_building.svg",
+        "description": "a snowman family building another snowman together",
+        "webp_large": "assets/christmas/snowman_family_building-1200.webp",
+        "webp_thumb": "assets/christmas/snowman_family_building-350.webp",
+        "pdf_file": "assets/christmas/snowman_family_building.pdf"
       }
     ]
   },
@@ -3449,197 +3625,246 @@
         "webp_large": "assets/minecraft/zombified_piglin-1200.webp",
         "webp_thumb": "assets/minecraft/zombified_piglin-350.webp",
         "pdf_file": "assets/minecraft/zombified_piglin.pdf"
-      }
-    ]
-  },
-  "Christmas": {
-    "title_key": "Christmas",
-    "description": "",
-    "header": "",
-    "items": [
-      {
-        "key": "elves_baking_cookies",
-        "file": "assets/Christmas/elves_baking_cookies.svg",
-        "description": "elves baking gingerbread cookies in a warm kitchen",
-        "webp_large": "assets/Christmas/elves_baking_cookies-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_baking_cookies-350.webp",
-        "pdf_file": "assets/Christmas/elves_baking_cookies.pdf"
       },
       {
-        "key": "elves_candy_cane_sorting",
-        "file": "assets/Christmas/elves_candy_cane_sorting.svg",
-        "description": "elves organizing candy canes into colorful patterns",
-        "webp_large": "assets/Christmas/elves_candy_cane_sorting-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_candy_cane_sorting-350.webp",
-        "pdf_file": "assets/Christmas/elves_candy_cane_sorting.pdf"
+        "key": "alex_archer",
+        "file": "assets/minecraft/alex_archer.svg",
+        "description": "Alex z łukiem celująca w stronę szkieletu",
+        "webp_large": "assets/minecraft/alex_archer-1200.webp",
+        "webp_thumb": "assets/minecraft/alex_archer-350.webp",
+        "pdf_file": "assets/minecraft/alex_archer.pdf"
       },
       {
-        "key": "elves_caroling_lanterns",
-        "file": "assets/Christmas/elves_caroling_lanterns.svg",
-        "description": "elves singing carols while holding glowing lanterns",
-        "webp_large": "assets/Christmas/elves_caroling_lanterns-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_caroling_lanterns-350.webp",
-        "pdf_file": "assets/Christmas/elves_caroling_lanterns.pdf"
+        "key": "apple_golden",
+        "file": "assets/minecraft/apple_golden.svg",
+        "description": "Złote Jabłko (Golden Apple) błyszczące na środku obrazka",
+        "webp_large": "assets/minecraft/apple_golden-1200.webp",
+        "webp_thumb": "assets/minecraft/apple_golden-350.webp",
+        "pdf_file": "assets/minecraft/apple_golden.pdf"
       },
       {
-        "key": "elves_gingerbread_house",
-        "file": "assets/Christmas/elves_gingerbread_house.svg",
-        "description": "three elves decorating a giant gingerbread house",
-        "webp_large": "assets/Christmas/elves_gingerbread_house-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_gingerbread_house-350.webp",
-        "pdf_file": "assets/Christmas/elves_gingerbread_house.pdf"
+        "key": "armadillo_shell",
+        "file": "assets/minecraft/armadillo_shell.svg",
+        "description": "Armadillo (Pancernik) chowający się do swojej twardej skorupy",
+        "webp_large": "assets/minecraft/armadillo_shell-1200.webp",
+        "webp_thumb": "assets/minecraft/armadillo_shell-350.webp",
+        "pdf_file": "assets/minecraft/armadillo_shell.pdf"
       },
       {
-        "key": "elves_mini_village",
-        "file": "assets/Christmas/elves_mini_village.svg",
-        "description": "two elves building a miniature christmas village",
-        "webp_large": "assets/Christmas/elves_mini_village-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_mini_village-350.webp",
-        "pdf_file": "assets/Christmas/elves_mini_village.pdf"
+        "key": "blaze_nether",
+        "file": "assets/minecraft/blaze_nether.svg",
+        "description": "Blaze (Płomyk) unoszący się w powietrzu wewnątrz fortecy Netheru, otoczony wirującymi prętami",
+        "webp_large": "assets/minecraft/blaze_nether-1200.webp",
+        "webp_thumb": "assets/minecraft/blaze_nether-350.webp",
+        "pdf_file": "assets/minecraft/blaze_nether.pdf"
       },
       {
-        "key": "elves_wrapping_presents",
-        "file": "assets/Christmas/elves_wrapping_presents.svg",
-        "description": "two elves wrapping presents in santa's workshop",
-        "webp_large": "assets/Christmas/elves_wrapping_presents-1200.webp",
-        "webp_thumb": "assets/Christmas/elves_wrapping_presents-350.webp",
-        "pdf_file": "assets/Christmas/elves_wrapping_presents.pdf"
+        "key": "bogged_archer",
+        "file": "assets/minecraft/bogged_archer.svg",
+        "description": "Bogged (Zabłocony szkielet) trzymający łuk, z którego kapią krople trucizny",
+        "webp_large": "assets/minecraft/bogged_archer-1200.webp",
+        "webp_thumb": "assets/minecraft/bogged_archer-350.webp",
+        "pdf_file": "assets/minecraft/bogged_archer.pdf"
       },
       {
-        "key": "fox_decorates_tree",
-        "file": "assets/Christmas/fox_decorates_tree.svg",
-        "description": "a fox decorating a small tree with shiny ornaments",
-        "webp_large": "assets/Christmas/fox_decorates_tree-1200.webp",
-        "webp_thumb": "assets/Christmas/fox_decorates_tree-350.webp",
-        "pdf_file": "assets/Christmas/fox_decorates_tree.pdf"
+        "key": "breeze_action",
+        "file": "assets/minecraft/breeze_action.svg",
+        "description": "Breeze (Wietrznik) skaczący i kręcący się w wirze powietrza",
+        "webp_large": "assets/minecraft/breeze_action-1200.webp",
+        "webp_thumb": "assets/minecraft/breeze_action-350.webp",
+        "pdf_file": "assets/minecraft/breeze_action.pdf"
       },
       {
-        "key": "gingerbread_family_tree",
-        "file": "assets/Christmas/gingerbread_family_tree.svg",
-        "description": "a gingerbread family decorating a cookie christmas tree",
-        "webp_large": "assets/Christmas/gingerbread_family_tree-1200.webp",
-        "webp_thumb": "assets/Christmas/gingerbread_family_tree-350.webp",
-        "pdf_file": "assets/Christmas/gingerbread_family_tree.pdf"
+        "key": "creaking_monster",
+        "file": "assets/minecraft/creaking_monster.svg",
+        "description": "Creaking (Skrzypak) czający się między ciemnymi drzewami w Pale Garden",
+        "webp_large": "assets/minecraft/creaking_monster-1200.webp",
+        "webp_thumb": "assets/minecraft/creaking_monster-350.webp",
+        "pdf_file": "assets/minecraft/creaking_monster.pdf"
       },
       {
-        "key": "gingerbread_sledding",
-        "file": "assets/Christmas/gingerbread_sledding.svg",
-        "description": "a gingerbread man sledding down a frosting hill",
-        "webp_large": "assets/Christmas/gingerbread_sledding-1200.webp",
-        "webp_thumb": "assets/Christmas/gingerbread_sledding-350.webp",
-        "pdf_file": "assets/Christmas/gingerbread_sledding.pdf"
+        "key": "creeper_improved",
+        "file": "assets/minecraft/creeper_improved.svg",
+        "description": "Ikoniczny Creeper stojący obok bloku TNT, w klasycznej pozie gotowej do wybuchu",
+        "webp_large": "assets/minecraft/creeper_improved-1200.webp",
+        "webp_thumb": "assets/minecraft/creeper_improved-350.webp",
+        "pdf_file": "assets/minecraft/creeper_improved.pdf"
       },
       {
-        "key": "hanging_stockings_full",
-        "file": "assets/Christmas/hanging_stockings_full.svg",
-        "description": "a row of hanging stockings filled with candies and small toys",
-        "webp_large": "assets/Christmas/hanging_stockings_full-1200.webp",
-        "webp_thumb": "assets/Christmas/hanging_stockings_full-350.webp",
-        "pdf_file": "assets/Christmas/hanging_stockings_full.pdf"
+        "key": "diamond_tools_set",
+        "file": "assets/minecraft/diamond_tools_set.svg",
+        "description": "Zestaw diamentowych narzędzi: miecz, kilof i siekiera wbite w stół warsztatowy",
+        "webp_large": "assets/minecraft/diamond_tools_set-1200.webp",
+        "webp_thumb": "assets/minecraft/diamond_tools_set-350.webp",
+        "pdf_file": "assets/minecraft/diamond_tools_set.pdf"
       },
       {
-        "key": "large_christmas_wreath",
-        "file": "assets/Christmas/large_christmas_wreath.svg",
-        "description": "a large wreath decorated with ribbons, bells, and holly",
-        "webp_large": "assets/Christmas/large_christmas_wreath-1200.webp",
-        "webp_thumb": "assets/Christmas/large_christmas_wreath-350.webp",
-        "pdf_file": "assets/Christmas/large_christmas_wreath.pdf"
+        "key": "drowned_trident",
+        "file": "assets/minecraft/drowned_trident.svg",
+        "description": "Drowned (Utopiec) pod wodą, trzymający w ręku potężny trójząb",
+        "webp_large": "assets/minecraft/drowned_trident-1200.webp",
+        "webp_thumb": "assets/minecraft/drowned_trident-350.webp",
+        "pdf_file": "assets/minecraft/drowned_trident.pdf"
       },
       {
-        "key": "moose_lights_antlers",
-        "file": "assets/Christmas/moose_lights_antlers.svg",
-        "description": "a moose wearing christmas lights tangled in its antlers",
-        "webp_large": "assets/Christmas/moose_lights_antlers-1200.webp",
-        "webp_thumb": "assets/Christmas/moose_lights_antlers-350.webp",
-        "pdf_file": "assets/Christmas/moose_lights_antlers.pdf"
+        "key": "evoker_spell",
+        "file": "assets/minecraft/evoker_spell.svg",
+        "description": "Evoker (Przywoływacz) z podniesionymi rękami, rzucający czary i przywołujący kły z ziemi",
+        "webp_large": "assets/minecraft/evoker_spell-1200.webp",
+        "webp_thumb": "assets/minecraft/evoker_spell-350.webp",
+        "pdf_file": "assets/minecraft/evoker_spell.pdf"
       },
       {
-        "key": "penguin_hot_cocoa",
-        "file": "assets/Christmas/penguin_hot_cocoa.svg",
-        "description": "a penguin holding a cup of hot cocoa by a snowy lantern",
-        "webp_large": "assets/Christmas/penguin_hot_cocoa-1200.webp",
-        "webp_thumb": "assets/Christmas/penguin_hot_cocoa-350.webp",
-        "pdf_file": "assets/Christmas/penguin_hot_cocoa.pdf"
+        "key": "ghast_fireball",
+        "file": "assets/minecraft/ghast_fireball.svg",
+        "description": "Ghast, wielki latający duch z otwartą buzią strzelający kulą ognia",
+        "webp_large": "assets/minecraft/ghast_fireball-1200.webp",
+        "webp_thumb": "assets/minecraft/ghast_fireball-350.webp",
+        "pdf_file": "assets/minecraft/ghast_fireball.pdf"
       },
       {
-        "key": "penguins_icy_tree",
-        "file": "assets/Christmas/penguins_icy_tree.svg",
-        "description": "a family of penguins decorating an icy christmas tree",
-        "webp_large": "assets/Christmas/penguins_icy_tree-1200.webp",
-        "webp_thumb": "assets/Christmas/penguins_icy_tree-350.webp",
-        "pdf_file": "assets/Christmas/penguins_icy_tree.pdf"
+        "key": "loot_chest",
+        "file": "assets/minecraft/loot_chest.svg",
+        "description": "Otwarta skrzynia (Chest) z której wylewają się diamenty i szmaragdy",
+        "webp_large": "assets/minecraft/loot_chest-1200.webp",
+        "webp_thumb": "assets/minecraft/loot_chest-350.webp",
+        "pdf_file": "assets/minecraft/loot_chest.pdf"
       },
       {
-        "key": "polar_bear_scarf_walk",
-        "file": "assets/Christmas/polar_bear_scarf_walk.svg",
-        "description": "a polar bear cub wearing a festive scarf walking through snow",
-        "webp_large": "assets/Christmas/polar_bear_scarf_walk-1200.webp",
-        "webp_thumb": "assets/Christmas/polar_bear_scarf_walk-350.webp",
-        "pdf_file": "assets/Christmas/polar_bear_scarf_walk.pdf"
+        "key": "magic_enchanting",
+        "file": "assets/minecraft/magic_enchanting.svg",
+        "description": "Stół do zaklęć (Enchanting Table) z latającą książką i magicznymi runami",
+        "webp_large": "assets/minecraft/magic_enchanting-1200.webp",
+        "webp_thumb": "assets/minecraft/magic_enchanting-350.webp",
+        "pdf_file": "assets/minecraft/magic_enchanting.pdf"
       },
       {
-        "key": "reindeer_mailbox_decor",
-        "file": "assets/Christmas/reindeer_mailbox_decor.svg",
-        "description": "a reindeer decorating a mailbox with holly and ribbons",
-        "webp_large": "assets/Christmas/reindeer_mailbox_decor-1200.webp",
-        "webp_thumb": "assets/Christmas/reindeer_mailbox_decor-350.webp",
-        "pdf_file": "assets/Christmas/reindeer_mailbox_decor.pdf"
+        "key": "magma_cube_stretch",
+        "file": "assets/minecraft/magma_cube_stretch.svg",
+        "description": "Magma Cube w trakcie skoku, maksymalnie rozciągnięty, pokazujący warstwy lawy w środku",
+        "webp_large": "assets/minecraft/magma_cube_stretch-1200.webp",
+        "webp_thumb": "assets/minecraft/magma_cube_stretch-350.webp",
+        "pdf_file": "assets/minecraft/magma_cube_stretch.pdf"
       },
       {
-        "key": "reindeer_penguin_snow_angels",
-        "file": "assets/Christmas/reindeer_penguin_snow_angels.svg",
-        "description": "a reindeer and penguin making snow angels together",
-        "webp_large": "assets/Christmas/reindeer_penguin_snow_angels-1200.webp",
-        "webp_thumb": "assets/Christmas/reindeer_penguin_snow_angels-350.webp",
-        "pdf_file": "assets/Christmas/reindeer_penguin_snow_angels.pdf"
+        "key": "pillager_banner",
+        "file": "assets/minecraft/pillager_banner.svg",
+        "description": "Pillager (Rozbójnik) trzymający kuszę i sztandar złoczyńców (Illager Banner)",
+        "webp_large": "assets/minecraft/pillager_banner-1200.webp",
+        "webp_thumb": "assets/minecraft/pillager_banner-350.webp",
+        "pdf_file": "assets/minecraft/pillager_banner.pdf"
       },
       {
-        "key": "santa_checking_list",
-        "file": "assets/Christmas/santa_checking_list.svg",
-        "description": "santa checking his list beside a pile of wrapped gifts",
-        "webp_large": "assets/Christmas/santa_checking_list-1200.webp",
-        "webp_thumb": "assets/Christmas/santa_checking_list-350.webp",
-        "pdf_file": "assets/Christmas/santa_checking_list.pdf"
+        "key": "spider_climbing",
+        "file": "assets/minecraft/spider_climbing.svg",
+        "description": "Wielki pająk (Spider) wspinający się po pionowej ścianie z bloków jaskini",
+        "webp_large": "assets/minecraft/spider_climbing-1200.webp",
+        "webp_thumb": "assets/minecraft/spider_climbing-350.webp",
+        "pdf_file": "assets/minecraft/spider_climbing.pdf"
       },
       {
-        "key": "santa_reading_letters",
-        "file": "assets/Christmas/santa_reading_letters.svg",
-        "description": "santa reading letters from children by the fireplace",
-        "webp_large": "assets/Christmas/santa_reading_letters-1200.webp",
-        "webp_thumb": "assets/Christmas/santa_reading_letters-350.webp",
-        "pdf_file": "assets/Christmas/santa_reading_letters.pdf"
+        "key": "steve_diamond_armor",
+        "file": "assets/minecraft/steve_diamond_armor.svg",
+        "description": "Steve w pełnej diamentowej zbroi trzymający kilof",
+        "webp_large": "assets/minecraft/steve_diamond_armor-1200.webp",
+        "webp_thumb": "assets/minecraft/steve_diamond_armor-350.webp",
+        "pdf_file": "assets/minecraft/steve_diamond_armor.pdf"
       },
       {
-        "key": "santa_sleigh_village",
-        "file": "assets/Christmas/santa_sleigh_village.svg",
-        "description": "santa flying over a snowy village in his sleigh",
-        "webp_large": "assets/Christmas/santa_sleigh_village-1200.webp",
-        "webp_thumb": "assets/Christmas/santa_sleigh_village-350.webp",
-        "pdf_file": "assets/Christmas/santa_sleigh_village.pdf"
+        "key": "vex_flying",
+        "file": "assets/minecraft/vex_flying.svg",
+        "description": "Mały, złośliwy Vex z mieczem, latający i przenikający przez ściany",
+        "webp_large": "assets/minecraft/vex_flying-1200.webp",
+        "webp_thumb": "assets/minecraft/vex_flying-350.webp",
+        "pdf_file": "assets/minecraft/vex_flying.pdf"
       },
       {
-        "key": "snowflake_fairy_sparkle",
-        "file": "assets/Christmas/snowflake_fairy_sparkle.svg",
-        "description": "a snowflake fairy sprinkling shimmering snow over a village",
-        "webp_large": "assets/Christmas/snowflake_fairy_sparkle-1200.webp",
-        "webp_thumb": "assets/Christmas/snowflake_fairy_sparkle-350.webp",
-        "pdf_file": "assets/Christmas/snowflake_fairy_sparkle.pdf"
+        "key": "villager_blacksmith",
+        "file": "assets/minecraft/villager_blacksmith.svg",
+        "description": "Wieśniak Kowal (Blacksmith Villager) stojący przy kowadle w swojej kuźni",
+        "webp_large": "assets/minecraft/villager_blacksmith-1200.webp",
+        "webp_thumb": "assets/minecraft/villager_blacksmith-350.webp",
+        "pdf_file": "assets/minecraft/villager_blacksmith.pdf"
       },
       {
-        "key": "snowflakes_winter_star",
-        "file": "assets/Christmas/snowflakes_winter_star.svg",
-        "description": "a group of snowflakes swirling around a bright winter star",
-        "webp_large": "assets/Christmas/snowflakes_winter_star-1200.webp",
-        "webp_thumb": "assets/Christmas/snowflakes_winter_star-350.webp",
-        "pdf_file": "assets/Christmas/snowflakes_winter_star.pdf"
+        "key": "villager_librarian",
+        "file": "assets/minecraft/villager_librarian.svg",
+        "description": "Wieśniak Bibliotekarz (Librarian Villager) w okularach, trzymający otwartą książkę",
+        "webp_large": "assets/minecraft/villager_librarian-1200.webp",
+        "webp_thumb": "assets/minecraft/villager_librarian-350.webp",
+        "pdf_file": "assets/minecraft/villager_librarian.pdf"
       },
       {
-        "key": "snowman_family_building",
-        "file": "assets/Christmas/snowman_family_building.svg",
-        "description": "a snowman family building another snowman together",
-        "webp_large": "assets/Christmas/snowman_family_building-1200.webp",
-        "webp_thumb": "assets/Christmas/snowman_family_building-350.webp",
-        "pdf_file": "assets/Christmas/snowman_family_building.pdf"
+        "key": "warden_beast",
+        "file": "assets/minecraft/warden_beast.svg",
+        "description": "Warden (Nadzorca), ślepy potwór z Deep Dark z świecącymi elementami na klatce piersiowej",
+        "webp_large": "assets/minecraft/warden_beast-1200.webp",
+        "webp_thumb": "assets/minecraft/warden_beast-350.webp",
+        "pdf_file": "assets/minecraft/warden_beast.pdf"
+      },
+      {
+        "key": "drowned_king",
+        "file": "assets/minecraft/drowned_king.svg",
+        "description": "Król Utopców w koralowej koronie, trzymający złoty trójząb i rządzący głębinami.",
+        "webp_large": "assets/minecraft/drowned_king-1200.webp",
+        "webp_thumb": "assets/minecraft/drowned_king-350.webp",
+        "pdf_file": "assets/minecraft/drowned_king.pdf"
+      },
+      {
+        "key": "guardian_treasure",
+        "file": "assets/minecraft/guardian_treasure.svg",
+        "description": "Potężny Starszy Strażnik pilnujący złotej skrzyni ze skarbami na dnie oceanu.",
+        "webp_large": "assets/minecraft/guardian_treasure-1200.webp",
+        "webp_thumb": "assets/minecraft/guardian_treasure-350.webp",
+        "pdf_file": "assets/minecraft/guardian_treasure.pdf"
+      },
+      {
+        "key": "piglin_hoglin",
+        "file": "assets/minecraft/piglin_hoglin.svg",
+        "description": "Piglin stojący obok wielkiego Hoglina w czerwonym lesie w wymiarze Netheru.",
+        "webp_large": "assets/minecraft/piglin_hoglin-1200.webp",
+        "webp_thumb": "assets/minecraft/piglin_hoglin-350.webp",
+        "pdf_file": "assets/minecraft/piglin_hoglin.pdf"
+      },
+      {
+        "key": "snow_golem_drowned_fight",
+        "file": "assets/minecraft/snow_golem_drowned_fight.svg",
+        "description": "",
+        "webp_large": "assets/minecraft/snow_golem_drowned_fight-1200.webp",
+        "webp_thumb": "assets/minecraft/snow_golem_drowned_fight-350.webp",
+        "pdf_file": "assets/minecraft/snow_golem_drowned_fight.pdf"
+      },
+      {
+        "key": "steve_drowned_fight",
+        "file": "assets/minecraft/steve_drowned_fight.svg",
+        "description": "Steve walczący z Utopcem pod wodą, broniący się swoim mieczem.",
+        "webp_large": "assets/minecraft/steve_drowned_fight-1200.webp",
+        "webp_thumb": "assets/minecraft/steve_drowned_fight-350.webp",
+        "pdf_file": "assets/minecraft/steve_drowned_fight.pdf"
+      },
+      {
+        "key": "villager_ravager_ride",
+        "file": "assets/minecraft/villager_ravager_ride.svg",
+        "description": "Odważny wieśniak próbujący ujeżdżać potężnego Dewastatora niczym byka.",
+        "webp_large": "assets/minecraft/villager_ravager_ride-1200.webp",
+        "webp_thumb": "assets/minecraft/villager_ravager_ride-350.webp",
+        "pdf_file": "assets/minecraft/villager_ravager_ride.pdf"
+      },
+      {
+        "key": "villager_tower",
+        "file": "assets/minecraft/villager_tower.svg",
+        "description": "Wieśniak spoglądający ze szczytu kamiennej wieży strażniczej na swoją wioskę.",
+        "webp_large": "assets/minecraft/villager_tower-1200.webp",
+        "webp_thumb": "assets/minecraft/villager_tower-350.webp",
+        "pdf_file": "assets/minecraft/villager_tower.pdf"
+      },
+      {
+        "key": "wither_alex_attack",
+        "file": "assets/minecraft/wither_alex_attack.svg",
+        "description": "Trójgłowy Wither strzelający wybuchowymi czaszkami w stronę uciekającej Alex.",
+        "webp_large": "assets/minecraft/wither_alex_attack-1200.webp",
+        "webp_thumb": "assets/minecraft/wither_alex_attack-350.webp",
+        "pdf_file": "assets/minecraft/wither_alex_attack.pdf"
       }
     ]
   },

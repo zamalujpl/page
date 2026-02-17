@@ -37,7 +37,7 @@
       "key": "bright_star_shining",
       "slug": "jasno-swiecaca-gwiazda",
       "title": "Jasno świecąca gwiazda",
-      "description": "Wielka, jasno świecąca gwiazda na ciemnym niebie. Gwiazdy to ogromne kule gazu, które produkują światło i ciepło. Słońce też jest gwiazdą!"
+      "description": "Wielka, jasno świecąca gwiazda na ciemnym niebie.  Gwiazdy to ogromne kule gazu, które produkują światło i ciepło."
     },
     {
       "key": "capsule_parachute",
@@ -55,7 +55,7 @@
       "key": "constellation_kite",
       "slug": "gwiazdozbior-w-ksztalcie-latawca",
       "title": "Gwiazdozbiór w kształcie latawca",
-      "description": "Gwiazdy na niebie połączone w konstelację, która przypomina latawiec. Ludzie od wieków łączyli gwiazdy w różne wzory. Wymyśl własny gwiazdozbiór!"
+      "description": "Gwiazdy na niebie połączone w konstelację, która przypomina latawiec.  Ludzie od wieków łączyli gwiazdy w różne wzory."
     },
     {
       "key": "mars_rover_wheels",
@@ -115,7 +115,7 @@
       "key": "solar_system_model",
       "slug": "model-ukladu-slonecznego",
       "title": "Model Układu Słonecznego",
-      "description": "Model przedstawiający Słońce i krążące wokół niego planety. To świetna pomoc naukowa. Czy potrafisz nazwać wszystkie planety po kolei?"
+      "description": "Model przedstawiający Słońce i krążące wokół niego planety.  To świetna pomoc naukowa."
     },
     {
       "key": "space_shuttle_landing",
@@ -153,5 +153,6 @@
       "title": "UFO przelatujące po niebie",
       "description": "Niezidentyfikowany Obiekt Latający, czyli UFO, w kształcie latającego spodka, przelatuje z dużą prędkością. Czy na pokładzie są kosmici? To pozostaje tajemnicą."
     }
-  ]
+  ],
+  "asset_key": "space_science"
 }

@@ -4,550 +4,731 @@
   "category_description": "Przenieś świat swoich ulubionych bloków z ekranu komputera na papier i daj się ponieść kreatywności w sześciennym uniwersum! Nasza obszerna kolekcja kolorowanek z motywami z gry Minecraft to prawdziwa gratka dla każdego fana tej kultowej produkcji. Przygotowaliśmy dziesiątki darmowych rysunków do druku, które przedstawiają wszystkie najważniejsze postacie, moby (zarówno te przyjazne, jak i groźne) oraz ikoniczne przedmioty ze świata Minecraft. Czekają na Ciebie Steve i Alex, tajemniczy Creeper, teleportujący się Enderman, urocze świnki, krowy, a także smoki i inne fantastyczne stworzenia. Nasze kolorowanki to doskonały sposób na kreatywne spędzenie czasu poza grą, rozwijanie wyobraźni przestrzennej i zdolności manualnych. Dzięki nim możesz odtworzyć znane postacie i scenki z gry lub nadać im zupełnie nowe, unikalne barwy, tworząc własne wizje sześciennego świata. To nie tylko zabawa, ale także okazja do pogłębiania znajomości uniwersum Minecrafta, ucząc się o różnych biomach, blokach i mechanikach gry poprzez kolorowanie. Każdy obrazek to fragment sześciennego świata, który możesz dowolnie kształtować za pomocą kredek, flamastrów czy farb. Pobieraj, drukuj i buduj swój kolorowy świat Minecraft, rozwijając jednocześnie zdolności artystyczne i czerpiąc radość z tworzenia. Odkryj na nowo magię Minecrafta, tym razem w wersji offline, i stwórz swoje własne, pikselowe arcydzieła!",
   "images": [
     {
+      "key": "alex_archer",
+      "slug": "alex-z-lukiem",
+      "title": "Alex z łukiem",
+      "description": "Alex, dzielna bohaterka Minecrafta, celuje ze swojego łuku. Przygotuj swoje kredki i pomóż jej trafić w cel! Możesz pokolorować her charakterystyczne rude włosy i zielony strój."
+    },
+    {
       "key": "allay",
-      "slug": "allay-z-minecraft",
+      "slug": "allay",
       "title": "Allay",
       "description": "Pomocny Allay, mały, latający stworek, który zbiera dla gracza przedmioty. Pokoloruj go na niebiesko i daj mu do potrzymania jego ulubiony przedmiot."
     },
     {
+      "key": "apple_golden",
+      "slug": "zlote-jablko",
+      "title": "Złote Jabłko",
+      "description": "Magiczne Złote Jabłko, które daje graczowi potężne wzmocnienia. Pokoloruj je na jaskrawy, złoty kolor, aby błyszczało jak prawdziwy skarb w Twoim ekwipunku."
+    },
+    {
+      "key": "armadillo_shell",
+      "slug": "pancernik-w-skorupie",
+      "title": "Pancernik w skorupie",
+      "description": "Pancernik (Armadillo) przestraszył się i schował do swojej twardej, segmentowej skorupy. Pokoloruj go w odcieniach brązu, aby pasował do swojego pustynnego domu."
+    },
+    {
       "key": "axolotl",
-      "slug": "aksolotl-z-minecraft",
+      "slug": "aksolotl",
       "title": "Aksolotl",
       "description": "Uroczy, wodny aksolotl, którego można spotkać w jaskiniach Minecraft. Występuje w kilku kolorach, więc możesz go pokolorować na różowo, brązowo lub niebiesko."
     },
     {
       "key": "baby_goat",
-      "slug": "mala-koza-z-minecraft",
+      "slug": "mala-koza",
       "title": "Mała koza",
       "description": "Mała, skoczna kózka, która uwielbia wspinać się po górach. Uważaj, bo kozy w Minecrafcie lubią taranować! Pokoloruj ją na biało i dodaj jej małe różki."
     },
     {
       "key": "baby_pig",
-      "slug": "mala-swinka-z-minecraft",
+      "slug": "mala-swinka",
       "title": "Mała świnka",
       "description": "Różowa, kwadratowa świnka, jedno z najbardziej rozpoznawalnych zwierząt w Minecrafcie. Można na niej jeździć, używając siodła i marchewki na patyku."
     },
     {
       "key": "baby_sniffer",
-      "slug": "maly-wąchacz-z-minecraft",
+      "slug": "maly-wachacz",
       "title": "Mały Wąchacz",
       "description": "Mały Wąchacz (Sniffer), prehistoryczny stwór, który wykluwa się z jaja. Uwielbia węszyć w poszukiwaniu starożytnych nasion. Pokoloruj go w ciepłych, ziemistych barwach."
     },
     {
       "key": "baby_turtle",
-      "slug": "maly-zolw-morski-z-minecraft",
+      "slug": "maly-zolw-morski",
       "title": "Mały żółw morski",
       "description": "Malutki żółw morski, który właśnie wykluł się na plaży i biegnie w stronę wody. To jedno z najsłodszych stworzeń w grze. Pamiętaj o jego zielonej skorupce."
     },
     {
       "key": "baby_villager",
-      "slug": "maly-osadnik-z-minecraft",
+      "slug": "maly-osadnik",
       "title": "Mały Osadnik",
-      "description": "Mały osadnik (Villager) z charakterystycznym, dużym nosem. Dzieci osadników biegają i bawią się razem w wiosce. Jaki zawód wybierze, gdy dorośnie?"
+      "description": "Mały osadnik (Villager) z charakterystycznym, dużym nosem.  Dzieci osadników biegają i bawią się razem w wiosce."
     },
     {
       "key": "baby_zombie",
-      "slug": "male-zombie-z-minecraft",
+      "slug": "male-zombie",
       "title": "Małe Zombie",
       "description": "Małe zombie, które jest znacznie szybsze i groźniejsze od swojego dorosłego odpowiednika. Mimo że jest wrogiem, na tej kolorowance wygląda całkiem zabawnie."
     },
     {
       "key": "bat",
-      "slug": "nietoperz-z-minecraft",
+      "slug": "nietoperz",
       "title": "Nietoperz",
       "description": "Mały, kwadratowy nietoperz, którego można spotkać w ciemnych jaskiniach. Jest stworzeniem pasywnym i nie atakuje gracza. Pokoloruj go na ciemnoszaro."
     },
     {
       "key": "bee",
-      "slug": "pszczola-z-minecraft",
-      "title": "Pszczoła",
-      "description": "Pszczoła z charakterystycznymi, czarno-żółtymi pasami. Pszczoły w Minecrafcie zapylają kwiaty i produkują miód. Uważaj, by jej nie zdenerwować!"
+      "slug": "pszczola",
+      "title": "Pszczola",
+      "description": "Pszczoła z charakterystycznymi, czarno-żółtymi pasami.  Pszczoły w Minecrafcie zapylają kwiaty i produkują miód."
     },
     {
       "key": "blaze",
-      "slug": "plomyk-z-minecraft",
-      "title": "Płomyk (Blaze)",
+      "slug": "plomyk-blaze",
+      "title": "Plomyk (Blaze)",
       "description": "Płomyk, latający potwór z Netheru, który strzela ognistymi kulami. Jego ciało składa się z wirujących, ognistych prętów. Użyj ognistych kolorów, by go pokolorować."
     },
     {
+      "key": "blaze_nether",
+      "slug": "blaze-w-fortecy",
+      "title": "Blaze w fortecy",
+      "description": "Groźny Blaze unoszący się w mrocznych korytarzach fortecy Netheru. Jego wirujące pręty płoną gorącym ogniem. Użyj intensywnej pomarańczy i czerwieni."
+    },
+    {
+      "key": "bogged_archer",
+      "slug": "zablocony-lucznik",
+      "title": "Zabłocony łucznik",
+      "description": "Zabłocony (Bogged) to nowa odmiana szkieletu porośnięta mchem. Uważaj na jego strzały, z których kapie zielona trucizna! Pokoloruj go w barwach bagna."
+    },
+    {
+      "key": "breeze_action",
+      "slug": "breeze-w-akcji",
+      "title": "Breeze w akcji",
+      "description": "Dynamiczny Breeze skacze i wiruje w podmuchach wiatru! To zwinny przeciwnik z Trial Chambers. Pokoloruj wiry wokół niego na jasnoniebiesko i fioletowo."
+    },
+    {
       "key": "camel",
-      "slug": "wielblad-z-minecraft",
+      "slug": "wielblad",
       "title": "Wielbłąd",
       "description": "Wysoki wielbłąd, którego można spotkać na pustyni. Może przewozić dwóch graczy naraz! Pokoloruj go na piaskowe, pustynne barwy."
     },
     {
       "key": "cat",
-      "slug": "kot-z-minecraft",
+      "slug": "kot",
       "title": "Kot",
-      "description": "Oswojony kot, który odstrasza Creepery. Koty w Minecrafcie występują w wielu różnych umaszczeniach. Jakiego koloru będzie Twój kotek?"
+      "description": "Oswojony kot, który odstrasza Creepery.  Koty w Minecrafcie występują w wielu różnych umaszczeniach."
     },
     {
       "key": "chicken",
-      "slug": "kurczak-z-minecraft",
+      "slug": "kurczak",
       "title": "Kurczak",
       "description": "Kwadratowy kurczak, który znosi jajka i spaceruje po świecie gry. To jedno z pierwszych zwierząt dodanych do Minecrafta. Pokoloruj jego dziób i grzebień."
     },
     {
       "key": "chicken_jockey",
-      "slug": "kurczakowy-jezdiec-z-minecraft",
+      "slug": "kurczakowy-jezdziec",
       "title": "Kurczakowy Jeździec",
       "description": "Rzadko spotykany Kurczakowy Jeździec, czyli małe zombie, które jedzie na grzbiecie kurczaka. To zabawne, ale i niebezpieczne połączenie!"
     },
     {
       "key": "cod",
-      "slug": "dorsz-z-minecraft",
+      "slug": "dorsz",
       "title": "Dorsz",
       "description": "Dorsz, pospolita ryba, którą można złowić w oceanach i rzekach. To ważne źródło pożywienia w grze. Pokoloruj go w odcieniach beżu i brązu."
     },
     {
       "key": "cow",
-      "slug": "krowa-z-minecraft",
+      "slug": "krowa",
       "title": "Krowa",
       "description": "Krowa w charakterystyczne, kwadratowe łaty. Dostarcza graczowi mleka, skóry i mięsa. To jedno z najbardziej pożytecznych zwierząt w grze."
     },
     {
+      "key": "creaking_monster",
+      "slug": "skrzypak-w-lesie",
+      "title": "Skrzypak w lesie",
+      "description": "Tajemniczy Creaking czai się w mroku lasu Pale Garden. Wygląda jak stare, sękate drzewo z świecącymi oczami. Pokoloruj go na ciemnoszaro i biało."
+    },
+    {
       "key": "creeper",
-      "slug": "creeper-z-minecraft",
+      "slug": "creeper",
       "title": "Creeper",
-      "description": "Creeper, najbardziej ikoniczny potwór z Minecrafta. Skrada się cicho i wybucha, niszcząc wszystko wokół. Uważaj! Pokoloruj go na charakterystyczny, zielony kolor."
+      "description": "Creeper, najbardziej ikoniczny potwór z Minecrafta.  Skrada się cicho i wybucha, niszcząc wszystko wokół."
+    },
+    {
+      "key": "creeper_improved",
+      "slug": "creeper-i-tnt",
+      "title": "Creeper i TNT",
+      "description": "Creeper w swojej klasycznej, groźnej pozie, stojący tuż obok bloku dynamitu TNT. Zaraz może dojść do wielkiego wybuchu! Użyj jaskrawej zieleni i czerwieni."
     },
     {
       "key": "dancing_parrot",
-      "slug": "tanczaca-papuga-z-minecraft",
+      "slug": "tanczaca-papuga",
       "title": "Tańcząca papuga",
-      "description": "Kolorowa papuga, która tańczy, gdy w pobliżu gra muzyka z szafy grającej. Papugi potrafią też naśladować dźwięki innych potworów. Użyj całej tęczy barw!"
+      "description": "Kolorowa papuga, która tańczy, gdy w pobliżu gra muzyka z szafy grającej.  Papugi potrafią też naśladować dźwięki innych potworów."
+    },
+    {
+      "key": "diamond_tools_set",
+      "slug": "zestaw-narzedzi",
+      "title": "Zestaw narzędzi",
+      "description": "Pełen zestaw diamentowych narzędzi: miecz, kilof i siekiera, gotowe do wielkiej przygody. Pokoloruj je na piękny, błękitny kolor diamentu."
     },
     {
       "key": "dolphin",
-      "slug": "delfin-z-minecraft",
+      "slug": "delfin",
       "title": "Delfin",
       "description": "Przyjazny delfin, który pływa w oceanach. Jeśli popłyniesz za nim, może zaprowadzić Cię do skarbu! Pokoloruj go na szaro-niebieski kolor."
     },
     {
       "key": "drowned",
-      "slug": "utopiec-z-minecraft",
+      "slug": "utopiec",
       "title": "Utopiec",
       "description": "Utopiec, podwodna wersja zombie, która czasami trzyma w ręku trójząb. Można go spotkać w rzekach i oceanach. Pokoloruj go na zgniłozielony kolor."
     },
     {
+      "key": "drowned_trident",
+      "slug": "utopiec-z-trojzebem",
+      "title": "Utopiec z trójzębem",
+      "description": "Groźny Utopiec przemierza dno oceanu, dzierżąc w ręku rzadki i potężny trójząb. Uważaj, bo potrafi nim rzucać! Pokoloruj wodę na głęboki błękit."
+    },
+    {
       "key": "elder_guardian",
-      "slug": "starszy-straznik-z-minecraft",
+      "slug": "starszy-straznik",
       "title": "Starszy Strażnik",
-      "description": "Starszy Strażnik, potężny boss strzegący podwodnych świątyń. Jest znacznie większy od zwykłego strażnika i strzela laserem. To groźny przeciwnik!"
+      "description": "Starszy Strażnik, potężny boss strzegący podwodnych świątyń.  Jest znacznie większy od zwykłego strażnika i strzela laserem."
     },
     {
       "key": "end_crystal",
-      "slug": "krysztal-kresu-z-minecraft",
+      "slug": "krysztal-kresu",
       "title": "Kryształ Kresu",
       "description": "Magiczny Kryształ Kresu, który leczy Smoka Kresu. Aby pokonać smoka, trzeba najpierw zniszczyć wszystkie kryształy. Pokoloruj go na fioletowo i czarno."
     },
     {
       "key": "ender_dragon",
-      "slug": "smok-kresu-z-minecraft",
+      "slug": "smok-kresu",
       "title": "Smok Kresu",
       "description": "Potężny Smok Kresu, ostateczny boss w grze Minecraft. Mieszka w wymiarze Kresu i lata między obsydianowymi wieżami. Pokonanie go to wielkie osiągnięcie."
     },
     {
       "key": "enderman",
-      "slug": "enderman-z-minecraft",
+      "slug": "enderman",
       "title": "Enderman",
       "description": "Wysoki, czarny Enderman, który potrafi się teleportować i podnosić bloki. Nie patrz mu w oczy, bo go zdenerwujesz! Jego oczy świecą na fioletowo."
     },
     {
       "key": "endermite",
-      "slug": "endermit-z-minecraft",
+      "slug": "endermit",
       "title": "Endermit",
       "description": "Mały, wrogi stworek, który czasami pojawia się, gdy gracz używa pereł kresu. Endermany go nie lubią! Pokoloruj go na fioletowo."
     },
     {
       "key": "evoker",
-      "slug": "przywolywacz-z-minecraft",
+      "slug": "przywolywacz-evoker",
       "title": "Przywoływacz (Evoker)",
       "description": "Groźny Przywoływacz, który potrafi czarować i przywoływać małe, latające Vexy. Można go spotkać w leśnych dworach. Pokoloruj jego szarą szatę."
     },
     {
+      "key": "evoker_spell",
+      "slug": "czary-przywolywacza",
+      "title": "Czary Przywoływacza",
+      "description": "Przywoływacz (Evoker) wznosi ręce, rzucając groźne zaklęcie. Zaraz z ziemi wyskoczą ostre kły! Pokoloruj magiczne cząsteczki na złoto i fioletowo."
+    },
+    {
       "key": "flying_bee",
-      "slug": "latajaca-pszczola-z-minecraft",
+      "slug": "latajaca-pszczola",
       "title": "Latająca pszczoła",
       "description": "Zabawna, kwadratowa pszczoła leci w poszukiwaniu kwiatów. Pszczoły są bardzo pożyteczne, ale nie należy ich denerwować, bo mogą użądlić."
     },
     {
       "key": "fox",
-      "slug": "lis-z-minecraft",
+      "slug": "lis",
       "title": "Lis",
       "description": "Rudy lis, którego można spotkać w tajdze. Lisy potrafią trzymać w pyszczku przedmioty, a w nocy zwijają się w kłębek i śpią. To bardzo urocze zwierzę."
     },
     {
       "key": "frog",
-      "slug": "zaba-z-minecraft",
+      "slug": "zaba",
       "title": "Żaba",
       "description": "Skacząca żaba, którą można znaleźć na bagnach. Żaby uwielbiają jeść małe kostki magmy. Występują w różnych kolorach, w zależności od klimatu."
     },
     {
       "key": "ghast",
-      "slug": "ghast-z-minecraft",
+      "slug": "ghast",
       "title": "Ghast",
       "description": "Wielki, latający duch z Netheru, który płacze i strzela ognistymi kulami. Mimo groźnego wyglądu, jego dźwięki są bardzo smutne. Pokoloruj go na biało."
     },
     {
+      "key": "ghast_fireball",
+      "slug": "atak-ghasta",
+      "title": "Atak Ghasta",
+      "description": "Wielki Ghast otwiera buzię i wystrzeliwuje niszczycielską kulę ognia! To jeden z najniebezpieczniejszych momentów w Netherze. Pokoloruj kulę na jaskrawy czerwony."
+    },
+    {
       "key": "glow_squid",
-      "slug": "swiecacy-kalmar-z-minecraft",
+      "slug": "swiecacy-kalmar",
       "title": "Świecący kałmar",
       "description": "Świecący kałmar, który rozświetla ciemne, podwodne jaskinie. Nie atakuje gracza, a jego widok jest naprawdę magiczny. Pokoloruj go na turkusowo."
     },
     {
       "key": "goat",
-      "slug": "koza-z-minecraft",
+      "slug": "koza",
       "title": "Koza",
       "description": "Górska koza, która potrafi bardzo wysoko skakać. Uważaj, bo lubi taranować graczy i inne stworzenia. Pokoloruj jej białe futro i szare rogi."
     },
     {
       "key": "guardian",
-      "slug": "straznik-z-minecraft",
+      "slug": "straznik",
       "title": "Strażnik",
       "description": "Jednooki Strażnik, który strzeże podwodnych świątyń. Pływa wokół nich i strzela laserem w każdego, kto się zbliży. To niebezpieczny przeciwnik."
     },
     {
       "key": "hoglin",
-      "slug": "hoglin-z-minecraft",
+      "slug": "hoglin",
       "title": "Hoglin",
       "description": "Agresywny Hoglin, duże, podobne do dzika stworzenie z Netheru. Atakuje gracza, wyrzucając go w powietrze. Pokoloruj go na ciemne, groźne barwy."
     },
     {
       "key": "horse",
-      "slug": "kon-z-minecraft",
+      "slug": "kon",
       "title": "Koń",
       "description": "Koń, na którym można jeździć po świecie gry. Konie występują w różnych maściach. Możesz założyć mu siodło, a nawet zbroję."
     },
     {
       "key": "husk",
-      "slug": "posuch-z-minecraft",
+      "slug": "posuch-husk",
       "title": "Posuch (Husk)",
       "description": "Posuch, pustynna odmiana zombie, która nie płonie w słońcu. Jego atak powoduje efekt głodu. Pokoloruj go na wyschnięte, piaskowe kolory."
     },
     {
       "key": "iron_golem",
-      "slug": "zelazny-golem-z-minecraft",
+      "slug": "zelazny-golem",
       "title": "Żelazny Golem",
       "description": "Wysoki i silny Żelazny Golem, który chroni osadników przed potworami. Można go zbudować samemu, by bronił naszej bazy. Czasem trzyma w ręku kwiatek."
     },
     {
       "key": "llama",
-      "slug": "lama-z-minecraft",
+      "slug": "lama",
       "title": "Lama",
       "description": "Lama, którą można spotkać w górach. Potrafi pluć na wrogów. Można założyć jej kolorowy dywanik na grzbiet i stworzyć karawanę."
     },
     {
+      "key": "loot_chest",
+      "slug": "skarby-w-skrzyni",
+      "title": "Skarby w skrzyni",
+      "description": "Znaleźłeś rzadki skarb! Otwarta skrzynia (Chest) aż pęka w szwach od drogocennych diamentów, szmaragdów i złota. Pokoloruj te klejnoty na najróżniejsze kolory."
+    },
+    {
+      "key": "magic_enchanting",
+      "slug": "magia-zaklec",
+      "title": "Magia zaklęć",
+      "description": "Stół do zaklęć (Enchanting Table) z lewitującą nad nim magiczną księgą. Wokół wirują tajemnicze runy. Pokoloruj księgę na fioletowo, aby podkreślić jej moc."
+    },
+    {
       "key": "magma_cube_big",
-      "slug": "duza-kostka-magmy-z-minecraft",
+      "slug": "duza-kostka-magmy",
       "title": "Duża kostka magmy",
-      "description": "Duża, skacząca kostka magmy z Netheru. Po pokonaniu rozpada się na mniejsze. Uważaj, bo jej dotyk parzy! Pokoloruj ją na ogniste barwy."
+      "description": "Duża, skacząca kostka magmy z Netheru.  Po pokonaniu rozpada się na mniejsze."
     },
     {
       "key": "magma_cube_small",
-      "slug": "mala-kostka-magmy-z-minecraft",
+      "slug": "mala-kostka-magmy",
       "title": "Mała kostka magmy",
       "description": "Mała kostka magmy, która powstaje po rozbiciu większej. Jest szybka i zwinna, ale już nie rozpada się na mniejsze części."
     },
     {
+      "key": "magma_cube_stretch",
+      "slug": "skaczaca-magma",
+      "title": "Skacząca Magma",
+      "description": "Magma Cube w samym środku wysokiego skoku! Widać wszystkie jego gorące warstwy. Użyj różnych odcieni czerwieni, pomarańczu i żółci dla efektu lawy."
+    },
+    {
       "key": "mooshroom",
-      "slug": "grzybowa-krowa-z-minecraft",
+      "slug": "grzybowa-krowa-mooshroom",
       "title": "Grzybowa Krowa (Mooshroom)",
       "description": "Czerwona krowa w białe łaty, na której grzbiecie rosną grzyby. Można ją spotkać tylko na rzadkich grzybowych wyspach. To bardzo niezwykłe stworzenie."
     },
     {
       "key": "ocelot",
-      "slug": "ocelot-z-minecraft",
+      "slug": "ocelot",
       "title": "Ocelot",
       "description": "Dziki kot, którego można spotkać w dżungli. Jest płochliwy i szybki. Można go oswoić za pomocą ryb, a wtedy zamieni się w domowego kota."
     },
     {
       "key": "panda",
-      "slug": "panda-z-minecraft",
+      "slug": "panda",
       "title": "Panda",
       "description": "Urocza panda, którą można znaleźć w bambusowej dżungli. Pandy w Minecrafcie mają różne charaktery - mogą być leniwe, zabawne lub smutne. Uwielbiają jeść bambus."
     },
     {
       "key": "parrot",
-      "slug": "papuga-z-minecraft",
+      "slug": "papuga",
       "title": "Papuga",
       "description": "Kolorowa papuga, którą można oswoić i posadzić sobie na ramieniu. Papugi potrafią naśladować dźwięki innych potworów, co bywa mylące."
     },
     {
       "key": "phantom",
-      "slug": "fantóm-z-minecraft",
+      "slug": "fantom",
       "title": "Fantóm",
-      "description": "Latający potwór, który atakuje graczy, którzy długo nie spali. Wygląda jak mroczna płaszczka. Pamiętaj, by regularnie spać w swoim łóżku!"
+      "description": "Latający potwór, który atakuje graczy, którzy długo nie spali.  Wygląda jak mroczna płaszczka."
     },
     {
       "key": "pig",
-      "slug": "swinia-z-minecraft",
+      "slug": "swinia",
       "title": "Świnia",
-      "description": "Różowa, kwadratowa świnka, jedno z najbardziej klasycznych zwierząt w grze. Jest źródłem pysznej wieprzowiny. Pokoloruj ją na różowo."
+      "description": "Różowa, kwadratowa świnka, jedno z najbardziej klasycznych zwierząt w grze. Jest źródłego pysznej wieprzowiny. Pokoloruj ją na różowo."
     },
     {
       "key": "piglin",
-      "slug": "piglin-z-minecraft",
+      "slug": "piglin",
       "title": "Piglin",
       "description": "Piglin to mieszkaniec Netheru, który uwielbia złoto. Jeśli masz na sobie złotą zbroję, nie zaatakuje Cię. Można z nim handlować, dając mu sztabki złota."
     },
     {
       "key": "piglin_brute",
-      "slug": "piglin-brutal-z-minecraft",
+      "slug": "piglin-brutal",
       "title": "Piglin Brutal",
       "description": "Większy i silniejszy od zwykłego piglina, Piglin Brutal, który pilnuje skarbów w bastionach. Zawsze jest wrogo nastawiony, nawet jeśli nosisz złoto."
     },
     {
       "key": "pillager",
-      "slug": "rozbojnik-z-minecraft",
+      "slug": "rozbojnik-pillager",
       "title": "Rozbójnik (Pillager)",
-      "description": "Wrogi rozbójnik uzbrojony w kuszę. Atakuje wioski osadników. Jest częścią grupy Illagerów. Pokoloruj jego ciemne ubranie."
+      "description": "Wrogi rozbójnik uzbrojony w kuszę.  Atakuje wioski osadników."
+    },
+    {
+      "key": "pillager_banner",
+      "slug": "wodz-rozbojnikow",
+      "title": "Wódz Rozbójników",
+      "description": "Groźny Pillager (Rozbójnik) trzymający na plecach sztandar swojej grupy. To znak, że nadchodzi najazd na wioskę! Pokoloruj jego kuszę na brązowo i szaro."
     },
     {
       "key": "polar_bear",
-      "slug": "niedzwiedz-polarny-z-minecraft",
+      "slug": "niedzwiedz-polarny",
       "title": "Niedźwiedź polarny",
       "description": "Niedźwiedź polarny, którego można spotkać w zimowych krainach. Dorosłe osobniki są neutralne, ale zaatakują w obronie swoich małych. Pokoloruj go na biało."
     },
     {
       "key": "pufferfish",
-      "slug": "rozdymka-z-minecraft",
+      "slug": "rozdymka",
       "title": "Rozdymka",
       "description": "Ryba rozdymka, która nadyma się, gdy gracz się do niej zbliży. Jej dotknięcie w tym stanie powoduje zatrucie. To zabawny, ale i niebezpieczny mieszkaniec oceanu."
     },
     {
       "key": "rabbit",
-      "slug": "krolik-z-minecraft",
+      "slug": "krolik",
       "title": "Królik",
       "description": "Mały, skoczny królik, który występuje w różnych kolorach w zależności od biomu. Uwielbia jeść marchewki. To bardzo urocze i płochliwe stworzenie."
     },
     {
       "key": "ravager",
-      "slug": "dewastator-z-minecraft",
+      "slug": "dewastator-ravager",
       "title": "Dewastator (Ravager)",
       "description": "Wielka, podobna do byka bestia, której rozbójnicy używają podczas najazdów na wioski. Potrafi niszczyć uprawy i taranować graczy. To bardzo groźny wróg."
     },
     {
       "key": "resting_camel",
-      "slug": "odpoczywajacy-wielblad-z-minecraft",
+      "slug": "odpoczywajacy-wielblad",
       "title": "Odpoczywający wielbłąd",
       "description": "Wielbłąd, który usiadł na piasku, aby odpocząć. Wygląda bardzo dostojnie i spokojnie. To idealny obrazek do pokolorowania w ciepłych, pustynnych barwach."
     },
     {
       "key": "salmon",
-      "slug": "losos-z-minecraft",
+      "slug": "losos",
       "title": "Łosoś",
       "description": "Łosoś, duża ryba, którą można spotkać w zimnych rzekach i oceanach. Jest cennym źródłem pożywienia. Pokoloruj go na charakterystyczny, różowo-zielony kolor."
     },
     {
       "key": "sheep",
-      "slug": "owca-z-minecraft",
+      "slug": "owca",
       "title": "Owca",
-      "description": "Puszysta owca, z której można uzyskać wełnę do budowy łóżek i dywanów. Owce można farbować na różne kolory. Jakiego koloru będzie Twoja owieczka?"
+      "description": "Puszysta owca, z której można uzyskać wełnę do budowy łóżek i dywanów.  Owce można farbować na różne kolory."
     },
     {
       "key": "shulker",
-      "slug": "shulker-z-minecraft",
+      "slug": "shulker",
       "title": "Shulker",
       "description": "Shulker, dziwny, pudełkowaty stwór, który ukrywa się w swojej skorupie w miastach Kresu. Strzela pociskami, które powodują lewitację. To bardzo nietypowy przeciwnik."
     },
     {
       "key": "silver_axolotl",
-      "slug": "srebrny-aksolotl-z-minecraft",
+      "slug": "srebrny-aksolotl",
       "title": "Srebrny aksolotl",
       "description": "Rzadka, srebrna (lub cyjanowa) odmiana aksolotla. To najrzadszy wariant kolorystyczny tego uroczego, wodnego stworzenia. Pokoloruj go na jasnoniebiesko."
     },
     {
       "key": "silverfish",
-      "slug": "rybik-cukrowy-z-minecraft",
+      "slug": "rybik-cukrowy",
       "title": "Rybik Cukrowy",
       "description": "Mały, zwinny robak, który ukrywa się w niektórych blokach kamienia w twierdzach. Gdy go zaatakujesz, potrafi wezwać inne rybiki z okolicy."
     },
     {
       "key": "skeleton",
-      "slug": "szkielet-z-minecraft",
+      "slug": "szkielet",
       "title": "Szkielet",
-      "description": "Szkielet uzbrojony w łuk, który strzela do gracza z dystansu. To jeden z najbardziej klasycznych potworów w grze. Uważaj na jego celne strzały!"
+      "description": "Szkielet uzbrojony w łuk, który strzela do gracza z dystansu.  To jeden z najbardziej klasycznych potworów w grze."
     },
     {
       "key": "skeleton_chicken_jockey",
-      "slug": "szkieletowy-jezdiec-na-kurczaku-z-minecraft",
+      "slug": "szkieletowy-jezdziec-na-kurczaku",
       "title": "Szkieletowy jeździec na kurczaku",
       "description": "Bardzo rzadki widok - mały szkielet ujeżdżający kurczaka. To zabawne, ale wciąż niebezpieczne połączenie szybkości kurczaka i strzał szkieleta."
     },
     {
       "key": "skeleton_horse",
-      "slug": "koniu-szkielet-z-minecraft",
+      "slug": "kon-szkielet",
       "title": "Koń-szkielet",
       "description": "Koń-szkielet, który może pojawić się podczas burzy. Można go oswoić i na nim jeździć, nawet pod wodą! To bardzo niezwykły wierzchowiec."
     },
     {
       "key": "slime",
-      "slug": "szlam-z-minecraft",
+      "slug": "szlam-slime",
       "title": "Szlam (Slime)",
       "description": "Skaczący, zielony sześcian szlamu. Po pokonaniu dużego szlamu, rozpada się on na mniejsze. Można je znaleźć głęboko pod ziemią lub na bagnach."
     },
     {
       "key": "sniffer",
-      "slug": "wąchacz-z-minecraft",
+      "slug": "wachacz-sniffer",
       "title": "Wąchacz (Sniffer)",
       "description": "Duży, prehistoryczny Wąchacz, który wygrał głosowanie społeczności. Uwielbia węszyć i wykopuje z ziemi nasiona starożytnych roślin. Pokoloruj go w ciepłe, naturalne barwy."
     },
     {
       "key": "snow_fox",
-      "slug": "lis-polarny-z-minecraft",
+      "slug": "lis-polarny",
       "title": "Lis polarny",
       "description": "Biały lis polarny, którego można spotkać w ośnieżonych biomach. Jest doskonale zakamuflowany w śniegu. To bardzo urocze i sprytne zwierzę."
     },
     {
       "key": "snow_golem",
-      "slug": "sniezny-golem-z-minecraft",
+      "slug": "sniezny-golem",
       "title": "Śnieżny Golem",
       "description": "Śnieżny Golem, którego można zbudować z bloków śniegu i dyni. Rzuca w potwory śnieżkami i zostawia za sobą śnieżny szlak. To zabawny i pożyteczny towarzysz."
     },
     {
       "key": "spider",
-      "slug": "pajak-z-minecraft",
+      "slug": "pajak",
       "title": "Pająk",
       "description": "Duży pająk, który w dzień jest neutralny, a w nocy staje się agresywny. Potrafi wspinać się po ścianach. Pokoloruj jego wielkie, czerwone oczy."
     },
     {
+      "key": "spider_climbing",
+      "slug": "wspinajacy-sie-pajak",
+      "title": "Wspinający się Pająk",
+      "description": "Wielki Pająk (Spider) wspina się zwinnie po pionowej ścianie jaskini. Pokoloruj tło tak, aby wyglądało jak podziemny świat pełen kamieni i rud."
+    },
+    {
       "key": "spider_jockey",
-      "slug": "pajeczy-jezdiec-z-minecraft",
+      "slug": "pajeczy-jezdziec",
       "title": "Pajęczy Jeździec",
       "description": "Niebezpieczne połączenie szkieleta i pająka. Szkielet ujeżdża pająka, łącząc zdolność wspinaczki pająka z dalekosiężnymi atakami łucznika."
     },
     {
       "key": "squid",
-      "slug": "kalmar-z-minecraft",
+      "slug": "kalmar",
       "title": "Kałmar",
       "description": "Pasywny kałmar, który pływa w wodzie. Po pokonaniu zostawia po sobie worek z atramentem, którego można użyć jako barwnika. Pokoloruj go na niebiesko."
     },
     {
+      "key": "steve_diamond_armor",
+      "slug": "steve-w-zbroi",
+      "title": "Steve w zbroi",
+      "description": "Steve, główny bohater gry, jest gotowy na najtrudniejszą wyprawę! Ma na sobie kompletną diamentową zbroję i trzyma swój wierny kilof. Pokoloruj go na jasny błękit."
+    },
+    {
       "key": "stray",
-      "slug": "tulacz-z-minecraft",
+      "slug": "tulacz-stray",
       "title": "Tułacz (Stray)",
       "description": "Tułacz, lodowa odmiana szkieleta, którą można spotkać w zimowych krainach. Jego strzały spowalniają gracza, co czyni go bardzo niebezpiecznym."
     },
     {
       "key": "stray_spider_jockey",
-      "slug": "pajeczy-jezdiec-tulacz-z-minecraft",
+      "slug": "pajeczy-jezdziec-tulacz",
       "title": "Pajęczy jeździec-tułacz",
-      "description": "Bardzo rzadka i niebezpieczna kombinacja - tułacz ujeżdżający pająka. Łączy w sobie wszystkie najgorsze cechy obu potworów. Brrr!"
+      "description": "Bardzo rzadka i niebezpieczna kombinacja - tułacz ujeżdżający pająka.  Łączy w sobie wszystkie najgorsze cechy obu potworów."
     },
     {
       "key": "strider",
-      "slug": "wedrowiec-z-minecraft",
+      "slug": "wedrowiec-strider",
       "title": "Wędrowiec (Strider)",
       "description": "Wędrowiec, dziwne stworzenie, które spaceruje po lawie w Netherze. Można go oswoić i na nim jeździć, używając grzyba na patyku, by bezpiecznie przeprawić się przez morza lawy."
     },
     {
       "key": "tropical_fish",
-      "slug": "ryba-tropikalna-z-minecraft",
+      "slug": "ryba-tropikalna",
       "title": "Ryba tropikalna",
       "description": "Kolorowa ryba tropikalna, którą można spotkać w ciepłych oceanach. Występuje w tysiącach różnych kombinacji kolorów i wzorów. Użyj wyobraźni i stwórz własny, unikalny gatunek."
     },
     {
       "key": "turtle",
-      "slug": "zolw-morski-z-minecraft",
+      "slug": "zolw-morski",
       "title": "Żółw morski",
       "description": "Duży żółw morski, który pływa w oceanach i składa jaja na plażach. Z jego skorupy można zrobić hełm, który pozwala dłużej oddychać pod wodą."
     },
     {
       "key": "vex",
-      "slug": "vex-z-minecraft",
+      "slug": "vex",
       "title": "Vex",
       "description": "Mały, wrogi duszek z mieczem, przywoływany przez Przywoływacza (Evokera). Potrafi przenikać przez ściany. Jest mały, szybki i bardzo irytujący."
     },
     {
+      "key": "vex_flying",
+      "slug": "latajacy-vex",
+      "title": "Latający Vex",
+      "description": "Złośliwy mały Vex z mieczem w ręku! Potrafi latać i przenikać przez bloki, co czyni go trudnym celem. Pokoloruj go na jasnoszaro z czerwonymi oczami."
+    },
+    {
       "key": "villager",
-      "slug": "osadnik-z-minecraft",
+      "slug": "osadnik-villager",
       "title": "Osadnik (Villager)",
-      "description": "Osadnik z charakterystycznym nosem i skrzyżowanymi rękami. Mieszka w wiosce i ma swój zawód, np. kowal, rolnik czy bibliotekarz. Można z nim handlować."
+      "description": "Osadnik z charakterystycznym nosem i skrzyżowanymi rękami.  Mieszka w wiosce i ma swój zawód, np."
+    },
+    {
+      "key": "villager_blacksmith",
+      "slug": "wiesniak-kowal",
+      "title": "Wieśniak Kowal",
+      "description": "Osadnik Kowal (Blacksmith Villager) w swoim skórzanym fartuchu, gotowy do pracy przy kowadle. Pokoloruj jego kuźnię pełną narzędzi i ognia w piecu."
+    },
+    {
+      "key": "villager_librarian",
+      "slug": "wiesniak-bibliotekarz",
+      "title": "Wieśniak Bibliotekarz",
+      "description": "Mądry Osadnik Bibliotekarz (Librarian Villager) w swoich charakterystycznych okularach i kapeluszu w kształcie książki. Pokoloruj strony, które właśnie czyta."
     },
     {
       "key": "vindicator",
-      "slug": "obronca-z-minecraft",
+      "slug": "obrona-vindicator",
       "title": "Obrona (Vindicator)",
       "description": "Agresywny obrońca z siekierą, członek grupy Illagerów. Można go spotkać w leśnych dworach i podczas najazdów. Jest bardzo szybki i niebezpieczny."
     },
     {
       "key": "wandering_trader",
-      "slug": "wedrowny-handlarz-z-minecraft",
+      "slug": "wedrowny-handlarz",
       "title": "Wędrowny Handlarz",
       "description": "Tajemniczy handlarz, który losowo pojawia się w świecie gry w towarzystwie dwóch lam. Oferuje na sprzedaż różne, często rzadkie przedmioty."
     },
     {
+      "key": "warden_beast",
+      "slug": "warden-nadzorca",
+      "title": "Warden (Nadzorca)",
+      "description": "Potężny Warden, ślepy strażnik Ancient City w Deep Dark. Reaguje na każdy dźwięk! Pokoloruj jego świecące serce na piersi na jasny turkus."
+    },
+    {
       "key": "witch",
-      "slug": "wiedzma-z-minecraft",
+      "slug": "wiedzma",
       "title": "Wiedźma",
       "description": "Wiedźma, która mieszka w chatce na bagnach. Rzuca w gracza różnymi, negatywnymi miksturami. Potrafi też leczyć się, pijąc własne eliksiry."
     },
     {
       "key": "wither",
-      "slug": "wither-z-minecraft",
+      "slug": "wither",
       "title": "Wither",
-      "description": "Wither, potężny, trójgłowy boss, którego gracz może sam przywołać. Po pojawieniu się powoduje ogromną eksplozję i strzela wybuchającymi czaszkami. To wielkie wyzwanie!"
+      "description": "Wither, potężny, trójgłowy boss, którego gracz może sam przywołać.  Po pojawieniu się powoduje ogromną eksplozję i strzela wybuchającymi czaszkami."
     },
     {
       "key": "wither_skeleton",
-      "slug": "szkielet-witherowy-z-minecraft",
+      "slug": "szkielet-witherowy",
       "title": "Szkielet Witherowy",
       "description": "Wysoki, czarny szkielet z kamiennym mieczem, którego można spotkać w fortecach Netheru. Jego atak powoduje efekt 'Wither', który powoli zabiera życie."
     },
     {
       "key": "wither_spider_jockey",
-      "slug": "pajeczy-jezdiec-witherowy-z-minecraft",
+      "slug": "pajeczy-jezdziec-witherowy",
       "title": "Pajęczy jeździec witherowy",
       "description": "Ekstremalnie rzadkie i niebezpieczne połączenie - szkielet witherowy ujeżdżający pająka. Lepiej na takiego nie trafić podczas eksploracji Netheru!"
     },
     {
       "key": "wolf",
-      "slug": "wilk-z-minecraft",
+      "slug": "wilk",
       "title": "Wilk",
-      "description": "Wilk, którego można oswoić za pomocą kości, a wtedy stanie się wiernym psem. Będzie za Tobą podążał i bronił Cię przed potworami. Prawdziwy przyjaciel!"
+      "description": "Wilk, którego można oswoić za pomocą kości, a wtedy stanie się wiernym psem.  Będzie za Tobą podążał i bronił Cię przed potworami."
     },
     {
       "key": "zombie",
-      "slug": "zombie-z-minecraft",
+      "slug": "zombie",
       "title": "Zombie",
       "description": "Klasyczny potwór z Minecrafta - zielony zombie, który powoli idzie w stronę gracza, by go zaatakować. W dzień płonie w słońcu. To najbardziej rozpoznawalny wróg w grze."
     },
     {
       "key": "zombie_chicken_jockey",
-      "slug": "zombie-jezdiec-na-kurczaku-z-minecraft",
+      "slug": "zombie-jezdziec-na-kurczaku",
       "title": "Zombie-jeździec na kurczaku",
       "description": "Bardzo rzadki widok - małe zombie ujeżdżające kurczaka. Jest szybkie i trudne do trafienia. To jedno z najdziwniejszych stworzeń w grze."
     },
     {
       "key": "zombie_horse",
-      "slug": "kon-zombie-z-minecraft",
+      "slug": "kon-zombie",
       "title": "Koń-zombie",
-      "description": "Koń-zombie o zielonej skórze. Nie można go oswoić w normalny sposób. To bardzo rzadki i tajemniczy stwór. Pokoloruj go na zgniłozielony kolor."
+      "description": "Koń-zombie o zielonej skórze.  Nie można go oswoić w normalny sposób."
     },
     {
       "key": "zombie_pig_jockey",
-      "slug": "zombie-jezdiec-na-swini-z-minecraft",
+      "slug": "zombie-jezdziec-na-swini",
       "title": "Zombie-jeździec na świni",
       "description": "Kolejny rzadki jeździec - małe zombie ujeżdżające świnię. Połączenie powolności zombie i nieprzewidywalności świni. To dość zabawny widok."
     },
     {
       "key": "zombie_sheep_jockey",
-      "slug": "zombie-jezdiec-na-owcy-z-minecraft",
+      "slug": "zombie-jezdziec-na-owcy",
       "title": "Zombie-jeździec na owcy",
-      "description": "Niezwykle rzadkie zjawisko - małe zombie, które postanowiło ujeżdżać owcę. Czy owca jest z tego zadowolona? Trudno powiedzieć. To na pewno unikalna kolorowanka."
+      "description": "Niezwykle rzadkie zjawisko - małe zombie, które postanowiło ujeżdżać owcę.  Czy owca jest z tego zadowolona?"
     },
     {
       "key": "zombie_wolf_jockey",
-      "slug": "zombie-jezdiec-na-wilku-z-minecraft",
+      "slug": "zombie-jezdziec-na-wilku",
       "title": "Zombie-jeździec na wilku",
       "description": "Małe zombie ujeżdżające wilka. To połączenie jest o tyle dziwne, że wilki zwykle atakują zombie. Kolejna z niezwykłych tajemnic świata Minecraft."
     },
     {
       "key": "zombified_piglin",
-      "slug": "zombifikowany-piglin-z-minecraft",
+      "slug": "zombifikowany-piglin",
       "title": "Zombifikowany Piglin",
       "description": "Zombifikowany Piglin, który kiedyś był zwykłym piglinem, ale zbyt długo przebywał w normalnym świecie. Jest neutralny, dopóki go nie zaatakujesz. Trzyma w ręku złoty miecz."
+    },
+    {
+      "key": "drowned_king",
+      "slug": "krol-utopcow-w-koralowej-koronie",
+      "title": "Król Utopców w koralowej koronie,",
+      "description": "Król Utopców w koralowej koronie, trzymający złoty trójząb i rządzący głębinami."
+    },
+    {
+      "key": "guardian_treasure",
+      "slug": "potezny-starszy-straznik-pilnujacy-zlotej",
+      "title": "Potężny Starszy Strażnik pilnujący złotej",
+      "description": "Potężny Starszy Strażnik pilnujący złotej skrzyni ze skarbami na dnie oceanu."
+    },
+    {
+      "key": "piglin_hoglin",
+      "slug": "piglin-stojacy-obok-wielkiego-hoglina",
+      "title": "Piglin stojący obok wielkiego Hoglina",
+      "description": "Piglin stojący obok wielkiego Hoglina w czerwonym lesie w wymiarze Netheru."
+    },
+    {
+      "key": "snow_golem_drowned_fight",
+      "slug": "walka-snieznego-golema-z-utopcem",
+      "title": "Walka śnieżnego golema z utopcem",
+      "description": "Epickie starcie w świecie Minecraft: śnieżny golem rzuca śnieżkami w groźnego utopca wychodzącego z wody."
+    },
+    {
+      "key": "steve_drowned_fight",
+      "slug": "steve-walczacy-z-utopcem",
+      "title": "Steve walczący z Utopcem",
+      "description": "Steve walczący z Utopcem pod wodą, broniący się swoim mieczem."
+    },
+    {
+      "key": "villager_ravager_ride",
+      "slug": "odwazny-wiesniak-probujacy-ujezdzac-poteznego",
+      "title": "Odważny wieśniak próbujący ujeżdżać potężnego",
+      "description": "Odważny wieśniak próbujący ujeżdżać potężnego Dewastatora niczym byka."
+    },
+    {
+      "key": "villager_tower",
+      "slug": "wiesniak-spogladajacy-ze-szczytu-kamiennej",
+      "title": "Wieśniak spoglądający ze szczytu kamiennej",
+      "description": "Wieśniak spoglądający ze szczytu kamiennej wieży strażniczej na swoją wioskę."
+    },
+    {
+      "key": "wither_alex_attack",
+      "slug": "trojglowy-wither-strzelajacy-wybuchowymi-czaszkami",
+      "title": "Trójgłowy Wither strzelający wybuchowymi czaszkami",
+      "description": "Trójgłowy Wither strzelający wybuchowymi czaszkami w stronę uciekającej Alex."
     }
-  ]
+  ],
+  "asset_key": "minecraft"
 }

@@ -5,7 +5,7 @@
   "images": [
     {
       "key": "bat_cookie",
-      "slug": "ciasteczko-nietoperz",
+      "slug": "ciasteczko-w-ksztalcie-nietoperza",
       "title": "Ciasteczko w kształcie nietoperza",
       "description": "Pyszne, halloweenowe ciasteczko w kształcie nietoperza. Wygląda tak apetycznie, że aż chce się je zjeść! Pokoloruj je na ciemnobrązowo, jakby było zrobione z czekolady."
     },
@@ -54,14 +54,14 @@
     {
       "key": "gravestone_rip",
       "slug": "nagrobek-z-napisem-rip",
-      "title": "Nagrobek z napisem R.I.P.",
-      "description": "Stary, kamienny nagrobek z napisem 'R.I.P.' (Spoczywaj w pokoju). To nieodłączny element każdego strasznego cmentarza. Dorysuj obok niego pająka lub czarnego kota."
+      "title": "Nagrobek z napisem R.I.P",
+      "description": "Stary, kamienny nagrobek z napisem 'R. I."
     },
     {
       "key": "hauntedhouse_bats",
       "slug": "nawiedzony-dom-z-nietoperzami",
       "title": "Nawiedzony dom z nietoperzami",
-      "description": "Stary, opuszczony dom, nad którym krążą nietoperze. W oknach widać tajemnicze światła. Kto odważy się wejść do środka? To kolorowanka dla odważnych!"
+      "description": "Stary, opuszczony dom, nad którym krążą nietoperze.  W oknach widać tajemnicze światła."
     },
     {
       "key": "jackolantern_smile",
@@ -103,7 +103,7 @@
       "key": "skeleton_dance",
       "slug": "tanczacy-szkielet",
       "title": "Tańczący szkielet",
-      "description": "Zabawny szkielet tańczy wesoło. Kto powiedział, że szkielety muszą być straszne? Ten na pewno jest w świetnym humorze. Prosta kolorowanka, która oswaja strach."
+      "description": "Zabawny szkielet tańczy wesoło.  Kto powiedział, że szkielety muszą być straszne?"
     },
     {
       "key": "spellbook_magic",
@@ -119,7 +119,7 @@
     },
     {
       "key": "trickortreat_bag",
-      "slug": "torba-na-cukierki-albo-psikus",
+      "slug": "torba-na-cukierek-albo-psikus",
       "title": "Torba na 'cukierek albo psikus'",
       "description": "Torba na słodycze z napisem 'Trick or Treat'. Jest gotowa do wypełnienia cukierkami podczas halloweenowej wędrówki po domach. Dzieci mogą ją ozdobić według własnego pomysłu."
     },
@@ -137,7 +137,7 @@
     },
     {
       "key": "witch_broomstick",
-      "slug": "czarownica-na-miotlce",
+      "slug": "czarownica-na-miotle",
       "title": "Czarownica na miotle",
       "description": "Uśmiechnięta czarownica w spiczastym kapeluszu leci na swojej magicznej miotle. Może leci na zlot czarownic? Ta przyjazna postać na pewno spodoba się dzieciom."
     },
@@ -147,5 +147,6 @@
       "title": "Kapelusz czarownicy z klamrą",
       "description": "Czarny, spiczasty kapelusz czarownicy z dużą, złotą klamrą. To najważniejszy atrybut każdej wiedźmy. Prosty rysunek, idealny do ozdabiania zaproszeń na bal Halloween."
     }
-  ]
+  ],
+  "asset_key": "halloween"
 }

@@ -31,13 +31,13 @@
       "key": "clown_juggling_balls",
       "slug": "klaun-zonglujacy-pilkami",
       "title": "Klaun żonglujący piłkami",
-      "description": "Uśmiechnięty klaun w wielkich butach i peruce żongluje trzema kolorowymi piłkami. Klauni potrafią rozśmieszyć każdą publiczność. Pokoloruj jego strój jak najweselej!"
+      "description": "Uśmiechnięty klaun w wielkich butach i peruce żongluje trzema kolorowymi piłkami.  Klauni potrafią rozśmieszyć każdą publiczność."
     },
     {
       "key": "cotton_candy_cart",
       "slug": "wozek-z-wata-cukrowa",
       "title": "Wózek z watą cukrową",
-      "description": "Wózek, w którym kręci się puszysta, różowa wata cukrowa. To najsłodszy smak karnawału i festynów. Aż ślinka cieknie na sam widok!"
+      "description": "Wózek, w którym kręci się puszysta, różowa wata cukrowa.  To najsłodszy smak karnawału i festynów."
     },
     {
       "key": "dunk_tank_target",
@@ -73,7 +73,7 @@
       "key": "game_booth_prizes",
       "slug": "budka-z-grami-i-nagrodami",
       "title": "Budka z grami i nagrodami",
-      "description": "Karnawałowa budka, w której można wygrać wspaniałe nagrody, np. wielkiego pluszowego misia. Spróbuj swojego szczęścia w rzucaniu do celu!"
+      "description": "Karnawałowa budka, w której można wygrać wspaniałe nagrody, np.  wielkiego pluszowego misia."
     },
     {
       "key": "juggler_clubs",
@@ -85,7 +85,7 @@
       "key": "magician_rabbit_hat",
       "slug": "magik-z-krolikiem-w-kapeluszu",
       "title": "Magik z królikiem w kapeluszu",
-      "description": "Słynny iluzjonista wyciąga białego królika ze swojego cylindra. To jedna z najbardziej znanych magicznych sztuczek. Jak on to zrobił?"
+      "description": "Słynny iluzjonista wyciąga białego królika ze swojego cylindra.  To jedna z najbardziej znanych magicznych sztuczek."
     },
     {
       "key": "merry_go_round_lights",
@@ -113,7 +113,7 @@
     },
     {
       "key": "ring_of_fire_show",
-      "slug": "pokaz-z-plonaca-obreczą",
+      "slug": "pokaz-z-plonaca-obrecza",
       "title": "Pokaz z płonącą obręczą",
       "description": "Na arenie cyrkowej odbywa się niebezpieczny pokaz skoków przez płonącą obręcz. To numer dla odważnych artystów i wytresowanych zwierząt, np. tygrysów."
     },
@@ -133,7 +133,7 @@
       "key": "strongman_barbell",
       "slug": "silacz-ze-sztanga",
       "title": "Siłacz ze sztangą",
-      "description": "Cyrkowy siłacz w pasiastym kostiumie z łatwością podnosi ciężką sztangę. Jego siła budzi podziw publiczności. Dorysuj mu wielkie wąsy!"
+      "description": "Cyrkowy siłacz w pasiastym kostiumie z łatwością podnosi ciężką sztangę.  Jego siła budzi podziw publiczności."
     },
     {
       "key": "ticket_booth_sign",
@@ -153,5 +153,6 @@
       "title": "Rowerzysta na jednym kółku",
       "description": "Artysta cyrkowy balansuje na monocyklu, czyli rowerze z jednym kółkiem. Utrzymanie równowagi na takim pojeździe to wielkie wyzwanie. Pokoloruj go na wesołe barwy."
     }
-  ]
+  ],
+  "asset_key": "circus_carnival"
 }

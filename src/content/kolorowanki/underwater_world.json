@@ -133,7 +133,7 @@
       "key": "shark_smile",
       "slug": "usmiechniety-rekin",
       "title": "Uśmiechnięty rekin",
-      "description": "Duży rekin uśmiecha się, pokazując swoje ostre zęby. Choć rekiny budzą strach, w rzeczywistości rzadko atakują ludzi. Ten wygląda na całkiem przyjaznego!"
+      "description": "Duży rekin uśmiecha się, pokazując swoje ostre zęby.  Choć rekiny budzą strach, w rzeczywistości rzadko atakują ludzi."
     },
     {
       "key": "starfish_on_rock",
@@ -145,7 +145,7 @@
       "key": "submarine_round_windows",
       "slug": "lodz-podwodna-z-okraglymi-oknami",
       "title": "Łódź podwodna z okrągłymi oknami",
-      "description": "Łódź podwodna z okrągłymi oknami, zwanymi bulajami, pozwala obserwować podwodny świat. Co widać przez okna? Możesz to narysować!"
+      "description": "Łódź podwodna z okrągłymi oknami, zwanymi bulajami, pozwala obserwować podwodny świat.  Co widać przez okna?"
     },
     {
       "key": "whale_spout_water",
@@ -153,5 +153,6 @@
       "title": "Wieloryb tryskający wodą",
       "description": "Ogromny, uśmiechnięty wieloryb wypuszcza fontannę wody ze swojego nozdrza na grzbiecie. Wieloryby to największe zwierzęta na Ziemi. Ta kolorowanka pokazuje ich łagodną naturę."
     }
-  ]
+  ],
+  "asset_key": "underwater_world"
 }

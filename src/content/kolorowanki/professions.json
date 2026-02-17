@@ -25,7 +25,7 @@
       "key": "chef_cooking",
       "slug": "szef-kuchni-gotujacy",
       "title": "Szef kuchni gotujący",
-      "description": "Szef kuchni w charakterystycznej, wysokiej czapce gotuje coś pysznego na patelni. Gotowanie to prawdziwa sztuka! Może ta kolorowanka zainspiruje przyszłego mistrza kuchni?"
+      "description": "Szef kuchni w charakterystycznej, wysokiej czapce gotuje coś pysznego na patelni.  Gotowanie to prawdziwa sztuka!"
     },
     {
       "key": "clown_juggling",
@@ -73,7 +73,7 @@
       "key": "magician_rabbit",
       "slug": "magik-wyciagajacy-krolika-z-kapelusza",
       "title": "Magik wyciągający królika z kapelusza",
-      "description": "Iluzjonista wykonuje słynną sztuczkę, wyciągając królika z pustego kapelusza. Jak on to robi? To magia! Scena pełna tajemnicy i zdumienia."
+      "description": "Iluzjonista wykonuje słynną sztuczkę, wyciągając królika z pustego kapelusza.  Jak on to robi?"
     },
     {
       "key": "mechanic_car",
@@ -97,13 +97,13 @@
       "key": "photographer_camera",
       "slug": "fotograf-z-aparatem",
       "title": "Fotograf z aparatem",
-      "description": "Fotograf robi zdjęcie swoim profesjonalnym aparatem. Dzięki fotografom możemy zatrzymać piękne chwile na dłużej. Uśmiechnij się, robi Ci zdjęcie!"
+      "description": "Fotograf robi zdjęcie swoim profesjonalnym aparatem.  Dzięki fotografom możemy zatrzymać piękne chwile na dłużej."
     },
     {
       "key": "pilot_cockpit",
       "slug": "pilot-w-kokpicie-samolotu",
       "title": "Pilot w kokpicie samolotu",
-      "description": "Pilot w mundurze i czapce siedzi za sterami samolotu w kokpicie. To on bezpiecznie przewozi pasażerów przez chmury. Widok z kokpitu jest niesamowity!"
+      "description": "Pilot w mundurze i czapce siedzi za sterami samolotu w kokpicie.  To on bezpiecznie przewozi pasażerów przez chmury."
     },
     {
       "key": "police_officer_wave",
@@ -121,7 +121,7 @@
       "key": "scientist_microscope",
       "slug": "naukowiec-patrzacy-przez-mikroskop",
       "title": "Naukowiec patrzący przez mikroskop",
-      "description": "Naukowiec w kitlu laboratoryjnym prowadzi badania, patrząc przez mikroskop. Dzięki naukowcom poznajemy tajemnice świata. Może Twoje dziecko odkryje kiedyś nowe lekarstwo?"
+      "description": "Naukowiec w kitlu laboratoryjnym prowadzi badania, patrząc przez mikroskop.  Dzięki naukowcom poznajemy tajemnice świata."
     },
     {
       "key": "singer_microphone",
@@ -131,7 +131,7 @@
     },
     {
       "key": "soccer_player",
-      "slug": "pilkarz-kopiący-pilke",
+      "slug": "pilkarz-kopiacy-pilke",
       "title": "Piłkarz kopiący piłkę",
       "description": "Piłkarz w stroju sportowym właśnie kopie piłkę, próbując strzelić gola. Piłka nożna to najpopularniejszy sport na świecie. Pokoloruj strój piłkarza w barwy ulubionej drużyny."
     },
@@ -153,5 +153,6 @@
       "title": "Weterynarz badający szczeniaka",
       "description": "Weterynarz, czyli lekarz dla zwierząt, delikatnie bada małego szczeniaczka. To zawód dla osób, które kochają zwierzęta i chcą im pomagać. Scena pełna troski i ciepła."
     }
-  ]
+  ],
+  "asset_key": "professions"
 }

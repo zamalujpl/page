@@ -133,7 +133,8 @@
       "key": "windy_day_trees",
       "slug": "wietrzny-dzien-z-drzewami",
       "title": "Wietrzny dzień z drzewami",
-      "description": "Drzewa uginające się na silnym wietrze. Liście wirują w powietrzu. To pokazuje potęgę natury. Użyj dynamicznych kresek, by oddać ruch wiatru."
+      "description": "Drzewa uginające się na silnym wietrze.  Liście wirują w powietrzu."
     }
-  ]
+  ],
+  "asset_key": "seasons_weather"
 }

@@ -11,7 +11,7 @@
     },
     {
       "key": "birthday_cake_candles",
-      "slug": "kawaler-tortu-urodzinowego-ze-swieczkami",
+      "slug": "kawalek-tortu-urodzinowego-ze-swieczkami",
       "title": "Kawałek tortu urodzinowego ze świeczkami",
       "description": "Apetyczny kawałek tortu urodzinowego z zapalonymi świeczkami. Czas pomyśleć życzenie! Ta kolorowanka jest idealna do stworzenia własnej kartki urodzinowej."
     },
@@ -23,7 +23,7 @@
     },
     {
       "key": "bowl_strawberries",
-      "slug": "miska-truskawek",
+      "slug": "miska-pelna-truskawek",
       "title": "Miska pełna truskawek",
       "description": "Miska po brzegi wypełniona świeżymi, czerwonymi truskawkami. To symbol lata i słońca. Ta kolorowanka jest prosta i idealna dla najmłodszych dzieci."
     },
@@ -31,7 +31,7 @@
       "key": "burger_fries_tray",
       "slug": "burger-z-frytkami",
       "title": "Burger z frytkami",
-      "description": "Soczysty burger z serem i warzywami podany na tacy ze złotymi, chrupiącymi frytkami. To jedno z najpopularniejszych dań na świecie. Aż ślinka cieknie!"
+      "description": "Soczysty burger z serem i warzywami podany na tacy ze złotymi, chrupiącymi frytkami.  To jedno z najpopularniejszych dań na świecie."
     },
     {
       "key": "candy_cane_stripes",
@@ -79,7 +79,7 @@
       "key": "ice_cream_sprinkles",
       "slug": "lody-w-wafelku-z-posypka",
       "title": "Lody w wafelku z posypką",
-      "description": "Gałka lodów w chrupiącym wafelku, posypana kolorową posypką. Idealny deser na upalny dzień. Jaki to smak? Truskawkowy, śmietankowy, a może gumy balonowej?"
+      "description": "Gałka lodów w chrupiącym wafelku, posypana kolorową posypką.  Idealny deser na upalny dzień."
     },
     {
       "key": "lollipop_swirly",
@@ -91,7 +91,7 @@
       "key": "milkshake_with_straw",
       "slug": "koktajl-mleczny-z-rurka",
       "title": "Koktajl mleczny z rurką",
-      "description": "Gęsty, kremowy koktajl mleczny (milkshake) podany w wysokiej szklance z rurką. Może jest truskawkowy, a może czekoladowy? Ty decydujesz!"
+      "description": "Gęsty, kremowy koktajl mleczny (milkshake) podany w wysokiej szklance z rurką.  Może jest truskawkowy, a może czekoladowy?"
     },
     {
       "key": "pancake_butter_plate",
@@ -107,9 +107,9 @@
     },
     {
       "key": "pizza_extra_cheese",
-      "slug": "kawaler-pizzy-z-dodatkowym-serem",
+      "slug": "kawalek-pizzy-z-dodatkowym-serem",
       "title": "Kawałek pizzy z dodatkowym serem",
-      "description": "Gorący kawałek pizzy z ciągnącym się, roztopionym serem. Pizza to jedno z ulubionych dań na całym świecie. Jakie są Twoje ulubione dodatki?"
+      "description": "Gorący kawałek pizzy z ciągnącym się, roztopionym serem.  Pizza to jedno z ulubionych dań na całym świecie."
     },
     {
       "key": "popcorn_bucket_kernels",
@@ -133,7 +133,7 @@
       "key": "sandwich_lettuce_tomato",
       "slug": "kanapka-z-salata-i-pomidorem",
       "title": "Kanapka z sałatą i pomidorem",
-      "description": "Pyszna, zdrowa kanapka ze świeżą sałatą i plasterkami pomidora. Idealna na drugie śniadanie do szkoły. Jakie są Twoje ulubione kanapki?"
+      "description": "Pyszna, zdrowa kanapka ze świeżą sałatą i plasterkami pomidora.  Idealna na drugie śniadanie do szkoły."
     },
     {
       "key": "taco_tasty_toppings",
@@ -145,7 +145,7 @@
       "key": "watermelon_juicy_slice",
       "slug": "soczysty-kawalek-arbuza",
       "title": "Soczysty kawałek arbuza",
-      "description": "Trójkątny, soczysty kawałek arbuza z czarnymi pestkami. To idealny owoc na gaszenie pragnienia w gorący, letni dzień. Poczuj jego słodki smak!"
+      "description": "Trójkątny, soczysty kawałek arbuza z czarnymi pestkami.  To idealny owoc na gaszenie pragnienia w gorący, letni dzień."
     },
     {
       "key": "cinnamon_roll_warm",
@@ -153,5 +153,6 @@
       "title": "Ciepła drożdżówka z cynamonem",
       "description": "Apetyczna, zwinięta drożdżówka z cynamonem, polana słodkim lukrem. Pachnie tak, że nie można się oprzeć! To idealny dodatek do popołudniowej herbaty."
     }
-  ]
+  ],
+  "asset_key": "food_treats"
 }
