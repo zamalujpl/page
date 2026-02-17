@@ -1,24 +1,10 @@
-/**
- * 4) Move SVGs to public/assets/{category}/{filename}.svg and update src/assets.json
- * 5) Convert each new SVG to a PDF with a footer (uses scripts/svg_to_pdf.js)
- * 6) Convert each new SVG to a WEBP for web use (uses scripts/svg_to_webp.js)
- *
- * Assumptions:
- * - Filenames follow pattern: {category}__{key}.png (letters, numbers, underscores)
- * - Optional descriptions can be provided in private/assets/to_process/descriptions.json with schema:
- *   [{ "category": "animals", "filename": "cat", "description": "..." }, ...]
- * - Requires ImageMagick `convert` and `potrace` (used by scripts/png_to_svg.sh)
- *
- * Usage:
- *   node scripts/orchestrate_assets.js
- */
-
 import fs from "fs";
 import fsp from "fs/promises";
 import path from "path";
 import os from "os";
 import { spawn } from "child_process";
 import { fileURLToPath } from "url";
+import { syncAllContentJsons } from "./generate_content_json.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -34,7 +20,6 @@ const descriptionsJsonPath = path.join(toProcessDir, "descriptions.json");
 // Regex to match required filename format
 const PNG_NAME_REGEX = /^([A-Za-z0-9_]+)__([A-Za-z0-9_]+)\.png$/i;
 
-// Util: run a command with args, collect output
 function runCmd(cmd, args, opts = {}) {
   return new Promise((resolve, reject) => {
     const child = spawn(cmd, args, {
@@ -61,7 +46,6 @@ async function moveFileRobust(src, dest) {
   try {
     await fsp.rename(src, dest);
   } catch (e) {
-    // Cross-device move fallback
     if (e.code === "EXDEV") {
       await fsp.copyFile(src, dest);
       await fsp.unlink(src);
@@ -115,27 +99,31 @@ async function step1_movePngsFromDownloads() {
   return moved;
 }
 
-async function step2_convertPngToSvg() {
-  // Use existing script: scripts/png_to_svg.sh -d private/assets/to_process
+async function step2_checkResolutions() {
+  console.log("Step 2: Checking image resolutions...");
+  const { stdout } = await runCmd("bash", ["scripts/check_image_resolutions.sh"], { cwd: projectRoot });
+  console.log(stdout.trim());
+}
+
+async function step3_convertPngToSvg() {
   await ensureDir(toProcessDir);
-  console.log("Step 2: Converting PNGs to SVG via scripts/png_to_svg.sh...");
+  console.log("Step 3: Converting PNGs to SVG via scripts/png_to_svg.sh...");
   const { stdout } = await runCmd("bash", ["scripts/png_to_svg.sh", "-d", toProcessDir], {
     cwd: projectRoot,
   });
   if (stdout.trim()) console.log(stdout.trim());
 }
 
-async function step3_blackAndWhiteSvgsInToProcess() {
-  // Use existing script: scripts/svg_tools/black_white_svg.js private/assets/to_process
-  console.log("Step 3: Converting SVGs to black & white in private/assets/to_process...");
+async function step4_blackAndWhiteSvgs() {
+  console.log("Step 4: Converting SVGs to black & white...");
   const { stdout } = await runCmd("node", ["scripts/svg_tools/black_white_svg.js", toProcessDir], {
     cwd: projectRoot,
   });
   if (stdout.trim()) console.log(stdout.trim());
 }
 
-async function step4_processAndMoveSvgs() {
-  console.log("Step 4: Moving SVGs, updating assets.json, and creating derivatives (PDF, WEBP)...");
+async function step5_processAndMove() {
+  console.log("Step 5: Moving SVGs, creating derivatives (PDF, WEBP), and updating assets.json...");
   await ensureDir(publicAssetsDir);
   const descriptions = await readJsonIfExists(descriptionsJsonPath, []);
   const assets = await readJsonIfExists(assetsJsonPath, {});
@@ -150,12 +138,11 @@ async function step4_processAndMoveSvgs() {
     });
 
   if (svgNames.length === 0) {
-    console.log("Step 4: No SVGs to process.");
+    console.log("Step 5: No SVGs to process.");
     return;
   }
 
-  let processedCount = 0;
-
+  let count = 0;
   for (const svgName of svgNames) {
     const basePng = svgName.replace(/\.svg$/i, ".png");
     const match = basePng.match(PNG_NAME_REGEX);
@@ -163,78 +150,58 @@ async function step4_processAndMoveSvgs() {
     const category = match[1];
     const key = match[2];
 
-    // Move SVG to public/assets/{category}/{key}.svg
     const srcSvgPath = path.join(toProcessDir, svgName);
     const categoryDir = path.join(publicAssetsDir, category);
     const destSvgPath = path.join(categoryDir, `${key}.svg`);
     await moveFileRobust(srcSvgPath, destSvgPath);
-    processedCount++;
+    count++;
 
-    // --- Step 5 (integrated): Convert this SVG to PDF ---
-    console.log(`  - Converting ${path.relative(projectRoot, destSvgPath)} to PDF...`);
-    try {
-        await runCmd('npm', ['run', 'svg-to-pdf', destSvgPath], { cwd: projectRoot });
-    } catch (pdfErr) {
-        console.error(`  - FAILED to convert ${svgName} to PDF. Continuing...`, pdfErr.message);
-    }
-    
-    // --- Step 6 (integrated): Convert this SVG to WEBP ---
-    console.log(`  - Converting ${path.relative(projectRoot, destSvgPath)} to WEBP...`);
-    try {
-        await runCmd('npm', ['run', 'svg-to-webp', destSvgPath], { cwd: projectRoot });
-    } catch (webpErr) {
-        console.error(`  - FAILED to convert ${svgName} to WEBP. Continuing...`, webpErr.message);
-    }
+    // Integrated PDF/WEBP generation
+    try { await runCmd('npm', ['run', 'svg-to-pdf', destSvgPath], { cwd: projectRoot }); } catch (e) { console.error(`  - PDF FAIL: ${svgName}`); }
+    try { await runCmd('npm', ['run', 'svg-to-webp', destSvgPath], { cwd: projectRoot }); } catch (e) { console.error(`  - WEBP FAIL: ${svgName}`); }
 
     // Update assets.json
     if (!assets[category]) {
-      assets[category] = {
-        title_key: capitalizeFirst(category),
-        description: "",
-        header: "",
-        items: [],
-      };
+      assets[category] = { title_key: capitalizeFirst(category), description: "", header: "", items: [] };
     }
     const items = assets[category].items || [];
     let item = items.find((it) => it.key === key);
-    if (!item) {
-      item = { 
-        key, 
-        file: `assets/${category}/${key}.svg`, 
-        description: "",
-        webp_large: `assets/${category}/${key}-1200.webp`,
-        webp_thumb: `assets/${category}/${key}-350.webp`,
-        pdf_file: `assets/${category}/${key}.pdf`,
-      };
-      items.push(item);
-    } else {
-      item.file = `assets/${category}/${key}.svg`;
-      item.webp_large = `assets/${category}/${key}-1200.webp`;
-      item.webp_thumb = `assets/${category}/${key}-350.webp`;
-      item.pdf_file = `assets/${category}/${key}.pdf`;
-    }
-    // Apply description if available and not already present
-    if (!item.description) {
-      item.description = findDescription(descriptions, category, key);
-    }
+    const itemData = { 
+      key, 
+      file: `assets/${category}/${key}.svg`, 
+      description: item?.description || findDescription(descriptions, category, key),
+      webp_large: `assets/${category}/${key}-1200.webp`,
+      webp_thumb: `assets/${category}/${key}-350.webp`,
+      pdf_file: `assets/${category}/${key}.pdf`,
+    };
+    if (!item) items.push(itemData);
+    else Object.assign(item, itemData);
     assets[category].items = items;
   }
 
   await fsp.writeFile(assetsJsonPath, JSON.stringify(assets, null, 2), "utf8");
-  console.log(
-    `Step 4, 5, & 6: Processed ${processedCount} SVG(s) (moved, created PDFs & WEBPs, and updated assets.json).`,
-  );
+  console.log(`Step 5: Processed ${count} SVG(s).`);
 }
 
 async function main() {
   try {
     console.log("Orchestration started.");
-    const moved = await step1_movePngsFromDownloads();
+    await step1_movePngsFromDownloads();
+    await step2_checkResolutions();
+    await step3_convertPngToSvg();
+    await step4_blackAndWhiteSvgs();
+    await step5_processAndMove();
 
-    // Proceed regardless of whether step1 found files, to handle existing to_process content
-    await step2_convertPngToSvg();
-    await step3_blackAndWhiteSvgsInToProcess();
-    await step4_processAndMoveSvgs();
+    console.log("Step 6: Synchronizing content JSON files...");
+    await syncAllContentJsons();
+
+    console.log("Step 7: Verifying registry integrity...");
+    const { stdout: verifyOut } = await runCmd("node", ["scripts/verify_content_assets.js"], { cwd: projectRoot });
+    console.log(verifyOut);
+
+    console.log("Step 8: Checking for broken links (Dev server must be running)...");
+    const { stdout: linksOut } = await runCmd("bash", ["scripts/check_all_links.sh"], { cwd: projectRoot });
+    console.log(linksOut);
 
     console.log("All steps completed successfully.");
   } catch (err) {

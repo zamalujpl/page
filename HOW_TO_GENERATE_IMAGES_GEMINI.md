@@ -6,7 +6,11 @@ This guide explains the process of generating and downloading images using the G
 
 Use Gemini with the following prompt to generate a list of image ideas.
 
-### Prompt Example:
+### Minecraft Style Prompt:
+When generating content for Minecraft, use this style template for individual image prompts:
+> [SUBJECT] from Minecraft, 1024x1024 pixels, softly rounded blocky voxel geometry, slightly beveled edges, Gravity Falls art style, thick bold black outlines, Disney-style facial features, coloring book page, black and white line art, pure white background, no shading, no background elements, minimal solid black areas.
+
+### Prompt Example for List Generation:
 
 ```
 Example output { "description": "a wise wizard casting a glowing spell from his staff", "filename": "wizard_spell", "category": "fantasy_fairy_tales" } Category: Minecraft Task: Create a list of coloring books description with minecraft characters. One coloring book can containe one, two, up to three chracters, then can interact with eachother and/or can have itemes from the game: bow, axe, sword etc... Before you give final answer consider double check if assumptions are right
@@ -23,56 +27,126 @@ Open your browser's developer console and **run these three commands sequentiall
 ```javascript
 localStorage.removeItem("imageState"); // IMPORTANT: Clear any old state from previous runs
 localStorage.setItem("images", JSON.stringify([
-  { "description": "Uroczy pluszowy miś trzymający duży balon w kształcie serca", "filename": "valentine_bear_balloon", "category": "valentines_day" },
-  { "description": "Dwa pingwiny stojące razem na lodzie z sercem między nimi", "filename": "penguins_love", "category": "valentines_day" },
-  { "description": "Klasyczny kupidyn ze skrzydłami, trzymający złoty łuk i strzałę", "filename": "cupid_gold_bow", "category": "valentines_day" },
-  { "description": "Wielopoziomowy tort walentynkowy udekorowany sercami i zakrętasami z lukru", "filename": "valentine_cake", "category": "valentines_day" },
-  { "description": "Dwa kocięta bawiące się kłębkiem czerwonej włóczki w kształcie serca", "filename": "kittens_yarn_heart", "category": "valentines_day" },
-  { "description": "Ozdobna skrzynka pocztowa wypełniona walentynkami i różami", "filename": "love_letter_mailbox", "category": "valentines_day" },
-  { "description": "Bukiet realistycznych róż przewiązany dużą jedwabną wstążką", "filename": "rose_bouquet", "category": "valentines_day" },
-  { "description": "Para nierozłączek siedzących na gałęzi drzewa z kwiatami", "filename": "lovebirds_blossom", "category": "valentines_day" },
-  { "description": "Ozdobny medalion w kształcie serca z delikatnym grawerem kwiatowym", "filename": "heart_locket", "category": "valentines_day" },
-  { "description": "Szczeniak siedzący w pudełku prezentowym otoczony papierowymi sercami", "filename": "puppy_gift_box", "category": "valentines_day" },
-  { "description": "Dwa słonie ze splecionymi trąbami w kształcie serca", "filename": "elephant_love", "category": "valentines_day" },
-  { "description": "Pudełko czekoladek o różnych kształtach i wzorach", "filename": "chocolate_box", "category": "valentines_day" },
-  { "description": "Balon na gorące powietrze w kształcie serca unoszący się nad chmurami", "filename": "heart_hot_air_balloon", "category": "valentines_day" },
-  { "description": "Uroczy króliczek trzymający gigantyczną marchewkę wyrzeźbioną w kształcie serca", "filename": "bunny_carrot_heart", "category": "valentines_day" },
-  { "description": "Szklany słoik wypełniony cukierkami w kształcie serca z napisem 'Bądź mój'", "filename": "candy_heart_jar", "category": "valentines_day" },
-  { "description": "Dwa łabędzie na stawie tworzące serce swoimi długimi szyjami", "filename": "swan_lake_heart", "category": "valentines_day" },
-  { "description": "Ozdobny wieniec wykonany z małych serc i wstążek", "filename": "valentine_wreath", "category": "valentines_day" },
-  { "description": "Mała dziewczynka puszczająca bańki mydlane w kształcie serc", "filename": "heart_bubbles", "category": "valentines_day" },
-  { "description": "Pluszowy miś siedzący przy stole z herbatą i ciasteczkami w kształcie serc", "filename": "bear_tea_party", "category": "valentines_day" },
-  { "description": "Kłódka w kształcie serca z pasującym ozdobnym kluczem", "filename": "heart_lock_key", "category": "valentines_day" },
-  { "description": "Dwie sowy huczące na gałęzi pod półksiężycem z gwiazdami", "filename": "valentine_owls", "category": "valentines_day" },
-  { "description": "Kolekcja unoszących się balonów w różnych wzorach serc", "filename": "floating_heart_balloons", "category": "valentines_day" },
-  { "description": "Ogrodowy gnom trzymający tabliczkę z napisem 'Kocham Cię'", "filename": "gnome_love_sign", "category": "valentines_day" },
-  { "description": "Szczegółowy kwiat róży z kroplami rosy na płatkach", "filename": "single_rose_detail", "category": "valentines_day" },
-  { "description": "Dwa lisy zwinięte razem w przytulnej leśnej norze", "filename": "fox_cuddle", "category": "valentines_day" },
-  { "description": "Babeczka z dużą truskawką w kształcie serca na wierzchu", "filename": "strawberry_cupcake", "category": "valentines_day" },
-  { "description": "Drzewo, którego liście są sercami o różnych rozmiarach", "filename": "heart_leaf_tree", "category": "valentines_day" },
-  { "description": "Magiczna butelka z eliksirem z bąbelkami w kształcie serca", "filename": "love_potion_bottle", "category": "valentines_day" },
-  { "description": "Dwie żyrafy krzyżujące szyje, tworząc kształt serca", "filename": "giraffe_heart", "category": "valentines_day" },
-  { "description": "Uśmiechnięte słońce w okularach przeciwsłonecznych w kształcie serc", "filename": "sunny_valentine", "category": "valentines_day" },
-  { "description": "Koszyk kociąt w małych czerwonych muszkach", "filename": "kittens_bowties", "category": "valentines_day" },
-  { "description": "Misterny wzór mandali zbudowany w dużej ramie w kształcie serca", "filename": "heart_mandala", "category": "valentines_day" },
-  { "description": "Wiewiórka trzymająca żołądź w kształcie serca", "filename": "squirrel_acorn", "category": "valentines_day" },
-  { "description": "Romantyczna kolacja przy świecach dla dwojga z różami", "filename": "candle_dinner", "category": "valentines_day" },
-  { "description": "Zabawny delfin wyskakujący przez rozprysk wody w kształcie serca", "filename": "dolphin_heart_splash", "category": "valentines_day" },
-  { "description": "Dwie pandy dzielące kawałek bambusa w kształcie serca", "filename": "panda_bamboo_heart", "category": "valentines_day" },
-  { "description": "Stara maszyna do pisania z kartką pokazującą 'I Love You'", "filename": "typewriter_love_note", "category": "valentines_day" },
-  { "description": "Para pasujących rękawiczek trzymających się za ręce", "filename": "mitten_love", "category": "valentines_day" },
-  { "description": "Motyl z wzorami serc na skrzydłach", "filename": "heart_butterfly", "category": "valentines_day" },
-  { "description": "Koala przytulający pień drzewa z liściem w kształcie serca", "filename": "koala_hug", "category": "valentines_day" },
-  { "description": "Wróżka ze skrzydłami w kształcie serca sypiąca pył miłości", "filename": "valentine_fairy", "category": "valentines_day" },
-  { "description": "Rząd mrówek niosących małe okruszki w kształcie serca", "filename": "ant_parade_hearts", "category": "valentines_day" },
-  { "description": "Dwa koniki morskie zwrócone do siebie w oceanie", "filename": "seahorse_romance", "category": "valentines_day" },
-  { "description": "Pizza w kształcie serca z pepperoni w kształcie serc", "filename": "heart_pizza", "category": "valentines_day" },
-  { "description": "Lew i lwica ocierające się o siebie na sawannie", "filename": "lion_love", "category": "valentines_day" },
-  { "description": "Rower z frontowym koszykiem pełnym świeżych kwiatów", "filename": "valentine_bicycle", "category": "valentines_day" },
-  { "description": "Przytulny kominek z sercowymi skarpetami wiszącymi na gzymsie", "filename": "fireplace_romance", "category": "valentines_day" },
-  { "description": "Pluszowy miś malujący duże serce na płótnie", "filename": "artist_bear", "category": "valentines_day" },
-  { "description": "Chmura deszcząca drobne serca nad małym parasolem", "filename": "heart_rain", "category": "valentines_day" },
-  { "description": "Ręka rysująca serce na piasku na plaży", "filename": "beach_sand_heart", "category": "valentines_day" }
+    {
+      "description": "Creeper in a pre-explosion hissing pose",
+      "filename": "creeper_improved",
+      "category": "minecraft"
+    },
+    {
+      "description": "Large Spider in a climbing pose",
+      "filename": "spider_climbing",
+      "category": "minecraft"
+    },
+    {
+      "description": "Hovering Blaze surrounded by spinning rods",
+      "filename": "blaze_nether",
+      "category": "minecraft"
+    },
+    {
+      "description": "Flying Ghast with open mouth shooting a fireball",
+      "filename": "ghast_fireball",
+      "category": "minecraft"
+    },
+    {
+      "description": "Drowned holding a trident",
+      "filename": "drowned_trident",
+      "category": "minecraft"
+    },
+    {
+      "description": "Flying Vex holding a sword",
+      "filename": "vex_flying",
+      "category": "minecraft"
+    },
+    {
+      "description": "Magma Cube stretched out mid-jump showing internal lava layers",
+      "filename": "magma_cube_stretch",
+      "category": "minecraft"
+    },
+    {
+      "description": "Librarian Villager wearing glasses and holding an open book",
+      "filename": "villager_librarian",
+      "category": "minecraft"
+    },
+    {
+      "description": "Blacksmith Villager standing next to an anvil",
+      "filename": "villager_blacksmith",
+      "category": "minecraft"
+    },
+    {
+      "description": "Pillager holding a crossbow and an Illager Banner",
+      "filename": "pillager_banner",
+      "category": "minecraft"
+    },
+    {
+      "description": "Evoker with raised hands casting a spell",
+      "filename": "evoker_spell",
+      "category": "minecraft"
+    },
+    {
+      "description": "Steve in full diamond armor holding a pickaxe",
+      "filename": "steve_diamond_armor",
+      "category": "minecraft"
+    },
+    {
+      "description": "Alex aiming with a bow",
+      "filename": "alex_archer",
+      "category": "minecraft"
+    },
+    {
+      "description": "The Warden with glowing chest elements",
+      "filename": "warden_beast",
+      "category": "minecraft"
+    },
+    {
+      "description": "Breeze jumping and spinning in a whirlwind",
+      "filename": "breeze_action",
+      "category": "minecraft"
+    },
+    {
+      "description": "Armadillo curling up into its shell",
+      "filename": "armadillo_shell",
+      "category": "minecraft"
+    },
+    {
+      "description": "Bogged skeleton holding a bow with dripping poison",
+      "filename": "bogged_archer",
+      "category": "minecraft"
+    },
+    {
+      "description": "Creaking monster in a lurking pose",
+      "filename": "creaking_monster",
+      "category": "minecraft"
+    },
+    {
+      "description": "Set of diamond tools including a sword, pickaxe, and axe",
+      "filename": "diamond_tools_set",
+      "category": "minecraft"
+    },
+    {
+      "description": "Open Chest overflowing with diamonds and emeralds",
+      "filename": "loot_chest",
+      "category": "minecraft"
+    },
+    {
+      "description": "Enchanting Table with floating book and magical runes",
+      "filename": "magic_enchanting",
+      "category": "minecraft"
+    },
+    {
+      "description": "Totem of Undying item close-up",
+      "filename": "totem_item",
+      "category": "minecraft"
+    },
+    {
+      "description": "Furnace emitting smoke while cooking a fish",
+      "filename": "furnace_cooking",
+      "category": "minecraft"
+    },
+    {
+      "description": "Shining Golden Apple item",
+      "filename": "apple_golden",
+      "category": "minecraft"
+    }
 ]));
 localStorage.setItem("imageState", "awaiting_prompt_insertion");
 localStorage.setItem("extractedImageUrls", JSON.stringify([]));
@@ -109,7 +183,7 @@ Each category needs a `header.png` generated from three source images: `outline.
 > Based on the attached black-and-white coloring page, generate a high-quality image showing it partially colored with colored pencils. The colors should have a clear pencil texture with visible shading and hatching. Include a **drawn** yellow pencil with a pink eraser lying on top of the image. The pencil must be entirely within the image boundaries and must not extend outside the paper edges. Maintain the exact character and line work from the original image.
 
 ### Prompt for `paint.png`:
-> Based on the attached black-and-white coloring page, generate a high-quality image showing it partially painted with watercolors. The colors should be vibrant with visible brush strokes and paint texture. Crucially, ensure the original outlines of the drawing remain clearly visible. Include a **drawn** yellow paintbrush lying on top of the image. The brush must be entirely within the image boundaries and must not extend outside the paper edges. Maintain the exact character and line work from the original image.
+> Based on the attached black-and-white coloring page, generate a high-quality image showing it partially painted with watercolors. The colors should have a vibrant with visible brush strokes and paint texture. Crucially, ensure the original outlines of the drawing remain clearly visible. Include a **drawn** yellow paintbrush lying on top of the image. The brush must be entirely within the image boundaries and must not extend outside the paper edges. Maintain the exact character and line work from the original image.
 
 ### Finalizing the Header:
 1. Save the generated images as `pencil.png` and `paint.png` in `public/assets/<category_slug>/`.

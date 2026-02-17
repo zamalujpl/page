@@ -2,82 +2,80 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// Helper to create a URL-friendly slug
 function createSlug(text) {
   return text
     .toString()
     .replace(/ł/g, 'l')
     .replace(/Ł/g, 'l')
-    .normalize('NFD') // Normalize diacritics
-    .replace(/[\u0300-\u036f]/g, '') // Remove diacritics
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
     .toLowerCase()
     .trim()
-    .replace(/\s+/g, '-') // Replace spaces with -
-    .replace(/[^\w-]+/g, '') // Remove all non-word chars
-    .replace(/--+/g, '-'); // Replace multiple - with single -
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]+/g, '')
+    .replace(/--+/g, '-');
 }
 
-// Get __dirname in ES module
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const projectRoot = path.resolve(__dirname, '..');
 
 const descriptionsJsonPath = path.join(projectRoot, 'private/assets/to_process/descriptions.json');
+const assetsJsonPath = path.join(projectRoot, 'src/assets.json');
 const contentDir = path.join(projectRoot, 'src/content/kolorowanki');
 
-async function generateContentJson(categoryKey, categoryTitle, categoryDescription) {
-  if (!fs.existsSync(descriptionsJsonPath)) {
-    console.error(`Error: descriptions.json not found at ${descriptionsJsonPath}`);
-    process.exit(1);
+export async function syncAllContentJsons() {
+  const assets = JSON.parse(fs.readFileSync(assetsJsonPath, 'utf8'));
+  const descriptions = fs.existsSync(descriptionsJsonPath) 
+    ? JSON.parse(fs.readFileSync(descriptionsJsonPath, 'utf8')) 
+    : [];
+
+  for (const categoryKey of Object.keys(assets)) {
+    const categoryData = assets[categoryKey];
+    // Technical key is the filename
+    const contentFilePath = path.join(contentDir, `${categoryKey}.json`);
+
+    let contentData = {
+      category_slug: createSlug(categoryData.title_key || categoryKey),
+      category_title: categoryData.title_key || categoryKey,
+      category_description: categoryData.description || "",
+      asset_key: categoryKey,
+      images: []
+    };
+
+    if (fs.existsSync(contentFilePath)) {
+      contentData = JSON.parse(fs.readFileSync(contentFilePath, 'utf8'));
+      contentData.asset_key = categoryKey;
+    }
+
+    const existingKeys = new Set(contentData.images.map(img => img.key));
+    let addedCount = 0;
+
+    for (const item of categoryData.items) {
+      if (!existingKeys.has(item.key)) {
+        const descObj = descriptions.find(d => d.category === categoryKey && d.filename === item.key);
+        let description = descObj?.description || item.description || "";
+        if (description.endsWith('.')) description = description.slice(0, -1);
+        
+        const title = description ? (description.charAt(0).toUpperCase() + description.slice(1)) : item.key;
+
+        contentData.images.push({
+          key: item.key,
+          slug: createSlug(title),
+          title: title,
+          description: description
+        });
+        addedCount++;
+      }
+    }
+
+    fs.writeFileSync(contentFilePath, JSON.stringify(contentData, null, 2), 'utf8');
+    if (addedCount > 0) {
+      console.log(`Updated ${categoryKey}.json: added ${addedCount} new images.`);
+    }
   }
-
-  const descriptions = JSON.parse(fs.readFileSync(descriptionsJsonPath, 'utf8'));
-  const assets = JSON.parse(fs.readFileSync(path.join(projectRoot, 'src/assets.json'), 'utf8'));
-  const categoryAssets = assets[categoryKey]?.items || [];
-  const assetKeys = new Set(categoryAssets.map(item => item.key));
-
-  const filteredImages = descriptions.filter(desc => 
-    desc.category === categoryKey && assetKeys.has(desc.filename)
-  );
-
-  if (filteredImages.length === 0) {
-    console.warn(`No images found for category: ${categoryKey} in descriptions.json.`);
-    return;
-  }
-
-  const contentJson = {
-    category_slug: createSlug(categoryTitle), // e.g., "walentynki"
-    category_title: categoryTitle, // e.g., "Walentynki"
-    category_description: categoryDescription,
-    asset_key: categoryKey, // e.g., "valentines_day"
-    images: []
-  };
-
-  for (const imgDesc of filteredImages) {
-    // Generate a title from the full Polish description
-    const fullTitle = imgDesc.description.charAt(0).toUpperCase() + imgDesc.description.slice(1);
-    
-    contentJson.images.push({
-      key: imgDesc.filename,
-      slug: createSlug(fullTitle),
-      title: fullTitle, // Use full Polish description as title
-      description: imgDesc.description // Use the existing Polish description
-    });
-  }
-
-  const outputFilePath = path.join(contentDir, `${createSlug(categoryTitle)}.json`);
-  fs.writeFileSync(outputFilePath, JSON.stringify(contentJson, null, 2), 'utf8');
-
-  console.log(`Successfully generated content JSON for '${categoryKey}' at ${path.relative(projectRoot, outputFilePath)}`);
 }
 
-// --- Execution ---
-// This part can be moved to a separate wrapper script if needed, or executed directly.
-// For now, let's call it with hardcoded values as per user's request.
-const targetCategoryKey = "valentines_day";
-const targetCategoryTitle = "Walentynki";
-const targetCategoryDescription = "Zanurz się w świecie miłości i czułości z naszą kolekcją walentynkowych kolorowanek. Odkryj urocze misie, romantyczne serca, aniołki i wiele innych wzorów, które rozgrzeją serce każdego. Idealne do dzielenia się uczuciami i kreatywnego spędzania czasu.";
-
-generateContentJson(targetCategoryKey, targetCategoryTitle, targetCategoryDescription)
-  .catch(console.error);
+if (import.meta.url === `file://${process.argv[1]}`) {
+  syncAllContentJsons().catch(console.error);
+}
