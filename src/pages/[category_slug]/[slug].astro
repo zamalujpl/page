@@ -12,6 +12,9 @@ export async function getStaticPaths() {
     const categoryKey = path.split("/").pop().replace(".json", "");
 
     for (const image of categoryContent.images) {
+      if (categoryContent.category_slug === 'boze-narodzenie') {
+        console.log(`DEBUG: Generating path for /boze-narodzenie/${image.slug}`);
+      }
       paths.push({
         params: {
           category_slug: categoryContent.category_slug,
@@ -204,4 +207,4 @@ const schema = {
       trackEvent();
     });
   </script>
-</BaseLayout>
+// Force rebuild Tue Feb 17 12:34:43 CET 2026
