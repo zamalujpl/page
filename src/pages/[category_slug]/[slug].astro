@@ -12,8 +12,10 @@ export async function getStaticPaths() {
     const categoryKey = path.split("/").pop().replace(".json", "");
 
     for (const image of categoryContent.images) {
-      if (categoryContent.category_slug === 'boze-narodzenie') {
-        console.log(`DEBUG: Generating path for /boze-narodzenie/${image.slug}`);
+      if (categoryContent.category_slug === "boze-narodzenie") {
+        console.log(
+          `DEBUG: Generating path for /boze-narodzenie/${image.slug}`,
+        );
       }
       paths.push({
         params: {
@@ -34,9 +36,21 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { image, categoryKey, assetKey, categoryTitle, categoryDescription, categoryImages } = Astro.props;
+const {
+  image,
+  categoryKey,
+  assetKey,
+  categoryTitle,
+  categoryDescription,
+  categoryImages,
+} = Astro.props;
 
-const { description, pageTitle, seeAlsoImages } = getPageData(image, categoryKey, categoryTitle, categoryImages);
+const { description, pageTitle, seeAlsoImages } = getPageData(
+  image,
+  categoryKey,
+  categoryTitle,
+  categoryImages,
+);
 
 const assetItem = assets[assetKey]?.items.find(
   (item) => item.key === image.key,
@@ -49,39 +63,39 @@ if (!assetItem) {
 const title = pageTitle;
 
 const keywords = [
-    ...image.title.split(' '),
-    categoryTitle,
-    'kolorowanka',
-    'do druku',
-    'darmowe',
-    'pdf',
-].join(', ');
+  ...image.title.split(" "),
+  categoryTitle,
+  "kolorowanka",
+  "do druku",
+  "darmowe",
+  "pdf",
+].join(", ");
 
 // Schema.org for Google Images
 const schema = {
   "@context": "https://schema.org",
   "@type": ["ImageObject", "CreativeWork"],
-  "name": title,
-  "description": description,
-  "contentUrl": new URL(assetItem.webp_large, Astro.site).href,
-  "thumbnailUrl": new URL(assetItem.webp_thumb, Astro.site).href,
-  "width": 1200,
-  "height": 1697,
-  "license": new URL('/polityka-prywatnosci', Astro.site).href,
-  "author": {
+  name: title,
+  description: description,
+  contentUrl: new URL(assetItem.webp_large, Astro.site).href,
+  thumbnailUrl: new URL(assetItem.webp_thumb, Astro.site).href,
+  width: 1200,
+  height: 1697,
+  license: new URL("/polityka-prywatnosci", Astro.site).href,
+  author: {
     "@type": "Organization",
-    "name": "Zamaluj.pl",
-    "url": Astro.site,
+    name: "Zamaluj.pl",
+    url: Astro.site,
   },
-  "keywords": keywords,
-  "isFamilyFriendly": "true",
-  "creator": {
+  keywords: keywords,
+  isFamilyFriendly: "true",
+  creator: {
     "@type": "Organization",
-    "name": "Zamaluj.pl"
+    name: "Zamaluj.pl",
   },
-  "creditText": "Zamaluj.pl",
-  "copyrightNotice": `© ${new Date().getFullYear()} Zamaluj.pl. Wszelkie prawa zastrzeżone.`,
-  "acquireLicensePage": new URL('/polityka-prywatnosci', Astro.site).href,
+  creditText: "Zamaluj.pl",
+  copyrightNotice: `© ${new Date().getFullYear()} Zamaluj.pl. Wszelkie prawa zastrzeżone.`,
+  acquireLicensePage: new URL("/polityka-prywatnosci", Astro.site).href,
 };
 ---
 
@@ -99,7 +113,9 @@ const schema = {
       <li>{image.title}</li>
     </ul>
   </nav>
-  <h1 class="text-3xl sm:text-4xl font-bold tracking-tight mt-4 mb-4 text-base-content text-center px-2 sm:px-4">
+  <h1
+    class="text-3xl sm:text-4xl font-bold tracking-tight mt-4 mb-4 text-base-content text-center px-2 sm:px-4"
+  >
     {pageTitle}
   </h1>
   <div
@@ -129,10 +145,23 @@ const schema = {
       Drukuj obrazek
     </button>
     <div role="alert" class="alert alert-info mt-4 hidden md:hidden">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="stroke-current shrink-0 w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-        <span>Po naciśnięciu guzika 'Drukuj', strona otworzy się w nowej karcie. Aby wydrukować, wybierz opcję 'Udostępnij' (lub podobną) i 'Drukuj'.</span>
-      </div>
-
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        class="stroke-current shrink-0 w-6 h-6"
+        ><path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+        ></path></svg
+      >
+      <span
+        >Po naciśnięciu guzika 'Drukuj', strona otworzy się w nowej karcie. Aby
+        wydrukować, wybierz opcję 'Udostępnij' (lub podobną) i 'Drukuj'.</span
+      >
+    </div>
   </div>
   {
     seeAlsoImages.length > 0 && (
@@ -140,7 +169,10 @@ const schema = {
         <h2 class="text-2xl font-bold mb-4">Zobacz Także</h2>
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 w-full">
           {seeAlsoImages.map((img) => (
-            <a href={`/${Astro.params.category_slug}/${img.slug}/`} class="block">
+            <a
+              href={`/${Astro.params.category_slug}/${img.slug}/`}
+              class="block"
+            >
               <img
                 src={`/assets/${assetKey}/${img.key}-350.webp`}
                 alt={img.title}
@@ -167,32 +199,35 @@ const schema = {
       // Disable button and show spinner
       button.disabled = true;
       const originalContent = button.innerHTML;
-      button.innerHTML = '<span class="loading loading-spinner"></span> Czekaj...';
+      button.innerHTML =
+        '<span class="loading loading-spinner"></span> Czekaj...';
 
       const isMobile = /Mobi|Android|iPhone/i.test(navigator.userAgent);
 
       if (isMobile) {
-        window.open(pdfUrl, '_blank');
+        window.open(pdfUrl, "_blank");
         button.disabled = false;
         button.innerHTML = originalContent;
         return;
       }
 
-      const printFrame = document.createElement('iframe');
-      printFrame.style.display = 'none';
+      const printFrame = document.createElement("iframe");
+      printFrame.style.display = "none";
       printFrame.src = pdfUrl;
       document.body.appendChild(printFrame);
 
       // Give the PDF time to load, then try to print.
-      setTimeout(function() {
+      setTimeout(function () {
         try {
           printFrame.contentWindow.focus();
           printFrame.contentWindow.print();
         } catch (e) {
           console.error("Failed to print PDF via iframe:", e);
           // Fallback for browsers that block cross-frame printing
-          alert("Nie udało się automatycznie otworzyć okna drukowania. PDF otworzy się w nowej karcie, gdzie można go wydrukować ręcznie.");
-          window.open(pdfUrl, '_blank');
+          alert(
+            "Nie udało się automatycznie otworzyć okna drukowania. PDF otworzy się w nowej karcie, gdzie można go wydrukować ręcznie.",
+          );
+          window.open(pdfUrl, "_blank");
         } finally {
           // Restore button state immediately so the user can try again if needed.
           button.disabled = false;
@@ -207,4 +242,4 @@ const schema = {
       trackEvent();
     });
   </script>
-// Force rebuild Tue Feb 17 12:34:43 CET 2026
+</BaseLayout>
