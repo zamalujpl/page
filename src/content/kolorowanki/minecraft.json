@@ -728,6 +728,42 @@
       "slug": "trojglowy-wither-strzelajacy-wybuchowymi-czaszkami",
       "title": "Trójgłowy Wither strzelający wybuchowymi czaszkami",
       "description": "Trójgłowy Wither strzelający wybuchowymi czaszkami w stronę uciekającej Alex."
+    },
+    {
+      "key": "bat_flying",
+      "slug": "nietoperz-z-minecrafta-lecacy-z-rozpostartymi-szeroko-skrzydlami",
+      "title": "Nietoperz z Minecrafta lecący z rozpostartymi szeroko skrzydłami",
+      "description": "Nietoperz z Minecrafta lecący z rozpostartymi szeroko skrzydłami"
+    },
+    {
+      "key": "bee_flying",
+      "slug": "pszczola-z-minecrafta-lecaca-i-machajaca-skrzydelkami-w-poszukiwaniu-kwiatow",
+      "title": "Pszczoła z Minecrafta lecąca i machająca skrzydełkami w poszukiwaniu kwiatów",
+      "description": "Pszczoła z Minecrafta lecąca i machająca skrzydełkami w poszukiwaniu kwiatów"
+    },
+    {
+      "key": "guardian_classic",
+      "slug": "straznik-guardian-z-minecrafta-plynacy-z-wysunietymi-groznie-kolcami",
+      "title": "Strażnik (Guardian) z Minecrafta płynący z wysuniętymi groźnie kolcami",
+      "description": "Strażnik (Guardian) z Minecrafta płynący z wysuniętymi groźnie kolcami"
+    },
+    {
+      "key": "guardian_small",
+      "slug": "maly-straznik-baby-guardian-z-minecrafta-wesolo-plynacy-pod-woda",
+      "title": "Mały Strażnik (Baby Guardian) z Minecrafta wesoło płynący pod wodą",
+      "description": "Mały Strażnik (Baby Guardian) z Minecrafta wesoło płynący pod wodą"
+    },
+    {
+      "key": "hoglin_large",
+      "slug": "duzy-hoglin-z-minecrafta-z-poteznymi-klami-i-najezonymi-wlosami-na-grzbiecie",
+      "title": "Duży Hoglin z Minecrafta z potężnymi kłami i najeżonymi włosami na grzbiecie",
+      "description": "Duży Hoglin z Minecrafta z potężnymi kłami i najeżonymi włosami na grzbiecie"
+    },
+    {
+      "key": "villager_arms_folded",
+      "slug": "wiesniak-villager-z-minecrafta-stojacy-w-klasycznej-pozie-z-zalozonymi-rekami",
+      "title": "Wieśniak (Villager) z Minecrafta stojący w klasycznej pozie z założonymi rękami",
+      "description": "Wieśniak (Villager) z Minecrafta stojący w klasycznej pozie z założonymi rękami"
     }
   ],
   "asset_key": "minecraft"

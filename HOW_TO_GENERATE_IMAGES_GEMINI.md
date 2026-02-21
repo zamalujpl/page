@@ -18,7 +18,20 @@ Example output { "description": "a wise wizard casting a glowing spell from his 
 
 The output should be a JSON array of objects, where each object has a `description`, `filename`, and `category`.
 
-## Step 2: Copy the Ideas to Local Storage and Initialize State
+## Step 2: Save Polish Descriptions for Website
+
+Before proceeding to image generation, ensure you have the Polish versions of the descriptions. These should be appended to the local processing queue file.
+
+**File Path:** `private/assets/to_process/descriptions.json`
+
+Ask the agent to:
+1. Read the current content of `private/assets/to_process/descriptions.json`.
+2. Append the new image objects (with Polish descriptions) to the array.
+3. Save the updated file.
+
+This ensures the website will have the correct titles and metadata once the images are downloaded and processed.
+
+## Step 3: Copy the Ideas to Local Storage and Initialize State
 
 Once you have the list of image ideas, you need to copy it to your browser's local storage and correctly initialize the script's state.
 
@@ -152,7 +165,7 @@ localStorage.setItem("imageState", "awaiting_prompt_insertion");
 localStorage.setItem("extractedImageUrls", JSON.stringify([]));
 ```
 
-## Step 3: Run the Automation Script
+## Step 4: Run the Automation Script
 
 Copy the entire content of the file `scripts/gemini_automation.js` into your browser's developer console and run it.
 
@@ -167,15 +180,15 @@ This script will:
 
 **Continue this two-click process (click 'D', hit Enter, click 'D') until the script announces "Image queue is empty. All images processed." and prints the final JSON array of collected image data.**
 
-## Step 4: Final Bulk Download
+## Step 5: Final Bulk Download
 
 Once the image queue is empty and the script prints the `extractedImageUrls` JSON array to your console, copy that entire JSON output and provide it to the agent. The agent will then write and execute a Python script to download all the collected images to their correct locations.
 
-## Step 5: Next Steps (Processing Images)
+## Step 6: Next Steps (Processing Images)
 
 Once all images are downloaded, you will need to move them to the correct `public/assets/<category_name>/` directories and process them (e.g., convert to SVG, WebP, PDF) using the project's scripts.
 
-## Step 6: Generating Category Header Assets
+## Step 7: Generating Category Header Assets
 
 Each category needs a `header.png` generated from three source images: `outline.png` (the original B&W), `pencil.png`, and `paint.png`. Use the following prompts with Gemini by uploading the `outline.png` file first.
 

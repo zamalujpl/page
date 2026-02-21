@@ -266,6 +266,14 @@
         "webp_large": "assets/animals/zebra_savannah-1200.webp",
         "webp_thumb": "assets/animals/zebra_savannah-350.webp",
         "pdf_file": "assets/animals/zebra_savannah.pdf"
+      },
+      {
+        "key": "test_image",
+        "file": "assets/animals/test_image.svg",
+        "description": "",
+        "webp_large": "assets/animals/test_image-1200.webp",
+        "webp_thumb": "assets/animals/test_image-350.webp",
+        "pdf_file": "assets/animals/test_image.pdf"
       }
     ]
   },
@@ -3069,7 +3077,7 @@
       {
         "key": "elder_guardian",
         "file": "assets/minecraft/elder_guardian.svg",
-        "description": "",
+        "description": "Starszy Strażnik (Elder Guardian) z Minecrafta z wielkim centralnym okiem i licznymi kolcami.",
         "webp_large": "assets/minecraft/elder_guardian-1200.webp",
         "webp_thumb": "assets/minecraft/elder_guardian-350.webp",
         "pdf_file": "assets/minecraft/elder_guardian.pdf"
@@ -3149,7 +3157,7 @@
       {
         "key": "glow_squid",
         "file": "assets/minecraft/glow_squid.svg",
-        "description": "",
+        "description": "Świecąca meduza (Glow Squid) z Minecrafta z charakterystycznymi świecącymi plamkami i mackami.",
         "webp_large": "assets/minecraft/glow_squid-1200.webp",
         "webp_thumb": "assets/minecraft/glow_squid-350.webp",
         "pdf_file": "assets/minecraft/glow_squid.pdf"
@@ -3865,6 +3873,54 @@
         "webp_large": "assets/minecraft/wither_alex_attack-1200.webp",
         "webp_thumb": "assets/minecraft/wither_alex_attack-350.webp",
         "pdf_file": "assets/minecraft/wither_alex_attack.pdf"
+      },
+      {
+        "key": "bat_flying",
+        "file": "assets/minecraft/bat_flying.svg",
+        "description": "Nietoperz z Minecrafta lecący z rozpostartymi szeroko skrzydłami.",
+        "webp_large": "assets/minecraft/bat_flying-1200.webp",
+        "webp_thumb": "assets/minecraft/bat_flying-350.webp",
+        "pdf_file": "assets/minecraft/bat_flying.pdf"
+      },
+      {
+        "key": "bee_flying",
+        "file": "assets/minecraft/bee_flying.svg",
+        "description": "Pszczoła z Minecrafta lecąca i machająca skrzydełkami w poszukiwaniu kwiatów.",
+        "webp_large": "assets/minecraft/bee_flying-1200.webp",
+        "webp_thumb": "assets/minecraft/bee_flying-350.webp",
+        "pdf_file": "assets/minecraft/bee_flying.pdf"
+      },
+      {
+        "key": "guardian_classic",
+        "file": "assets/minecraft/guardian_classic.svg",
+        "description": "Strażnik (Guardian) z Minecrafta płynący z wysuniętymi groźnie kolcami.",
+        "webp_large": "assets/minecraft/guardian_classic-1200.webp",
+        "webp_thumb": "assets/minecraft/guardian_classic-350.webp",
+        "pdf_file": "assets/minecraft/guardian_classic.pdf"
+      },
+      {
+        "key": "guardian_small",
+        "file": "assets/minecraft/guardian_small.svg",
+        "description": "Mały Strażnik (Baby Guardian) z Minecrafta wesoło płynący pod wodą.",
+        "webp_large": "assets/minecraft/guardian_small-1200.webp",
+        "webp_thumb": "assets/minecraft/guardian_small-350.webp",
+        "pdf_file": "assets/minecraft/guardian_small.pdf"
+      },
+      {
+        "key": "hoglin_large",
+        "file": "assets/minecraft/hoglin_large.svg",
+        "description": "Duży Hoglin z Minecrafta z potężnymi kłami i najeżonymi włosami na grzbiecie.",
+        "webp_large": "assets/minecraft/hoglin_large-1200.webp",
+        "webp_thumb": "assets/minecraft/hoglin_large-350.webp",
+        "pdf_file": "assets/minecraft/hoglin_large.pdf"
+      },
+      {
+        "key": "villager_arms_folded",
+        "file": "assets/minecraft/villager_arms_folded.svg",
+        "description": "Wieśniak (Villager) z Minecrafta stojący w klasycznej pozie z założonymi rękami.",
+        "webp_large": "assets/minecraft/villager_arms_folded-1200.webp",
+        "webp_thumb": "assets/minecraft/villager_arms_folded-350.webp",
+        "pdf_file": "assets/minecraft/villager_arms_folded.pdf"
       }
     ]
   },
